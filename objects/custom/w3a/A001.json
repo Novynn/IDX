@@ -13,7 +13,7 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "200",
+            "value": "60",
             "variation": 1
         },
         {
@@ -27,14 +27,14 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": "10",
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": "10",
             "variation": 1
         },
         {
@@ -60,6 +60,13 @@
         },
         {
             "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "human",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "areq",
             "type": 3,
             "value": "",
@@ -76,7 +83,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Creates a barrier that stops 150 points of spell damage from affecting a target unit. |nLasts 5 seconds.",
+            "value": "Creates a barrier that stops 150 points of spell damage from affecting a target unit. |nLasts 10 seconds.",
             "variation": 1
         },
         {
