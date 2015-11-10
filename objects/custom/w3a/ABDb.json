@@ -1,0 +1,41 @@
+{
+    "base": "AIrm",
+    "id": "ABDb",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Imrp",
+            "type": 2,
+            "value": "0.0199999996",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "BonusMod - Mana Regen Percent",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(+002%)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -251,18 +251,18 @@ endglobals
     
     //                                    |     NAME     |ABILITY|SOURCE |PREFIX|FIELD  | HERO   |  ICON
     //                                    |              | COUNT |ABILITY|      |       |  ONLY  |
-    //! runtextmacro BonusMod_DeclareBonus("ARMOR",        "10",  "AId1", "&BA", "Idef", "false", "BTNHumanArmorUpOne.blp")
-    //! runtextmacro BonusMod_DeclareBonus("DAMAGE",       "10",  "AItg", "&BB", "Iatt", "false", "BTNSteelMelee.blp")
-    //! runtextmacro BonusMod_DeclareBonus("SIGHT_RANGE",  "11",  "AIsi", "&BC", "Isib", "false", "BTNTelescope.blp")
-    //! runtextmacro BonusMod_DeclareBonus("LIFE_REGEN",   "8",   "Arel", "&BE", "Ihpr", "false", "BTNRingSkull.blp")
-    //! runtextmacro BonusMod_DeclareBonus("STRENGTH",     "8",   "AIa1", "&BF", "Istr", "true" , "BTNGoldRing.blp")
-    //! runtextmacro BonusMod_DeclareBonus("AGILITY",      "8",   "AIa1", "&BG", "Iagi", "true" , "BTNGoldRing.blp")
-    //! runtextmacro BonusMod_DeclareBonus("INTELLIGENCE", "8",   "AIa1", "&BH", "Iint", "true" , "BTNGoldRing.blp")
+    //! runtextmacro BonusMod_DeclareBonus("ARMOR",        "10",  "AId1", "ABA", "Idef", "false", "BTNHumanArmorUpOne.blp")
+    //! runtextmacro BonusMod_DeclareBonus("DAMAGE",       "10",  "AItg", "ABB", "Iatt", "false", "BTNSteelMelee.blp")
+    //! runtextmacro BonusMod_DeclareBonus("SIGHT_RANGE",  "11",  "AIsi", "ABC", "Isib", "false", "BTNTelescope.blp")
+    //! runtextmacro BonusMod_DeclareBonus("LIFE_REGEN",   "8",   "Arel", "ABE", "Ihpr", "false", "BTNRingSkull.blp")
+    //! runtextmacro BonusMod_DeclareBonus("STRENGTH",     "8",   "AIa1", "ABF", "Istr", "true" , "BTNGoldRing.blp")
+    //! runtextmacro BonusMod_DeclareBonus("AGILITY",      "8",   "AIa1", "ABG", "Iagi", "true" , "BTNGoldRing.blp")
+    //! runtextmacro BonusMod_DeclareBonus("INTELLIGENCE", "8",   "AIa1", "ABH", "Iint", "true" , "BTNGoldRing.blp")
     
     //                                           |     NAME          |ABILITY|SOURCE |PREFIX|FIELD  |HERO   |  ICON
     //                                           |                   | COUNT |ABILITY|      |       | ONLY  |
-    //! runtextmacro BonusMod_DeclarePercentBonus("ATTACK_SPEED",       "9", "AIsx",  "&BI", "Isx1", "false", "BTNGlove.blp")
-    //! runtextmacro BonusMod_DeclarePercentBonus("MANA_REGEN_PERCENT", "9", "AIrm",  "&BD", "Imrp", "false", "BTNSobiMask.blp")
+    //! runtextmacro BonusMod_DeclarePercentBonus("ATTACK_SPEED",       "9", "AIsx",  "ABI", "Isx1", "false", "BTNGlove.blp")
+    //! runtextmacro BonusMod_DeclarePercentBonus("MANA_REGEN_PERCENT", "9", "AIrm",  "ABD", "Imrp", "false", "BTNSobiMask.blp")
     
 //! runtextmacro BonusMod_EndBonuses()
 
@@ -300,8 +300,9 @@ endglobals
     //! i         makechange(current, "Istr", 1, 0)
     //! i     end
     //! i end
-    //! i function CreateAbility(sourceAbility, prefix, field, abilityCount, name, icon)
+    //! i function CreateAbility(sourceAbility, prefix, field, abilityCount, name, icon, hero)
     //! i     powOf2 = abilityCount - 1
+	//! i     isHero = (hero == "true")
     //! i     lengthOfMax = string.len(tostring(2^abilityCount))
     //! i     for i = 0, powOf2 do
     //! i         padding = ""
@@ -309,11 +310,11 @@ endglobals
     //! i             padding = padding .. "0"
     //! i         end
     //! i         createobject(sourceAbility, prefix .. string.sub(chars, i + 1, i + 1))
-    //! i         SetupAbility(name, "+" .. padding .. tostring(2 ^ i), icon, true)
+    //! i         SetupAbility(name, "+" .. padding .. tostring(2 ^ i), icon, isHero)
     //! i         makechange(current, field, 1, tostring(2^i))
     //! i     end
     //! i     createobject(sourceAbility, prefix .. "z")
-    //! i     SetupAbility(name, "-" .. tostring(2 ^ abilityCount), icon, true)
+    //! i     SetupAbility(name, "-" .. tostring(2 ^ abilityCount), icon, isHero)
     //! i     makechange(current, field, 1, tostring(-(2^abilityCount)))
     //! i end
     //! i function CreatePercentageAbility(sourceAbility, prefix, field, abilityCount, name, icon)
@@ -339,7 +340,7 @@ endglobals
 //! endtextmacro
 
 //! textmacro BonusMod_DeclareBonus takes NAME, ABILITY_COUNT, SOURCE_ABILITY, RAWCODE_PREFIX, FIELD, HERO_ONLY, ICON
-    ///! i CreateAbility("$SOURCE_ABILITY$", "$RAWCODE_PREFIX$", "$FIELD$", $ABILITY_COUNT$, "$NAME$", "$ICON$")
+    ///! i CreateAbility("$SOURCE_ABILITY$", "$RAWCODE_PREFIX$", "$FIELD$", $ABILITY_COUNT$, "$NAME$", "$ICON$", "$HERO_ONLY$")
     globals
         Bonus BONUS_$NAME$
     endglobals

@@ -244,7 +244,7 @@ library BubonicusNuke requires GameTimer, GT, xebasic, xepreload, UnitStatus, Ta
         
         public static method onSetup(){
             trigger t = CreateTrigger();
-            GT_RegisterBeginsChannelingEvent(t, thistype.ABILITY_ID);
+            GT_RegisterBeginsCastingEvent(t, thistype.ABILITY_ID);
             TriggerAddCondition(t, Condition(function() -> boolean {
                 thistype.onCast();
                 return false;

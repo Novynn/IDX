@@ -1,0 +1,55 @@
+{
+    "base": "AIa1",
+    "id": "ABFe",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Iagi",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Istr",
+            "type": 0,
+            "value": "16",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGoldRing.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "BonusMod - Strength",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(+016)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}
