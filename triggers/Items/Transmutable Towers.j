@@ -116,6 +116,20 @@ library Transmute requires CreateItemEx {
             
             return false;
         }));
+		 t = CreateTrigger();
+        TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_UPGRADE_START);
+        TriggerAddCondition(t, Condition(function() -> boolean {
+            unit u = GetTriggerUnit();
+			integer id = GetUnitTypeId(u);
+            integer i = whichItem(id);
+			
+            if (i != 0){
+				UnitSetUpgradeProgress(u, 99);
+            }
+            u = null;
+            
+            return false;
+        }));
         t = null;
     }
 }
