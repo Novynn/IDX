@@ -125,7 +125,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00Sypherious uses the power of the ocean in order to gain vision of the targeted unit.|r|n|n|cff1e90ffGrants you the vision of the targeted enemy unit you cast it on. This allows you to see them even if they become invisible.|nUnit-Targeted -- 30 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00Sypherious uses the power of the ocean in order to gain vision of the targeted unit.|r|n|n|cff1e90ffGrants you the vision of the targeted enemy unit you cast it on. This allows you to see them even if they become invisible.|n|nUnit-Targeted - 30 second cooldown.|r",
             "variation": 1
         },
         {

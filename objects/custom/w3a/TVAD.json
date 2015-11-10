@@ -118,7 +118,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00Voltron uses electricity in the atmosphere in order to reveal hidden units.|r|n|n|cff1e90ffReveals enemy invisible units in a huge area around Voltron for 16 seconds.|nSelf-targeted -- 30 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00The Titan uses electricity in the atmosphere in order to reveal hidden units.|r|n|n|cff1e90ffReveals enemy invisible units in a huge area around the Titan for 16 seconds.|n|nSelf-Targeted - 30 second cooldown.|r",
             "variation": 1
         },
         {

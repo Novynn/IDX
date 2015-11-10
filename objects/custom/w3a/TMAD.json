@@ -153,7 +153,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cff1e90ffTemporarily summons an invulnerable Phoenix Scout, which can be used to scout the map. |nCan see invisible units. |nActivated - 60 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cff1e90ffSummons a temporary, invulnerable Phoenix Scout that can see invisible units.|n|nActivated - 60 second cooldown.|r",
             "variation": 1
         },
         {

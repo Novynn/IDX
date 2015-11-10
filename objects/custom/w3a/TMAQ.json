@@ -349,7 +349,7 @@
             "data": 0,
             "id": "arut",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Moltenious concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|r|n|n|cffffcc00Level 1|r - |cff1e90ffDamages the targeted unit by 130, and bounces to 4 other units within 600 range.|r|n|cffffcc00Level 2|r - |cff1e90ffDamages the targeted unit by 155, and bounces to 5 other units within 600 range.|r|n|cffffcc00Level 3|r - |cff1e90ffDamages the targeted unit by 180, and bounces to 6 other units within 600 range.|n|nUnit-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|r|n|n|cffffcc00Level 1|r - |cff1e90ffDamages the targeted unit by 130, and bounces to 4 other units within 600 range.|r|n|cffffcc00Level 2|r - |cff1e90ffDamages the targeted unit by 155, and bounces to 5 other units within 600 range.|r|n|cffffcc00Level 3|r - |cff1e90ffDamages the targeted unit by 180, and bounces to 6 other units within 600 range.|n|nUnit-Targeted - 10 second cooldown.|r",
             "variation": 0
         },
         {
@@ -412,21 +412,21 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Moltenious concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|n|r|n|cff1e90ffDamages the targeted unit by 130, and bounces to 4 other units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|n|r|n|cff1e90ffDamages the targeted unit by 130, and bounces to 4 other units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Moltenious concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|r|n|n|cff1e90ffDamages the targeted unit by 155, and bounces to 5 other units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|r|n|n|cff1e90ffDamages the targeted unit by 155, and bounces to 5 other units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
             "variation": 2
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Moltenious concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|r|n|n|cff1e90ffDamages the targeted unit by 180, and bounces to 6 units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|cff808080Sometimes, you have to play with fire no matter what your parents told you.|r|n|n|cff1e90ffDamages the targeted unit by 180, and bounces to 6 units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
             "variation": 3
         },
         {

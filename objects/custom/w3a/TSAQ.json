@@ -321,7 +321,7 @@
             "data": 0,
             "id": "arut",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Sypherious releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cffffcc00Level 1|r - |cff1e90ffSends a wave out in a cone shape with a range of 400, and maximum radius of 240, that deals 130 damage to units caught inside.|r|n|cffffcc00Level 2|r - |cff1e90ffSends a wave out in a cone shape with a range of 450, and maximum radius of 240, that deals 155 damage to units caught inside.|r|n|cffffcc00Level 3|r - |cff1e90ffSends a wave out in a cone shape with a range of 500, and maximum radius of 240, that deals 180 damage to units caught inside.|n|nPoint-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cffffcc00Level 1|r - |cff1e90ffSends a wave out in a cone shape with a range of 400, and maximum radius of 240, that deals 130 damage to units caught inside.|r|n|cffffcc00Level 2|r - |cff1e90ffSends a wave out in a cone shape with a range of 450, and maximum radius of 240, that deals 155 damage to units caught inside.|r|n|cffffcc00Level 3|r - |cff1e90ffSends a wave out in a cone shape with a range of 500, and maximum radius of 240, that deals 180 damage to units caught inside.|n|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 0
         },
         {
@@ -384,21 +384,21 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Sypherious releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 500, and maximum radius of 240, that deals 130 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 500, and maximum radius of 240, that deals 130 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Sypherious releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 550, and maximum radius of 240, that deals 155 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 550, and maximum radius of 240, that deals 155 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 2
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Sypherious releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 600, and maximum radius of 240, that deals 180 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080There's no surfing this wave.|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 600, and maximum radius of 240, that deals 180 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 3
         },
         {
