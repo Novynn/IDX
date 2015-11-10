@@ -51,6 +51,10 @@ library HCLSystem requires IslandDefenseSystem, HCL, StringLib {
                 GameSettings.setBool("MINION_FORCE_OBS", true);
                 Game.say("|cff00bfffMinions will be forced to observer automatically.|r");
             }
+			if (StringIndexOf(commands, "t", false) != STRING_INDEX_NONE){
+				GameSettings.setStr ("GAME_MODE", "IDT");
+                Game.say("|cff00bfffIsland Defense Tag Mode has been activated.|r");
+            }
         }
     }
 }

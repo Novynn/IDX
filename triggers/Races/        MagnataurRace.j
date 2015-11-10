@@ -23,13 +23,12 @@ library MagnataurRace requires Races {
         method difficulty() -> real {
             return 2.0;
         }
-        
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
+		
+		method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'n01J', -1);
             SetPlayerTechMaxAllowed(p, 'o02R', -1);
-            p = null;
-        }
+		}
         
         private static method create() -> thistype {
             return thistype.allocate();

@@ -174,6 +174,7 @@ library Races requires StringLib {
         method icon() -> string = "ReplaceableTextures\\CommandButtons\\BTNSelectHeroOn.blp";
 
         method onSpawn(unit u) = null;
+		method setupTech(player p) = null;
         
         method childId() -> integer = 0;
 		method isChildId(integer id) -> boolean;

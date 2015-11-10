@@ -133,10 +133,8 @@ library DemonicusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTa
             this.cast.destroy();
             this.cast = 0;
             this.damage.destroy();
-            this.damage.destroy();
             this.caster = null;
             this.castingPlayer = null;
-            debug { BJDebugMsg("DemonicusNuke.onDestroy " + I2S(this)); }
         }
         
         private static method onCast(){

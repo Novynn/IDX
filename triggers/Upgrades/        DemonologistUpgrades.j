@@ -151,13 +151,7 @@ library DemonologistUpgrades requires Upgrades, DefaultUpgrades, UnitManager, Un
 			Upgrades.begin("Empowered Talismans", "all");
 				Upgrades.addWithData('q137', function(unit u) -> boolean {
 					integer id = GetUnitTypeId(u);
-					DefenderRace r = thistype.demoRace;
-					if (r == 0) {
-						BJDebugMsg("|cffff0000ERROR - Failed to get DemonologistRace from DefenderRace.fromTypeId");
-						return false;
-					}
-					
-					return r.isWidgetId(id);
+					return thistype.demoRace.isWidgetId(id);
 				}, DefaultUpgrades.incrMaxMana, DefaultUpgrades.decrMaxMana, 250);
             Upgrades.end();
 

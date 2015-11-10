@@ -61,18 +61,8 @@
             "type": 0
         },
         {
-            "index": 5,
-            "name": "Generic Abilities",
-            "type": 0
-        },
-        {
             "index": 10,
             "name": "Titan Abilities",
-            "type": 0
-        },
-        {
-            "index": 9,
-            "name": "Bubonicus",
             "type": 0
         },
         {
@@ -114,6 +104,36 @@
             "initialState": 0,
             "isCustom": true,
             "name": "        Island Defense",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                DefaultDefenderDeath",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Island Defense Tag",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                TagDefenderDeath",
             "runOnInit": false,
             "type": 0
         },
@@ -1123,26 +1143,6 @@
             "index": 7,
             "initialState": 0,
             "isCustom": true,
-            "name": "        Aetherious",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 7,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "        Fossurious",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 7,
-            "initialState": 0,
-            "isCustom": true,
             "name": "        Pseudologos",
             "runOnInit": false,
             "type": 0
@@ -1154,6 +1154,26 @@
             "initialState": 0,
             "isCustom": true,
             "name": "        CustomRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Aetherious",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Fossurious",
             "runOnInit": false,
             "type": 0
         },
@@ -1509,7 +1529,7 @@
         },
         {
             "desc": "",
-            "enabled": true,
+            "enabled": false,
             "index": 2,
             "initialState": 0,
             "isCustom": true,
@@ -2798,6 +2818,66 @@
             "type": 0
         },
         {
+            "desc": "TODO: FIX THIS MOFO",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Bubonicus",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusUltimate",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusNukeMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusHealMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
             "desc": "",
             "enabled": true,
             "index": 10,
@@ -2833,6 +2913,26 @@
             "index": 10,
             "initialState": 0,
             "isCustom": true,
+            "name": "TerminusMinionNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TerminusMinionHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
             "name": "TerminusWarClub",
             "runOnInit": false,
             "type": 0
@@ -2864,66 +2964,6 @@
             "initialState": 0,
             "isCustom": true,
             "name": "Imbued Carapace",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 9,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "BubonicusNuke",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "TODO: FIX THIS MOFO",
-            "enabled": true,
-            "index": 9,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "Bubonicus",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 9,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "BubonicusHeal",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 9,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "BubonicusUltimate",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 9,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "BubonicusNukeMinion",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 9,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "BubonicusHealMinion",
             "runOnInit": false,
             "type": 0
         },

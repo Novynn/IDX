@@ -171,8 +171,6 @@ library Players requires Races, GetPlayerColored {
             PlayerData p = 0;
             PlayerData q = 0;
 
-            DefenderDeath.visionGlitchBegin();
-
             list = thistype.all();
             for (0 <= i < list.size()){
                 p = list[i];
@@ -210,9 +208,33 @@ library Players requires Races, GetPlayerColored {
                 }
             }
             PunishmentCentre.update();
-            DefenderDeath.visionGlitchEnd();
 
             list.destroy();
+        }
+		
+		public static method findTitanPlayer() -> thistype {
+            PlayerDataArray list = thistype.withClass(thistype.CLASS_TITAN);
+            thistype p = 0;
+            integer i = 0;
+            for (0 <= i < list.size()){
+                p = list[i];
+                // Found one...
+                break;
+            }
+            list.destroy();
+            return p;
+        }
+        public static method findMinionPlayer() -> thistype {
+            PlayerDataArray list = thistype.withClass(thistype.CLASS_MINION);
+            thistype p = 0;
+            integer i = 0;
+            for (0 <= i < list.size()){
+                p = list[i];
+                // Found one...
+                break;
+            }
+            list.destroy();
+            return p;
         }
 
         public static method clear(){
@@ -476,17 +498,23 @@ library Players requires Races, GetPlayerColored {
                 Game.onPlayerClassChange.execute(this);
             }
         }
-        
-        method setClass(integer class){
-            integer oldClass = mClass;
+		
+		method setClassEx(integer class, boolean forceAlliances) {
+			integer oldClass = mClass;
             mClass = class;
-            thistype.forceAlliances();
+			if (forceAlliances)
+				thistype.forceAlliances();
+				
             if (LIBRARY_ClassTweak){
                 PlayerDataName.update(); // Force class update
             }
             if (class != oldClass) {
                 Game.onPlayerClassChange.execute(this);
             }
+		}
+        
+        method setClass(integer class){
+            this.setClassEx(class, true);
         }
 
         method setInitialClass(integer class){

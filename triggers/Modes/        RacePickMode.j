@@ -172,64 +172,10 @@ library RacePickMode requires RacePicker, optional PerksSystem {
         
         public method onUnitCreationNormal(PlayerDataPick p) {
             integer delta = GetRandomInt(1, 40);
-            player q = p.player();
             unit u = p.unit().unit();
             
-            SetPlayerAbilityAvailable(q, 'Aro1', false); // Disable Root
-            SetPlayerState(q, PLAYER_STATE_GIVES_BOUNTY, 1); // Gives Bounty
-            SetPlayerTechMaxAllowed(q, 'HERO', 1); // Max one Hero
-			
-			// All of this Upgrade System shit should be moved somewhere else......................................................
-            SetPlayerTechMaxAllowed(q, 'h03R', 0); // Disable Troll's Workers
-            SetPlayerTechMaxAllowed(q, 'h005', 0); // Disable Goblin's Advanced Walls
-            SetPlayerTechMaxAllowed(q, 'o027', 0); // Disable Gnolls's Deadly Mega Axe Towers
-			SetPlayerTechMaxAllowed(q, 'o010', 0); // Disable Goblin's Enhanced Factories
-			SetPlayerTechMaxAllowed(q, 'o011', 0); // Disable Faerie's Enhanced Pools
-            SetPlayerTechMaxAllowed(q, 'R03B', 0); // Disable Additional HP
-			
-			SetPlayerTechMaxAllowed(q, 'o012', 0); // Disable Ogre's Enhanced Catapult
-			SetPlayerTechMaxAllowed(q, 'o019', 0); // Disable Ogre's Super Catapult
-			SetPlayerTechMaxAllowed(q, 'o01E', 0); // Disable Ogre's Mega Catapult
-			
-			SetPlayerTechMaxAllowed(q, 'o01Z', 0); // Disable Murloc's Mega Long Dart Tower
-			
-			// Disable True Strike spellbook
-			SetPlayerAbilityAvailable(q, '&tru', false);
-            
-            // Disable Ultimate Towers
-            SetPlayerTechMaxAllowed(q, 'e00Y', 0);
-            SetPlayerTechMaxAllowed(q, 'h00P', 0);
-            SetPlayerTechMaxAllowed(q, 'n01J', 0);
-            SetPlayerTechMaxAllowed(q, 'n01K', 0);
-            SetPlayerTechMaxAllowed(q, 'n01L', 0);
-            SetPlayerTechMaxAllowed(q, 'o003', 0);
-            SetPlayerTechMaxAllowed(q, 'o005', 0);
-            SetPlayerTechMaxAllowed(q, 'o006', 0);
-            SetPlayerTechMaxAllowed(q, 'o007', 0);
-            SetPlayerTechMaxAllowed(q, 'o00J', 0);
-            SetPlayerTechMaxAllowed(q, 'o00K', 0);
-            SetPlayerTechMaxAllowed(q, 'o00L', 0);
-            SetPlayerTechMaxAllowed(q, 'o00M', 0);
-            SetPlayerTechMaxAllowed(q, 'o00N', 0);
-            SetPlayerTechMaxAllowed(q, 'o00O', 0);
-            SetPlayerTechMaxAllowed(q, 'o00P', 0);
-            SetPlayerTechMaxAllowed(q, 'o00Q', 0);
-            SetPlayerTechMaxAllowed(q, 'o00R', 0);
-            SetPlayerTechMaxAllowed(q, 'o00S', 0);
-            SetPlayerTechMaxAllowed(q, 'o00T', 0);
-            SetPlayerTechMaxAllowed(q, 'o015', 0);
-            SetPlayerTechMaxAllowed(q, 'o016', 0);
-            SetPlayerTechMaxAllowed(q, 'o017', 0);
-            SetPlayerTechMaxAllowed(q, 'o01P', 0);
-            SetPlayerTechMaxAllowed(q, 'o01U', 0);
-            SetPlayerTechMaxAllowed(q, 'o01V', 0);
-            SetPlayerTechMaxAllowed(q, 'o01Y', 0);
-            SetPlayerTechMaxAllowed(q, 'o02A', 0);
-            SetPlayerTechMaxAllowed(q, 'o02E', 0);
-            SetPlayerTechMaxAllowed(q, 'o02P', 0);
-            SetPlayerTechMaxAllowed(q, 'o02Q', 0);
-            SetPlayerTechMaxAllowed(q, 'o02R', 0);
-            SetPlayerTechMaxAllowed(q, 'o03C', 0);
+			// Setup tech
+            DefenderUnit.prepare(p);
             
             if (GetUnitAbilityLevel(u, 'A013') > 0) {
                 // Set inventory level to 2, to fix a random bug where it wouldn't update

@@ -2,8 +2,10 @@
 //TESH.alwaysfold=0
 //! zinc
 
-library IslandDefenseGameMode requires IslandDefenseSystem {
+library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
     public struct IslandDefenseGameMode extends GameMode  {
+		module DefaultDefenderDeath;
+		
         public static method onInit() {
             thistype this = thistype.allocate();
             Game.register(this);
@@ -317,9 +319,8 @@ library IslandDefenseGameMode requires IslandDefenseSystem {
             // Start game over timer, forcing players to leave.
             Game.say("|cff00bfffThe game will end shortly.|r");
             GameTimer.newNamed(function(GameTimer t){
-                thistype this = t.data();
-                this.endGame();
-            }, "EndGameDelay").start(GameSettings.getReal("GAME_END_TIMER")).setData(this);
+                Game.endGame();
+            }, "EndGameDelay").start(GameSettings.getReal("GAME_END_TIMER"));
             return true;
         }
         

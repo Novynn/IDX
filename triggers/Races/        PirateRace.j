@@ -31,13 +31,12 @@ library PirateRace requires Races {
         method childItemId() -> integer {
             return 'q205'; // Hunter Research
         }
-        
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
+		
+		method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o02P', -1);
             SetPlayerTechMaxAllowed(p, 'o02Q', -1);
-            p = null;
-        }
+		}
         
         private static method create() -> thistype {
             return thistype.allocate();

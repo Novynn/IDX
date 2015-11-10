@@ -31,14 +31,13 @@ library MurlocRace requires Races {
         method childItemId() -> integer {
             return 'q088'; // Hunter Research
         }
-        
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
+		
+		method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o006', -1);
             SetPlayerTechMaxAllowed(p, 'o007', -1);
             SetPlayerTechMaxAllowed(p, 'o005', -1);
-            p = null;
-        }
+		}
         
         private static method create() -> thistype {
             return thistype.allocate();

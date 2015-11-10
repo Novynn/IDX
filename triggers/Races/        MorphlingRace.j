@@ -26,14 +26,16 @@ library MorphlingRace requires Races {
         method difficulty() -> real {
             return 2.0;
         }
-        
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
+		
+		method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o01V', -1);
             SetPlayerTechMaxAllowed(p, 'n01L', -1);
             SetPlayerTechMaxAllowed(p, 'o017', -1);
+		}
+        
+        method onSpawn(unit u) {
             //UnitMakeAbilityPermanent(u, true, 'A07G'); // <= NO! BAD NECO
-            p = null;
         }
         
         private static method create() -> thistype {

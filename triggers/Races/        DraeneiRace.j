@@ -35,13 +35,15 @@ library DraeneiRace requires Races {
         method childItemId() -> integer {
             return 'q135'; // Hunter Research
         }
-        
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
-            IssueImmediateOrderById(u, 852589);     // Draenei Mana Shield
+		
+		method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o02A', -1);
             SetPlayerTechMaxAllowed(p, 'o02E', -1);
-            p = null;
+		}
+        
+        method onSpawn(unit u) {
+            IssueImmediateOrderById(u, 852589);     // Draenei Mana Shield
         }
         
         private static method create() -> thistype {

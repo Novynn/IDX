@@ -27,7 +27,7 @@ library MinionUnit requires Unit, UnitStatus {
             return this.mOwner;
         }
         
-        private static method grace(MinionUnit u){
+        public static method grace(Unit u){
             unit v = u.unit();
             real time = GameSettings.getReal("MINION_GRACE_TIME");
             if (v == null) return; // Sanity check
@@ -36,7 +36,7 @@ library MinionUnit requires Unit, UnitStatus {
             UnitAddAbility(v, '&noa'); // Disable attack
             
             GameTimer.newNamed(function(GameTimer t){
-                MinionUnit u = t.data();
+                Unit u = t.data();
                 // Check to make sure it hasn't already been removed via punishing
 				if (GetUnitAbilityLevel(u.unit(), '&noa') > 0) {
 					SetUnitInvulnerable(u.unit(), false);

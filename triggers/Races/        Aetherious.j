@@ -2,11 +2,11 @@
 //TESH.alwaysfold=0
 //! zinc
 
-library AetheriousRace requires Races, CurrentTap {
+library AetheriousRace requires Races, StringLib {
     public struct AetheriousRace extends TitanRace {
 		string name = "Aetherious";
         method toString() -> string {
-            return name;
+            return this.name;
         }
         
         method widgetId() -> integer {
@@ -31,7 +31,11 @@ library AetheriousRace requires Races, CurrentTap {
 		
 		method onSpawn(unit u) {
 			CustomTitanRace.setBaseAbilities(u, this.toString());
-			name = GetHeroProperName(u);
+			
+			// Fancy name switch
+			if (StringIndexOf(GetHeroProperName(u), "Bree", false) != STRING_INDEX_NONE) {
+				this.name = "Breezerious";
+			}
 		}
         
         method inRandomPool() -> boolean {

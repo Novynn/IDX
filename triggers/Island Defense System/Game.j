@@ -106,7 +106,7 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
             
             GameTimer.new(function(GameTimer t) {
                 Game.say("|cffffcc00[|r|cffff0000GAME INITIALIZING...|r|cffffcc00]|r");
-                thistype.setMode(thistype["ID"]);
+                thistype.setMode(thistype[GameSettings.getStr ("GAME_MODE")]);
                 // Load HCL settings!
                 HCLSystem.setup();
 				
@@ -305,6 +305,11 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
         method checkVictory() -> boolean;
         method playerResult(PlayerData p) -> integer;
         method endGame();
+		
+		method onDefenderDeath(DefenderUnit u, unit killer) = null;
+		method onHunterDeath() = null;
+		method onTitanDeath() = null;
+		method onMinionDeath() = null;
     }
     
     private function onInit(){

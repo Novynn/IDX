@@ -23,9 +23,13 @@ library TaurenRace requires Races {
         method difficulty() -> real {
             return 2.0;
         }
+		
+		method setupTech(player p) {
+			// Ultimate Towers
+            SetPlayerTechMaxAllowed(p, 'o01U', -1);
+		}
 
         method onSpawn(unit u){
-            player p = GetOwningPlayer(u);
             SelectHeroSkill(u, 'A0AD' );                // Ancestral
             UnitMakeAbilityPermanent(u, true, 'A0AE');  // Spellbook
             UnitMakeAbilityPermanent(u, true, 'A0AR');
@@ -39,9 +43,6 @@ library TaurenRace requires Races {
             UnitMakeAbilityPermanent(u, true, 'A0BD');
             UnitMakeAbilityPermanent(u, true, 'A0D2');
             UnitMakeAbilityPermanent(u, true, 'A0AG');
-            
-            SetPlayerTechMaxAllowed(p, 'o01U', -1);
-            p = null;
         }
         
         private static method create() -> thistype {

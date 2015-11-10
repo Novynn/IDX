@@ -36,14 +36,14 @@ library FaerieRace requires Races {
             return 'q129'; // Hunter Research
         }
         
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
+        method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o017', -1);
             SetPlayerTechMaxAllowed(p, 'o01P', -1);
             SetPlayerTechMaxAllowed(p, 'o00O', -1);
-			
-            SetPlayerTechMaxAllowed(p, 'A00R', -1);
-			
+		}
+		
+        method onSpawn(unit u) {
 			UnitMakeAbilityPermanent(u, true, 'A0A4');
 			UnitMakeAbilityPermanent(u, true, 'A05K');
 			UnitMakeAbilityPermanent(u, true, 'A0A0');
@@ -54,7 +54,6 @@ library FaerieRace requires Races {
 			UnitMakeAbilityPermanent(u, true, 'A07C');
 			UnitMakeAbilityPermanent(u, true, 'A0AA');
 			UnitMakeAbilityPermanent(u, true, 'A09Y');
-            p = null;
         }
         
         private static method create() -> thistype {

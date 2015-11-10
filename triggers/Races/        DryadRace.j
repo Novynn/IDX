@@ -31,14 +31,13 @@ library DryadRace requires Races {
         method childItemId() -> integer {
             return 'q216'; // Hunter Research
         }
-        
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
+		
+        method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o00S', -1);
             SetPlayerTechMaxAllowed(p, 'o03C', -1);
             SetPlayerTechMaxAllowed(p, 'o00Q', -1);
-            p = null;
-        }
+		}
         
         private static method create() -> thistype {
             return thistype.allocate();

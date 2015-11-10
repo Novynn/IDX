@@ -35,15 +35,14 @@ library OgreRace requires Races {
         method childItemId() -> integer {
             return 'q126'; // Hunter Research
         }
-        
-        method onSpawn(unit u) {
-            player p = GetOwningPlayer(u);
+		
+		method setupTech(player p) {
+			// Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o01Y', -1);
             SetPlayerTechMaxAllowed(p, 'o016', -1);
             SetPlayerTechMaxAllowed(p, 'o003', -1);
             SetPlayerTechMaxAllowed(p, 'h00P', -1);
-            p = null;
-        }
+		}
         
         private static method create() -> thistype {
             return thistype.allocate();

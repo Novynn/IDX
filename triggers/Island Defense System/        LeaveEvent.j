@@ -17,10 +17,28 @@ library LeaveEvent requires IslandDefenseSystem {
             if (!p.isLeaving() || p.hasLeft()) return;
             Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed.|r");
             GameTimer.new(function(GameTimer t){
+				PlayerDataArray list = 0;
+				integer i = 0;
+				integer bonus = 0;
                 PlayerData p = t.data();
+				PlayerData q = 0;
                 // Exit out if they're already gone
                 if (!p.isLeaving() || p.hasLeft()) return;
                 Game.say(p.nameColored() + "|cff00bfff's units have been removed.|r");
+				// Grant the Titan an extra bonus!
+				if (GameSettings.getBool("TITAN_BONUS_ON_DEFENDER_LEAVE")) {
+					list = PlayerData.withClass(PlayerData.CLASS_TITAN);
+					bonus = GameSettings.getInt ("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD");
+					for (0 <= i < list.size()){
+						q = list[i];
+                        if (q != 0){
+                            q.setGold(q.gold() + bonus);
+                        }
+                    }
+					list.destroy();
+					list = 0;
+				}
+				
                 UnitManager.removePlayerUnits(p);
                 p.left();
             }).start(30.00).setData(p);
@@ -187,12 +205,27 @@ library LeaveEvent requires IslandDefenseSystem {
             p.say("Testing resources!");
         });
         
-        Command["-fkick"].register(function(Args a){
+        Command["-ftkick"].register(function(Args a){
             PlayerData p = PlayerData.get(GetTriggerPlayer());
             PlayerDataArray list = 0;
             integer i = 0;
             if (!GameSettings.getBool("DEBUG")) return;
             list = PlayerData.withClass(PlayerData.CLASS_TITAN);
+            for (0 <= i < list.size()){
+                if (list[i] != p){
+                    RemovePlayer(list.at(i).player(), PLAYER_GAME_RESULT_DEFEAT);
+                    break;
+                }
+            }
+            list.destroy();
+        });
+		
+		Command["-fdkick"].register(function(Args a){
+            PlayerData p = PlayerData.get(GetTriggerPlayer());
+            PlayerDataArray list = 0;
+            integer i = 0;
+            if (!GameSettings.getBool("DEBUG")) return;
+            list = PlayerData.withClass(PlayerData.CLASS_DEFENDER);
             for (0 <= i < list.size()){
                 if (list[i] != p){
                     RemovePlayer(list.at(i).player(), PLAYER_GAME_RESULT_DEFEAT);

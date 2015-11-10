@@ -31,6 +31,10 @@ library FurbolgRace requires Races {
         method difficulty() -> real {
             return 3.0;
         }
+		
+		method setupTech(player p) {
+			// Ultimate Towers
+		}
         
         private static method create() -> thistype {
             return thistype.allocate();

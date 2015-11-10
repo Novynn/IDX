@@ -48,7 +48,41 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			}
 		}
 		
+		// NOTE(rory): This does not handle upgrade effects at all, it is assumed the players do not have units or that their units are swapped already.
+		//             It only handles learn and unlearn events (as it should, to setup tech properly).
 		public method setUpgradeTable(Table t) {
+			integer i = 0;
+			integer j = 0;
+			Upgrade u = 0;
+			CurrentPlayerUpgrade cpu = 0;
+			UpgradeLevel levelData = 0;
+			
+			for (0 <= i < Upgrades.count()) {
+				u = Upgrades.at(i);
+				
+				// Unlearn
+				if (this.upgradeTable.has(u)) {
+					cpu = this.upgradeTable[u];
+					for (cpu.level >= j >= 1) {
+						levelData = u.level(i);
+						if (levelData.unlearnEvent != 0) {
+							levelData.unlearnEvent.execute(this, levelData, null);
+						}
+					}
+				}
+				
+				// Learn
+				if (t.has(u)) {
+					cpu = t[u];
+					for (cpu.level >= j >= 1) {
+						levelData = u.level(i);
+						if (levelData.learnEvent != 0) {
+							levelData.learnEvent.execute(this, levelData, null);
+						}
+					}
+				}
+			}
+		
 			this.upgradeTable = t;
 		}
 		
@@ -258,6 +292,12 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 	private struct UnitConversionUpgradeData {
 		integer chaosToNew;
 		integer chaosToOld;
+	}
+	private struct UnitConversionDelayData extends array {
+		unit u;
+		real mana;
+		real maxMana;
+		integer movespeed;
 	}
 	
 	public struct Upgrades {
@@ -563,6 +603,39 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			return level;
 		}
 		
+		private static method applyChaos(unit u, integer oldChaos, integer newChaos) {
+			integer id = GetUnitIndex(u);
+			// Save some values as they don't transfer with Chaos properly..
+			UnitConversionDelayData[id].movespeed = GetUnitBonus(u, BONUS_MOVEMENT_SPEED);
+			UnitConversionDelayData[id].mana = GetUnitState(u, UNIT_STATE_MAX_MANA);
+			UnitConversionDelayData[id].maxMana = GetUnitState(u, UNIT_STATE_MAX_MANA);
+			UnitConversionDelayData[id].u = u;
+			RemoveUnitBonus(u, BONUS_MOVEMENT_SPEED);
+			
+			UnitRemoveAbility(u, oldChaos);
+			UnitAddChaos(u, newChaos);
+			
+			// Apply after a delay (to let the game catch up)
+			GameTimer.new(function(GameTimer t) {
+				integer id = t.data();
+				unit u = UnitConversionDelayData[id].u;
+				AddUnitBonus(u, BONUS_MOVEMENT_SPEED, UnitConversionDelayData[id].movespeed);
+				SetUnitMaxState(u, UNIT_STATE_MAX_MANA, UnitConversionDelayData[id].maxMana);
+				SetUnitState(u, UNIT_STATE_MANA, UnitConversionDelayData[id].mana);
+				UnitConversionDelayData[id].u = null;
+			}).start(0.1).setData(id);
+		}
+		
+		private static method activateChaos(unit u) {
+			UnitConversionUpgradeData data = Upgrades.data();
+			thistype.applyChaos(u, data.chaosToOld, data.chaosToNew);
+		}
+		
+		private static method deactivateChaos(unit u) {
+			UnitConversionUpgradeData data = Upgrades.data();
+			thistype.applyChaos(u, data.chaosToNew, data.chaosToOld);
+		}
+		
 		public static method addUnitConversion(integer unitId, 
 											   UpgradeFilter filter, 
 											   integer chaosToNew,  
@@ -570,24 +643,7 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 		    UnitConversionUpgradeData data = UnitConversionUpgradeData.create();
 			data.chaosToNew = chaosToNew;
 			data.chaosToOld = chaosToOld;
-			return thistype.addWithData(unitId, filter, function(unit u) {
-				UnitConversionUpgradeData data = Upgrades.data();
-				// Need to keep BONUS_MOVEMENT_SPEED as it doesn't transition with Chaos.
-				integer ms = GetUnitBonus(u, BONUS_MOVEMENT_SPEED);
-				RemoveUnitBonus(u, BONUS_MOVEMENT_SPEED);
-				
-				UnitRemoveAbility(u, data.chaosToOld);
-                UnitAddChaos(u, data.chaosToNew);
-				AddUnitBonus(u, BONUS_MOVEMENT_SPEED, ms);
-			}, function(unit u) {
-				UnitConversionUpgradeData data = Upgrades.data();
-				integer ms = GetUnitBonus(u, BONUS_MOVEMENT_SPEED);
-				RemoveUnitBonus(u, BONUS_MOVEMENT_SPEED);
-				
-				UnitRemoveAbility(u, data.chaosToNew);
-                UnitAddChaos(u, data.chaosToOld);
-				AddUnitBonus(u, BONUS_MOVEMENT_SPEED, ms);
-			}, data);
+			return thistype.addWithData(unitId, filter, thistype.activateChaos, thistype.deactivateChaos, data);
 		}
 		
 		public static method continueEffect() {
