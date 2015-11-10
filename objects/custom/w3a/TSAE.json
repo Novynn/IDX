@@ -95,9 +95,23 @@
         },
         {
             "data": 0,
+            "id": "acac",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acap",
+            "type": 3,
+            "value": "overhead",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "acat",
             "type": 3,
-            "value": "",
+            "value": "Abilities\\Spells\\Undead\\ReplenishHealth\\ReplenishHealthCasterOverhead.mdl",
             "variation": 0
         },
         {
