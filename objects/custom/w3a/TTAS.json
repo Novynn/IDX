@@ -34,7 +34,7 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\PASDeathCoil.blp",
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNStormHammer.blp",
             "variation": 0
         },
         {
@@ -48,7 +48,7 @@
             "data": 0,
             "id": "abuf",
             "type": 3,
-            "value": "B019",
+            "value": "B023",
             "variation": 1
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "anam",
             "type": 3,
-            "value": "Darkness",
+            "value": "Pummel",
             "variation": 0
         },
         {
@@ -97,14 +97,14 @@
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "|cff5f9ea0Darkness|r",
+            "value": "|cff5f9ea0Pummel|r",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Smothers attacked units in darkness, slowing them down as they try to escape.|r|n|cff808080\"Tonight is not your night.\"|r|n|n|cff1e90ffA smothering attack that slows the target enemy's movement by 40% for 2 seconds.|nPassive.|r",
+            "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Attacks from this unit hit hard and fast, slowing victims down as they try to escape.|r|n|n|cff1e90ffA pummeling attack that slows the target enemy's movement by 40% for 2 seconds.|nPassive.|r",
             "variation": 1
         },
         {

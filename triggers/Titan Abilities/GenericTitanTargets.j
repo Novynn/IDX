@@ -501,9 +501,9 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
         private player castingPlayer = null;
         private integer level = 0;
         
-        private real healAmount = 0.0;
-        private real healRange = 0.0;
-        private xedamage damage = 0;
+        public real healAmount = 0.0;
+        public real healRange = 0.0;
+        public xedamage damage = 0;
         
         public method checkTarget(unit u) -> boolean {
 			return this.onCheckTarget(u);

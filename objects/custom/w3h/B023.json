@@ -1,0 +1,51 @@
+{
+    "base": "Bspo",
+    "id": "B023",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStormHammer.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Terminus)"
+        },
+        {
+            "id": "frac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Undead\\ImpaleTargetDust\\ImpaleTargetDust.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Pummel"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit was hit by Pummel; its movement speed and attack rate have been reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

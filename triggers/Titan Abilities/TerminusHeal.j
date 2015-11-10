@@ -11,7 +11,7 @@ library TerminusHeal requires GameTimer, GT, xebasic, xepreload, xecollider, Gen
         }
 		
 		method targetEffect() -> string {
-			return "Abilities\\Spells\\Human\\Heal\\HealTarget.mdl";
+			return "Objects\\Spawnmodels\\Undead\\ImpaleTargetDust\\ImpaleTargetDust.mdl";
 		}
         
         public method onCheckTarget(unit u) -> boolean {
@@ -27,19 +27,19 @@ library TerminusHeal requires GameTimer, GT, xebasic, xepreload, xecollider, Gen
 			this.duration = 12.0;
 			this.ticks = this.duration / TICK_DURATION;
             if (level == 1){
-                this.healAmount = (300.0 / this.ticks);
+                this.healAmount = (1200.0 / this.ticks);
                 this.effectArea = 400.0;
             }
             else if (level == 2){
-                this.healAmount = (500.0 / this.ticks);
+                this.healAmount = (1440.0 / this.ticks);
                 this.effectArea = 400.0;
             }
             else if (level == 3){
-                this.healAmount = (700.0 / this.ticks);
+                this.healAmount = (1680.0 / this.ticks);
                 this.effectArea = 400.0;
             }
             else if (level == 4){
-                this.healAmount = (900.0 / this.ticks);
+                this.healAmount = (1920.0 / this.ticks);
                 this.effectArea = 400.0;
             }
         }

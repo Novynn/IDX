@@ -139,7 +139,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "200",
+            "value": "250",
             "variation": 1
         },
         {
@@ -153,7 +153,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "300",
+            "value": "250",
             "variation": 3
         },
         {
@@ -230,21 +230,21 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "A pebble is thrown at an enemy units head, rendering the unit unconscious and stunning the unit for 1 second.|n|cffffcc00Bonus stun time against hunters.|n|cffffcc00Unit-Targeted -- 11 second cooldown.",
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The Titan throws a small stone at the target, stunning it on impact.|r|n|n|cff1e90ffStuns the target unit or Hero for 1 second.|n|nUnit-Targeted - 11 second cooldown.|r",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "A pebble is thrown at an enemy units head, rendering the unit unconscious and stunning the unit for 1.5 second.|n|cffffcc00Bonus stun time against hunters.|n|cffffcc00Unit-Targeted -- 12 second cooldown.",
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The Titan throws a small stone at the target, stunning it on impact.|r|n|n|cff1e90ffStuns the target unit for 1.5 seconds, or Hero for 1.75 seconds.|n|nUnit-Targeted - 12 second cooldown.|r",
             "variation": 2
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "A pebble is thrown at an enemy units head, rendering the unit unconscious and stunning the unit for 2 second.|n|cffffcc00Bonus stun time against hunters.|n|cffffcc00Unit-Targeted -- 13 second cooldown.",
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The Titan throws a small stone at the target, stunning it on impact.|r|n|n|cff1e90ffStuns the target unit for 2 seconds, or Hero for 2.5 seconds.|n|nUnit-Targeted - 13 second cooldown.|r",
             "variation": 3
         },
         {

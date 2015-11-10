@@ -1,6 +1,6 @@
 {
     "base": "ANcl",
-    "id": "TTAQ",
+    "id": "TTNQ",
     "mods": [
         {
             "data": 1,
@@ -27,42 +27,42 @@
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "3",
+            "value": "2",
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "3",
+            "value": "2",
             "variation": 2
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "3",
+            "value": "2",
             "variation": 3
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": "1",
             "variation": 1
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": "1",
             "variation": 2
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": "1",
             "variation": 3
         },
         {
@@ -90,50 +90,29 @@
             "data": 6,
             "id": "Ncl6",
             "type": 3,
-            "value": "forkedlightning",
+            "value": "carrionswarm",
             "variation": 1
         },
         {
             "data": 6,
             "id": "Ncl6",
             "type": 3,
-            "value": "forkedlightning",
+            "value": "carrionswarm",
             "variation": 2
         },
         {
             "data": 6,
             "id": "Ncl6",
             "type": 3,
-            "value": "forkedlightning",
+            "value": "carrionswarm",
             "variation": 3
         },
         {
             "data": 0,
             "id": "aani",
             "type": 3,
-            "value": "spell,throw",
+            "value": "attack,slam",
             "variation": 0
-        },
-        {
-            "data": 0,
-            "id": "aare",
-            "type": 2,
-            "value": "195",
-            "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "aare",
-            "type": 2,
-            "value": "195",
-            "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "aare",
-            "type": 2,
-            "value": "195",
-            "variation": 3
         },
         {
             "data": 0,
@@ -167,49 +146,49 @@
             "data": 0,
             "id": "acat",
             "type": 3,
-            "value": "",
+            "value": "Abilities\\Spells\\Orc\\WarStomp\\WarStompCaster.mdl",
             "variation": 0
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "12",
+            "value": "10",
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "12",
+            "value": "10",
             "variation": 2
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "12",
+            "value": "10",
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.600000024",
+            "value": "0.00999999978",
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.600000024",
+            "value": "0.00999999978",
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.600000024",
+            "value": "0.00999999978",
             "variation": 3
         },
         {
@@ -223,21 +202,21 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.600000024",
+            "value": "0.00999999978",
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.600000024",
+            "value": "0.00999999978",
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.600000024",
+            "value": "0.00999999978",
             "variation": 3
         },
         {
@@ -272,21 +251,21 @@
             "data": 0,
             "id": "anam",
             "type": 3,
-            "value": "Hurl Boulder",
+            "value": "Shock Wave",
             "variation": 0
         },
         {
             "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "(TTAQ 4.0.0 - Triggered)",
+            "value": "(TTNQ 4.0.0 - Triggered)",
             "variation": 0
         },
         {
             "data": 0,
             "id": "aord",
             "type": 3,
-            "value": "forkedlightning",
+            "value": "carrionswarm",
             "variation": 0
         },
         {
@@ -300,21 +279,14 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "650",
-            "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "aran",
-            "type": 2,
-            "value": "650",
+            "value": "550",
             "variation": 2
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "650",
+            "value": "600",
             "variation": 3
         },
         {
@@ -328,7 +300,7 @@
             "data": 0,
             "id": "aret",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Learn |cff7b68eeHurl Boulder|r - [|cffffcc00Level %d|r]",
+            "value": "(|cffffcc00Q|r) Learn |cff7b68eeShock Wave|r - [|cffffcc00Level %d|r]",
             "variation": 0
         },
         {
@@ -349,7 +321,7 @@
             "data": 0,
             "id": "arut",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan hurls a large boulder at the target area, damaging any foolish enough to be there.|r|n|n|cffffcc00Level 1|r - |cff1e90ffHits units in a 195 area, dealing 130 damage.|r|n|cffffcc00Level 2|r - |cff1e90ffHits units in a 195 area, dealing 155 damage.|r|n|cffffcc00Level 3|r - |cff1e90ffHits units in a 195 area, dealing 180 damage.|n|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion throws a boulder at the selected location, damaging all units in the way.|r|n|n|cffffcc00Level 1|r - |cff1e90ffSends a boulder out with a range of 400, that deals 130 damage to units hit.|r|n|cffffcc00Level 2|r - |cff1e90ffSends a boulder out with a range of 450, that deals 155 damage to units hit.|r|n|cffffcc00Level 3|r - |cff1e90ffSends a boulder out with a range of 500, that deals 180 damage to units hit.|n|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 0
         },
         {
@@ -391,42 +363,42 @@
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Cast |cff7b68eeHurl Boulder|r - [|cffffcc00Level 1|r]",
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeShock Wave|r - [|cffffcc00Level 1|r]",
             "variation": 1
         },
         {
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Cast |cff7b68eeHurl Boulder|r - [|cffffcc00Level 2|r]",
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeShock Wave|r - [|cffffcc00Level 2|r]",
             "variation": 2
         },
         {
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Cast |cff7b68eeHurl Boulder|r - [|cffffcc00Level 3|r]",
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeShock Wave|r - [|cffffcc00Level 3|r]",
             "variation": 3
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan hurls a large boulder at the target area, damaging any foolish enough to be there.|r|n|n|cff1e90ffHits units in a 195 area, dealing 130 damage.|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion throws a boulder at the selected location, damaging all units in the way.|r|n|n|cff1e90ffSends a boulder out with a range of 400, that deals 130 damage to units hit.|n|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan hurls a large boulder at the target area, damaging any foolish enough to be there.|r|n|n|cff1e90ffHits units in a 195 area, dealing 155 damage.|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion throws a boulder at the selected location, damaging all units in the way.|r|n|n|cff1e90ffSends a boulder out with a range of 450, that deals 155 damage to units hit.|n|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 2
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan hurls a large boulder at the target area, damaging any foolish enough to be there.|r|n|n|cff1e90ffHits units in a 195 area, dealing 180 damage.|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion throws a boulder at the selected location, damaging all units in the way.|r|n|n|cff1e90ffSends a boulder out with a range of 500, that deals 180 damage to units hit.|n|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 3
         },
         {

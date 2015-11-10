@@ -2,11 +2,11 @@
 //TESH.alwaysfold=0
 //! zinc
 
-library TerminusRace requires Races, CurrentTap {
+library TerminusRace requires Races, StringLib {
     public struct TerminusRace extends TitanRace {
 		private string name = "Terminus";
         method toString() -> string {
-            return name;
+            return this.name;
         }
         
         method widgetId() -> integer {
@@ -14,7 +14,7 @@ library TerminusRace requires Races, CurrentTap {
         }
         
         method childId() -> integer {
-            return 'U016'; // Lucidious' Minion
+            return 'U00O';
         }
 
         method itemId() -> integer {
@@ -26,17 +26,17 @@ library TerminusRace requires Races, CurrentTap {
         }
 
         method childIcon() -> string {
-            return "ReplaceableTextures\\CommandButtons\\BTNNagaMyrmidonRoyalGuard.blp";
+            return "ReplaceableTextures\\CommandButtons\\BTNAncientOfWonders.blp";
         }
 		
 		method onSpawn(unit u) {
 			CustomTitanRace.setBaseAbilities(u, this.toString());
-			name = GetHeroProperName(u);
+			
+			// Fancy name switch
+			if (StringIndexOf(GetHeroProperName(u), "Gran", false) != STRING_INDEX_NONE) {
+				this.name = "Granitacles";
+			}
 		}
-        
-        method inRandomPool() -> boolean {
-            return false;
-        }
         
         private static method create() -> thistype {
             return thistype.allocate();
