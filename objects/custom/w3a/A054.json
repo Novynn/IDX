@@ -95,6 +95,13 @@
         },
         {
             "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "human",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "atar",
             "type": 3,
             "value": "air,enemies,ground,organic",

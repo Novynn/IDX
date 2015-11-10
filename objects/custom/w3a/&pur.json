@@ -1,0 +1,48 @@
+{
+    "base": "Absk",
+    "id": "&pur",
+    "mods": [
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}
