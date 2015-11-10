@@ -1,6 +1,6 @@
 {
     "base": "AHav",
-    "id": "TMNR",
+    "id": "TMNF",
     "mods": [
         {
             "data": 0,
@@ -14,6 +14,13 @@
             "id": "aart",
             "type": 3,
             "value": "ReplaceableTextures\\CommandButtons\\BTNIncinerate.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
             "variation": 0
         },
         {
@@ -41,7 +48,7 @@
             "data": 0,
             "id": "ahky",
             "type": 3,
-            "value": "R",
+            "value": "F",
             "variation": 0
         },
         {
@@ -55,7 +62,7 @@
             "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "(TMNR 4.0.0) (Minion)",
+            "value": "(TMNF 4.0.0) (Minion)",
             "variation": 0
         },
         {
@@ -76,14 +83,14 @@
             "data": 0,
             "id": "aret",
             "type": 3,
-            "value": "(|cffffcc00R|r) Learn |cff4169e1Rage|r",
+            "value": "(|cffffcc00F|r) Learn |cff4169e1Rage|r",
             "variation": 0
         },
         {
             "data": 0,
             "id": "arhk",
             "type": 3,
-            "value": "R",
+            "value": "F",
             "variation": 0
         },
         {
@@ -97,7 +104,7 @@
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": "1",
             "variation": 0
         },
         {
@@ -111,7 +118,7 @@
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "(|cffffcc00R|r) Activate |cff4169e1Rage|r",
+            "value": "(|cffffcc00F|r) Activate |cff4169e1Rage|r",
             "variation": 1
         },
         {
@@ -130,16 +137,23 @@
         },
         {
             "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "auhk",
             "type": 3,
-            "value": "R",
+            "value": "F",
             "variation": 0
         },
         {
             "data": 0,
             "id": "aut1",
             "type": 3,
-            "value": "(|cffffcc00R|r) Deactivate |cff4169e1Rage|r",
+            "value": "(|cffffcc00F|r) Deactivate |cff4169e1Rage|r",
             "variation": 1
         },
         {

@@ -1,7 +1,28 @@
 {
     "base": "AHav",
-    "id": "TBNR",
+    "id": "TGNF",
     "mods": [
+        {
+            "data": 1,
+            "id": "Hav1",
+            "type": 2,
+            "value": "25",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Hav2",
+            "type": 2,
+            "value": "2000",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hav3",
+            "type": 2,
+            "value": "-20",
+            "variation": 1
+        },
         {
             "data": 0,
             "id": "aani",
@@ -13,7 +34,14 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNDevourMagic.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostArmor.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
             "variation": 0
         },
         {
@@ -27,21 +55,21 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "25",
+            "value": "30",
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "25",
+            "value": "30",
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahky",
             "type": 3,
-            "value": "R",
+            "value": "F",
             "variation": 0
         },
         {
@@ -55,7 +83,7 @@
             "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "(TBNR 4.0.0) (Minion)",
+            "value": "(TGNF 4.0.0) (Minion)",
             "variation": 0
         },
         {
@@ -69,21 +97,21 @@
             "data": 0,
             "id": "arar",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNDevourMagic.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostArmor.blp",
             "variation": 0
         },
         {
             "data": 0,
             "id": "aret",
             "type": 3,
-            "value": "(|cffffcc00R|r) Learn |cff4169e1Rage|r",
+            "value": "(|cffffcc00F|r) Learn |cff4169e1Rage|r",
             "variation": 0
         },
         {
             "data": 0,
             "id": "arhk",
             "type": 3,
-            "value": "R",
+            "value": "F",
             "variation": 0
         },
         {
@@ -97,49 +125,56 @@
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": "1",
             "variation": 0
         },
         {
             "data": 0,
             "id": "arut",
             "type": 3,
-            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The minion is overcome with rage.|r|n|n|cff1e90ffWhen Rage is activated, it gives the Titanous Minion 5 bonus armor, 500 bonus hit points, 20 bonus damage and spell immunity. |nLasts 25 seconds.|r",
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The minion is overcome with rage.|r|n|n|cff1e90ffWhen Rage is activated, it gives the Titanous Minion 25 bonus armor, 2000 bonus hit points, and spell immunity, while reducing damage by 20 for 30 seconds. |nSelf-targeted - 3 minute cooldown.|r",
             "variation": 0
         },
         {
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "(|cffffcc00R|r) Activate |cff4169e1Rage|r",
+            "value": "(|cffffcc00F|r) Activate |cff4169e1Rage|r",
             "variation": 1
         },
         {
             "data": 0,
             "id": "auar",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNDevourMagic.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostArmor.blp",
             "variation": 0
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The minion is overcome with rage.|r|n|n|cff1e90ffWhen Rage is activated, it gives the Titanous Minion 5 bonus armor, 500 bonus hit points, 20 bonus damage and spell immunity. |nLasts 25 seconds.|r",
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The minion is overcome with rage.|r|n|n|cff1e90ffWhen Rage is activated, it gives the Titanous Minion 25 bonus armor, 2000 bonus hit points, and spell immunity, while reducing damage by 20 for 30 seconds. |nSelf-targeted - 3 minute cooldown.|r",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "1",
+            "variation": 0
         },
         {
             "data": 0,
             "id": "auhk",
             "type": 3,
-            "value": "R",
+            "value": "F",
             "variation": 0
         },
         {
             "data": 0,
             "id": "aut1",
             "type": 3,
-            "value": "(|cffffcc00R|r) Deactivate |cff4169e1Rage|r",
+            "value": "(|cffffcc00F|r) Deactivate |cff4169e1Rage|r",
             "variation": 1
         },
         {
