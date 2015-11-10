@@ -1,0 +1,90 @@
+{
+    "base": "ACvs",
+    "id": "A03I",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Poi1",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Poi2",
+            "type": 2,
+            "value": "0.5",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Poi3",
+            "type": 2,
+            "value": "0.300000012",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfFrost.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00T,B00U",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Frost Launcher",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "X",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Frost Launcher",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Deals 5 damage per second and slows movement speed and attack rate.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

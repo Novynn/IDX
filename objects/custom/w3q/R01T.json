@@ -1,0 +1,104 @@
+{
+    "base": "Rhrt",
+    "id": "R01T",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAcidBomb.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "W",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "1000",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glob",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Radiation Poisoning",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research Radiation Poisoning",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Allows your hunter to create a cloud of radiation that poisons an area. The poisonious gases decreases enemy units armor by <A0ED,DataC1>; while dealing <A0ED,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

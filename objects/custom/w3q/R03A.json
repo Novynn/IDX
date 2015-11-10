@@ -1,0 +1,272 @@
+{
+    "base": "Rhar",
+    "id": "R03A",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArcaniteArchitecture.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArcaniteArchitecture.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArcaniteArchitecture.blp",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArcaniteArchitecture.blp",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArcaniteArchitecture.blp",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglm",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ginh",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "250",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "150",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Fortification Upgrade - (Level 1)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Fortification Upgrade - (Level 2)",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Fortification Upgrade - (Level 3)",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Fortification Upgrade - (Level 4)",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Fortification Upgrade - (Level 5)",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "15",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtim",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Fortification Upgrade - (Level 1)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Fortification Upgrade - (Level 2)",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Fortification Upgrade - (Level 3)",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Fortification Upgrade - (Level 4)",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Fortification Upgrade - (Level 5)",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the armor of all walls and catapults by 1.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the armor of all walls and catapults by 1.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the armor of all walls and catapults by 1.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the armor of all walls and catapults by 1.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the armor of all walls and catapults by 1.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

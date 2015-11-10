@@ -1,0 +1,377 @@
+{
+    "base": "Rorb",
+    "id": "R01S",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNInfernalCannon.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNInfernalCannon.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNInfernalCannon.blp",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNInfernalCannon.blp",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNInfernalCannon.blp",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNInfernalCannon.blp",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "rhpx",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "W",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "W",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "W",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "W",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "W",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "W",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "ginh",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "300",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "6",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Reinforced Armor",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Enhanced Armor",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Fortified Armor",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Super Fortified Armor",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "OMEGA Armor",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "OMEGA Armor Prime",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Radioactive",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Radioactive",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Radioactive",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Radioactive",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Radioactive",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Radioactive",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "n00S",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "n00S",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN3,TWN4",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN3,TWN4",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "30",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research Reinforced Armor",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research Enhanced Armor",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research Fortified Armor",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research Super Fortified Armor",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research OMEGA Armor",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research OMEGA Armor Prime",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Grants your hunter 50 additional hit points.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Grants your hunter 50 additional hit points.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Grants your hunter 50 additional hit points.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Grants your hunter 50 additional hit points.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Grants your hunter 50 additional hit points.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Grants your hunter 50 additional hit points.",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

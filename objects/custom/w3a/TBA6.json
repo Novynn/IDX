@@ -1,0 +1,118 @@
+{
+    "base": "Absk",
+    "id": "TBA6",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCorpses6.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Corpse Storage",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(6 - Bubonicus)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) |cff4169e1Drop Corpse|r - 6",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Click to drop a corpse.|r|n|n|cff1e90ffWhen a corpse is held by Bubonicus he will leave a lingering disease cloud that damages organic enemies in an area of 300. Damage dealt is calculated as the amount of corpses held multiplied by 4. The effect lasts 5 seconds and cannot be dispelled.|r|n|n|cff1e90ffIf Bubonicus drops a corpse over unblighted land, he will create a Corpse Ward that gives you sight of the area and has 75 health. This ward will generate a small amount of blighted land and causes a corpse to be spawned every 60 seconds (or 45 seconds if you have |r|cff4169e1Corpse Exhumation|r|cff1e90ff). Each ward can have a maximum for 3 corpses. Corpse Wards last for 5 minutes or until killed.|n|nNo-Target - No cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "bsk1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "bsk2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "bsk3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "base": "Arav",
+    "id": "A07G",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "h021",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "h021",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "h03J",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "h03E",
+            "variation": 4
+        },
+        {
+            "data": 2,
+            "id": "Eme2",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Eme2",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Eme3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Eme4",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "h023",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "h023",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "h021",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "h021",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPitLord.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "30",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "15",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "25",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Warrior Form",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Warrior Form",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Warrior Form",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFacelessOne.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cff1e90ffTransforms the Morphling into a strong warrior able to withstand the titans wrath. While in this form, the morphling can harvest gold and lumber, but cannot build advanced structures.|nActivated - 30 second cooldown.|r|n|n|cffff5522Note:|r Resets ability cooldowns.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cff1e90ffTransforms the Morphling into a strong warrior able to withstand the titans wrath. While in this form, the morphling can harvest gold and lumber, but cannot build advanced structures.|nActivated - 15 second cooldown.|r|n|n|cffff5522Note:|r Resets ability cooldowns.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Builder Form",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Builder Form",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "|cff1e90ffTransforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|nActivated - 30 second cooldown.|r|n|n|cffff5522Note:|r Resets ability cooldowns.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "|cff1e90ffTransforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|nActivated - 15 second cooldown.|r|n|n|cffff5522Note:|r Resets ability cooldowns.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

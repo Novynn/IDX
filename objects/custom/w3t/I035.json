@@ -1,0 +1,106 @@
+{
+    "base": "phea",
+    "id": "I035",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0BX"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0BX"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Restores 5 mana."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNScrollOfProtection.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Blink Scroll"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00S|r) Purchase Blink Scroll"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Restores 5 mana to all friendly nearby units, allowing certain units to reuse their one use blinks."
+        }
+    ]
+}

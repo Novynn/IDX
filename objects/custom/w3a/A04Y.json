@@ -1,0 +1,139 @@
+{
+    "base": "AHbz",
+    "id": "A04Y",
+    "mods": [
+        {
+            "data": 2,
+            "id": "Hbz2",
+            "type": 2,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hbz3",
+            "type": 0,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Hbz4",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Hbz6",
+            "type": 2,
+            "value": "450",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "250",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "0.150000006",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Magnataur)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q087",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,item",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Blizzard",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Magnataur calls down 6 waves of freezing ice shards; each wave deals 100 damage to units within the target area.|n|n|cffadd8e6Cooldown:|r 60|n|n|cffff0000Channeled|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

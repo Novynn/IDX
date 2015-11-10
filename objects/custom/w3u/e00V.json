@@ -1,0 +1,206 @@
+{
+    "base": "edob",
+    "id": "e00V",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0BU,Arlm,Asid,ARax"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "UndeadBuildingConstructionLoop"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "72"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": "A0BU"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBearDen.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\BarrowDens\\BarrowDens.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff99b4d1Rogue Den|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Satyr)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\6x6SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ures",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": "I00Q,I034\r\n"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "240"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "BarrowDen"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Human\\HCancelDeath\\HCancelDeath.mdl"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Build a |cff99b4d1Rogue Den|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q111,q112,q113,q114,q115,q116,q118,q119,q120,q161,q162,q163,q166,q167,q168,q169,q170,q171,q172,q173,q209,q210,q211,q212,q259,q260"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as a Research Centre, this building acts as the Satyr's main resource return point and upgrades for vital functions and skills.|n|cff808080This building allows units to drop of their wood.|r|n|n|cffffcc00Health:|r 200|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r These are weak buildings, useless as walls or defense. Only build the amount that you need, because they can end up feeding a lot."
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "HMED"
+        }
+    ]
+}

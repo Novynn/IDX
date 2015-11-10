@@ -1,0 +1,209 @@
+{
+    "base": "AEim",
+    "id": "TDAW",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Eim1",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Eim2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Eim3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShield.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B018,B005",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "W",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Shadow Walk",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TDAW 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aorf",
+            "type": 3,
+            "value": "unimmolation",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aoro",
+            "type": 3,
+            "value": "immolation",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShield.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Learn |cffafeeeeShadow Walk|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "W",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffafeeeeEscape|r|cffffcc00]|r|n|n|cffffcc00Demonicus hides in the shadows of the night, turning him invisible while his concentration holds.|r|n|n|cff1e90ffGrants Demonicus permanent invisibility during the night, with a 1.35s fade time. Unfortunately he cannot keep this up forever while moving, your mana is drained every step that you take. Standing still in one place will not drain mana.|nNo cooldown.|r|n|n|cffff5522Beware:|r Gnoll Trackers can see invisible units.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "none",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Begin to |cffafeeeeShadow Walk|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShieldOff.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffafeeeeEscape|r|cffffcc00]|r|n|n|cffffcc00Demonicus hides in the shadows of the night, turning him invisible while his concentration holds.|r|n|n|cff1e90ffGrants Demonicus permanent invisibility during the night, with a 1.35s fade time. Unfortunately he cannot keep this up forever while moving, your mana is drained every step that you take. Standing still in one place will not drain mana.|nNo cooldown.|r|n|n|cffff5522Beware:|r Gnoll Trackers can see invisible units.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "W",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Deactivate |cffafeeeeShadow Walk|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Deactivate Shadow Walk to stop draining mana.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

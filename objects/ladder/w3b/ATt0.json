@@ -1,0 +1,51 @@
+{
+    "base": "ATt0",
+    "id": "ATt0",
+    "mods": [
+        {
+            "id": "bcpr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "bgse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "breg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "brel",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "bret",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "btil",
+            "type": 3,
+            "value": "Z"
+        },
+        {
+            "id": "btxf",
+            "type": 3,
+            "value": "ReplaceableTextures\\RuinsTree\\RuinsTree"
+        },
+        {
+            "id": "buch",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

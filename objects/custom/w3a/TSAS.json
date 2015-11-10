@@ -1,0 +1,118 @@
+{
+    "base": "Aspo",
+    "id": "TSAS",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Spo1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Spo2",
+            "type": 2,
+            "value": "0.400000006",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Spo3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Spo4",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\PASSummonWaterElemental.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B03P",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Drown",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TSAS 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cff5f9ea0Drown|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Drowns attacked units, slowing them down as they suffocate.|r|n|cff808080\"You should've learnt how to swim.\"|r|n|n|cff1e90ffA drowning attack that slows the target enemy's movement by <TSAS,DataB1,%>% for <TSAS,Dur1> seconds.|nPassive.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

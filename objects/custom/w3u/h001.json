@@ -1,0 +1,276 @@
+{
+    "base": "hwtw",
+    "id": "h001",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "24"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure,ward"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\PotofGold\\PotofGold.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "650"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "magic"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A047,Avul,ATMM,ACnr,A00B,A00E,A02H,A02V,&PUN,&PU1,&TEL"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "800"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "1000000000"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNResStone.blp"
+        },
+        {
+            "id": "ulfi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ulfo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.150000006"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Terrain\\LoardaeronRockChunks\\LoardaeronRockChunks2.mdl"
+        },
+        {
+            "id": "umh1",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "-999"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffffff00Titan's Mound of Gold|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "202"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "other"
+        },
+        {
+            "id": "urb1",
+            "type": 2,
+            "value": "150"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10000"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utc1",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "|cffffff00Titan's Mound of Gold|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "n00A,q000,q001,q002,q003,q080,q258"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Gives 1 gold to any Murloc that breaks it!"
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "ancient,mechanical"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

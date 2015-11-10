@@ -1,0 +1,86 @@
+{
+    "base": "ngme",
+    "id": "n00X",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0MD,Avul,Asud"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTavern.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\HumanBattleship\\HumanBattleship.mdl"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "float"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Builder Selection (Hard)"
+        },
+        {
+            "id": "unbm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unbr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\4x4SimpleSolid.tga"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": "I006,I02E,I02B,I00S,I02W,I033,I03D"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "3.5"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

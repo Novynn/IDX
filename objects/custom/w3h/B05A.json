@@ -1,0 +1,41 @@
+{
+    "base": "Buns",
+    "id": "B05A",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDarkRitual.blp"
+        },
+        {
+            "id": "fefl",
+            "type": 3,
+            "value": "NightElfGrowingLoop"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Reclaim"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\AntiMagicShell\\AntiMagicShell.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Reclaim"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

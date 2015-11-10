@@ -1,0 +1,62 @@
+{
+    "base": "AIfz",
+    "id": "A04T",
+    "mods": [
+        {
+            "data": 3,
+            "id": "Nfd3",
+            "type": 2,
+            "value": "180",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStaffOfSanctuary.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Energy Rod",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

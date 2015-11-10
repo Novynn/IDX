@@ -1,0 +1,46 @@
+{
+    "base": "BIcf",
+    "id": "B025",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNChainLightning.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Energy Charge (Real)"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\ManaFlare\\ManaFlareBoltImpact.mdl"
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Drain\\ManaDrainCaster.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Energy Charge"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is charged with energy."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "base": "AOae",
+    "id": "A0JY",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Oae1",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Oae2",
+            "type": 2,
+            "value": "0.100000001",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostMourne.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B049",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Wind Gale",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata1",
+            "type": 3,
+            "value": "hand,left",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata2",
+            "type": 3,
+            "value": "hand,right",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata3",
+            "type": 3,
+            "value": "back",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata4",
+            "type": 3,
+            "value": "foot,left",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata5",
+            "type": 3,
+            "value": "foot,right",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atac",
+            "type": 0,
+            "value": "6",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,friend,ground,invulnerable,self,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Tornado\\Tornado_Target.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Wind Gale",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Increases nearby friendly units' movement speed by 20% and attack rate by 10%.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

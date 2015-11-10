@@ -1,0 +1,291 @@
+{
+    "base": "uaco",
+    "id": "u00N",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "124"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,debris,ground,item,structure,ward"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua2c",
+            "type": 2,
+            "value": "0.5"
+        },
+        {
+            "id": "ua2d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua2r",
+            "type": 0,
+            "value": "66"
+        },
+        {
+            "id": "ua2s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A05I,A04U,A0DN,A04V,A04S,A0KC,AInv,A041"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "100"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubui",
+            "type": 3,
+            "value": "u00J,e00N,o01H,h02A,o00Y,h002,h029"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "22"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": "A041"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "3"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDoomGuard.blp"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\demon\\DoomGuard\\DoomGuard.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "350"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "350"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "7.5"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "340"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Resistant Demonologist"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Enhanced)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "250"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.699999988"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "DoomGuard"
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "utc1",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "Peon"
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "250"
+        }
+    ]
+}

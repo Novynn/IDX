@@ -1,0 +1,66 @@
+{
+    "base": "brac",
+    "id": "I04I",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Reduces Magic damage to the holder.|n|cffff0000Recipe|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa22aa22Runed Bracers|r Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700W|r) Buy |caa22aa22Runed Bracers|r Recipe"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Reduces Magic damage dealt to the builder by 25%.|n|cffffd700Requires:|r 1 Titan Egg, 2 Armored Scales"
+        }
+    ]
+}

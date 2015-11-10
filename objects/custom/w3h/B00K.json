@@ -1,0 +1,36 @@
+{
+    "base": "Bpxf",
+    "id": "B00K",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFreezingBreath.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Damaged"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Heavy Water"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been hit by Heavy Water."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

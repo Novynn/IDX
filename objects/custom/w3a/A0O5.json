@@ -1,0 +1,153 @@
+{
+    "base": "AHdr",
+    "id": "A0O5",
+    "mods": [
+        {
+            "data": 2,
+            "id": "Ndr2",
+            "type": 2,
+            "value": "20",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Ndr5",
+            "type": 2,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 9,
+            "id": "Ndr9",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "700",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBearBlink.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "45",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Growth Encouragement",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "500",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBearBlink.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00N|r) Encourage Growth",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Transfers mana between the Hunter and a Feral Tower. Transfers 15 mana per second.|n|cffffcc00Structure targeted -- 30 second cooldown.|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,ground,notself,player,structure",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00N|r) Encourage Growth",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBearBlink.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Transfers mana between the Hunter and a Feral Tower. Transfers 15 mana per second.|n|cffffcc00Structure targeted -- 30 second cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

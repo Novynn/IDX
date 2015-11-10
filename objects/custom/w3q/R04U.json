@@ -1,0 +1,153 @@
+{
+    "base": "Rhra",
+    "id": "R04U",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNResistantSkin.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "100",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gcls",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco1",
+            "type": 3,
+            "value": "A0H7",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "rhpx",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "rarm",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglm",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ginh",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "500",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "100",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Enhanced Protection",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "45",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffd700Z|r) Enhanced Protection",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increase the health and armor of your Venomous Protectors.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

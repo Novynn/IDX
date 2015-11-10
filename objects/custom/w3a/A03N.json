@@ -1,0 +1,265 @@
+{
+    "base": "AOcl",
+    "id": "A03N",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ocl1",
+            "type": 2,
+            "value": "300",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Ocl1",
+            "type": 2,
+            "value": "150",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Ocl1",
+            "type": 2,
+            "value": "175",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Ocl2",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ocl2",
+            "type": 0,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Ocl2",
+            "type": 0,
+            "value": "6",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Ocl3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ocl3",
+            "type": 2,
+            "value": "0.100000001",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Ocl3",
+            "type": 2,
+            "value": "0.100000001",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "700",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNScepterOfMastery.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "0.5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "0.5",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "10",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "10",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alig",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "350",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "350",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNScepterOfMastery.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "|cffffcc00C|rhain Lightning",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,neutral,organic",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cffffcc00C|rhain Lightning",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cffffcc00T|rsunami Scepter - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cffffcc00T|rsunami Scepter - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Calls forth a bolt of lightning that bounces once, dealing 300 damage to both targets.|n|cffffcc00Unit-Targetted -- 60 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Sends a wave of damaging water that strikes 5 enemies with a base damage of 150 .",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Sends a wave of damaging water that strikes 6 enemies with a base damage of 175 .",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

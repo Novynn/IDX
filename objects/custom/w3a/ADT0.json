@@ -1,0 +1,153 @@
+{
+    "base": "Aave",
+    "id": "ADT0",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "o032",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Eme2",
+            "type": 0,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "o033",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "stand",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCryptFiendUnBurrow.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acac",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acap",
+            "type": 3,
+            "value": "origin",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\HealingWave\\HealingWaveTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "G",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Grow",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Feral Tower 1 -> 2)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "naga",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "TWN1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Grow into a |cffb7ae6bFeral Tower|r Stage 2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCryptFiendUnBurrow.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Dryad's generic defensive tower.|n|cff808080Useful towers with average attack damage. Can be upgraded using mana instead of wood.|r|n|n|cffffcc00Health:|r 275|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 25 Pierce|n|cffffcc00Attack Range:|r 600|n|cffffcc00Attack Speed:|r Very Fast|n|n|cffff0000Note:|r You should build these in a base behind 4-5 walls. They're only effective if the titan cannot reach them.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 5,
+            "id": "ave5",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

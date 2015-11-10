@@ -1,0 +1,81 @@
+{
+    "base": "LTcr",
+    "id": "B002",
+    "mods": [
+        {
+            "id": "bcpr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "bdsn",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "bfil",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Props\\Signpost\\Signpost0.mdl"
+        },
+        {
+            "id": "bfvi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "bgpm",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Props\\Signpost\\Signpost0.mdl"
+        },
+        {
+            "id": "bhps",
+            "type": 2,
+            "value": "1e+09"
+        },
+        {
+            "id": "bmas",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "bmis",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "bnam",
+            "type": 3,
+            "value": "Tommy Gun Base"
+        },
+        {
+            "id": "bptx",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "bsmm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "btar",
+            "type": 3,
+            "value": "decoration"
+        },
+        {
+            "id": "buch",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "bvar",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

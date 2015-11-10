@@ -1,0 +1,83 @@
+{
+    "base": "AIwm",
+    "id": "A007",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Hwe1",
+            "type": 3,
+            "value": "h04G",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Hwe2",
+            "type": 0,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUpgradeMoonGlaive.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "BFig",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "200",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Summon Headhunters",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\NightElf\\NECancelDeath\\NECancelDeath.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\NightElf\\NECancelDeath\\NECancelDeath.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

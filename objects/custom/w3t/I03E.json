@@ -1,0 +1,101 @@
+{
+    "base": "engs",
+    "id": "I03E",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03S"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03S"
+        },
+        {
+            "id": "iclb",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "This is an enchanted gemstone module, with the ability to enhance Radon towers with a mana burn attack."
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPowerGenerator.blp"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Radon Module - Magic"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q231"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00X|r) Purchase Radon Module - Magic"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00An upgrade module for Radon towers which adds mana burn to every attack.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |r5 mana burned on each enemy attacked.|n|cffffcc00Super Radon Tower: |r10 mana burned on each enemy attacked.|n|cffffcc00Mega Radon Tower: |r15 mana burned on each enemy attacked."
+        }
+    ]
+}

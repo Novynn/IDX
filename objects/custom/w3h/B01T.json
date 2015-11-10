@@ -1,0 +1,81 @@
+{
+    "base": "BEme",
+    "id": "B01T",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeroTaurenChieftain.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Ancestral Rage"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\FeralSpirit\\feralspirittarget.mdl"
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": "chest,foot,right,foot,left,hand,left,hand,right,head,arm,left,arm,right,leg,left,leg,right"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta5",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\FeralSpirit\\feralspirittarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Ancestral Rage"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "Transforms the Tauren into a powerful warrior with 1000 bonus hit points and 150 chaos damage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

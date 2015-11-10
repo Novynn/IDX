@@ -1,0 +1,31 @@
+{
+    "base": "BIcb",
+    "id": "B028",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCleavingAttack.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Rending Blade"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Damaged Armour"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit was hit by an Rending Blade; its armour is temporarily reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

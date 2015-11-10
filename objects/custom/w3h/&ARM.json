@@ -1,0 +1,41 @@
+{
+    "base": "BNdh",
+    "id": "&ARM",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCancel.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Disabled (Attacks)"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Disabled (Attacks)"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit cannot attack."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

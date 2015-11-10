@@ -1,0 +1,176 @@
+{
+    "base": "otrb",
+    "id": "o02J",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "19"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\BrewmasterMissile\\BrewmasterMissile.mdl"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "25"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "F"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNWyvern.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\WyvernCage\\WyvernCage.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffffff00Animal Cage|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(pirate)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.75"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "320"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Construct an Animal Cage"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as a Food Source, this building provides food for towers and harvesters.|n|cff808080Each cage provides 25 food. Monkeys inside the cage will throw fruit at nearby enemies, resulting in a weak attack.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 20 Pierce|n|cffffcc00Attack Range:|r 700|n|cffffcc00Attack Speed:|r Fast|n|n|cffff0000Note:|r You only need 6 of these. You can also destroy them once your food limit is reached to prevent feeding."
+        }
+    ]
+}

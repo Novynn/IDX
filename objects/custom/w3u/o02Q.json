@@ -1,0 +1,211 @@
+{
+    "base": "owtw",
+    "id": "o02Q",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "99"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\ChimaeraAcidMissile\\ChimaeraAcidMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "850"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00D,A0G3"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "750"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNScatterRockets.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Dungeon\\Props\\TreasurePile\\TreasurePile1.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff4500Fireworks Launcher|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "80"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00X|r) Build Fireworks Launcher"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful tower that deals lets out a fireworks display.  These fireworks actually damage all enemies in an area of 900 around this launcher. |cff00ff40While being held as an item, it shoots random fireworks at nearby enemies.|r"
+        }
+    ]
+}

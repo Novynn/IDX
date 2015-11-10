@@ -1,0 +1,146 @@
+{
+    "base": "hgtw",
+    "id": "h014",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffd3d3d3Armed Wall|r"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Build an |cffd3d3d3Armed Wall|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A weak wall for the Goblin.|n|cff808080These walls have an autofire mechanism inside them that shoots arrows at nearby enemies.|r|n|n|cffffcc00Health:|r 150|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r 5 Pierce|n|cffffcc00Attack Range:|r 400|n|cffffcc00Attack Speed: |rVery Fast|n|n|cffff0000Note:|r A good base has 4-6 Layers of walls. Un-upgraded walls are an easy source of Gold and Experience for the Titan, upgrade your walls when you can."
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "h015,h005"
+        }
+    ]
+}

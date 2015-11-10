@@ -1,0 +1,97 @@
+{
+    "base": "Aven",
+    "id": "A0G6",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Poi1",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Poi4",
+            "type": 0,
+            "value": "8",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\PASFlare.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B03C,B03D",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.600000024",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.600000024",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Incendiary",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Hunter)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q208,q207",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Incendiary",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Coats the Enemy in Incendiary Power, by itself it does nothing but, if your enemy kills one of your  explosive barrels, the explosion is magnified.|nLasts .<A0G6,Dur1,%> seconds.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

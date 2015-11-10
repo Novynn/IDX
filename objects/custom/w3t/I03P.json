@@ -1,0 +1,86 @@
+{
+    "base": "pnvu",
+    "id": "I03P",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AId2,AIlf"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Increases armor by +2 and hit points by 150."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpOne.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isel",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa7cfc00Shield of Will|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases armor by +2 and hit points by 150."
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "base": "Rhst",
+    "id": "R02G",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNResistantSkin.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNResistantSkin.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNResistantSkin.blp",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNResistantSkin.blp",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba2",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gcls",
+            "type": 3,
+            "value": "armor",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef3",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef4",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglm",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "500",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "250",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "4",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo2",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Mana Handling",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Enhanced Mana Handling",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Advanced Mana Handling",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Expert Mana Handling",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN2",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN3",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN3",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "10",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtim",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Mana Handling",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Enhanced Mana Handling",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Advanced Mana Handling",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Expert Mana Handling",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the Draenei's towers and walls mana capacity 50 and also increases their mana regeneration rate by 20%.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the Draenei's towers and walls mana capacity 50 and also increases their mana regeneration rate by 20%.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the Draenei's towers and walls mana capacity 50 and also increases their mana regeneration rate by 20%.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the Draenei's towers and walls mana capacity 50 and also increases their mana regeneration rate by 20%.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

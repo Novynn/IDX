@@ -1,0 +1,236 @@
+{
+    "base": "owtw",
+    "id": "o03C",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "89"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0.800000012"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\BansheeMissile\\BansheeMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "chaos"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00D,A0OU,A0H9"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "750"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPyrolia.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "war3mapImported\\Pyrolia_squished.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "umvr",
+            "type": 2,
+            "value": "0.600000024"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff69b4Island Bloom|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "80"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "uscb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Arachnathid"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00X|r) Build |cffff69b4Island Bloom|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful tower that can only deal damage during the daytime. This tower has the ability to cast Seed, which creates 3 seedlings at the targeted position that attack nearby enemy units. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff8c6239While being held as an item it gives its carrier a slowing Bloom Aura and also increases the armor of the holder by 5.|r"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "base": "owtw",
+    "id": "o01M",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "109"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.70000005"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\VengeanceMissile\\VengeanceMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0AJ,A0H9"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEnergyTower.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "350"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\ElvenGuardMagicTower\\ElvenGuardMagicTower.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0000Mega Energy Tower|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q277,n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.39999998"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Build |cFFFF0000Mega Energy Tower|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Faerie Dragon's ultimate defensive tower.|n|cff808080This tower deals a magic shattering attack and even burns 6 mana every time it contacts an enemy. Although this tower does high damage, it is twice as slow as most other towers.|r|n|n|cffffcc00Health:|r 500|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 110 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r1.7s"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "HSMA"
+        }
+    ]
+}

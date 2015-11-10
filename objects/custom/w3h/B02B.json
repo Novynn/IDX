@@ -1,0 +1,41 @@
+{
+    "base": "BUav",
+    "id": "B02B",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTransmute.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Crown Damage"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Best weapons money can buy"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is equipted with only the finest weapons; its attack damage is increased."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

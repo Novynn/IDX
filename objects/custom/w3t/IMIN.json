@@ -1,0 +1,96 @@
+{
+    "base": "fgrg",
+    "id": "IMIN",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Consumable|r|cffffcc00]|r"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaMyrmidonRoyalGuard.blp"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Minion Token"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Purchase a Minion Token"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Consumable|r|cffffcc00]|r"
+        }
+    ]
+}

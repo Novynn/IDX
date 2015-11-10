@@ -1,0 +1,106 @@
+{
+    "base": "rhth",
+    "id": "I02L",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeepLordRevenant.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Titan - Voltron"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00S|r) |cffC4FFFFVoltron|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cffff8000Medium|r|n|n|cffffcc00Nuke:|r |cff00ff00Forked Lightning (Standard multi-target spell)|r|n|n|cffffcc00Heal:|r |cff00ff00Static Sphere (Single target heal for x amount after 3 seconds--requires nearby structures to work)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Conduction (1200 range blink with large cooldown--rather easy to prevent)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Energy.  Has a shortened wind walk but has a few handy abilities like Atmospheric Charge (Invisibility detection) and 12% evasion.  Average titan throughout game.|r"
+        }
+    ]
+}

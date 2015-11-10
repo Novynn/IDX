@@ -1,0 +1,46 @@
+{
+    "base": "Binf",
+    "id": "B01X",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBloodLust.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Bloodlust"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "x"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\CommandAura\\CommandAura.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Bloodlust"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This structure has Bloodlust; its attack speed is increased."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

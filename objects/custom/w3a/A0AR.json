@@ -1,0 +1,139 @@
+{
+    "base": "Auhf",
+    "id": "A0AR",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Uhf1",
+            "type": 2,
+            "value": "0.5",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Uhf2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBloodLustOn.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01X",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "20",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Bloodlust",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Tauren)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "orc",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "O01Q,q165",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "player,structure",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Bloodlust",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Increases the attack rate of a targeted structure owned by the tauren by 50% for 60 seconds. |n|cffffcc00Unit Targeted -- 20 second cooldown",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

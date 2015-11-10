@@ -1,0 +1,104 @@
+{
+    "base": "AHad",
+    "id": "A01C",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Had1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "800",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaArmorUp1.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00F",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Protective Scales",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaArmorUp1.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q249",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,friend,ground,invulnerable,self,structure,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\WarDrums\\DrumsCasterHeal.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Protective Scales",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Gives 10 additional armor to nearby friendly units and structures.|n|cffffcc00Passive aura - 800 range.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

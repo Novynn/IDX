@@ -1,0 +1,51 @@
+{
+    "base": "Bchd",
+    "id": "B01Y",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Pulverized"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Thunderclap\\ThunderClapCaster.mdl"
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Thunderclap\\ThunderClapCaster.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Pulverized"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been pulverized."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

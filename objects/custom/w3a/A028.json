@@ -1,0 +1,27 @@
+{
+    "base": "Ault",
+    "id": "A028",
+    "mods": [
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Makrura)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q257",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

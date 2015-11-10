@@ -1,0 +1,96 @@
+{
+    "base": "rhth",
+    "id": "I028",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNInfernal.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Defender - Radioactive"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00A|r) |cFF00FF00Radioactive|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cffff8040Medium|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Isotopic Shield|n|n|r|cffffcc00Description:|r |cff0080ffAn average builder that becomes siginificantly better with gold.  Buildings build themselves and Titan Hunters can fit through 1x1 spaces. Average walls--Average towers with gold upgrades available that boost damage or add special features.|r"
+        }
+    ]
+}

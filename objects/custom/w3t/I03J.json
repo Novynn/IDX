@@ -1,0 +1,96 @@
+{
+    "base": "manh",
+    "id": "I03J",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0ML"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\tomeRed\\tomeRed.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iicd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTomeBrown.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isel",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Early Beginnings"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Start Early Beginnings"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cff808080\"The Island wasn't always like this...\"|r|n|cffffcc00An easy introduction quest to get you started|r|n|n|cffffcc00Difficulty:|r Easy|n|cffffcc00Time:|r Moderate|n|cffffcc00Reward:|r 5 Gold|n|n|cff1e90ffI need you to collect some water samples for me.|r"
+        }
+    ]
+}

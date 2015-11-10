@@ -1,0 +1,41 @@
+{
+    "base": "LTt4",
+    "id": "LTt4",
+    "mods": [
+        {
+            "id": "bclh",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "bcpr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "bgse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "btil",
+            "type": 3,
+            "value": "Z"
+        },
+        {
+            "id": "btxf",
+            "type": 3,
+            "value": "ReplaceableTextures\\RuinsTree\\RuinsTree"
+        },
+        {
+            "id": "buch",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

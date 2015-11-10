@@ -1,0 +1,231 @@
+{
+    "base": "owtw",
+    "id": "o00L",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "134"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "2.5"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\DemolisherFireMissile\\DemolisherFireMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "2000"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "chaos"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00D,A01R,A0H9"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "2000"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "135"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "C"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "750"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDemolisher.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.170000002"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\orc\\catapult\\catapult_V1.mdl"
+        },
+        {
+            "id": "umvr",
+            "type": 2,
+            "value": "0.600000024"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|CFF8C6239Catapult"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "80"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.54999995"
+        },
+        {
+            "id": "uscb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Catapult"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Build Catapult"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The ultimate tower for any Trolls' defense. Not only does it do incredible damage with a distance of 2000, but it also has critical strike. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFF8C6239While being held as an item, it gives the holder a 15% chance to do 3 times normal damage."
+        }
+    ]
+}

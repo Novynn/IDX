@@ -1,0 +1,31 @@
+{
+    "base": "Buhf",
+    "id": "B014",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTranquility.blp"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Curse\\CurseTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Detected"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been detected; it is visible to an enemy player."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

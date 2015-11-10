@@ -1,0 +1,66 @@
+{
+    "base": "rat6",
+    "id": "I03Q",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AItj"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Charged"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Boosts attack damage by 5."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "12"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaWeaponUp1.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Trident"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Purchase Trident +5"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the attack damage of the Hero by 5.|n|cffff4500Collect 3 of these and they will combine to form a Trident of Power.|r"
+        }
+    ]
+}

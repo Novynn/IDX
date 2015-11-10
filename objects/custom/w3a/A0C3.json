@@ -1,0 +1,244 @@
+{
+    "base": "AHbh",
+    "id": "A0C3",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNCleavingAttack.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "4",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Rending Blade",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Icon)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "other",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q111",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr's razor blade deals 25 bonus damage and cuts through the targets armour, reducing it by 2.|n|cffffcc00Passive.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr's razor blade deals 50 bonus damage and cuts through the targets armour, reducing it by 4.|n|cffffcc00Passive.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr's razor blade deals 75 bonus damage and cuts through the targets armour, reducing it by 6.|n|cffffcc00Passive.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr's razor blade deals 100 bonus damage and cuts through the targets armour, reducing it by 8.|n|cffffcc00Passive.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

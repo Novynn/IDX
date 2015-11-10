@@ -1,0 +1,101 @@
+{
+    "base": "rhth",
+    "id": "I00R",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLichVersion2.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Titan - Glacious"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) |cff0080ffGlacious|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Nuke:|r |cff00ff00Frost Explosion (Short cast time, below average damage, aoe, frost spell)|n|r|n|cffffcc00Heal:|r |cff00ff00Glaciate (Area of effect heal healing nearby units depending on how close they are)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Arctic Might (Buffs the target unit adding 50 armor and 25% damage for 16 seconds)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Ice.  An average scouter.  Good sieger titan, decent power leveler.  Mid-late game advantage.|r"
+        }
+    ]
+}

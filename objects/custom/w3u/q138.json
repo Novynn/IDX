@@ -1,0 +1,136 @@
+{
+    "base": "ncop",
+    "id": "q138",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aloc,Avul,UPGR"
+        },
+        {
+            "id": "ubdg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ucol",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTichondrius.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "3500"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Props\\PeasantGrave\\PeasantGrave.mdl"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Demon Mastery"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(4.0.0 - Triggered Upgrade)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q255,q252"
+        },
+        {
+            "id": "urqa",
+            "type": 3,
+            "value": "1,1"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.100000001"
+        },
+        {
+            "id": "ushr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Research Demon Mastery"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Allows the demonologist to summon the powerful  Balthasar, a demonic Titan Hunter with the Demon Shock, and Demon Aura abilities as well as the ability to blink.|nLasts 45 seconds."
+        }
+    ]
+}

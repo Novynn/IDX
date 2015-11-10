@@ -1,0 +1,91 @@
+{
+    "base": "pnvu",
+    "id": "I052",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A071"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A071"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRejuvenation.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Titanic Wards"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Drops a ward that heals nearby friendly units for <Ahwd,Dur1> seconds. Unlike Eternal Wards,  this item is passable."
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "base": "ncop",
+    "id": "q104",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aloc,Avul,UPGR"
+        },
+        {
+            "id": "ubdg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ucol",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTreeOfEternity.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "2000"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Props\\PeasantGrave\\PeasantGrave.mdl"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Adept Hunter Training"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(4.0.0 - Triggered Upgrade)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.100000001"
+        },
+        {
+            "id": "ushr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Research Adept Hunter Training"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the damage of your Titan Hunter by 20, hit points by 200, and attack speed by 15%. Also allows the hunter to trap the titan in entangling roots for 3 seconds."
+        }
+    ]
+}

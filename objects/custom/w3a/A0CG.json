@@ -1,0 +1,146 @@
+{
+    "base": "AOsf",
+    "id": "A0CG",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Osf1",
+            "type": 3,
+            "value": "u00T",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Osf2",
+            "type": 0,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPlagueCloud.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02K",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "90",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "W",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Fart Cloud",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(OLD - UNUSED - DELETEME)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\FlakCannons\\FlakTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Fart Cloud",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Ogre lets out a noxious fart that reduces nearby enemy movement speed and renders them unable to cast spells for 3 seconds. The fart also causes the Ogre and nearby organic owned units to move 35% faster and boost their armor by +10. |cffffd700Last 5 seconds.|r|n|n|cffadd8e6Cooldown:|r 90",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

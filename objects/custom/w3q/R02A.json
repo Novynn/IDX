@@ -1,0 +1,125 @@
+{
+    "base": "Rhfc",
+    "id": "R02A",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPeriapt.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "250",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "rmnx",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglm",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "S",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "1000",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Empowered Talismans",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Demon",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "grac",
+            "type": 3,
+            "value": "orc",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "15",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00S|r) Research Empowered Talismans",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "Research advanced |cffffcc00E|rmpowered Talismans",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Adds an additional 250 mana to the Demonologist and his Demonic Fiend by improving their ability to manipulate talismans.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

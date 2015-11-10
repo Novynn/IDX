@@ -1,0 +1,83 @@
+{
+    "base": "ACvp",
+    "id": "A085",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Lifesteal",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Morph H",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "self",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Vampiric Bite",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The beast gains 20% of his attack damage in life when he attacks an enemy.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

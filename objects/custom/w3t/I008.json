@@ -1,0 +1,61 @@
+{
+    "base": "manh",
+    "id": "I008",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AIaa"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Permanent +15 damage."
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNecromancerAdept.blp"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Manual of Power"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Purchase Manual of Power."
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Permanently increases the damage of the Hero by 15."
+        }
+    ]
+}

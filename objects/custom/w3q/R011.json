@@ -1,0 +1,174 @@
+{
+    "base": "Rost",
+    "id": "R011",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEtherealFormOn.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gba2",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba3",
+            "type": 2,
+            "value": "100",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba4",
+            "type": 2,
+            "value": "0.5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gcls",
+            "type": 3,
+            "value": "melee",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "ratr",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef4",
+            "type": 3,
+            "value": "rhpr",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "15",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "E",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "500",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo2",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo3",
+            "type": 2,
+            "value": "100",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo4",
+            "type": 2,
+            "value": "0.5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Tauren Master Training",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Tauren",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "grac",
+            "type": 3,
+            "value": "human",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R02R,R02Q,R02U,R02S",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Research Tauren Master Training",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the Tauren's mana by 100, hit points by 100, attack range by 50, and hit point regeneration by 50%.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

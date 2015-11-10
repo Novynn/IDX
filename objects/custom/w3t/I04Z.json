@@ -1,0 +1,71 @@
+{
+    "base": "modt",
+    "id": "I04Z",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A00K,A06X,A049,A0GM"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "70"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedUnholyStrength.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Gauntlets of Fury"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r|n|n|cffffcc00Demonic Gauntlets wreathed in flames. |r|n|cff1e90ff    +50 Attack Damage|n    +15% Attack Speed|n    +80 Movement Speed|n    On attack: Damages attacked structures for 10 damage per second for 5 seconds.|n|nPassive.|r"
+        }
+    ]
+}

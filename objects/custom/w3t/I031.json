@@ -1,0 +1,96 @@
+{
+    "base": "ratc",
+    "id": "I031",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Shadow Catcher Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Purchase Shadow Catcher"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases mana by 350, mana regeneration by 50%, attack by 10, and grants the user the ability to turn invisible at will.|n|cffffd700Requires:|r Wind Catcher, Moon Crystal, Magic Coral & Recipe"
+        }
+    ]
+}

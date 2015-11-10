@@ -1,0 +1,76 @@
+{
+    "base": "crys",
+    "id": "I01O",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A06T,AItn"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "AIct"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMoonStone.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Moon Crystal"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Purchase Moon Crystal"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Changes the time of day for 60 seconds, and adds +10 to the attack damage of the holder. This item is permanent with a cooldown of 3 minutes."
+        }
+    ]
+}

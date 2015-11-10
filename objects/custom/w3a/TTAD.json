@@ -1,0 +1,293 @@
+{
+    "base": "Aeye",
+    "id": "TTAD",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPhilosophersStone.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "Beye",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "Beye",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "180",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "180",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "300",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "180",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "180",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "300",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "D",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Sentry Stone",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TTAD 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "500",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "500",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPhilosophersStone.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "Learn Sentry Stone (|cffffcc00D|r)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "D",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Summons an invisible and immovable stone that provides vision in an area. |nCan see invisible units.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Summon |cff5f9ea0Sentry Stone|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Sentry Stone (|cffffcc00D|r)",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Sentry Stone (|cffffcc00D|r)",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00The Titan summons a mystic Stone from the ground, binding himself to it so that he can sense nearby presences.|r|n|n|cff1e90ffSummons an immovable Sentry Stone with True Sight for 180 seconds.|nPoint-Targeted - 60 second cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons an invisible and immovable stone that provides vision in an area. |nCan see invisible units. Lasts 180 seconds.|n|cffffcc00Point-Targeted -- 60 second cooldown.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons an invisible and immovable stone that provides vision in an area. |nCan see invisible units. Lasts 300 seconds.|n|cffffcc00Point-Targeted -- 60 second cooldown.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "hwdu",
+            "type": 3,
+            "value": "o022",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "hwdu",
+            "type": 3,
+            "value": "o00Z",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "hwdu",
+            "type": 3,
+            "value": "o00Z",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

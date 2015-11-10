@@ -1,0 +1,195 @@
+{
+    "base": "Aivs",
+    "id": "A0BP",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUrnOfKelThuzad.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B029",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B029",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "45",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "30",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "15",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "15",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "D",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Shadow Dust",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Satyr)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q166",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "overhead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,friend,ground,neutral,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,friend,ground,mechanical,neutral,organic,structure",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\ReplenishMana\\ReplenishManaCasterOverhead.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Shadow Dust",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Shadow Dust",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Turns an allied unit invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts 10 seconds.|n|cffffcc00Unit targeted -- 45 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Turns an allied unit or structure invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts 10 seconds.|n|cffffcc00Unit targeted -- 30 second cooldown.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

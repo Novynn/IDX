@@ -1,0 +1,111 @@
+{
+    "base": "Amgr",
+    "id": "A0C4",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\PASStealthSatyr.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "4",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Fading",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Icon)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Fading - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Fading - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Fading - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Fading - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr is well versed in the art of stealth, and his skill allows him to simply fade into the background when not performing actions. 2.5 second fade time.|n|cffffcc00Passive.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr is well versed in the art of stealth, and his skill allows him to simply fade into the background when not performing actions. 2 second fade time.|n|cffffcc00Passive.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr is well versed in the art of stealth, and his skill allows him to simply fade into the background when not performing actions. 1.7 second fade time.|n|cffffcc00Passive.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr is well versed in the art of stealth, and his skill allows him to simply fade into the background when not performing actions. 1.5 second fade time.|n|cffffcc00Passive.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

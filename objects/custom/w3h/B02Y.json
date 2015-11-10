@@ -1,0 +1,41 @@
+{
+    "base": "BNbr",
+    "id": "B02Y",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fspd",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Dummy"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

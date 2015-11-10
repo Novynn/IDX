@@ -1,0 +1,71 @@
+{
+    "base": "ssil",
+    "id": "I00Q",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A015"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A015"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Summons an extremely fast Speed Turtle"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNReinforcedHides.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Turtle Scales"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Purchase Turtle Scales"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Can summon an extremely fast turtle with the ability to collect items. This unit has no attack and very few hit points, so its only good use is to scavenge the map for items that the Titan has not picked up. (Each Turtle lasts for 5 minutes.)"
+        }
+    ]
+}

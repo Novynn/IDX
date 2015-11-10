@@ -1,0 +1,55 @@
+{
+    "base": "AIbt",
+    "id": "A0CV",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Ibl1",
+            "type": 3,
+            "value": "o01V",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathTower.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "20",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Build Replicator",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\DispelMagic\\DispelMagicTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\DispelMagic\\DispelMagicTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

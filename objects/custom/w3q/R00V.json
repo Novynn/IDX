@@ -1,0 +1,279 @@
+{
+    "base": "Rhfc",
+    "id": "R00V",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEntrapmentWard.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNScrollOfRegenerationGreen.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba2",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba3",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba4",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco1",
+            "type": 3,
+            "value": "A074",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco2",
+            "type": 3,
+            "value": "A07A",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco3",
+            "type": 3,
+            "value": "A07D",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco4",
+            "type": 3,
+            "value": "A03R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "rlev",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "rlev",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef3",
+            "type": 3,
+            "value": "rlev",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglm",
+            "type": 0,
+            "value": "10",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "F",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "1500",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "1500",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo2",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo3",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo4",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Bound Summoning",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Forbidden Summoning Techniques",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Demon",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Demon",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "grac",
+            "type": 3,
+            "value": "orc",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R00G",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R00U,R027",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "15",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtim",
+            "type": 0,
+            "value": "15",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Research Bound Summoning",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "Research |cffffcc00F|rorbidden Summoning Techniques",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Allows the Demonologist to bind summoned demons to himself, allowing them to stay in the physical world for longer. Increases duration of all normal summoned demons to 75 seconds.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the duration of Demon Overlord, Demonic Arachnathid and Fel Hound by an additional 10 seconds and doubles the amount of summons.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

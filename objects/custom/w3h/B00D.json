@@ -1,0 +1,56 @@
+{
+    "base": "Bfae",
+    "id": "B00D",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSpinyCrab.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Crabs"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "back"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "units\\critters\\SpiderCrab\\SpiderCrab.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Crabs"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has Crabs; it has reduced armor and can be seen by the enemy for 30 seconds."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

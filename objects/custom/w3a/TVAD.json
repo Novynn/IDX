@@ -1,0 +1,132 @@
+{
+    "base": "AItb",
+    "id": "TVAD",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "8000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNManaBurn.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01P",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "30",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "16",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "16",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "D",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Atmospheric Charge",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TVAD 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNManaBurn.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "Learn Atmosphe|cffffcc00r|ric Charge",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Reveals enemy invisible units in a large area around the Titan for 10 seconds.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Cast |cff5f9ea0Atmospheric Charge|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00Voltron uses electricity in the atmosphere in order to reveal hidden units.|r|n|n|cff1e90ffReveals enemy invisible units in a huge area around Voltron for 16 seconds.|nSelf-targeted -- 30 second cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

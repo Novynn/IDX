@@ -1,0 +1,176 @@
+{
+    "base": "hwtw",
+    "id": "h01S",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "800"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNZigguratUpgrade.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\undead\\Ziggurat\\Ziggurat.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffc0c0c0Enhanced Wall|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(radioactive)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.899999976"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Upgrade to |cffc0c0c0Enhanced Wall|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A strong wall for Radioactive.|n|cff808080An enhanced wall made of radioactive materials. Average health and armor.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 15 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed: |rN/A"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

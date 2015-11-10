@@ -1,0 +1,195 @@
+{
+    "base": "Aslo",
+    "id": "A04Q",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Slo1",
+            "type": 2,
+            "value": "0.600000024",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Slo2",
+            "type": 2,
+            "value": "0.5",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Slo2",
+            "type": 2,
+            "value": "0.5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "Bslo",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Slam Slow",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "apri",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "creeps",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "99999",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,allies,enemies,ground,neutral",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,allies,enemies,ground,neutral",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "base": "ratc",
+    "id": "I04A",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Summon a more powerful Gnoll Tracker. Recipe."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSnazzyScrollPurple.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "C"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Greater Gnoll Tracker Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Purchase Greater Gnoll Tracker Recipe"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Summon a Greater Gnoll Tracker.|n|cffffd700Requires:|r Gnoll Tracker & Recipe"
+        }
+    ]
+}

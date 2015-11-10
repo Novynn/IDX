@@ -1,0 +1,291 @@
+{
+    "base": "Udre",
+    "id": "U001",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "59"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "debris,enemies,ground,item,structure,ward"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "TSAS,AInv"
+        },
+        {
+            "id": "uagi",
+            "type": 0,
+            "value": "35"
+        },
+        {
+            "id": "uagp",
+            "type": 2,
+            "value": "4.5"
+        },
+        {
+            "id": "uawt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "125"
+        },
+        {
+            "id": "ucs1",
+            "type": 3,
+            "value": "MetalHeavyChop"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhab",
+            "type": 3,
+            "value": "TSNQ,TSNW,TSNE,TSND,TSNR"
+        },
+        {
+            "id": "uhhd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "6"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGreenHydra.blp"
+        },
+        {
+            "id": "uinp",
+            "type": 2,
+            "value": "6"
+        },
+        {
+            "id": "uint",
+            "type": 0,
+            "value": "35"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "7"
+        },
+        {
+            "id": "umas",
+            "type": 0,
+            "value": "522"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Units\\Creeps\\Hydra\\Hydra.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "3"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "350"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0000Titanous Minion|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Sypherious)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "201"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upro",
+            "type": 3,
+            "value": "|CFF003A99Cool Darkness|R,|CFF6C8992Deepseer|R,|CFF008992Wetfang|R,|CFF008947Darkfin|R,|CFF0000ADDeep Terror|R,|CFF3838CEAbysmal Hound|R,|CFF790000Blood Pool|R,|CFF82CA9CFishgrinder|R,|CFF00AEEFShallow Killer|R,|CFF18BE00Devil Fish|R,|CFFFF0000Redgill|R"
+        },
+        {
+            "id": "upru",
+            "type": 0,
+            "value": "11"
+        },
+        {
+            "id": "urq1",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urq2",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urqc",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "260"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.899999976"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "AzureDragon"
+        },
+        {
+            "id": "ussi",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGreenHydra.blp"
+        },
+        {
+            "id": "ustp",
+            "type": 2,
+            "value": "7"
+        },
+        {
+            "id": "ustr",
+            "type": 0,
+            "value": "35"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utpr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "260"
+        }
+    ]
+}

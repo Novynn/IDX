@@ -1,0 +1,139 @@
+{
+    "base": "Aave",
+    "id": "A00S",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "h03W",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Eme3",
+            "type": 2,
+            "value": "30",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Eme4",
+            "type": 2,
+            "value": "30",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "n01Y",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArmorGolem.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "1.04999995",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "C",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Battle Construct Form",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "naga",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "e013,q130",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffd700C|r) Battle Construct Form",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNWispSplode.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Strong mechanical fighter. Has a protective mana shield.|n|n|cffffcc00Melee attack.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "C",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffd700C|r) Mana Void Form",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Strong mechanical fighter. Has a protective mana shield.|n|n|cffffcc00Melee attack.|r",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "ave5",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

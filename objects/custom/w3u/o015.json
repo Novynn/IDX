@@ -1,0 +1,221 @@
+{
+    "base": "owtw",
+    "id": "o015",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "119"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.29999995"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Shockwave\\ShockwaveMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "mline"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00D,A06B,A0H9"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "1000"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "V"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "750"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMagicVault.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\MagicVault\\MagicVault.mdl"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|CFFFFF200Mutation Tower|R"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "80"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ushb",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00V|r) Build Mutation Tower"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage, and has the ability to turn a titan into a critter for 3 seconds every minute. This tower also has the ability to transmute into an item. |CFFFF0000Once Transmuted this tower can only be used as an item!|R |CFFFFF200While being held as an item, it can still be used to mutate a titan into a critter. It will also give the holder +35 to damage|R."
+        }
+    ]
+}

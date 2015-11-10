@@ -1,0 +1,121 @@
+{
+    "base": "nfbr",
+    "id": "n012",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "ACm3,A08V"
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": "alternate"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "40"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPig.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\critters\\Pig\\Pig.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "90"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "amph"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff4500Jakers|r"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Pig"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Demon\\DemonSmallDeathExplode\\DemonSmallDeathExplode.mdl"
+        },
+        {
+            "id": "util",
+            "type": 3,
+            "value": "K,O,*"
+        }
+    ]
+}

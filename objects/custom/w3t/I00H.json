@@ -1,0 +1,86 @@
+{
+    "base": "crys",
+    "id": "I00H",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A007"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A007"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Summons 3 Troll Head Hunters"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRegenerate.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Troll Hand"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00S|r) Purchase Troll Hand"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Summons 3 Troll Head Hunters to come to your aid.|n|cffffd7003 minute cooldown, lasts for 2 minutes.|r"
+        }
+    ]
+}

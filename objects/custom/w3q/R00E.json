@@ -1,0 +1,174 @@
+{
+    "base": "Rost",
+    "id": "R00E",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGnollWarden.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "200",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba2",
+            "type": 2,
+            "value": "200",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba3",
+            "type": 2,
+            "value": "400",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba4",
+            "type": 2,
+            "value": "20",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gcls",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "ratr",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef4",
+            "type": 3,
+            "value": "ratx",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "45",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Q",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "2000",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "200",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo2",
+            "type": 2,
+            "value": "200",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo3",
+            "type": 2,
+            "value": "400",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo4",
+            "type": 2,
+            "value": "20",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Adept Hunter Training",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Gnoll",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "grac",
+            "type": 3,
+            "value": "human",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Research Adept Hunter Training",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Increases the mana capacity of your Titan Hunter by 200, hit points by 400, attack damage by 20, and attack range by 200. Also makes his attacks poisoned so that his attacks slow the movement speed enemy units by 20%.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

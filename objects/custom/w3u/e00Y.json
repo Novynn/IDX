@@ -1,0 +1,201 @@
+{
+    "base": "edob",
+    "id": "e00Y",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0BV,A0C5,S004,A00D"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "UndeadBuildingConstructionLoop"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "72"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "25"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "850"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTransmute.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Structures\\RuinsBuilding\\RuinsBuilding1.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|CFF008400Crown of Thieves|R"
+        },
+        {
+            "id": "uocc",
+            "type": 2,
+            "value": "400"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\4x4SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "orc"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "e00X"
+        },
+        {
+            "id": "ures",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "GoldMine"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Human\\HCancelDeath\\HCancelDeath.mdl"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00X|r) Build |cFF008400Crown of Thieves|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful icon of the Satyr, this vault contains the vast fortune the Satyr has amassed, which inspires his troops perform greater deeds. Provides a collection of auras that greatly increase the power of all player units. This tower can also be turned into an item so that it may be moved to a different location. |c00ff8040While being held it provides the Satyr with +250 hp and +5 armour.|r"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "OSMA"
+        }
+    ]
+}

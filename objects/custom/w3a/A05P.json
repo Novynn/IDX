@@ -1,0 +1,132 @@
+{
+    "base": "Apg2",
+    "id": "A05P",
+    "mods": [
+        {
+            "data": 3,
+            "id": "Prg3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAntiMagicShell.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "BFig",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Sacrifice",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "200",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q244",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Darksummoning\\DarkSummonTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,ground,neutral,nonhero,notself,organic,player",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Darksummoning\\DarkSummonTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Sacrifice",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Sacrifices the targeted summoned unit or critter in order to summon a Demonic Stalker with True Sight.  Lasts 15 seconds.|n|cffffcc00Unit-Targeted - 100 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

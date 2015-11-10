@@ -1,0 +1,216 @@
+{
+    "base": "Rhri",
+    "id": "R01U",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStoneArchitecture.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStoneArchitecture.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStoneArchitecture.blp",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba2",
+            "type": 2,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gcls",
+            "type": 3,
+            "value": "armor",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "rhpx",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "rsig",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "Z",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "250",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo2",
+            "type": 2,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Basic Reinforcement",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Improved Reinforcement",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Basic Reinforcement",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "15",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtim",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Basic Reinforcement",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Improved Reinforcement",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Basic Reinforcement",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Boosts your basic defenses, giving 50 bonus health to your walls.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Boosts your defenses further, giving 50 bonus health to your walls.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Boosts your basic defenses, giving 50 bonus health to your walls.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "base": "LTbx",
+    "id": "B00B",
+    "mods": [
+        {
+            "id": "bnam",
+            "type": 3,
+            "value": "Barrel of Dreams and Sadness|nIn thanks of ShadowZz and Fossurious"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "base": "pnvu",
+    "id": "I023",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Permanently turns the holder invisible. Can also be used actively to enable the holder to walk through units and gain a 25% increase in movement speed for 20 seconds.|n|cffff0000Recipe.|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRingVioletSpider.blp"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caab600ffRing of Shadows Recipe|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700S|r) |cffb600ffRing of Shadows Recipe|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Permanently turns the holder invisible. Can also be used actively to enable the holder to walk through units and gain a 25% increase in movement speed for 20 seconds.|n|cffffd700Requires: |r4 eggs and a Greater Gnoll Luck Charm."
+        }
+    ]
+}

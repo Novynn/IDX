@@ -1,0 +1,62 @@
+{
+    "base": "Awha",
+    "id": "A05X",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Wha1",
+            "type": 2,
+            "value": "14",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Wha2",
+            "type": 0,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "13.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "13.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Nature - Level 3)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Gather - Level 3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "base": "owtw",
+    "id": "o027",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "49"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0.850000024"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\OrbVenom\\OrbVenomMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua2b",
+            "type": 0,
+            "value": "64"
+        },
+        {
+            "id": "ua2c",
+            "type": 2,
+            "value": "0.850000024"
+        },
+        {
+            "id": "ua2d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua2g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua2m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\FireBallMissile\\FireBallMissile.mdl"
+        },
+        {
+            "id": "ua2r",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "ua2s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua2t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua2w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "ua2z",
+            "type": 0,
+            "value": "1800"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9,A0EA"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "1100"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ubs2",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udp2",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhd2",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrcMeleeUpThree.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma2",
+            "type": 2,
+            "value": "0.150000006"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0000Deadly Mega Axe Tower|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "65"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uqd2",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "urb2",
+            "type": 2,
+            "value": "250"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q139,n00S"
+        },
+        {
+            "id": "urqa",
+            "type": 3,
+            "value": "1"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.79999995"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Build |cFFFF0000Deadly Mega Axe Tower|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Gnoll's incomparable defensive tower.|n|cff808080Useful towers with average attack damage. Slowing poison however make these towers excel all the others. Most effective in large numbers.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 55 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r0.85s"
+        }
+    ]
+}

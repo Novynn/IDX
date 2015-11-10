@@ -1,0 +1,96 @@
+{
+    "base": "ssan",
+    "id": "I02O",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A09U,AIrm,A08Q"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Regenerates friendly demons around the holder."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRegenerationAura.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Demon Totem"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN3"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Purchase Demon Totem"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Regenerates friendly demons around the holder for 10 hp per second, and provides bonus mana regeneration and armour for the holder. Does not heal self."
+        }
+    ]
+}

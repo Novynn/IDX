@@ -1,0 +1,76 @@
+{
+    "base": "stel",
+    "id": "I026",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A02Y"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A02Y"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "This is a permanent teleportation staff. It works the same as any other teleportation staff, except the casting time on this one is half a second and it can be used over and over. (Long Cooldown).|n|cffff0000Recipe|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "F"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caaffff00Teleporter Recipe|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700F|r) |cffffff00Teleporter Recipe|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "This is a permanent teleportation staff. It works the same as any other teleportation staff, except the casting time on this one is half a second and it can be used over and over. (Long Cooldown).|n|cffffd700Requires:|r 2 Titan Eggs, 1 Staff of Teleportation"
+        }
+    ]
+}

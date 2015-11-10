@@ -1,0 +1,188 @@
+{
+    "base": "Aroa",
+    "id": "A05C",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Roa1",
+            "type": 2,
+            "value": "0.150000006",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "700",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDisenchant.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B015",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B015",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\WarStomp\\WarStompCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "30",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Z",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amac",
+            "type": 2,
+            "value": "0.150000006",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\VengeanceMissile\\VengeanceMissile.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "1800",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Overload",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,friend,ground,invulnerable,self,structure,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Overload",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Dummy Overload",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Gives friendly nearby structures a 15% bonus to damage. |nLasts 30 seconds.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "If you're seeing this, something went wrong!",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

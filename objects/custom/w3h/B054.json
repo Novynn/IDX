@@ -1,0 +1,36 @@
+{
+    "base": "Bspe",
+    "id": "B054",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBootsOfSpeed.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Island's Blessing"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\AIsp\\SpeedTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "|cff00ff00Island's Blessing|r"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This player has been blessed by the island. This unit has increased movement speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

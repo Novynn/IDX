@@ -1,0 +1,188 @@
+{
+    "base": "ANde",
+    "id": "TLAR",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Nde1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Nde1",
+            "type": 2,
+            "value": "20",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Nde2",
+            "type": 2,
+            "value": "1.5",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Nde2",
+            "type": 2,
+            "value": "1.5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alsk",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TLAR 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNDemolish.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Learn |cff4169e1Demolish|r - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Lucidious's rage knows no bounds. He now attacks the Defender's structures with more power.|r|n|cff808080\"I'll tear down your pitiful bases one brick at a time.\"|r|n|n|cffffcc00Level 1|r - |cff1e90ffGives Lucidious a 10% chance to deal 150% damage against structures.|n|r|cffffcc00Level 2|r - |cff1e90ffGives Lucidious a 20% chance to deal 150% damage against structures.|nPassive.|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemy,structure",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cff4169e1Demolish|r - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cff4169e1Demolish|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNDemolish.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Lucidious's rage knows no bounds. He now attacks the Defender's structures with more power.|r|n|cff808080\"I'll tear down your pitiful bases one brick at a time.\"|r|n|n|cff1e90ffGives Lucidious a 10% chance to deal 150% damage against structures.|nPassive.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Lucidious's rage knows no bounds. He now attacks the Defender's structures with more power.|r|n|cff808080\"I'll tear down your pitiful bases one brick at a time.\"|r|n|n|cff1e90ffGives Lucidious a 20% chance to deal 150% damage against structures.|nPassive.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

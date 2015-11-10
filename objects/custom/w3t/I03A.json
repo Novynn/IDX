@@ -1,0 +1,91 @@
+{
+    "base": "tsct",
+    "id": "I03A",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0CM,A0CL,AItx,AItj"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0CM"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Methane Machine"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "units\\undead\\MeatWagon\\MeatWagon.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMeatWagon.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.400000006"
+        },
+        {
+            "id": "issc",
+            "type": 1,
+            "value": "50"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff00be00Methane Machine|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Methane Machine at a target location. Also provides +25 damage to the holder and gives off gassy aura that poisons nearby titans for 50 damage per second."
+        }
+    ]
+}

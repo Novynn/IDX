@@ -1,0 +1,151 @@
+{
+    "base": "nwnr",
+    "id": "n009",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "129"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure,ward"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00Q"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "8"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "255"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "32"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "1300"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "4"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "0.0500000007"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Abominable Snow Man"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "480"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        }
+    ]
+}

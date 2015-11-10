@@ -1,0 +1,171 @@
+{
+    "base": "hwtw",
+    "id": "h03X",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0E8"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "800"
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": "alternate"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": "A0E8"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBrilliance.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Cinematic\\RessurectionStoneSE\\RessurectionStoneSE.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffd3d3d3Enchanted Rock Wall|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.550000012"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Build an |cffd3d3d3Enchanted Rock Wall|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A weak wall for the Draenei.|n|cff808080This wall may seem weak, but its Mana Shield can take a bit of damage before collapsing.|r|n|n|cffffcc00Health:|r 50|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed: |rN/A"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "OSMA"
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "u014"
+        }
+    ]
+}

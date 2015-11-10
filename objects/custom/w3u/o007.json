@@ -1,0 +1,266 @@
+{
+    "base": "owtw",
+    "id": "o007",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage and has extremely long range. This towers attacks also destroy 50 mana per hit against any unit, causing bonus damage equal to the mana destroyed. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff0080While being held as an item, it causes the hero's attacks to drain mana from the targeted enemy.|r"
+        },
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "99"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\OrbOfDeath\\OrbOfDeathMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "1100"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9,A00D,A002"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "1100"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "175"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "175"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "uept",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "V"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "750"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUsedSoulGem.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Units\\Human\\HeroBloodElf\\BloodElfBall.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "350"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "350"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|c00ff0080Magic Pearl|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "6"
+        },
+        {
+            "id": "uscb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ushb",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": "ShadowFlyer"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "ArcaneVault"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700V|r) Build Magic Pearl"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage and has extremely long range. This tower's attacks also destroy 50 mana per hit against any unit, causing bonus damage equal to the mana destroyed. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff0080While being held as an item, this tower makes the holder degenerate nearby enemy units mana over time.|r"
+        }
+    ]
+}

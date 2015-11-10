@@ -1,0 +1,36 @@
+{
+    "base": "BIcf",
+    "id": "B02M",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAntiMagicShell.blp"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "units\\undead\\PlagueCloud\\PlagueCloud.mdl"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "units\\undead\\PlagueCloud\\PlagueCloud.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Methane Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has a Methane Machine; nearby enemy ground units will take damage over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

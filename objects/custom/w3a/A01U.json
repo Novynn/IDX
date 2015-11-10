@@ -1,0 +1,27 @@
+{
+    "base": "Alit",
+    "id": "A01U",
+    "mods": [
+        {
+            "data": 0,
+            "id": "alig",
+            "type": 3,
+            "value": "AFOD",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Stasis Attack",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

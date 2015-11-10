@@ -1,0 +1,111 @@
+{
+    "base": "Apxf",
+    "id": "A05O",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBanshee.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00K",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "4",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Undead\\UndeadDissipate\\UndeadDissipate.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "1100",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Restless Spirits",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Demonologist (UNUSED)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Restless Spirits",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Spirits will attack nearby enemy units.",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "pxf1",
+            "type": 2,
+            "value": "25",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "pxf2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

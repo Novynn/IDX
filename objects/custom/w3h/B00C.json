@@ -1,0 +1,41 @@
+{
+    "base": "Basl",
+    "id": "B00C",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\PASEntangle.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "Makrura"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Web\\WebTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Seaweed Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is caught within a bed of seaweed; its movement speed has been reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

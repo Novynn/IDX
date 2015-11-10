@@ -1,0 +1,62 @@
+{
+    "base": "AId1",
+    "id": "A000",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Effect",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Alpha Tester)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "origin",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atac",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\TargetArtLumber\\TargetArtLumber.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

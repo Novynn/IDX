@@ -1,0 +1,237 @@
+{
+    "base": "AOwk",
+    "id": "TBAW",
+    "mods": [
+        {
+            "data": 2,
+            "id": "Owk2",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Owk2",
+            "type": 2,
+            "value": "10",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Owk2",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Owk3",
+            "type": 2,
+            "value": "75",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Owk3",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Owk3",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01C",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "135",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Death Void",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TBAW 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Learn |cffafeeeeDeath Void|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffafeeeeEscape|r|cffffcc00]|r|n|n|cffffcc00Bubonicus enshrouds himself with death, becoming invisible for a short period of time.|r|n|n|cff1e90ffHides the Titan for 20 seconds while enhancing his movement speed and allowing him to walk through other units. When attacking while Death Void is active, Bubonicus will deal an additional 75 damage. Useful for escaping units that try to box you in.|n|r|n|cff1e90ffSelf-Targeted - 2 minute cooldown.|r|n|n|cffff5522Beware:|r Gnoll Trackers can see invisible units.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,item,structure",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,item,structure",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Cast |cffafeeeeDeath Void|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffafeeeeEscape|r|cffffcc00]|r|n|n|cffffcc00Bubonicus.|r|n|n|cff1e90ffHides the Titan for 20 seconds while enhancing his movement speed and allowing him to walk through other units. When attacking while Death Void is active, Bubonicus will deal an additional 75 damage. Useful for escaping units that try to box you in.|n|r|n|cff1e90ffSelf-Targeted - 2 minute cooldown.|r|n|n|cffff5522Beware:|r Gnoll Trackers can see invisible units.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

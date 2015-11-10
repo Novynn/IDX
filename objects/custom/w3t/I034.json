@@ -1,0 +1,101 @@
+{
+    "base": "tsct",
+    "id": "I034",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0BW"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0BW"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Barricade"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Terrain\\Barricade\\Barricade1.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRiderlessKodo.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.75"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Barricade"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Barricade"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Barricade at a target location."
+        }
+    ]
+}

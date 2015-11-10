@@ -1,0 +1,171 @@
+{
+    "base": "hgtw",
+    "id": "h005",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "9"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "105"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "chaos"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A03L,A0H9"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNJunkGolem.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\IronGolem\\IronGolem.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff708090Advanced Wall|r"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Upgrade to Advanced Wall"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A strong wall for the Goblin.|n|cff808080These walls have 20% evasion and will attack nearby enemies.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 20 Fortified|n|cffffcc00Attack:|r 10 Chaos|n|cffffcc00Attack Range:|r 105|n|cffffcc00Attack Speed:|r Very Fast"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "base": "Srtt",
+    "id": "S009",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Cha1",
+            "type": 3,
+            "value": "h01W",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Spear Thrower Adept Upgrade",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

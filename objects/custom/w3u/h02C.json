@@ -1,0 +1,156 @@
+{
+    "base": "hfoo",
+    "id": "h02C",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aloc"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\WorldEditUI\\DoodadPlaceholder.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Abilities\\Weapons\\FaerieDragonMissile\\FaerieDragonMissile.mdl"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "30"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Ethereal Mark"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Demonologist)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "2.25"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "0.100000001"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

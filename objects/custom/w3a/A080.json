@@ -1,0 +1,132 @@
+{
+    "base": "ACss",
+    "id": "A080",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Esh1",
+            "type": 2,
+            "value": "75",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Esh3",
+            "type": 2,
+            "value": "0.550000012",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Esh4",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "attack",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNQuillSpray.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "45",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "3.0999999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "3.0999999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Deadly Spines",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Morph H",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "500",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q090",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,neutral,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Deadly Spines",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Launchs a poisoned spine at an enemy, 75 damage per second. The poison slows the attack rate and movement speed of the enemy for a short duration. Lasts 3 seconds. |n|cffffcc00Unit-Targeted -- 45 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

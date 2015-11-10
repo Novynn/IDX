@@ -1,0 +1,62 @@
+{
+    "base": "Aens",
+    "id": "A01A",
+    "mods": [
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "Bena,B00A",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q247",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Causes a target enemy unit to be bound to the ground so that it cannot move for 3 seconds.|n|cffffcc00Unit-Targeted -- 60 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

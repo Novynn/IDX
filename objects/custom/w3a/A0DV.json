@@ -1,0 +1,209 @@
+{
+    "base": "Afak",
+    "id": "A0DV",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "250",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "250",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\OrbOfDeath\\OrbOfDeathMissile.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "15",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Orb of Destruction",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "nightelf",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "900",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "900",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q136",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,neutral,structure",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,neutral,structure",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00O|r) Orb of Destruction",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00O|r) Orb of Destruction",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Adds 15 bonus damage to the Construct's attack and deals AoE damage.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Adds 15 bonus damage to the Construct's attack and deals AoE damage.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "|cffc3dbffRight-click to deactivate auto-casting.|r",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "fak1",
+            "type": 2,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "fak1",
+            "type": 2,
+            "value": "15",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "fak2",
+            "type": 2,
+            "value": "0.450000018",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "fak3",
+            "type": 2,
+            "value": "0.25",
+            "variation": 2
+        },
+        {
+            "data": 4,
+            "id": "fak4",
+            "type": 2,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "fak4",
+            "type": 2,
+            "value": "100",
+            "variation": 2
+        },
+        {
+            "data": 5,
+            "id": "fak5",
+            "type": 2,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "fak5",
+            "type": 2,
+            "value": "100",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

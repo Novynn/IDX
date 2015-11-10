@@ -1,0 +1,26 @@
+{
+    "base": "Buhf",
+    "id": "B013",
+    "mods": [
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Voodoo\\VoodooAuraTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Voodoo"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is bound by Voodoo; it will take damage instead of the caster until it dies."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

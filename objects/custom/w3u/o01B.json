@@ -1,0 +1,276 @@
+{
+    "base": "ocbw",
+    "id": "o01B",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "49"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "2.4000001"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\SpiritOfVengeanceMissile\\SpiritOfVengeanceMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A075,S001,A076,A0H9"
+        },
+        {
+            "id": "uabr",
+            "type": 2,
+            "value": "15"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "800"
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": "first"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "OrcBuildingConstructionLoop"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "uept",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "350"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDalaranGuardTower.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "130"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\TowerDefenseTower\\TowerDefenseTower.mdl"
+        },
+        {
+            "id": "umxp",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "umxr",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffef4500Super Pulse Tower|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\4x4SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "55"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.10000002"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "ArcaneTower"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Build a |cffef4500Super Pulse Tower|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Morphling's advanced defensive tower.|n|cff808080Although these towers do not cost food, they need a Morphling Harvester inside to deal damage. Useful in large numbers.|r|n|n|cffffcc00Health:|r 350|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 50 Pierce|n|cffffcc00Attack Range:|r 800|n|cffffcc00Attack Cooldown: |r2.4s"
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "o01C"
+        }
+    ]
+}

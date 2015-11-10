@@ -1,0 +1,91 @@
+{
+    "base": "pnvu",
+    "id": "I03S",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Increases armor by +2 and hit points by 150.|n|cffff0000Recipe|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpOne.blp"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa7cfc00Shield of Will|r Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700R|r) |cff7cfc00Shield of Will|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases armor by +2 and hit points by 150.|n|cffffd700Requires:|r 1 Titan Egg, 2 Armored Scales"
+        }
+    ]
+}

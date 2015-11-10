@@ -1,0 +1,36 @@
+{
+    "base": "BHbn",
+    "id": "B051",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMagicImmunity.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Dryad)"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Nature's Grace"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has gained bonus mana regeneration."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

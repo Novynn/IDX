@@ -1,0 +1,61 @@
+{
+    "base": "Bbsk",
+    "id": "B01W",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAncestralSpirit.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Charge"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta5",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Bloodlust\\BloodlustTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Charge"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is Charging; it has increased movement and attack speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

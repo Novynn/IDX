@@ -1,0 +1,71 @@
+{
+    "base": "BEim",
+    "id": "B018",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShield.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Shadow Walk"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(TLAF 4.0.0)"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\AvengerMissile\\AvengerMissile.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Shadow Walk"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Shadow Walk. It has permanant invisibility."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

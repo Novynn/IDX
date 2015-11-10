@@ -1,0 +1,151 @@
+{
+    "base": "uloc",
+    "id": "u008",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A04C,Aeth,WARD"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "75"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNExhumeCorpses.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Cityscape\\Props\\CityGrave\\CityGrave2.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umvr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "foot"
+        },
+        {
+            "id": "umxp",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "umxr",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Corpse Ward"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Bubonicus)"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Doodads\\Cityscape\\Props\\CityGrave\\CityGrave2.mdl"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": "ground"
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "standon,ward"
+        }
+    ]
+}

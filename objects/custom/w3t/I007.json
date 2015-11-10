@@ -1,0 +1,66 @@
+{
+    "base": "wshs",
+    "id": "I007",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A070"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMagicalSentry.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Eye of the Ocean"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700W|r) Purchase Eye of the Ocean"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cff1e90ffGives the player vision of a target.|r|n|n|cffff5522Note: |rThis item stacks! |cff1e90ffDouble-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
+        }
+    ]
+}

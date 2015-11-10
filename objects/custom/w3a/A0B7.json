@@ -1,0 +1,41 @@
+{
+    "base": "Assp",
+    "id": "A0B7",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Sod1",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Sod2",
+            "type": 3,
+            "value": "nfbr",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B021",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Darox)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

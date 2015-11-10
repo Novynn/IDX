@@ -1,0 +1,426 @@
+{
+    "base": "Rorb",
+    "id": "R032",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLeatherUpgradeOne.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLeatherUpgradeTwo.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLeatherUpgradeTwo.blp",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLeatherUpgradeThree.blp",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLeatherUpgradeThree.blp",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedMoonArmor.blp",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedMoonArmor.blp",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "rhpx",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "rarm",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglm",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "A",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "A",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "A",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "A",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "A",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "A",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "E",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "ginh",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "500",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "6",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "50",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Endurance Training - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Endurance Training - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Endurance Training - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Endurance Training - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Endurance Training - [|cffffcc00Level 5|r]",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Endurance Training - [|cffffcc00Level 6|r]",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Endurance Training",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Satyr",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Satyr",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Satyr",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Satyr",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Satyr",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "Satyr",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "grac",
+            "type": 3,
+            "value": "naga",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN3",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN3",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN4",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "TWN4",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "e00Y",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "30",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Endurance Training - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Endurance Training - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Endurance Training - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Endurance Training - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Endurance Training - [|cffffcc00Level 5|r]",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Endurance Training - [|cffffcc00Level 6|r]",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "|cffffcc00E|rndurance Training",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

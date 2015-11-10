@@ -1,0 +1,266 @@
+{
+    "base": "hkni",
+    "id": "h00T",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "59"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.35000002"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure,ward"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0G8,A00W,A0H7"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Wood"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "35"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "22"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "V"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "3"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAncientOfWonders.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\nightelf\\AncientOfWonder\\AncientOfWonder.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "0.0500000007"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "365"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Venomous Protector"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Nature)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q060"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "280"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.449999988"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "480"
+        },
+        {
+            "id": "usma",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "RockGolem"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00V|r) Grow into a Venomous Protector"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful warrior with piercing damage. Has the ability to blink and surround enemy units."
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "280"
+        }
+    ]
+}

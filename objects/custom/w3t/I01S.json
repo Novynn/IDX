@@ -1,0 +1,96 @@
+{
+    "base": "ratc",
+    "id": "I01S",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBrilliance.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Mystic Staff of the Gods Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Purchase Mystic Staff of the Gods Recipe"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases mana by 350, grants the holder truesight, and can actively be used to reveal large portions of the map. This item is also passable.|n|cffffd700Requires:|r Two Pearls of Vision, Magic Coral & Recipe"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "base": "BNso",
+    "id": "B02J",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Soul Burn"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "Ogre"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Environment\\NightElfBuildingFire\\ElfLargeBuildingFire1.mdl"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is afflicted by Soul Burn. It cannot cast spells, attacks for less damage, moves slower, and will take damage over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

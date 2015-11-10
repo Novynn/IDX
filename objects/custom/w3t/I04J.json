@@ -1,0 +1,76 @@
+{
+    "base": "tsct",
+    "id": "I04J",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0G4"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0G4"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Shoot fireworks at nearby Enemies"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNScatterRockets.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff5d00Fireworks Launcher|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Shoot waves of fireworks at your enemies in an area of 450. A Wave of Fireworks is launched every second for 5 seconds.  Fireworks deal 150 damage. |nLasts 5 seconds and has a 45 second cooldown.|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
+        }
+    ]
+}

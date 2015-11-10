@@ -1,0 +1,21 @@
+{
+    "base": "BEia",
+    "id": "B005",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Saturation (Caster)"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(TLAF 4.0.0)"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

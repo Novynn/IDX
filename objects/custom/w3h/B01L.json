@@ -1,0 +1,46 @@
+{
+    "base": "Bspo",
+    "id": "B01L",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNFreezingBreath.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Glacious)"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\FreezingBreath\\FreezingBreathTargetArt.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Chilling Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This structure is chilled; it has reduced attack speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

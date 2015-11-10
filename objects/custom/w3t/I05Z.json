@@ -1,0 +1,86 @@
+{
+    "base": "ssil",
+    "id": "I05Z",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0IE"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0IE"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Summons 1 Furbolg Shaman"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAmuletOftheWild.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "F"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Amulet of the Wild"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Purchase Amulet of the Wild"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Calls forth a Furbolg Shaman that has multiple abilities such as healing and temporarily increasing the attack speed of friendly units. Last for 75 seconds.|n|n4 minute cooldown."
+        }
+    ]
+}

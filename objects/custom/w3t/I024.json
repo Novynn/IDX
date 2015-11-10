@@ -1,0 +1,66 @@
+{
+    "base": "woms",
+    "id": "I024",
+    "mods": [
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPriestAdept.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Soul Wand"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Purchase Soul Wand"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Steals mana from a titan and gives it to the user. One Charge."
+        }
+    ]
+}

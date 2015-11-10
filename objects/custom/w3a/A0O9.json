@@ -1,0 +1,48 @@
+{
+    "base": "ACct",
+    "id": "A0O9",
+    "mods": [
+        {
+            "data": 2,
+            "id": "Ocr2",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Dryad",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q222",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Gives a 20% chance to do 3 times normal damage on an attack.|n|cffffcc00Passive.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

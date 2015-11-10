@@ -1,0 +1,31 @@
+{
+    "base": "BHab",
+    "id": "B05F",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Ignorance Aura"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Thunderclap\\ThunderclapTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "|cffff0000Ignorance Aura|r"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Ignorance Aura; it has an decreased mana regeneration."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

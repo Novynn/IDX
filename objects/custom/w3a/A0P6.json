@@ -1,0 +1,41 @@
+{
+    "base": "AInv",
+    "id": "A0P6",
+    "mods": [
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Builder Inventory",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(UNUSED?)",
+            "variation": 0
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "inv2",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

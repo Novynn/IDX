@@ -1,0 +1,161 @@
+{
+    "base": "hwtw",
+    "id": "h006",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "800"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "25"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "550"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNResStone.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Terrain\\LoardaeronRockChunks\\LoardaeronRockChunks5.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff708090Cement Wall|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "25"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2,q237"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.14999998"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Upgrade to |cff708090Cement Wall|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "An extremely strong wall for the Gnoll.|n|cff808080These walls are made of pure cement, and are one of the strongest walls in the game.|r|n|n|cffffcc00Health:|r 550|n|cffffcc00Armor:|r 25 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed: |rN/A"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

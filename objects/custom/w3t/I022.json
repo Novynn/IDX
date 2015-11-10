@@ -1,0 +1,116 @@
+{
+    "base": "rat6",
+    "id": "I022",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iclr",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "This massive egg is seemingly worthless. Or is it... It's magical consistency would be perfect for making powerful items. If only you had the right help..."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\ThunderLizardEgg\\ThunderLizardEgg.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNThunderLizardEgg.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.5"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "C"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|c00888888Titan Egg|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700C|r) Buy |c00888888Titan Egg|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "This massive egg is seemingly worthless. Or is it... It's magical consistency would be perfect for making powerful items. If only you had the right help..."
+        }
+    ]
+}

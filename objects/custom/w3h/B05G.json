@@ -1,0 +1,36 @@
+{
+    "base": "BHad",
+    "id": "B05G",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSelfDestruct.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Explosive"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is explosive; it will explode when killed by an enemy unit."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

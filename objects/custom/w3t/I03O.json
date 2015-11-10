@@ -1,0 +1,56 @@
+{
+    "base": "dust",
+    "id": "I03O",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03Z"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03Z"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Dust of Appearance"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Purchase Dust of Appearance"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Reveals enemy invisible units in an area around the user.|nContains 2 charges. |nLasts 5 seconds."
+        }
+    ]
+}

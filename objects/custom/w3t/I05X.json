@@ -1,0 +1,106 @@
+{
+    "base": "brac",
+    "id": "I05X",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0ID"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0ID"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iclr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "A mystical stone that allows the holder to teleport a short distance of 600, allowing it to escape the Titan or its Minions."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\Glyph\\Glyph.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPebble.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.5"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa8a2be2Mystic Stone|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A mystical stone that allows the holder to teleport a short distance of 600, allowing it to escape the Titan or its Minions."
+        }
+    ]
+}

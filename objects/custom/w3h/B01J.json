@@ -1,0 +1,36 @@
+{
+    "base": "Broa",
+    "id": "B01J",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Chaos Essence"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Voodoo\\VoodooAuraTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Chaos Essence"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is empowered with Chaos essence; its attack damage has been increased."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

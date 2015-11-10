@@ -1,0 +1,61 @@
+{
+    "base": "rej3",
+    "id": "I01G",
+    "mods": [
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "AIp3"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRejuvenationPotion.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Purchase Replenishment Potion"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Regenerates 2000 hit points and 1000 mana of the Hero over 30 seconds.|n|cffff4500Collect 2 of these and they will combine to form a Greater Replenishment Potion.|r"
+        }
+    ]
+}

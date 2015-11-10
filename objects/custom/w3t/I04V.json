@@ -1,0 +1,51 @@
+{
+    "base": "manh",
+    "id": "I04V",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Permanent +100 hit points."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTomeRed.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Manual of Health (Builder)"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Permanently increases the hit points of the buyer by 100."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "base": "BOac",
+    "id": "BOac",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNManaFlareOff.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "base"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "overhead"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Drain\\ManaDrainCaster.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Disable"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit's attack is disabled."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

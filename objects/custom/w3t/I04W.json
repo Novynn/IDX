@@ -1,0 +1,66 @@
+{
+    "base": "brac",
+    "id": "I04W",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Great Turtle Summons. |n|cffff0000Recipe|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaArmorUp1.blp"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa22aa22Greater Turtle Scale|r Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700Q|r) Buy |caa22aa22Greater Turtle Scale|r Recipe"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Allows you to summon a Greater Turtle that has additional health, and can grow to a large size and act as a temporary wall.|n|cffffd700Requires:|r 1 Titan Egg, 1 Turtle Scales"
+        }
+    ]
+}

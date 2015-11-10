@@ -1,0 +1,46 @@
+{
+    "base": "Bmfl",
+    "id": "B01R",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSpikedBarricades.blp"
+        },
+        {
+            "id": "fefl",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "flig",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Spiked Structure"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "Enemy units that attack this structure will take damage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

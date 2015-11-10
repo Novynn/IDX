@@ -1,0 +1,181 @@
+{
+    "base": "ANab",
+    "id": "A0FW",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Nab1",
+            "type": 2,
+            "value": "-0.899999976",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Nab2",
+            "type": 2,
+            "value": "-0.449999988",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Nab3",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Nab4",
+            "type": 2,
+            "value": "200",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Nab5",
+            "type": 2,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Nab6",
+            "type": 2,
+            "value": "1.50999999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "Attack,Spell",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPurge.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B03A",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "1.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "1.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amac",
+            "type": 2,
+            "value": "0.150000006",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\Bolt\\BoltImpact.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "80",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "10000",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Overload",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPurge.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Overload",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Each attack has a chance to blast all units around the target, crippling their speed and dealing heavy damage.|n|cffffcc00Passive.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

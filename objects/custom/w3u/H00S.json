@@ -1,0 +1,326 @@
+{
+    "base": "Hblm",
+    "id": "H00S",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "104"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.79999995"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure,ward"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "125"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "chaos"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A02L,A04A,A0L7"
+        },
+        {
+            "id": "uagi",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "uagp",
+            "type": 2,
+            "value": "5"
+        },
+        {
+            "id": "uawt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "120"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucs1",
+            "type": 3,
+            "value": "MetalHeavyBash"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "uhab",
+            "type": 3,
+            "value": "A00X,A00V,AHdr,A00Z"
+        },
+        {
+            "id": "uhhd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "4"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTreeOfAges.blp"
+        },
+        {
+            "id": "uint",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umas",
+            "type": 0,
+            "value": "522"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\nightelf\\TreeofLife\\TreeofLife.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "3.29999995"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "365"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff18e7bdTitan Hunter|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(nature)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "upra",
+            "type": 3,
+            "value": "STR"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upro",
+            "type": 3,
+            "value": "|CFFFF8A08Jungle Stalker,|CFFFF0000Island Predator,|CFFFF8A00Silent Stalker,|CFFFF8A00Striped Grizzly,|CFFCF0000Blood Craver,|CFFB06239Den Dweller,|CFFC4C4C4Skull Crusher,|CFFE11300Sharp Claw"
+        },
+        {
+            "id": "upru",
+            "type": 0,
+            "value": "11"
+        },
+        {
+            "id": "urq1",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urq2",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urqc",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.899999976"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1400"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "560"
+        },
+        {
+            "id": "usma",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Ent"
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ussi",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTreeOfAges.blp"
+        },
+        {
+            "id": "ustp",
+            "type": 2,
+            "value": "5"
+        },
+        {
+            "id": "ustr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utpr",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Revive |cff18e7bdTitan Hunter|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A highly skilled Titan Hunter. The Hunter is able to collect the bones of fallen Titans and their minions to increase his level. This particualar hunter is a powerful and tough fighter, well suited to leading armies against Titans."
+        }
+    ]
+}

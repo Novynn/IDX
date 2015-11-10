@@ -1,0 +1,56 @@
+{
+    "base": "ankh",
+    "id": "I00P",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AItn,A012"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r|n|n|cffffcc00You found this powerful ankh strapped around your neck when you awoke. You feel protected.  |r|n|cff1e90ff    +10 Attack Damage|n    On death: revives the holder once and once only with 1200 health.|n|nPassive.|r"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "base": "ANre",
+    "id": "ATMM",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Arm1",
+            "type": 2,
+            "value": "0.0199999996",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Arm1",
+            "type": 2,
+            "value": "0.0199999996",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Arm1",
+            "type": 2,
+            "value": "0.0299999993",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Arm1",
+            "type": 2,
+            "value": "0.0299999993",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Arm1",
+            "type": 2,
+            "value": "0.0399999991",
+            "variation": 5
+        },
+        {
+            "data": 2,
+            "id": "Arm2",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Arm2",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Arm2",
+            "type": 0,
+            "value": "1",
+            "variation": 4
+        },
+        {
+            "data": 2,
+            "id": "Arm2",
+            "type": 0,
+            "value": "1",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "350",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "400",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "450",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "500",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "550",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Mound)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,allies,friend,ground,invulnerable,organic,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

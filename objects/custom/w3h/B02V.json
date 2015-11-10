@@ -1,0 +1,51 @@
+{
+    "base": "Bbsk",
+    "id": "B02V",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\PASBTNEngineeringUpgrade.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Nitro"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\AIfb\\AIfbSpecialArt.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Nitro"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has used Nitro, it has increased movement speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

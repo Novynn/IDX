@@ -1,0 +1,41 @@
+{
+    "base": "BNpi",
+    "id": "B00Q",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNImmolation.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(MolteniousUnique 4.0.0)"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Human\\SmallFlameSpawn\\SmallFlameSpawn.mdl"
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Permanent Immolation"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is currently burning. It is taking 15 points of fire damage per second."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "base": "Bmlt",
+    "id": "B04V",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFarSight.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Growth (Day)"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is constantly growing, especially during the day when it thrives."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

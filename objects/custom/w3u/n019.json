@@ -1,0 +1,86 @@
+{
+    "base": "nech",
+    "id": "n019",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "AInv,A07N"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "215"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "32"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "3500"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "3"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Golden Chicken"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "4"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "1.50000012"
+        }
+    ]
+}

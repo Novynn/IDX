@@ -1,0 +1,16 @@
+{
+    "base": "CTtc",
+    "id": "CTtc",
+    "mods": [
+        {
+            "id": "bhps",
+            "type": 2,
+            "value": "99999"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "base": "engs",
+    "id": "I03G",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03R"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03R"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iclr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "This is an enchanted gemstone module, with the ability to enhance Radon towers with a slowing attack."
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfFrost.blp"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Radon Module - Frost"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q231"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00S|r) Radon Module - Frost"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00An upgrade module for Radon towers which adds an additional 10 damage and grants a slowing attack.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |rSlows enemies' attack and movement speeds by 10% while dealing 5 damage per second for 5 seconds.|n|cffffcc00Super Radon Tower: |rSlows enemies' attack and movement speeds by 20% while dealing 5 damage per second for 5 seconds.|n|cffffcc00Mega Radon Tower: |rSlows enemies' attack and movement speeds by 30% while dealing 5 damage per second for 5 seconds."
+        }
+    ]
+}

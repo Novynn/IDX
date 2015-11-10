@@ -1,0 +1,151 @@
+{
+    "base": "hwtw",
+    "id": "h030",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "800"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "8"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNightElfCaptureFlag.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Barrens\\Props\\TaurenTotem\\TaurenTotem0.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffd3d3d3Totem Wall|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(tauren)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Build a |cffd3d3d3Totem Wall|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A weak wall for the Tauren.|n|cff808080A weak totem that acts as a wall. Has more armor than usual weak walls.|r|n|n|cffffcc00Health:|r 150|n|cffffcc00Armor:|r 8 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed: |rN/A|n|n|cffff0000Note:|r A good base has 4-6 Layers of walls. Un-upgraded walls are an easy source of Gold and Experience for the Titan, upgrade your walls when you can."
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "h031"
+        }
+    ]
+}

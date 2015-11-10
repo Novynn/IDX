@@ -1,0 +1,27 @@
+{
+    "base": "AIbm",
+    "id": "A0OP",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Iman",
+            "type": 0,
+            "value": "350",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Magic Trident of Power)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

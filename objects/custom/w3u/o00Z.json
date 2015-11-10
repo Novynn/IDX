@@ -1,0 +1,236 @@
+{
+    "base": "owtw",
+    "id": "o00Z",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "_"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00D"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "G"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCage.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\WyvernCage2\\WyvernCage2.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cef0054a6Ultimate Structure|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "80"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urb1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.5"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "TempleOfTides"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "2"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Build an |cff0054a6Ultimate Structure|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Ultimate Structure is used to increase your bases defensive or offensive capabilities.|n|cff808080This structure can be upgraded into your race's ultimate tier of towers and walls.|r|n|n|cffffcc00Health:|r 250|n|cffffcc00Armor:|r 20 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build these in a safe place."
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "e00Y,h00P,n01J,n01K,n01L,o003,o005,o006,o007,o00J,o00K,o00L,o00M,o00N,o00O,o00P,o00Q,o00R,o00S,o00T,o015,o016,o017,o01P,o01U,o01V,o01Y,o02A,o02E,o02P,o02Q,o02R,o03C"
+        }
+    ]
+}

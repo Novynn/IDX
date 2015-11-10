@@ -1,0 +1,76 @@
+{
+    "base": "tsct",
+    "id": "I00Z",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A029,A0AX"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A029"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Magic Tower."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArcaneTower.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.20000005"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0080Magic Tower|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Magic Tower at a target location. Also makes the holder degenerate nearby enemy units mana over time."
+        }
+    ]
+}

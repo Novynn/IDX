@@ -1,0 +1,31 @@
+{
+    "base": "BOae",
+    "id": "B030",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNDrunkenDodge.blp"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Feedback\\SpellBreakerAttack.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Earthbound"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is Earthbound; it has a decreased movement speed and attack rate."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

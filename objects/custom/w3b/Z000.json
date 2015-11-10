@@ -1,0 +1,71 @@
+{
+    "base": "GTsh",
+    "id": "Z000",
+    "mods": [
+        {
+            "id": "bfil",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Water\\CoralArch\\CoralArch.mdl"
+        },
+        {
+            "id": "bhps",
+            "type": 2,
+            "value": "99999"
+        },
+        {
+            "id": "bmap",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "bmar",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "bmmb",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "bmmg",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "bnam",
+            "type": 3,
+            "value": "Ruins Coral Arch"
+        },
+        {
+            "id": "bonc",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "bptx",
+            "type": 3,
+            "value": "PathTextures\\18x12Default.tga"
+        },
+        {
+            "id": "btil",
+            "type": 3,
+            "value": "Z"
+        },
+        {
+            "id": "bumm",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "bvar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

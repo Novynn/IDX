@@ -1,0 +1,307 @@
+{
+    "base": "Rhss",
+    "id": "R00I",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNControlMagic.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNControlMagic.blp",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNControlMagic.blp",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba2",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba3",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco1",
+            "type": 3,
+            "value": "&TEL",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco2",
+            "type": 3,
+            "value": "ATMH",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco3",
+            "type": 3,
+            "value": "ATMM",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "rlev",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "rlev",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef3",
+            "type": 3,
+            "value": "rlev",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "C",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "C",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "C",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "C",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "300",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "200",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "4",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo1",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo2",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gmo3",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Apprentice Mystics",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Enhanced Mystics",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Advanced Mystics",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Expert Mystics",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "(Titan)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "(Titan)",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "(Titan)",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "(Titan)",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "20",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Apprentice Mystics",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Enhanced Mystics",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Advanced Mystics",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Expert Mystics",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Decreases the casting delay and cooldown time of teleporting by 0.25s and 20s respectively. Also increases the radius and effectiveness of the Mound's regeneration auras slightly.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further decreases the casting delay and cooldown time of teleporting by 0.25s and 20s respectively. Also increases the radius and effectiveness of the Mound's regeneration auras slightly.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further decreases the casting delay and cooldown time of teleporting by 0.25s and 20s respectively. Also increases the radius and effectiveness of the Mound's regeneration auras slightly.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further decreases the casting delay and cooldown time of teleporting by 0.25s and 20s respectively. Also increases the radius and effectiveness of the Mound's regeneration auras slightly.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "base": "Aabr",
+    "id": "A09R",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Oar1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Oar2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Demon Aura",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Hero",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "orc",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\VampiricPotion\\VampPotionCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Demon Aura",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Gives all nearby Demons a bonus to hit point regeneration. Does not stack with Demon Totem. Does not affect self.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "base": "BNdo",
+    "id": "B00Z",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Doom"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "Titan"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\HowlOfTerror\\HowlTarget.mdl,Objects\\Spawnmodels\\Undead\\UndeadLargeDeathExplode\\UndeadLargeDeathExplode.mdl"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has the Mark of Darkness; it cannot cast spells and will take damage until it dies, and a Spawn of Darkness will progenerate from its corpse. Doom cannot be dispelled or cancelled."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

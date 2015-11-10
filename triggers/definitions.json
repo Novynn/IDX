@@ -1,0 +1,3472 @@
+{
+    "categories": [
+        {
+            "index": 13,
+            "name": "Island Defense System",
+            "type": 0
+        },
+        {
+            "index": 16,
+            "name": "Upgrades",
+            "type": 0
+        },
+        {
+            "index": 15,
+            "name": "Modes",
+            "type": 0
+        },
+        {
+            "index": 14,
+            "name": "Meta Data Systems",
+            "type": 0
+        },
+        {
+            "index": 7,
+            "name": "Races",
+            "type": 0
+        },
+        {
+            "index": 6,
+            "name": "Multiboard",
+            "type": 0
+        },
+        {
+            "index": 2,
+            "name": "Commands",
+            "type": 0
+        },
+        {
+            "index": 0,
+            "name": "Systems",
+            "type": 0
+        },
+        {
+            "index": 11,
+            "name": "Libraries",
+            "type": 0
+        },
+        {
+            "index": 3,
+            "name": "XE",
+            "type": 0
+        },
+        {
+            "index": 1,
+            "name": "Snippets",
+            "type": 0
+        },
+        {
+            "index": 4,
+            "name": "Items",
+            "type": 0
+        },
+        {
+            "index": 5,
+            "name": "Generic Abilities",
+            "type": 0
+        },
+        {
+            "index": 10,
+            "name": "Titan Abilities",
+            "type": 0
+        },
+        {
+            "index": 9,
+            "name": "Bubonicus",
+            "type": 0
+        },
+        {
+            "index": 8,
+            "name": "Builder Abilities",
+            "type": 0
+        },
+        {
+            "index": 12,
+            "name": "Item Abilities",
+            "type": 0
+        }
+    ],
+    "definitions": [
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Game Settings",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Game",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Island Defense",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "PlayerData",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PenaltyTimer",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PeriodicTips",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MercyLumber",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MinionLumber",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        CheatPack",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        EnvironmentManager",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        SpeechSystem",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        LeaveEvent",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        TitanFinder",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DisableAttack",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        UnitManager",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                UnitSpawnerModule",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                UnitList",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                DefenderUnit",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                        HunterUnit",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                TitanUnit",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                        MinionUnit",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                PunishmentCentre",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        ShopSystem",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PerksSystem",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                File IO",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                AlphaTesterPerk",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                SongPerk",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                BetaPerk",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                ChristmasPerk",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                HalloweenPerk",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        CritterSystem",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        HCLSystem",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        ExperienceSystem",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 13,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GameTimer",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "Order ID for \"cancel\" in training queues: call IssueImmediateOrderById( GetTriggerUnit(), 851976 )\r\nFrom http://www.hiveworkshop.com/forums/triggers-scripts-269/stop-training-unit-111235/",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Upgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        UpgradeEffects",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Default",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Defenders",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Titans",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        RemoveRally",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        TitanHunters",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MagnataurUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        NatureUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DemonologistUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MorphlingUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DryadUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MakruraUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PirateUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        TrollUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        RadioactiveUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        TaurenUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        GnollUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DraeneiUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        GoblinUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        OgreUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        FaerieUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MurlocUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        SatyrUpgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 16,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        LUA",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ModePicker",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        RacePickMode",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                AllRandom",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                BuilderRandom",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                AllPick",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                Upkeep",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                UniquePick",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PlayerDataPick",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 15,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PlayerDataPickRandoming",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 14,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "W3MMD",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 14,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Meta Data",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 14,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "W3MMD Edited",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 14,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "WorldBounds",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 14,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Thread",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 14,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Alloc",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Races",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DemonologistRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DraeneiRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DryadRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        FaerieRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        GnollRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        GoblinRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        HuntressRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MagnataurRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MakruraRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MorphlingRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MurlocRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        NatureRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        OgreRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PandaRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PirateRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        SatyrRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        FurbolgRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        RadioactiveRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        TaurenRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        TrollRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        LucidiousRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        SypheriousRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MolteniousRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DemonicusRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        BubonicusRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        GlaciousRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        VoltronRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Terminus",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Aetherious",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Fossurious",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Pseudologos",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 7,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        CustomRace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": ".03125",
+            "enabled": true,
+            "index": 6,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "MultiboardUpdater",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 6,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        MultiboardManager",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 6,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        VoteModule",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 6,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        PlayerDataMultiboard",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 6,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                ClassBoardDefender",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 6,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                ClassBoardTitan",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 6,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "                VoteBoard",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "CommandManager",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Experience",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        FeedReduction",
+            "runOnInit": true,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        GoldCoin",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Boot",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Camera",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Kick",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        LightningOff",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Observer",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Clear",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Vote",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Titan",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Class",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Help",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Give",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Ban",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Upgrades",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        OldKeys",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        LazyRandom",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Monitor",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        CustomTitan",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Player",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Timer",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Custom",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Inv",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Quest",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        ChaseTweak",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        ChickenTweak",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        IntroTweak",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        AutoAttack",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        CurrentTapCheck",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        SmartHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        GoldStolen",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Fog",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Create",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Orders",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Arrow",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        SettingsTweak",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        DefenderTweak",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        RestartTweak",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        SwapTweak",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 0,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ElapsedGameTime",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 0,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "PreventSave",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 0,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Tome System",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "IsTerrainWalkable",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LinkedList",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "SoundTools",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "UnitMaxState",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BonusMod",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BonusMod Regen",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BonusMod Movespeed",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Ascii",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "CommandSystem",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Stack",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "CTL",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ShadowTrail",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Multibars",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Dialog System",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "PowerUp Sentinel",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "StringLib",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "HCL",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "RegisterPlayerUnitEvent",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GT",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ARGB",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Board",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GetPlayerColored",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GroupUtils",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "NewTable",
+            "runOnInit": true,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "NewTable Compatibility",
+            "runOnInit": true,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TimerUtils",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "RecipeSYS",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Event",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "AIDS",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Transport",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 11,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LightningUtils",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xebasic",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xepreload",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xedummy",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xefx",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xecast",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xedamage",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xecollider",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xemissile",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "UnitStatus",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BoundSentinel",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Damage",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xe readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xepreload readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xedummy readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xecast readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xefx readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xedamage readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xecollider readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 3,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "xemissile readme",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ShowTagFromUnit",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "UnitAddChaos",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "RevealMapForPlayer",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "DestroyEffectTimed",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GetPlayerActualName",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "CreateItemEx",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "IsUnitWard",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "UnitAlive",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GetLocationZEx",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Item Handling",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TurtleInventory",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "HunterInventory",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "InvulnerableItems",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ItemDrops",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Bones",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "PassibleItems",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Recipes",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ItemCast",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Transmutable Towers",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Rebuild",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 4,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "DamageTomeFix",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GenericTitanTargets",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Teleport",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Courier",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ExchangeLumber",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Chicken Eggs",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LucidiousNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LucidiousNukeMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LucidiousEscape",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LucidiousHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LucidiousHealMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "LucidiousUltimate Saturation",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "SypheriousNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "SypheriousNukeMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "SypheriousHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "SypheriousHealMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "SypheriousUltimate Disable",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "MolteniousNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "MolteniousNukeMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "MolteniousHealMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "MolteniousHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "MolteniousPerma",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TDAQ",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TDAW",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TDAE",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TDAR Mark of Darkness",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TDAF Endless Night",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TDNQ Staff of Darkness",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TDNE",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Current Tap",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GlaciousNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GlaciousHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GlaciousUnique",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GlaciousUltimate",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GlaciousMinionNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "GlaciousMinionHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "VoltronNukeOld",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "VoltronMinionNukeOld",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "VoltronNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "VoltronNukeConcept",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "VoltronHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "VoltronMinionNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "VoltronMinionHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TerminusNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TerminusHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TerminusUnique",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "TerminusWarClub",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Earthquake",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Tremor",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 10,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Imbued Carapace",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 9,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusNuke",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "TODO: FIX THIS MOFO",
+            "enabled": true,
+            "index": 9,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Bubonicus",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 9,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusHeal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 9,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusUltimate",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 9,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusNukeMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 9,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BubonicusHealMinion",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Tower Range",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Gold",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "InventoryFix",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "AdditonalHealth",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "ExchangeGold",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Panic",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Avatar Poison",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Stuck Building Removal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Building Size",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "UpgradeManaBug",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "BlightDispel",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Radon Tower Modules",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Radiation",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Advanced Wall Upgrade",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Deadly Poisons Upgrade",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "FeralTower",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "IslandBloom",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Fart",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Salvage",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Voodoo",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Spiked Structures",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Tauren EXP",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "War Stomp",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Polar Wrath",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "DemonicResistance",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Balth",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Demonic Pillar",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Nether Jump",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Sacrifice Fiend",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Sacrifice",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Nether Warp",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Enchantment",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Portal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Reclaim",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Replant",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Harvester",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "RemoveBuild",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Energy Charge",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Phase Shift",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Explosives",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Conduit",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "// TODO TEST THIS TO SEE IF UPGRADING KEEPS RED COLOR",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Pulse Tower",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Slam",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "\"1: |cffff0000+\"+I2S(R2I(risk/100))+\"|r\\n|cff0000ff+\"+I2S(risk)+\"|r\"",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Satyr Plunder",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Detected",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Dash",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": false,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Tranquility",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Tranquility Copy",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 12,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Neutralization",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 12,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Fireworks Item",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 12,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Fiery Claws",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 12,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Fog Generator",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 12,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Shadow Catcher",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 12,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Jen",
+            "runOnInit": false,
+            "type": 0
+        }
+    ],
+    "mapCustomComment": "//TESH.scrollpos=0\r\n//TESH.alwaysfold=0\r\n"
+}

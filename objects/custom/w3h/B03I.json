@@ -1,0 +1,31 @@
+{
+    "base": "BEme",
+    "id": "B03I",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSeaTurtleRed.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Enraged Turtle"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Enraged Turtle"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "Transforms the greater speed turtle into an enraged turtle that is larger and stronger"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

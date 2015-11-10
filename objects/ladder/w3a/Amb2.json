@@ -1,0 +1,41 @@
+{
+    "base": "Amb2",
+    "id": "Amb2",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Mbt1",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Mbt3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\MoonWell\\MoonWellCasterArt.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aeat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\MoonWell\\MoonWellTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

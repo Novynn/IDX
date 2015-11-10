@@ -1,0 +1,20 @@
+{
+    "base": "ACnr",
+    "id": "ACnr",
+    "mods": [
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,allies,friend,ground,invulnerable,organic,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

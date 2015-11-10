@@ -1,0 +1,118 @@
+{
+    "base": "Aroc",
+    "id": "A0G1",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Efk1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Efk2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Efk3",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNFragmentationBombs.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "1.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amac",
+            "type": 2,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\BoatMissile\\BoatMissile.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "1200",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Auxiliary Cannon",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Pirate)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q208",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,item,neutral,structure,ward",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Auxiliary Cannon",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Add another cannon to your arsenal, allowing the ability to target two enemies at once.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

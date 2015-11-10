@@ -1,0 +1,356 @@
+{
+    "base": "ANab",
+    "id": "TGA0",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Nab1",
+            "type": 2,
+            "value": "-0.400000006",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Nab1",
+            "type": 2,
+            "value": "-0.400000006",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Nab1",
+            "type": 2,
+            "value": "-0.400000006",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Nab3",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Nab3",
+            "type": 0,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Nab3",
+            "type": 0,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 4,
+            "id": "Nab4",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Nab4",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 4,
+            "id": "Nab4",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 5,
+            "id": "Nab5",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Nab5",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 5,
+            "id": "Nab5",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01K",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01K",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01K",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "4",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "4",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "4",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "4",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "4",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "4",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\FrostWyrmMissile\\FrostWyrmMissile.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "10000",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Frost Explosion",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TGAQ 4.0.0 - Movespeed Reduction)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "99999",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "99999",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

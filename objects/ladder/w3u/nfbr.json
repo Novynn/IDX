@@ -1,0 +1,91 @@
+{
+    "base": "nfbr",
+    "id": "nfbr",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "ACm3,A0B7,Awan,A08V"
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": "alternate"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "15"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDestroyer.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\undead\\ObsidianStatue\\ObsidianStatue.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "90"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "270"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|CFF00FF00Adam the Destroyer"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.200000003"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "ObsidianDestroyer"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Demon\\DemonSmallDeathExplode\\DemonSmallDeathExplode.mdl"
+        }
+    ]
+}

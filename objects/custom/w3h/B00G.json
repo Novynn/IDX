@@ -1,0 +1,36 @@
+{
+    "base": "BHad",
+    "id": "B00G",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFreezingBreath.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Fortification Aura"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "war3mapImported\\ChillingAura.MDX"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fortification Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Fortification Aura; it has increased armor."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

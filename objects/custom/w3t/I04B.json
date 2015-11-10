@@ -1,0 +1,96 @@
+{
+    "base": "ratc",
+    "id": "I04B",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Increases the number of troll hands summoned to 5. Recipe."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "5000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSnazzyScrollPurple.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Greater Troll Hand Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00X|r) Purchase Greater Troll Hand Recipe"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the number of Trolls summoned to 5.|n|cffffd700Requires:|r Troll Hand & Recipe"
+        }
+    ]
+}

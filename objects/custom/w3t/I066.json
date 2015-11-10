@@ -1,0 +1,96 @@
+{
+    "base": "rhth",
+    "id": "I066",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDryad.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Defender - Dryad"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00A|r) |cff90ee90Dryad|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Flee and Entangling Roots|r|n|n|cffffcc00Description:|r  |cff0080ffAn average builder with towers that can naturally upgrade over time instead of requiring wood. Has a ranged hunter that can fit through small gaps which other units can walk through.|r"
+        }
+    ]
+}

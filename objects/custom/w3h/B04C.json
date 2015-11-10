@@ -1,0 +1,41 @@
+{
+    "base": "BHad",
+    "id": "B04C",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNControlMagic.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Adept Training"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "|cff00ff00Adept Hunter Training|r"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has adept hunter training."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

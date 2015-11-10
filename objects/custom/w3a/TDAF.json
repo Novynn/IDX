@@ -1,0 +1,335 @@
+{
+    "base": "AHbh",
+    "id": "TDAF",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNElunesBlessing.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Endless Night",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TDAF 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNElunesBlessing.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Learn |cff6c00ceEndless Night|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "12",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Demonicus uses his immense power to stop the sun itself, plunging the Island into an endless night.|r|n|n|cff1e90ffStops the time of day at midnight, and removes the mana drain effect from Shadow Walk.|nPassive.|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cff6c00ceEndless Night|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Sharpened Arrows - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Sharpened Arrows - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Demonicus uses his immense power to stop the sun itself, plunging the Island into an endless night.|r|n|n|cff1e90ffStops the time of day at midnight, and removes the mana drain effect from Shadow Walk.|nPassive.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Huntress's arrows have been sharpened. They can now cut through the targets armor, reducing it by 3.|nPassive.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Huntress's arrows have been sharpened. They can now cut through the targets armor, reducing it by 4.|nPassive.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr's razor blade deals 100 bonus damage and cuts through the targets armour, reducing it by 16.|n|cffffcc00Passive.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

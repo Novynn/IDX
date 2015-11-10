@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I05A",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "S006,AItn,A0I2"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0I2"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "iclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "The Box of Gaia decreases nearby enemies attack speed, movement speed and armor.|nWhen held as an item, it gives the holder a slow aura and also provides the holder with +10 attack damage."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArcaneVault.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff00ff00Box of Gaia|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Box of Gaia decreases nearby enemies attack speed, movement speed and armor.|nWhen held as an item, it gives the holder a slow aura and also provides the holder with +10 attack damage."
+        }
+    ]
+}

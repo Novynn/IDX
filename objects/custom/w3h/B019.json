@@ -1,0 +1,51 @@
+{
+    "base": "Bspo",
+    "id": "B019",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRegenerationAura.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Bubonicus)"
+        },
+        {
+            "id": "frac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\ChimaeraAcidMissile\\ChimaeraAcidMissile.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Decay"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit was hit by Decay; its movement speed and attack rate have been reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

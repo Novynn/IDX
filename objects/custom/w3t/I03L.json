@@ -1,0 +1,81 @@
+{
+    "base": "wneu",
+    "id": "I03L",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03E"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03E"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "120"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "D"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Purchase Wand of Neutralization"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Hurls forth a stream of neutralizing magic that bounces up to 5 times, dispelling any unit in its wake.|n|n|cffff5522Note:|r If you target an ally, it will only bounce to allies. If you target an enemy, then it will only bounce to enemies."
+        }
+    ]
+}

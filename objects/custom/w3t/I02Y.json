@@ -1,0 +1,86 @@
+{
+    "base": "tsct",
+    "id": "I02Y",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0B4,A0B3,AItx,AItj"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A00J"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Demolisher Totem"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "buildings\\other\\HarpyNest\\HarpyNest.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFireRocks.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.400000006"
+        },
+        {
+            "id": "issc",
+            "type": 1,
+            "value": "50"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff7040Demolisher Totem|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Demolisher Totem at a target location. Also provides +25 damage to the holder and gives off an fiery aura that burns nearby titans for 50 damage per second."
+        }
+    ]
+}

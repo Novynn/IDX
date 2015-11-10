@@ -1,0 +1,81 @@
+{
+    "base": "ohwd",
+    "id": "o023",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "25"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHealthStone.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\CrystalShard\\CrystalShard.mdl"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff00ff00Healing Stone|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(TTAE 4.0.0)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "RockGolem"
+        }
+    ]
+}

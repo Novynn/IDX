@@ -1,0 +1,31 @@
+{
+    "base": "BHad",
+    "id": "B00B",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaArmorUp1.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Protective Scales"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Protective Scales"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Protective Scales; it has increased armor."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

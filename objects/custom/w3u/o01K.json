@@ -1,0 +1,36 @@
+{
+    "base": "ohwd",
+    "id": "o01K",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aoar,WARD"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "240"
+        }
+    ]
+}

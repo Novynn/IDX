@@ -1,0 +1,81 @@
+{
+    "base": "ssil",
+    "id": "I00G",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A006"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A006"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Summons 3 Stone Throwers"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGolemStormBolt.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Summoning Stone"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Purchase Summoning Stone"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Summons 3 Makrura Stone Throwers to come to your aid.|n|cffffd7003 minute cooldown, lasts for 2 minutes.|r"
+        }
+    ]
+}

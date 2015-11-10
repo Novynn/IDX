@@ -1,0 +1,31 @@
+{
+    "base": "BOwk",
+    "id": "B00S",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStun.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Wind Walk"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "Magnataur"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is hidden by a Storm; it is invisible and moves faster."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

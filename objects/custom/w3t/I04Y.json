@@ -1,0 +1,76 @@
+{
+    "base": "ssil",
+    "id": "I04Y",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0GY"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0GY"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Greater Turtle Scales"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaArmorUp1.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa22aa22Greater Turtle Scales|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Allows you to summon a Greater Turtle, that has additional health and can grow to a large size and act as a temporary wall."
+        }
+    ]
+}

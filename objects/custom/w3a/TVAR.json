@@ -1,0 +1,167 @@
+{
+    "base": "AEev",
+    "id": "TVAR",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Eev1",
+            "type": 2,
+            "value": "0.0599999987",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Eev1",
+            "type": 2,
+            "value": "0.119999997",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\PASLightningShield.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alsk",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Ionic Shield",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TVAR 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\PASLightningShield.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Learn |cff4169e1Ionic Shield|r - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Voltron ionizes the air around him, causing the charged particles to block a small percentage of incoming damage.|n|r|n|cffffcc00Level 1|r - |cff1e90ffGrants 6% evasion.|r|n|cffffcc00Level 2|r - |cff1e90ffGrants 12% evasion.|n|r|n|cff1e90ffPassive.|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) |cff4169e1Ionic Shield|r - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) |cff4169e1Ionic Shield|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Voltron ionizes the air around him, causing the charged particles to block a small percentage of incoming damage.|n|r|n|cff1e90ffGrants 6% evasion.|r|n|n|cff1e90ffPassive.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Voltron ionizes the air around him, causing the charged particles to block a small percentage of incoming damage.|n|r|n|cff1e90ffGrants 12% evasion.|r|n|n|cff1e90ffPassive.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

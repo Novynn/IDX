@@ -1,0 +1,90 @@
+{
+    "base": "Ahwd",
+    "id": "A0AO",
+    "mods": [
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Tauren",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q193",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arqa",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Healing Ward",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons an immovable ward that heals 2% of all nearby non-mechanical unit's hit points per second. Units that are not owned by the Tauren will not be healed. Lasts 15 seconds. |n|cffffcc00Point Targeted -- 120 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "hwdu",
+            "type": 3,
+            "value": "o01S",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "base": "rhth",
+    "id": "I02G",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaMyrmidon.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Titan - Lucidious"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) |cff31A5FFLucidious|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r - |cff00ff00Tsunami Scepter (Standard bouncing spell)|r|n|n|cffffcc00Heal:|r |cff00ff00Healing Wave (Standard bouncing heal)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Saturation (60dmg/sec to structures once activated; drains mana)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Water, excellent early-game scouting ability, good starter titan and well balanced throughout game.|r"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "base": "tret",
+    "id": "I05S",
+    "mods": [
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "PowerUp"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\tomeRed\\tomeRed.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTomeBrown.blp"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Manual of Retraining"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Manual of Retraining"
+        }
+    ]
+}

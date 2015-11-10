@@ -1,0 +1,146 @@
+{
+    "base": "Asta",
+    "id": "A03C",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Sta1",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Sta4",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Stau",
+            "type": 3,
+            "value": "o00V",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNClockWerkGoblin.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "150",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aefl",
+            "type": 3,
+            "value": "ClockwerkGoblinYesAttack",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aefs",
+            "type": 3,
+            "value": "BanishLoop",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Mechanical Trap",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "250",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Mechanical Trap",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Skill|r|cffffcc00]|r|n|n|cffffcc00Summon an invisible and immovable ward that triggers when hostile units are nearby, stunning them. |r|n|cff1e90ffThe summoned ward triggers when a hostile unit comes within a range of 250. The stun lasts 3 seconds on, and affects all hostile units within a range of 400 The ward has a sight range of 600, 100 health, and lasts for 120 seconds.|n|nPoint-Targeted - 150 second cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

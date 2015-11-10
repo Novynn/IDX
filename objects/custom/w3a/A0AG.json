@@ -1,0 +1,216 @@
+{
+    "base": "AOsf",
+    "id": "A0AG",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Osf1",
+            "type": 3,
+            "value": "n00R",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Osf1",
+            "type": 3,
+            "value": "n00R",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Osf2",
+            "type": 0,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Osf2",
+            "type": 0,
+            "value": "3",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTauren.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01U",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01U",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "180",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "180",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Tauren Guard",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Tauren)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "200",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "200",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTauren.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "O01R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "Learn Tauren Guar|cffffcc00d|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "D",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Summons 3 Tauren Guards to fight the tauren's enemies. |nLasts 60 seconds. Each guard has 700 hit points and deals 60 damage.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\WarStomp\\WarStompCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Tauren Guard",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Tauren Guar|cffffcc00d|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons 3 Tauren Guards to fight the tauren's enemies. |nLasts 60 seconds. Each guard has 950 hit points and deals 60 damage.|n|cffffcc00Activated -- 180 second cooldown",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons 3 Tauren Guards. Each Tauren has 700 hit points and deals 65 damage. |nLasts 60 seconds. |n|n|cffffcc00--- 180 second cooldown.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "base": "Afbt",
+    "id": "A07U",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aefs",
+            "type": 3,
+            "value": "InnerFireCast",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Magic Depletion",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Radon 2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Magic Depletion",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower's attacks destroy 10 mana per hit against any unit, causing bonus damage equal to the mana destroyed.",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "fbk1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "fbk3",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "fbk5",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "base": "tsct",
+    "id": "I00Y",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A027,A025,AItx"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A027"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Heavy Cannon Tower"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCannonTower.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff6308Heavy Cannon Tower|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Heavy Cannon Tower at a target location. Also provides its holder with an aura that gives +15 armor to nearby friendly units, and increases the holders attack damage by +20."
+        }
+    ]
+}

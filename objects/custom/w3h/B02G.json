@@ -1,0 +1,61 @@
+{
+    "base": "BOae",
+    "id": "B02G",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathCoil.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Speed"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Banish\\BanishTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fart Cloud"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Fart Cloud; it has an increased movement speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

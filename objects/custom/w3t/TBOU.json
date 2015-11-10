@@ -1,0 +1,116 @@
+{
+    "base": "skul",
+    "id": "TBOU",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0JU,A0JW"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "AItj"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "iclr",
+            "type": 0,
+            "value": "75"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "The bones of the Legendary Titan.These bones, when held by a Hero, increases the stats of the holder by 8. If held by a normal unit, it will get additonal armor and attack damage. These cannot be destroyed or picked up by the Titan or his minions."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Curse\\CurseTarget.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBoneChimes.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "3"
+        },
+        {
+            "id": "isel",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|c00888888Titan Bones|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The bones of the Legendary Titan.These bones, when held by a Hero, increases the stats of the holder by 8. If held by a normal unit, it will get additonal armor and attack damage. These cannot be destroyed or picked up by the Titan or his minions."
+        }
+    ]
+}

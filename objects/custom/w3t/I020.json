@@ -1,0 +1,81 @@
+{
+    "base": "pnvu",
+    "id": "I020",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A06I,A0IC"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A06I"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Permanently turns the holder invisible. Can also be used actively to enable the holder to walk through units and gain a 25% increase in movement speed for 20 seconds."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRingVioletSpider.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caab600ffRing of Shadows|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Permanently turns the holder invisible. This item can also be used actively to enable the holder to  walk through units and gain a 25% increase in movement speed for 20 seconds."
+        }
+    ]
+}

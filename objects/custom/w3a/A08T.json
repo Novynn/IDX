@@ -1,0 +1,48 @@
+{
+    "base": "AIff",
+    "id": "A08T",
+    "mods": [
+        {
+            "data": 3,
+            "id": "Ist1",
+            "type": 3,
+            "value": "h02E",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B027",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "360",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Floating Eye Summon",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\ControlMagic\\ControlMagicTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

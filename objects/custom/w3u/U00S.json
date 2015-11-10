@@ -1,0 +1,201 @@
+{
+    "base": "Ubal",
+    "id": "U00S",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "99"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure,ward"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "chaos"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A04A,A09S,A09R,A00Q,A088,A08K"
+        },
+        {
+            "id": "uagi",
+            "type": 0,
+            "value": "25"
+        },
+        {
+            "id": "uagp",
+            "type": 2,
+            "value": "7.5"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Metal"
+        },
+        {
+            "id": "uawt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "44"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udu1",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "uhab",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uhhd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uinp",
+            "type": 2,
+            "value": "0.25"
+        },
+        {
+            "id": "uint",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff18e7bdDemon Lord|r"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "upro",
+            "type": 3,
+            "value": "|cffff0000Balthasar|r"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "640"
+        },
+        {
+            "id": "ustp",
+            "type": 2,
+            "value": "20"
+        },
+        {
+            "id": "ustr",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "utpr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

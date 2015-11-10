@@ -1,0 +1,101 @@
+{
+    "base": "rhth",
+    "id": "I02H",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHydra.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Titan - Sypherious"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00A|r) |cff00EE00Sypherious|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Nuke:|r |cff00ff00Crushing Wave (Very long range, area of effect nuke requiring no vision)|n|n|r|cffffcc00Heal:|r |cff00ff00Regenerative Water (Large instant-cast area of effect heal)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Disable (Prevents structures from attacking in a medium sized area for 10 seconds)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of the Depth.  Below average scouting ability early game but makes up for it by being able to power level with Crushing Wave and casting Eye of the Ocean on targets.  Early game domination but begins lacking late game.|r"
+        }
+    ]
+}

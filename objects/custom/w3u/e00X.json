@@ -1,0 +1,191 @@
+{
+    "base": "edob",
+    "id": "e00X",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Ane2,ARax"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "UndeadBuildingConstructionLoop"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "G"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMercenaryCamp.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\Mercenary\\Mercenary.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff483d8bThieves Guild|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN3"
+        },
+        {
+            "id": "ures",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "useu",
+            "type": 3,
+            "value": "h04E,h04G,e01A,n01I"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "TempleOfTides"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Human\\HCancelDeath\\HCancelDeath.mdl"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Build |cff483d8bThieves Guild|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q039,q043,q045,q047"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Build a shop in which you can hire an army.|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r Build this in a safe base."
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "OMED"
+        }
+    ]
+}

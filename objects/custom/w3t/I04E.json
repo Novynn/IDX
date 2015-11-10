@@ -1,0 +1,71 @@
+{
+    "base": "tsct",
+    "id": "I04E",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A066"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A066"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates an |cef0054a6Ultimate Structure|r."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCage.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cef0054a6Ultimate Structure|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates an |cef0054a6Ultimate Structure|r at the target location.|n|n|cffff0000Warning!|r Don't cancel this while it is rebuilding or you will lose the item for good."
+        }
+    ]
+}

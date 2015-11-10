@@ -1,0 +1,86 @@
+{
+    "base": "tsct",
+    "id": "I05U",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0KV"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0KV"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Rebuild your Egg Sack"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\Dungeon\\Terrain\\EggSack\\EggSack1.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEggSack.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.649999976"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Rebuild |cffffa500Egg Sack|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Use this item to rebuild your Egg Sack.|n|cffffd700|n|cffff4500|nDouble-right click on this item to convert it into it's ability form.|r|r"
+        }
+    ]
+}

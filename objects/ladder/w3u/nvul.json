@@ -1,0 +1,21 @@
+{
+    "base": "nvul",
+    "id": "nvul",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Awan,A055"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "base": "Agyd",
+    "id": "A04B",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Gyd1",
+            "type": 0,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Gyd1",
+            "type": 0,
+            "value": "3",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Gyd2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Gyd3",
+            "type": 2,
+            "value": "150",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Gyd3",
+            "type": 2,
+            "value": "150",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "Gydu",
+            "type": 3,
+            "value": "u00A",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Gydu",
+            "type": 3,
+            "value": "u00A",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "45",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Bubonicus - Ward)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Possession\\PossessionCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

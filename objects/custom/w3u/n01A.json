@@ -1,0 +1,106 @@
+{
+    "base": "ngme",
+    "id": "n01A",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aall,Avul,Apit"
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": "work"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uept",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "war3mapImported\\NagaRoyalVault.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": "I06E,I06B,I05I,I051,I053,I01Y,I01U,I01R,I01S,I02Q,I02T"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "20"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "20"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Merchant of Recipes"
+        },
+        {
+            "id": "unbm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unbr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "Z (Page 1)"
+        },
+        {
+            "id": "uocc",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "4"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

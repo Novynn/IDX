@@ -1,0 +1,31 @@
+{
+    "base": "BHab",
+    "id": "B02E",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStone.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Life Hp"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Life Essence"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of the Life Essence; it has an increased health regeneration."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

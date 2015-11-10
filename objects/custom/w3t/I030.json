@@ -1,0 +1,76 @@
+{
+    "base": "modt",
+    "id": "I030",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0K1,A0M6,A049,A0N2"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0N1"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUnholyAura.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Helm of the Dominator"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the Titan's attack damage by 35, strength by 10 and movement speed by 80. Also grants the holder the Domination aura, which increases the attack damage of nearby units by 15%."
+        }
+    ]
+}

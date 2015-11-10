@@ -1,0 +1,101 @@
+{
+    "base": "engs",
+    "id": "I03H",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03X"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03X"
+        },
+        {
+            "id": "iclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "This is an enchanted gemstone module, with the ability to enhance Radon towers with twice the amount of attacks per second."
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSearingArrows.blp"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "D"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Radon Module - Rapid"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q231"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Radon Module - Rapid"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00An upgrade module for Radon towers which grants additional attack speed.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |r50% faster attack speed.|n|cffffcc00Super Radon Tower: |r50% faster attack speed.|n|cffffcc00Mega Radon Tower: |r50% faster attack speed."
+        }
+    ]
+}

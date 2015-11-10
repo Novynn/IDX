@@ -1,0 +1,314 @@
+{
+    "base": "AHbh",
+    "id": "A0NU",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNElunesBlessing.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Growth (Night Time)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Icon)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "naga",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Growth (Night)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Sharpened Arrows - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Sharpened Arrows - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNElunesBlessing.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The tower's growth slows at night time.|nPassive.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Huntress's arrows have been sharpened. They can now cut through the targets armor, reducing it by 3.|nPassive.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Huntress's arrows have been sharpened. They can now cut through the targets armor, reducing it by 4.|nPassive.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "The Satyr's razor blade deals 100 bonus damage and cuts through the targets armour, reducing it by 16.|n|cffffcc00Passive.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

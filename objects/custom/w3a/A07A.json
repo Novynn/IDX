@@ -1,0 +1,286 @@
+{
+    "base": "ANsw",
+    "id": "A07A",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Hwe1",
+            "type": 3,
+            "value": "n00D",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Hwe1",
+            "type": 3,
+            "value": "n00D",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "Hwe1",
+            "type": 3,
+            "value": "n00D",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "Hwe1",
+            "type": 3,
+            "value": "n00D",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Hwe2",
+            "type": 0,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Hwe2",
+            "type": 0,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Hwe2",
+            "type": 0,
+            "value": "2",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArachnathidpurple.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "75",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "75",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "75",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "75",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "60",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "60",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "75",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "60",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "60",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "75",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "4",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "90",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "90",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "90",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "90",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Summon Demonic Arachnathid",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q252",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Doom\\DoomTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Summon Demonic Arachnathid",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Summon Demonic Arachnathid",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Summon Demonic Arachnathid",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Summon Demonic Arachnathid",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons a demonic arachnathid with slow poison to do your bidding.  Lasts 50 seconds.|n|cffffcc00Activated -- 75 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons 2 demonic arachnathids with slow poison to do your bidding.  Lasts 60 seconds.|n|cffffcc00Activated -- 75 second cooldown.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons 2 demonic arachnathids with slow poison to do your bidding.  Lasts 60 seconds.|n|cffffcc00Activated -- 75 second cooldown.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Summons 2 demonic arachnathids with slow poison to do your bidding.  Lasts 75 seconds.|n|cffffcc00Activated -- 75 second cooldown.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

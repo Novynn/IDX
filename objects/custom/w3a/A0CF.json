@@ -1,0 +1,160 @@
+{
+    "base": "AOae",
+    "id": "A0CF",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Oae1",
+            "type": 2,
+            "value": "0.349999994",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Oae2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "2000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathCoil.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02G",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Speed",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostMourne.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "Aura of the Wind",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Increases movement speed of the titan and nearby minions by 20% and attack rate by 10%.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "hand,left",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata1",
+            "type": 3,
+            "value": "hand,right",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata2",
+            "type": 3,
+            "value": "foot,left",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata3",
+            "type": 3,
+            "value": "foot,right",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atac",
+            "type": 0,
+            "value": "4",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "organic,player",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Banish\\BanishTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Fart Cloud",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Increases movement speed of the Ogre by 35%.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

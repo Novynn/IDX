@@ -1,0 +1,71 @@
+{
+    "base": "rat6",
+    "id": "I000",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0IG"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0IG"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Charged"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Boosts attack speed by 5%."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSoulGem.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Shadowstone"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Purchase a Shadowstone"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the attack speed of the Hero by 5%.|n|cffff4500Collect 3 of these and they will combine to form a Gem of Haste.|r"
+        }
+    ]
+}

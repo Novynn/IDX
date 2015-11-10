@@ -1,0 +1,111 @@
+{
+    "base": "AIbk",
+    "id": "A00Q",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ebl1",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ebl2",
+            "type": 2,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "B",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Blink",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Single (B) (English)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aoro",
+            "type": 3,
+            "value": "blink",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Blink (|cffffd700B|r)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Short distance teleportation, used for getting your troops out of your base.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "Blink (|cffffd700B|r)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Short distance teleportation, used for getting your troops out of your base.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

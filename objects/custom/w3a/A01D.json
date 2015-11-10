@@ -1,0 +1,188 @@
+{
+    "base": "AItn",
+    "id": "A01D",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "15",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "30",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "45",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "60",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "75",
+            "variation": 5
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "90",
+            "variation": 6
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "105",
+            "variation": 7
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "120",
+            "variation": 8
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "135",
+            "variation": 9
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "150",
+            "variation": 10
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "165",
+            "variation": 11
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "180",
+            "variation": 12
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "195",
+            "variation": 13
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "210",
+            "variation": 14
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "225",
+            "variation": 15
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "240",
+            "variation": 16
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "255",
+            "variation": 17
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "270",
+            "variation": 18
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "285",
+            "variation": 19
+        },
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "300",
+            "variation": 20
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "20",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Pulse Tower Damage Bonus",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "base": "hpea",
+    "id": "h01N",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "124"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,debris,ground,item,structure,ward"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua2c",
+            "type": 2,
+            "value": "0.5"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0PA,A0KC,A0LG,A0LH,A013,A067,A041"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "100"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubui",
+            "type": 3,
+            "value": "h03A,o01I,e00Z,o01W,h03B,h002,o01X,o00Z,o012,o019,o01E"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "22"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": "A041"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "4"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOgreLord.blp"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\OgreLord\\OgreLord.mdl"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "340"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Ogre"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Bloodlust)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "250"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.850000024"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Ogre"
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "utc1",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "250"
+        }
+    ]
+}

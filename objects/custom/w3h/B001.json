@@ -1,0 +1,51 @@
+{
+    "base": "Bvul",
+    "id": "B001",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNVialFull.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Invulnerable"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\ManaShield\\ManaShieldCaster.mdl"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,1000 @@
+{
+    "base": "AHbh",
+    "id": "A0AY",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 5
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 6
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 7
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 8
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 9
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 10
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 11
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 12
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 13
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 14
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 15
+        },
+        {
+            "data": 1,
+            "id": "Hbh1",
+            "type": 2,
+            "value": "0",
+            "variation": 16
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 5
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 6
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 7
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 8
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 9
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 10
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 11
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 12
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 13
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 14
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 15
+        },
+        {
+            "data": 3,
+            "id": "Hbh3",
+            "type": 2,
+            "value": "0",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNScatterRockets.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "16",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Artillery Upgrade",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Icon)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "naga",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q175",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "_",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier One - Level One",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier One - Level Two",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier One - Level Three",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier One - Level Four",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier One - Level Five",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Two - Level One",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Two - Level Two",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Two - Level Three",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Two - Level Four",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Two - Level Five",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Three - Level One",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Three - Level Two",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Three - Level Three",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Three - Level Four",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Artillery Upgrade - Tier Three - Level Five",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNScatterRockets.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Upgrade this tower further from your Research Centre.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 2 increased damage and 35 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 4 increased damage and 70 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 6 increased damage and 105 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 8 increased damage and 140 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 10 increased damage and 175 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 12 increased damage and 210 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 14 increased damage and 245 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 16 increased damage and 280 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 18 increased damage and 315 extra hitpoints.|n|nUpgrade this tower further from your Research Centre.",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 20 increased damage and 350 extra hitpoints.|n|nUpgrade this tower further from your Advanced Research Centre.",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 22 increased damage and 385 extra hitpoints.|n|nUpgrade this tower further from your Advanced Research Centre.",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 24 increased damage and |cff008000420|r extra hitpoints.|n|nUpgrade this tower further from your Advanced Research Centre.",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 26 increased damage and 455 extra hitpoints.|n|nUpgrade this tower further from your Advanced Research Centre.",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 28 increased damage and 490 extra hitpoints.|n|nUpgrade this tower further from your Advanced Research Centre.",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "This tower has 30 increased damage and 525 extra hitpoints.|n|nThis is the final artillery upgrade for your Catapult towers.",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "base": "Srtt",
+    "id": "S00M",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Cha1",
+            "type": 3,
+            "value": "e01G",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Nature Worker Upgrade (5)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

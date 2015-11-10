@@ -1,0 +1,226 @@
+{
+    "base": "eden",
+    "id": "e01N",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aro1,ARax"
+        },
+        {
+            "id": "uabr",
+            "type": 2,
+            "value": "9"
+        },
+        {
+            "id": "uabt",
+            "type": 3,
+            "value": "buffer"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "72"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCorruptedAncientOfWar.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\demon\\CorruptedAncientofWar\\CorruptedAncientofWar.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "umvr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff483d8bAncient of Battle|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Dryad)"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\6x6SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "ushb",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "2.75"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Construct an |cff483d8bAncient of Battle|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q010,q011,q220,q221,q222,q238,q241"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as an Advanced Research Center, this building provides you with tier two upgrades.|n|cff808080Build this to get advanced upgrades that greatly increase your chances of survival.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 10 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build this in a safe base."
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "mechanical"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "EMDB"
+        }
+    ]
+}

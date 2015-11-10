@@ -1,0 +1,27 @@
+{
+    "base": "AIrc",
+    "id": "A012",
+    "mods": [
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Reincarnate Titan",
+            "variation": 0
+        },
+        {
+            "data": 2,
+            "id": "irc2",
+            "type": 0,
+            "value": "1200",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

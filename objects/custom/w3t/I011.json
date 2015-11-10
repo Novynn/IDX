@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I011",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AItn,AItn,A023,A021"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A023"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Whirlpool"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Tornado\\TornadoElemental.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "135"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTornado.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.200000003"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff005affWhirlpool|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Whirlpool at a target location. Also adds +20 do the holders attack damage, and causes the holder to spew damaging streams of icy cold water onto enemy units."
+        }
+    ]
+}

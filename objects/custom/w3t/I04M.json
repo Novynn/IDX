@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I04M",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0GU"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0GU"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Rebuild your Tavern"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "buildings\\other\\Tavern\\Tavern.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTavern.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.25"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Rebuild |cffff5D00Tavern|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Use this item to rebuild your Tavern.|n|cffffd700|n|cffff4500|nDouble-right click on this item to convert it into it's ability form.|r|r"
+        }
+    ]
+}

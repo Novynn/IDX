@@ -1,0 +1,27 @@
+{
+    "base": "Astd",
+    "id": "A076",
+    "mods": [
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "X",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Causes workers within the tower to return to work.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

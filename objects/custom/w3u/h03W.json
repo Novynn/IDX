@@ -1,0 +1,311 @@
+{
+    "base": "ntrh",
+    "id": "h03W",
+    "mods": [
+        {
+            "id": "uaap",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0MX"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uble",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucbs",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "255"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "255"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "22"
+        },
+        {
+            "id": "ucpt",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udtm",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uept",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhos",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "V"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNWispSplode.blp"
+        },
+        {
+            "id": "uimz",
+            "type": 2,
+            "value": "-60"
+        },
+        {
+            "id": "ulpy",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ulsz",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "war3mapImported\\Manaorb.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "0.200000003"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "300"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "300"
+        },
+        {
+            "id": "umvr",
+            "type": 2,
+            "value": "0.5"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "140"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "umxp",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "umxr",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Mana Void"
+        },
+        {
+            "id": "uori",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "uprw",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.5"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "MoonWell"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": "ground,mechanical"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00V|r) Summon Mana Void"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Provides mana regeneration for the Draenei and his towers.|n|cff808080A movable flying mana void that regenerates nearby units mana over time.|r|n|n|cffff0000Note:|r These can still be attacked although they cannot be nuked. These also has a very small sight range so they are useless at scouting."
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "mechanical"
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "0"
+        }
+    ]
+}

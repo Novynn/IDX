@@ -1,0 +1,126 @@
+{
+    "base": "ushd",
+    "id": "u00K",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Atru"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAntiMagicShell.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\VoidWalker\\VoidWalker.mdl"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Demonic Stalker"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Transforms into spirit that can see invisible units, but cannot attack. The spirit lasts 8 seconds."
+        }
+    ]
+}

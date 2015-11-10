@@ -1,0 +1,56 @@
+{
+    "base": "BOwk",
+    "id": "B003",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCloudOfFog.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Vaporous Cloud"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "overhead"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\CloudOfFog\\CloudOfFog.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Vaporous Cloud"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is hidden by a vaporous cloud; it is invisible and moves faster."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

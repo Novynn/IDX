@@ -1,0 +1,41 @@
+{
+    "base": "Bspo",
+    "id": "B00T",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfFrost.blp"
+        },
+        {
+            "id": "fspd",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\FrostDamage\\FrostDamage.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Frost"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is covered in frost and will take damage over time and suffer a movement and attack speed penalty."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

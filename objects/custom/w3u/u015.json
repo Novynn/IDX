@@ -1,0 +1,181 @@
+{
+    "base": "ucs1",
+    "id": "u015",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "14"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A02M"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0.00999999978"
+        },
+        {
+            "id": "ucs1",
+            "type": 3,
+            "value": "RockHeavyBash"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNChimaera.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\nightelf\\Chimaera\\Chimaera.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "300"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "300"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Chimaera Scout"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "650"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.400000006"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Chimaera Scout"
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "650"
+        }
+    ]
+}

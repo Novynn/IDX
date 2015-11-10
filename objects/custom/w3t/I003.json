@@ -1,0 +1,51 @@
+{
+    "base": "manh",
+    "id": "I003",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Permanent +100 hit points."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\tomeRed\\tomeRed.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTomeRed.blp"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Purchase Manual of Health"
+        }
+    ]
+}

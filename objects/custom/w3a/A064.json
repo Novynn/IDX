@@ -1,0 +1,27 @@
+{
+    "base": "AIsr",
+    "id": "A064",
+    "mods": [
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Spell Damage Reduction (75%)",
+            "variation": 0
+        },
+        {
+            "data": 2,
+            "id": "isr2",
+            "type": 2,
+            "value": "0.75",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

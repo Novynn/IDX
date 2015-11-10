@@ -1,0 +1,36 @@
+{
+    "base": "BHds",
+    "id": "B02F",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEvasion.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Blur"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\MirrorImage\\MirrorImageCaster.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Blur"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is invulnerable."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

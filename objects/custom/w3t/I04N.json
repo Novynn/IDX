@@ -1,0 +1,46 @@
+{
+    "base": "manh",
+    "id": "I04N",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Permanent +100 hit points."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "none.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTomeRed.blp"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Manual of Health (Invis)"
+        }
+    ]
+}

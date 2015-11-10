@@ -1,0 +1,370 @@
+{
+    "base": "ANbr",
+    "id": "A0GF",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Nbr1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Nbr1",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Nbr1",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Nbr1",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanBuild.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02Y",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02Y",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02Y",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02Y",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "V",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "250",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "250",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "250",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Salvage",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "nightelf",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCryptFiendUnBurrow.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "Learn Healing Sands (|cffffcc00E|r) - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Calls up healing sands from the ground that heal the titanous minion and a number of surrounding allies. |n|n|cffffcc00Level 1|r - Heals the minion for 250 hit points. |n|cffffcc00Level 2|r - Heals the minion and 1 nearby ally for 350 hit points. |n|cffffcc00Level 3|r - Heals the minion and 1 nearby ally for 450  hit points. |n|cffffcc00Level 4|r - Heals the minion and 2 nearby allies for 550 hit points.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "self",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "self",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "self",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "self",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00V|r) Salvage",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Healing Sands (|cffffcc00E|r) - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Healing Sands (|cffffcc00E|r) - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Healing Sands (|cffffcc00E|r) - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Salvages this unit for scapes gaining 75% of the spent resources.|n|n|cffff0000This unit is removed after the salvage process is complete.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Calls up healing sands from the ground that heal the titanous minion and 1 nearby ally for 350 hit points each.|n|cffffcc00Self-Targeted -- 9 second cooldown.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Calls up healing sands from the ground that heal the titanous minion and 1 nearby ally for 450 hit points each.|n|cffffcc00Self-Targeted -- 9 second cooldown.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Calls up healing sands from the ground that heal the titanous minion and 2 nearby allies for 550 hit points each.|n|cffffcc00Self-Targeted -- 9 second cooldown.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

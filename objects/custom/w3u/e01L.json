@@ -1,0 +1,271 @@
+{
+    "base": "ewsp",
+    "id": "e01L",
+    "mods": [
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\BloodElfSpellThiefMISSILE\\BloodElfSpellThiefMISSILE.mdl"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Adtn,A061"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubui",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucpt",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "udea",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udtm",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "20"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ufor",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "ulbd",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ulbs",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\Immolation\\ImmolationTarget.mdl"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "50"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "320"
+        },
+        {
+            "id": "umxp",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "umxr",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Harvester"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Radioactive - Level 5)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "250"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.850000024"
+        },
+        {
+            "id": "ushh",
+            "type": 1,
+            "value": "140"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": "Shadow"
+        },
+        {
+            "id": "ushw",
+            "type": 1,
+            "value": "140"
+        },
+        {
+            "id": "ushx",
+            "type": 1,
+            "value": "50"
+        },
+        {
+            "id": "ushy",
+            "type": 1,
+            "value": "50"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "usma",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Train Harvester"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Basic worker unit that can harvest lumber.|n|cff808080It's ok to think your inner strength is a form of nuclear power, as long as you don't have a meltdown.|r|n|n|cffff0000Note:|r Can Detonate to free up space for more food or to prevent feeding the titan."
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "250"
+        }
+    ]
+}

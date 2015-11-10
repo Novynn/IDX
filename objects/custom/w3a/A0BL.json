@@ -1,0 +1,174 @@
+{
+    "base": "ANcl",
+    "id": "A0BL",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "blink",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "spell,slam",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDarkSummoning.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Demon\\DarkPortal\\DarkPortalTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aeat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "T",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Nether Jump",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Ability)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "other",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q056",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Demon\\DarkPortal\\DarkPortalTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Ne|cffffcc00t|rher Jump",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Transports the Fiend through the Nether realm, to any location. The Fiend is invunerable while traveling.|R|n|cffffcc00Point-targetted -- 120 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

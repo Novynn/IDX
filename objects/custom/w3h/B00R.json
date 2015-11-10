@@ -1,0 +1,56 @@
+{
+    "base": "Bpoi",
+    "id": "B00R",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDarkRitual.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\FrostWyrmMissile\\FrostWyrmMissile.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Frostbite"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit had Frostbite; its movement speed has been reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

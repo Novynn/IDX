@@ -1,0 +1,61 @@
+{
+    "base": "sror",
+    "id": "I004",
+    "mods": [
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700R|r) Purchase Scroll of the Beast"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cff1e90ffGives friendly nearby units a 25% bonus to damage for 20 seconds.|r|n|n|cffff5522Note: |rThis item stacks! |cff1e90ffDouble-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
+        }
+    ]
+}

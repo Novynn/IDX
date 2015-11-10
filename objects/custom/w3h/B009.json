@@ -1,0 +1,41 @@
+{
+    "base": "BPSE",
+    "id": "B009",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Pulverized"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "overhead"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Thunderclap\\ThunderclapTarget.mdl,Abilities\\Spells\\NightElf\\FaerieFire\\FaerieFireTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Pulverized"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

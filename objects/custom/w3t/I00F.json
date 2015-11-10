@@ -1,0 +1,81 @@
+{
+    "base": "desc",
+    "id": "I00F",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A005"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A005"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Summons 4 Spearlocs"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEnvenomedSpear.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Venomous Spear"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Purchase Venomous Spear"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Can summon 4 Spearlocs every 3 minutes. Spearlocs last 2 minutes. (Gold is recieved by killing the Titan or one of his minions)."
+        }
+    ]
+}

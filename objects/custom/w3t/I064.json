@@ -1,0 +1,61 @@
+{
+    "base": "gold",
+    "id": "I064",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0ML"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0ML"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "A single gold coin."
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Gold Coin"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Purchase Gold Coin"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A single gold coin."
+        }
+    ]
+}

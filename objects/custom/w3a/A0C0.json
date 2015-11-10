@@ -1,0 +1,55 @@
+{
+    "base": "AIgx",
+    "id": "A0C0",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Oar1",
+            "type": 2,
+            "value": "12",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Oar2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "1500",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02E",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Life Essence Hp Regen",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,ground,friend,self,vuln,invu",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

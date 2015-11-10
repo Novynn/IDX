@@ -1,0 +1,46 @@
+{
+    "base": "BUsl",
+    "id": "B05C",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fefl",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Ultimate Tower Rebuild"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Ultimate Tower Rebuild"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

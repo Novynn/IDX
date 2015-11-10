@@ -1,0 +1,83 @@
+{
+    "base": "Aspo",
+    "id": "A0O7",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Spo1",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Spo2",
+            "type": 2,
+            "value": "0.100000001",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Spo3",
+            "type": 2,
+            "value": "0.100000001",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNThornShield.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "1.00999999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "1.00999999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Paralyzing Thorns",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q220",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Paralyzing Thorns",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "A powerful poison is secreted from the thorns, slowing the enemies movement and attack speeds by 10% and dealing additional damage.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

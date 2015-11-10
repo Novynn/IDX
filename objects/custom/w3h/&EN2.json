@@ -1,0 +1,46 @@
+{
+    "base": "Bena",
+    "id": "&EN2",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCancel.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Disabled (Movement)"
+        },
+        {
+            "id": "frac",
+            "type": 3,
+            "value": "other"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Disabled (Movement)"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit cannot move."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

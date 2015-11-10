@@ -1,0 +1,391 @@
+{
+    "base": "ANcl",
+    "id": "TGAF",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 4
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "ancestralspirit",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "creepdevour",
+            "variation": 2
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "creepdevour",
+            "variation": 3
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "creepdevour",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "spell,slam",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostArmor.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acap",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "1.20000005",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "1.20000005",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "1.20000005",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aeat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "400",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Arctic Might",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TGAF 4.0.0 - Triggered)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "ancestralspirit",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostArmor.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Learn |cff6c00ceArctic Might|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "12",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Non-descript.|r|n|n|cff1e90ffIncreases Glacious' armor by 50, and his attack by 25% for 12 seconds.|n|nSelf-Targeted - 2 minute cooldown|r.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "Self",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Cast |cff6c00ceArctic Might|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) |cff6495edConsume |r- [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) |cff6495edConsume |r- [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) |cff6495edConsume |r- [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Non-descript.|r|n|n|cff1e90ffIncreases Glacious' armor by 50, and his attack by 25% for 12 seconds.|n|nSelf-Targeted - 2 minute cooldown|r.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Bubonicus consumes one of his held corpses, healing himself and his nearby allies while also driving them into a feeding frenzy. If Bubonicus has no corpses, he will instead consume some of his own flesh which will damage himself while healing others nearby. Doing so however, will not grant the frenzy bonus for himself. |r|n|n|cff1e90ffHeals you and your nearby allies for 400 health.|r|n|cff1e90ffWhen under a feeding frenzy, units have their movespeed increased by 20% and their attack speed by 40% for 8 seconds|r|n|n|cff1e90ffSelf-Targeted - 1.2 second cooldown.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Bubonicus consumes one of his held corpses, healing himself and his nearby allies while also driving them into a feeding frenzy. If Bubonicus has no corpses, he will instead consume some of his own flesh which will damage himself while healing others nearby. Doing so however, will not grant the frenzy bonus for himself. |r|n|n|cff1e90ffHeals you and your nearby allies for 600 health.|r|n|cff1e90ffWhen under a feeding frenzy, units have their movespeed increased by 20% and their attack speed by 40% for 8 seconds|r|n|n|cff1e90ffSelf-Targeted - 1.2 second cooldown.|r",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Bubonicus consumes one of his held corpses, healing himself and his nearby allies while also driving them into a feeding frenzy. If Bubonicus has no corpses, he will instead consume some of his own flesh which will damage himself while healing others nearby. Doing so however, will not grant the frenzy bonus for himself. |r|n|n|cff1e90ffHeals you and your nearby allies for 800 health.|r|n|cff1e90ffWhen under a feeding frenzy, units have their movespeed increased by 20% and their attack speed by 40% for 8 seconds|r|n|n|cff1e90ffSelf-Targeted - 1.2 second cooldown.|r",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

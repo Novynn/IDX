@@ -1,0 +1,216 @@
+{
+    "base": "AInv",
+    "id": "A013",
+    "mods": [
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Builder Inventory",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Default)",
+            "variation": 0
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "4",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "6",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "3",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "4",
+            "variation": 5
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "5",
+            "variation": 6
+        },
+        {
+            "data": 1,
+            "id": "inv1",
+            "type": 0,
+            "value": "6",
+            "variation": 7
+        },
+        {
+            "data": 3,
+            "id": "inv3",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "inv3",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "inv3",
+            "type": 0,
+            "value": "1",
+            "variation": 4
+        },
+        {
+            "data": 3,
+            "id": "inv3",
+            "type": 0,
+            "value": "1",
+            "variation": 5
+        },
+        {
+            "data": 3,
+            "id": "inv3",
+            "type": 0,
+            "value": "1",
+            "variation": 6
+        },
+        {
+            "data": 3,
+            "id": "inv3",
+            "type": 0,
+            "value": "1",
+            "variation": 7
+        },
+        {
+            "data": 4,
+            "id": "inv4",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 4,
+            "id": "inv4",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 4,
+            "id": "inv4",
+            "type": 0,
+            "value": "1",
+            "variation": 4
+        },
+        {
+            "data": 4,
+            "id": "inv4",
+            "type": 0,
+            "value": "1",
+            "variation": 5
+        },
+        {
+            "data": 4,
+            "id": "inv4",
+            "type": 0,
+            "value": "1",
+            "variation": 6
+        },
+        {
+            "data": 4,
+            "id": "inv4",
+            "type": 0,
+            "value": "1",
+            "variation": 7
+        },
+        {
+            "data": 5,
+            "id": "inv5",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 5,
+            "id": "inv5",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 5,
+            "id": "inv5",
+            "type": 0,
+            "value": "1",
+            "variation": 4
+        },
+        {
+            "data": 5,
+            "id": "inv5",
+            "type": 0,
+            "value": "1",
+            "variation": 5
+        },
+        {
+            "data": 5,
+            "id": "inv5",
+            "type": 0,
+            "value": "1",
+            "variation": 6
+        },
+        {
+            "data": 5,
+            "id": "inv5",
+            "type": 0,
+            "value": "1",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

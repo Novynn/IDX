@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I00K",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A00F,A00G"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A00G"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Sludge Launcher"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\Cinematic\\EyeOfSargeras\\EyeOfSargeras.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfVenom.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.699999988"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff00ff40Sludge Launcher|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Sludge Launcher at a target location. Also makes the holder's attacks slow the movement speed and attack rate of enemies."
+        }
+    ]
+}

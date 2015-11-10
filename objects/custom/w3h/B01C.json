@@ -1,0 +1,51 @@
+{
+    "base": "BOwk",
+    "id": "B01C",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Death Void"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\OrbCorruption\\OrbCorruptionSpecialArt.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Death Void"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is hidden by the shadows; it is invisible and moves faster."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

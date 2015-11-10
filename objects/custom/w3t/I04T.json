@@ -1,0 +1,76 @@
+{
+    "base": "tsct",
+    "id": "I04T",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0CV"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0CV"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Rebuilds Replicator Tower"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathTower.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Rebuild |cffff0080Replicator Tower|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Can be used to make a duplicate of the holder, that deals 75% damage and takes 125% damage, but cannot use skills. A unit can only have one duplicate at a time. Also makes the holder deal 25 more damage. Duplicates last for 60 seconds.|n|cffff4500|nDouble-right click on this item to convert it into it's ability form.|r"
+        }
+    ]
+}

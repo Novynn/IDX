@@ -1,0 +1,21 @@
+{
+    "base": "BOsf",
+    "id": "B021",
+    "mods": [
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\AnimateDead\\AnimateDeadTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Darox"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

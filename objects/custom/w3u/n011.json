@@ -1,0 +1,81 @@
+{
+    "base": "npng",
+    "id": "n011",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Amim,ACrn"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Wood"
+        },
+        {
+            "id": "ubdg",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "15"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAcorn.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Plants\\RuinsTreeDoodad\\RuinsTreeDoodad9.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|CFF662D91Body Tree Hammer"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\4x4SimpleSolid.tga"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "0"
+        }
+    ]
+}

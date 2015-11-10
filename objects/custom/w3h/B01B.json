@@ -1,0 +1,51 @@
+{
+    "base": "BNbr",
+    "id": "B01B",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUnholyAura.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Bubonicus)"
+        },
+        {
+            "id": "frac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\UnholyAura\\UnholyAura.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Meat Shield"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has a Meat Shield; it is protected from damage until its shields are destroyed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

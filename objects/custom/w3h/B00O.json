@@ -1,0 +1,46 @@
+{
+    "base": "BHad",
+    "id": "B00O",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNShamanMaster.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Fiery Claws"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Stacking)"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fiery Claws"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This structure has been attacked with Fiery Claws; it will take damage over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

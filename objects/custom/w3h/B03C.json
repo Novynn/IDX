@@ -1,0 +1,66 @@
+{
+    "base": "Bpoi",
+    "id": "B03C",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFlare.blp"
+        },
+        {
+            "id": "fspd",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\AIob\\AIobTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Incendiary"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is coated with an incendiary."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

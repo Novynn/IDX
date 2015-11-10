@@ -1,0 +1,151 @@
+{
+    "base": "hwtw",
+    "id": "h036",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00D"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "800"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRiderlessKodo.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Dungeon\\Props\\JunkPile\\JunkPile1.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffd3d3d3Barricade|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "Satyr"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "13"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "|cffd3d3d3Barricade|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A weak wall for the Satyr.|n|cff808080Because this barricade is constructed of junk, it is not very strong and so they are not very good to wall a base.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed: |rN/A"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "OSMA"
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "h01U"
+        }
+    ]
+}

@@ -1,0 +1,300 @@
+{
+    "base": "ANba",
+    "id": "TDA5",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Nba1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Nba1",
+            "type": 2,
+            "value": "15",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Nba2",
+            "type": 0,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Nba2",
+            "type": 0,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Nba3",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Nbau",
+            "type": 3,
+            "value": "n00I",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Nbau",
+            "type": 3,
+            "value": "h019",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "Nbau",
+            "type": 3,
+            "value": "h01B",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSludgeCreature.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00Z,B010",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amho",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Spawn of Darkness",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TDAR 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "100",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "100",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "100",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSludgeCreature.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "Learn |cffffcc00M|rorgal Blade - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "W",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Adds extra damage to attacks. Units killed while under the effect of a Morgal Arrow will change into evil minions.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,neutral,nonhero,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Spawn of Darkness",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cffffcc00M|rorgal Blade - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cffffcc00M|rorgal Blade - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSludgeCreature.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cff1e90ffOrganic enemy units killed by the Spawn of Darkness will turn into a spawn of darkness. Each new spawn will also convert any enemy organic unit it kills into another spawn of darkness.|r|n|cffff5522Note:|r This ability must be on autocast to work properly.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Units killed while under the effect of Morgal Blade will turn into two 250 hit point Fallen Captains of Gondor.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Units killed while under the effect of Morgal Blade will turn into two 275 hit point Uncloaked Wring Wraiths.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "|cffc3dbffRight-click to activate auto-casting.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "|cffc3dbffRight-click to activate auto-casting.|r",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "|cffc3dbffRight-click to deactivate auto-casting.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "|cffc3dbffRight-click to deactivate auto-casting.|r",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

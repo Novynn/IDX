@@ -1,0 +1,76 @@
+{
+    "base": "tsct",
+    "id": "I04O",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AItx,A01Q,A0GL"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0GL"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates an Ice Palace."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "135"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDalaranGuardTower.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.20000005"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0080Ice Palace|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates an Ice Palace at a target location. Grants +20 damage and gives the user a critical strike ability."
+        }
+    ]
+}

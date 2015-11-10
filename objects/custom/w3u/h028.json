@@ -1,0 +1,256 @@
+{
+    "base": "hwtw",
+    "id": "h028",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "14"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\BristleBackMissile\\BristleBackMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "135"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0O7"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "135"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "120"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "120"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "120"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFungovor.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.150000006"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "war3mapImported\\Fungovor_squished.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffc0c0c0Vicious Fungovor|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Dryad)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urb1",
+            "type": 2,
+            "value": "135"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "utc1",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Upgrade to |cffc0c0c0Vicious Fungovor|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A strong wall for the Dryad.|n|cff808080This tree stump has been infected with a deadly fungus. When threatened, it will deal damage to any nearby enemies.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 15 Fortified|n|cffffcc00Attack:|r 30|n|cffffcc00Attack Range:|r 135|n|cffffcc00Attack Cooldown: |r1s"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "ESMA"
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

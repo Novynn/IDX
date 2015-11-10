@@ -1,0 +1,16 @@
+{
+    "base": "Xclf",
+    "id": "Xclf",
+    "mods": [
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Demon\\DarkConversion\\ZombifyTarget.mdl"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

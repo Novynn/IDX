@@ -1,0 +1,125 @@
+{
+    "base": "AUls",
+    "id": "A054",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Uls1",
+            "type": 0,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Uls2",
+            "type": 2,
+            "value": "0.0500000007",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Uls3",
+            "type": 0,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Ulsu",
+            "type": 3,
+            "value": "u00G",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Z",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Demonic Spirits",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Demonic Spirits",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Creates a swarm of demonic spirits that bite and tear at nearby enemy units. As they consume enemy flesh, they convert it into a substance that restores hit points to the Demonic Grave when they return. |nLasts 10 seconds.|n|nActivated - 2 minute cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

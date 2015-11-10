@@ -1,0 +1,56 @@
+{
+    "base": "ugho",
+    "id": "u00A",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Corpse"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Bubonicus)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Curse\\CurseTarget.mdl"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

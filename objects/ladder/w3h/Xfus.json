@@ -1,0 +1,16 @@
+{
+    "base": "Xfus",
+    "id": "Xfus",
+    "mods": [
+        {
+            "id": "fefl",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

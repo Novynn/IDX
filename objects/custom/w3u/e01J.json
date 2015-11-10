@@ -1,0 +1,226 @@
+{
+    "base": "etol",
+    "id": "e01J",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aro1,Asid"
+        },
+        {
+            "id": "uabt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Stone"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCorruptedTreeOfLife.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "24"
+        },
+        {
+            "id": "ulbd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ulbs",
+            "type": 0,
+            "value": "11"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\demon\\CorruptedTreeofLife\\CorruptedTreeofLife.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff1e90ffAncient Willow|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Dryad)"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\8x8SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN1"
+        },
+        {
+            "id": "ures",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": "I00Q"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Grow an |cff1e90ffAncient Willow|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q013,q014,q209,q210,q211,q212,q260,q216,q217,q218,q224,q236"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as a Research Center, this building provides you with first level upgrades.|n|cff808080Build this to get upgrades that greatly increase your chances of survival. With this, you can train a powerful Titan Hunter and upgrade your walls.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build this in a safe place."
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "mechanical"
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

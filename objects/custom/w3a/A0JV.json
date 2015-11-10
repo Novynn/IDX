@@ -1,0 +1,69 @@
+{
+    "base": "AId5",
+    "id": "A0JV",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "6",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "9",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "12",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "15",
+            "variation": 5
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "18",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Minion Bones Armor Effect)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

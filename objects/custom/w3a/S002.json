@@ -1,0 +1,195 @@
+{
+    "base": "SCae",
+    "id": "S002",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Oae1",
+            "type": 2,
+            "value": "-0.200000003",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Oae1",
+            "type": 2,
+            "value": "-0.300000012",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Oae1",
+            "type": 2,
+            "value": "-0.400000006",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Oae2",
+            "type": 2,
+            "value": "-0.200000003",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Oae2",
+            "type": 2,
+            "value": "-0.300000012",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Oae2",
+            "type": 2,
+            "value": "-0.400000006",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "250",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "300",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "350",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNFreezingBreath.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01L",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01L",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01L",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Chilling Aura",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TGAR 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,mechanical,structure",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,mechanical,structure",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,mechanical,structure",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

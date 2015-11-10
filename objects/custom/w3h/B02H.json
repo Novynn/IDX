@@ -1,0 +1,66 @@
+{
+    "base": "Bbof",
+    "id": "B02H",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAntiMagicShell.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Methane Gas"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "units\\undead\\PlagueCloud\\PlagueCloud.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Methane Gas"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is caught noxious gasses; it will take damage over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

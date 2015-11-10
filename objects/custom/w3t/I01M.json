@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I01M",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AId0,A06G,A06H"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A06H"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Light Energy Tower"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\PotionOfOmniscience\\CrystalBallCaster.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBearBlink.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.5"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffffff00Light Energy Tower|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Light Energy Tower at a target location. Also provides its holder with 10 bonus armor and 50% bonus hp regen."
+        }
+    ]
+}

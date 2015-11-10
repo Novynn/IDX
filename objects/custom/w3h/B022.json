@@ -1,0 +1,21 @@
+{
+    "base": "BOsf",
+    "id": "B022",
+    "mods": [
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Undead\\UCancelDeath\\UCancelDeath.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Chiprel"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

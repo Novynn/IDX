@@ -1,0 +1,27 @@
+{
+    "base": "AIpb",
+    "id": "AIpb",
+    "mods": [
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\OrbVenom\\OrbVenomSpecialArt.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\OrbVenom\\OrbVenom.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

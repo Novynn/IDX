@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I00N",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A00J,A00L,AItx,AItf"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A00J"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Tropical Glyph"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\Glyph\\Glyph.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGlyph.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.75"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff7040Tropical Glyph|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Tropical Glyph at a target location. Also provides +35 damage to the holder and gives off an aura that gives friendly nearby  ranged units and structures a 20% bonus to their attack damage."
+        }
+    ]
+}

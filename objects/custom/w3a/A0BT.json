@@ -1,0 +1,104 @@
+{
+    "base": "Aspb",
+    "id": "A0BT",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPillage.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Combat Skills",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Satyr",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Combat Techniques",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Displays the Satyr's advanced combat skills.",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "spb1",
+            "type": 3,
+            "value": "A0OD,A0BS,A0BQ,A0C3,A0C4,A02P,A0BP",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "spb2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "spb3",
+            "type": 0,
+            "value": "7",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "spb4",
+            "type": 0,
+            "value": "7",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

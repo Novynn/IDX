@@ -1,0 +1,41 @@
+{
+    "base": "Amin",
+    "id": "A038",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Min1",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Min2",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSelfDestructOn.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

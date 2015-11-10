@@ -1,0 +1,90 @@
+{
+    "base": "AIsz",
+    "id": "A00K",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Spo1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Spo2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Spo3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Spo4",
+            "type": 0,
+            "value": "8",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNShamanMaster.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00N,B00O",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Fiery Claw",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Effect)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,mechanical,structure",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\BreathOfFire\\BreathOfFireDamage.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

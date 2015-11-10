@@ -1,0 +1,41 @@
+{
+    "base": "BNso",
+    "id": "&SIL",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCancel.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Disabled (Spells)"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Disabled (Spells)"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit cannot cast spells."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "base": "oeye",
+    "id": "o01G",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A02R,Adt1,Aeth,WARD"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Level 2)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": "mechanical,ward"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "base": "Alit",
+    "id": "A057",
+    "mods": [
+        {
+            "data": 0,
+            "id": "alig",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amac",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\LichMissile\\LichMissile.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "900",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Glacious Attack",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "origin",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atac",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Drain\\ManaDrainTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

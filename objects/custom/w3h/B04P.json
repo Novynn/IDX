@@ -1,0 +1,46 @@
+{
+    "base": "BOsf",
+    "id": "B04P",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUnholyAura.blp"
+        },
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Cripple\\CrippleTarget.mdl"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "overhead"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\InnerFire\\InnerFireTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Domination Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Domination Aura; it has a 20% increase to its attack damage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

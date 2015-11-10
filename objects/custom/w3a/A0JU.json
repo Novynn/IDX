@@ -1,0 +1,62 @@
+{
+    "base": "AId5",
+    "id": "A0JU",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "10",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "15",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "20",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "25",
+            "variation": 5
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "30",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Titan Bones Armor Effect)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

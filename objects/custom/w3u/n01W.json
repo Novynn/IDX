@@ -1,0 +1,76 @@
+{
+    "base": "ngme",
+    "id": "n01W",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aall,Avul,Apit"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\naga\\AltarOfDepths\\AltarOfDepths.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": "I05I,I051,I00C,I00E,I00B,I00D,I00L,I00M,I01N,I016,I01O"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Merchant of Artifacts"
+        },
+        {
+            "id": "unbm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unbr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Page 1)"
+        },
+        {
+            "id": "uocc",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.20000005"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

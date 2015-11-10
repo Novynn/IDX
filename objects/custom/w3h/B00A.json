@@ -1,0 +1,31 @@
+{
+    "base": "Beng",
+    "id": "B00A",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Ensnare"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

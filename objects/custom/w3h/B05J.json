@@ -1,0 +1,36 @@
+{
+    "base": "Bpxf",
+    "id": "B05J",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSpellStealOn.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Shocked"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Energy Blast"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been hit by Energy Blast."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

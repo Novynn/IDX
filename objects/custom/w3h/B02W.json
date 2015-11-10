@@ -1,0 +1,36 @@
+{
+    "base": "BNab",
+    "id": "B02W",
+    "mods": [
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Environment\\UndeadBuildingFire\\UndeadLargeBuildingFire1.mdl"
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\Immolation\\ImmolationDamage.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Radioaction Poisoning"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has under the effects of radiation poisoning.  It has reduced armor, movement speed, attack speed and is being damaged over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

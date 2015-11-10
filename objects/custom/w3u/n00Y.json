@@ -1,0 +1,76 @@
+{
+    "base": "ngme",
+    "id": "n00Y",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aall,Avul,Apit"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\OgreLord\\OgreLord.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": "I001,I005,I007,I002,I004,I009,I00A,I060,I06C,I022"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Aerox and rcxquake"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\2x2Default.tga"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ushb",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Ogre"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "1"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

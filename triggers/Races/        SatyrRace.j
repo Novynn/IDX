@@ -1,0 +1,51 @@
+//TESH.scrollpos=8
+//TESH.alwaysfold=0
+//! zinc
+
+library SatyrRace requires Races {
+    public struct SatyrRace extends DefenderRace {
+        method toString() -> string {
+            return "Satyr";
+        }
+        
+        method inRandomPool() -> boolean {
+            return false;
+        }
+        
+        method isPickable() -> boolean {
+            return false;
+        }
+        
+        method widgetId() -> integer {
+            return 'h035';
+        }
+
+        method itemId() -> integer {
+            return 'I033';
+        }
+
+        method icon() -> string {
+            return "ReplaceableTextures\\CommandButtons\\BTNSatyrTrickster.blp";
+        }
+
+        method difficulty() -> real {
+            return 3.0;
+        }
+        
+        method onSpawn(unit u) {
+            player p = GetOwningPlayer(u);
+            SetPlayerTechMaxAllowed(p, 'e00Y', -1);
+            p = null;
+        }
+        
+        private static method create() -> thistype {
+            return thistype.allocate();
+        }
+        
+        private static method onInit(){
+            super.register(thistype.create());
+        }
+    }
+}
+
+//! endzinc

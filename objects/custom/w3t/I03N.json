@@ -1,0 +1,56 @@
+{
+    "base": "rsps",
+    "id": "I03N",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03P"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03P"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPotionGreen.blp"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Elixir of Shielding // Currently broken (point targeted)"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Purchase Elixir of Shielding"
+        }
+    ]
+}

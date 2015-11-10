@@ -1,0 +1,349 @@
+{
+    "base": "AIcb",
+    "id": "A0BQ",
+    "mods": [
+        {
+            "data": 2,
+            "id": "Iarp",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Iarp",
+            "type": 0,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Iarp",
+            "type": 0,
+            "value": "4",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Iarp",
+            "type": 0,
+            "value": "6",
+            "variation": 4
+        },
+        {
+            "data": 2,
+            "id": "Iarp",
+            "type": 0,
+            "value": "8",
+            "variation": 5
+        },
+        {
+            "data": 1,
+            "id": "Idic",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Idic",
+            "type": 0,
+            "value": "25",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Idic",
+            "type": 0,
+            "value": "50",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Idic",
+            "type": 0,
+            "value": "75",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Idic",
+            "type": 0,
+            "value": "100",
+            "variation": 5
+        },
+        {
+            "data": 5,
+            "id": "Iob5",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNCleavingAttack.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B028",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B028",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B028",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B028",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B028",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Rending Blade",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Satyr)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\OrbCorruption\\OrbCorruptionMissile.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,organic",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,organic",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,organic",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,organic",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\OrbDarkness\\OrbDarkness.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Rending Blade - [|cffffcc00Level 5|r]",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Cuts through the targets armour, reducing it by 0.|n|cffffcc00Passive.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Cuts through the targets armour, reducing it by 2.|n|cffffcc00Passive.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Cuts through the targets armour, reducing it by 4.|n|cffffcc00Passive.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Cuts through the targets armour, reducing it by 6.|n|cffffcc00Passive.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Cuts through the targets armour, reducing it by 8.|n|cffffcc00Passive.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

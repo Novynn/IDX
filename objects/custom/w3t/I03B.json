@@ -1,0 +1,101 @@
+{
+    "base": "hval",
+    "id": "I03B",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A000"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A000"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Charged"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cff6a5acdThis player was an alpha tester for |r|cffffa500Island Defense|r |cffff45004|r|cffffa500.|r|cffff45000|r|cffffa500.|r|cffff45000|r|cff6a5acd.|r"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\QuestionMark\\QuestionMark.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iicd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPickUpItem.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.5"
+        },
+        {
+            "id": "isel",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Alpha Glow Effect"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "|cffff4500Alpha Tester|r |cff4169e1Glow Effect|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cff6a5acdThis player was an alpha tester for |r|cffffa500Island Defense|r |cffff45004|r|cffffa500.|r|cffff45000|r|cffffa500.|r|cffff45000|r|cff6a5acd.|r|n|n|cffb8afe7Double right-click me to free up inventory space! The effect will still be attached to your unit.|r"
+        }
+    ]
+}

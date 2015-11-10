@@ -1,0 +1,139 @@
+{
+    "base": "Rhac",
+    "id": "R01B",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDemolish.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gba2",
+            "type": 2,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gba3",
+            "type": 2,
+            "value": "-1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco2",
+            "type": 3,
+            "value": "h015",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gco3",
+            "type": 3,
+            "value": "h005",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef2",
+            "type": 3,
+            "value": "rtma",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef3",
+            "type": 3,
+            "value": "rtma",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglm",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "A",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ginh",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "2000",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glmm",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Advanced Wall Research",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnsf",
+            "type": 3,
+            "value": "(Triggered)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00A|r) Advanced Wall Research",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Replaces all of your Fortified Armed Walls into Advanced Walls. These walls evade 20% of attacks and have 20 armor. This upgrade also grants normal Armed Walls with 5 bonus armor.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

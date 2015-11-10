@@ -1,0 +1,104 @@
+{
+    "base": "ANcl",
+    "id": "A018",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "spiritlink",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSpiritLink.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Energy Transfer",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Morphling Conduits)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "spiritlink",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "ground,invulnerable,player,structure,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(E) Energy Transfer",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

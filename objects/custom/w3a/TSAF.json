@@ -1,0 +1,447 @@
+{
+    "base": "ANcl",
+    "id": "TSAF",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "3",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "silence",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "disable",
+            "variation": 2
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "disable",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "spell,cast",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "800",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNManaFlareOff.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acap",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "10",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "10",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aeat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aefl",
+            "type": 3,
+            "value": "SiphonManaLoop",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "350",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "275",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "250",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Disable",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TSAF 4.0.0 - Triggered)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "silence",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "900",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "450",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNManaFlareOff.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Learn |cff6c00ceDisable|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "12",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Sypherious takes direct control of the water in the air, forcing structures within an area to halt their attacks.|r|n|n|cff1e90ffDisables the attacks of enemy structures within a range of 800 from the targeted point for 10 seconds.|nPoint-Targeted - 120 second cooldown.|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,item,neutral,organic,ward",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,item,neutral,organic,ward",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,item,neutral,organic,ward",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Cast |cff6c00ceDisable|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeCrushing Wave|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeCrushing Wave|r - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Sypherious takes direct control of the water in the air, forcing structures within an area to halt their attacks.|r|n|n|cff1e90ffDisables the attacks of enemy structures within a range of 800 from the targeted point for 10 seconds.|nPoint-Targeted - 120 second cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Sypherious releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080\"There's no surfing this wave.\"|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 450, and maximum radius of 240, that deals 155 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Sypherious releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080\"There's no surfing this wave.\"|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 500, and maximum radius of 240, that deals 180 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

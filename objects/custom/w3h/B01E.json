@@ -1,0 +1,66 @@
+{
+    "base": "Bspl",
+    "id": "B01E",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeartOfSearinox.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Life Essence"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "arm,left"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "arm,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta5",
+            "type": 3,
+            "value": "back"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\Tranquility\\TranquilityTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Life Essence"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is channeling the essence of Life; it has increased regeneration."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

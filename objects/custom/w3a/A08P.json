@@ -1,0 +1,132 @@
+{
+    "base": "Aspo",
+    "id": "A08P",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Spo1",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Spo1",
+            "type": 2,
+            "value": "4",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Spo2",
+            "type": 2,
+            "value": "0.150000006",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Spo2",
+            "type": 2,
+            "value": "0.0199999996",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Spo3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Spo3",
+            "type": 2,
+            "value": "0.0199999996",
+            "variation": 2
+        },
+        {
+            "data": 4,
+            "id": "Spo4",
+            "type": 0,
+            "value": "15",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "1.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "1.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Poisoned Weapons",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Basic)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Poisoned Weapons",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Poisoned Weapons",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "A poison attack that deals 2 damage per second, and slows the target enemy's move speed by 15%. Lasts 1.5 seconds.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "A poison attack that deals 4 damage per second, and slows the target enemy's speed by 1%. Stacks.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

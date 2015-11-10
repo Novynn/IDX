@@ -1,0 +1,27 @@
+{
+    "base": "Adri",
+    "id": "A05S",
+    "mods": [
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Unload",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Radioactive Hero)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

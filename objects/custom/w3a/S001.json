@@ -1,0 +1,41 @@
+{
+    "base": "Sbtl",
+    "id": "S001",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Btl1",
+            "type": 3,
+            "value": "h022",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "X",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Causes nearby morphling harvesters to run into the Burrow so that they can defend their base.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

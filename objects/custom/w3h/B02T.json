@@ -1,0 +1,21 @@
+{
+    "base": "BEme",
+    "id": "B02T",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Overload (Draenei)"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Overload"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

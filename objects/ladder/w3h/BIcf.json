@@ -1,0 +1,36 @@
+{
+    "base": "BIcf",
+    "id": "BIcf",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFireRocks.blp"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Environment\\NightElfBuildingFire\\ElfLargeBuildingFire1.mdl"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\LiquidFire\\Liquidfire.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fiery Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has a Demolisher Totem; nearby enemy ground units will take damage over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

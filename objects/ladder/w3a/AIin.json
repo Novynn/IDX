@@ -1,0 +1,20 @@
+{
+    "base": "AIin",
+    "id": "AIin",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Uin1",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

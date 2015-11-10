@@ -1,0 +1,76 @@
+{
+    "base": "Adtn",
+    "id": "Adtn",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Dtn1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Dtn2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "war3mapImported\\FreezingRing.mdx",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "friend,invulnerable,neutral,player,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Detonate",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Detonate on the target location to remove negative spells on friendly units. Kills this unit in the process.|n|n|cffff5522Note:|r Use this ability when the Titan overruns your base in order to stop him from gaining levels from killing these units.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "base": "BHad",
+    "id": "B01H",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPlagueCloud.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Diseased"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "overhead"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Units\\Undead\\PlagueCloud\\PlagueCloudtarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Diseased"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been Diseased; it has less armor."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "base": "BHad",
+    "id": "B00F",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStoneArchitecture.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Fortification Aura"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fortification Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Fortification Aura; it has increased armor."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

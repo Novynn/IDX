@@ -1,0 +1,71 @@
+{
+    "base": "BEim",
+    "id": "B004",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBreathOfFrost.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Saturation"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(TLAF 4.0.0)"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\FrostArmor\\FrostArmorTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Saturation"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is Saturated in damaging water; nearby enemy ground units will take damage over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "base": "ratc",
+    "id": "I01W",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "32"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStone.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "32"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Life Essence Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Purchase Life Essence"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Fills Titans with vitality, replenishing 1000 hp in an 750 AoE over 20 seconds when used. Also provides a regenerative aura for all nearby titans. |n|cffffd700Requires:|r 2 Regenerative Spines, Magic Coral, Greater Replenishment Flask & Recipe"
+        }
+    ]
+}

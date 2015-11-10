@@ -1,0 +1,36 @@
+{
+    "base": "Bfae",
+    "id": "B00V",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNReplenishManaOff.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Hypothermia"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\FrostDamage\\FrostDamage.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Hypothermia"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has Hypothermia; it has reduced armor and can be seen by the enemy for 3 seconds."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "base": "Bpig",
+    "id": "Bpig",
+    "mods": [
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedDamage.mdl"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedTarget.mdl"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

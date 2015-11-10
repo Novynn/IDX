@@ -1,0 +1,83 @@
+{
+    "base": "Aspb",
+    "id": "A02V",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNecromancerMaster.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Unpunish Player Book",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Unpunish Player",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "spb1",
+            "type": 3,
+            "value": "&UP0,&UP1,&UP2,&UP3,&UP4,&UP5,&UP6,&UP7,&UP8,&UP9,&UPA",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "spb2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "spb3",
+            "type": 0,
+            "value": "11",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "spb4",
+            "type": 0,
+            "value": "11",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

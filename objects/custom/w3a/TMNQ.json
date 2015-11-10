@@ -1,0 +1,440 @@
+{
+    "base": "ANcl",
+    "id": "TMNQ",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Ncl1",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Ncl2",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Ncl3",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 5,
+            "id": "Ncl5",
+            "type": 0,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "scepterofflame",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "scepterofflame",
+            "variation": 2
+        },
+        {
+            "data": 6,
+            "id": "Ncl6",
+            "type": 3,
+            "value": "scepterofflame",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "spell,chain",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "600",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "600",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStaffOfSilence.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acap",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "10",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "10",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aeat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "275",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "250",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Scepter of Flame",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TMNQ 4.0.0 - Triggered)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "scepterofflame",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "650",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "650",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "650",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStaffOfSilence.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Learn |cff7b68eeScepter of Flame|r - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|n|cffffcc00Level 1|r - |cff1e90ffDamages the targeted unit by 130, and bounces to 4 other units within 600 range.|r|n|cffffcc00Level 2|r - |cff1e90ffDamages the targeted unit by 155, and bounces to 5 other units within 600 range.|r|n|cffffcc00Level 3|r - |cff1e90ffDamages the targeted unit by 180, and bounces to 6 other units within 600 range.|n|nUnit-Targeted - 10 second cooldown.|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,neutral,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,neutral,organic",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,neutral,organic",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeScepter of Flame|r - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeScepter of Flame|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeScepter of Flame|r - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|cff808080|n|r|n|cff1e90ffDamages the targeted unit by 130, and bounces to 4 other units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|n|cff1e90ffDamages the targeted unit by 155, and bounces to 5 other units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|n|cff1e90ffDamages the targeted unit by 180, and bounces to 6 units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

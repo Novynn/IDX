@@ -1,0 +1,31 @@
+{
+    "base": "BOsf",
+    "id": "B045",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHelmutPurple.blp"
+        },
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\Cripple\\CrippleTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Aura of Command"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Aura of Command; it has a 10% increase to its attack damage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

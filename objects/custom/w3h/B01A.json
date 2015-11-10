@@ -1,0 +1,21 @@
+{
+    "base": "Bapl",
+    "id": "B01A",
+    "mods": [
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Bubonicus)"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Units\\Undead\\PlagueCloud\\PlagueCloudtarget.mdl"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

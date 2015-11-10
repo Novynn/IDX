@@ -1,0 +1,31 @@
+{
+    "base": "uloc",
+    "id": "u00G",
+    "mods": [
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uine",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Abilities\\Weapons\\IllidanMissile\\IllidanMissile.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Demonic Spirit"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.5"
+        }
+    ]
+}

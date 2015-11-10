@@ -1,0 +1,83 @@
+{
+    "base": "AIbk",
+    "id": "A0ID",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ebl1",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ebl2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "0.600000024",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "180",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "V",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Blink",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Mystic Stone)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aoro",
+            "type": 3,
+            "value": "blink",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Teleports the holder a short distance of 400, allowing it to escape the Titan or his Minions.|n|n|cffadd8e6Cooldown:|r 35",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

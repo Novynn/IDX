@@ -1,0 +1,231 @@
+{
+    "base": "nmed",
+    "id": "n021",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "39"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure,ward"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\FarseerMissile\\FarseerMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "magic"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00Q,A0KK,A0KL,A0KJ"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "22"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "G"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFurbolgShaman.blp"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\FurbolgShaman\\FurbolgShaman.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "3"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "320"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Furbolg Shaman"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.25"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "usma",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Furbolg"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "120"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Train Furbolg Shaman"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A low damage unit with the ability to see invisible units, an essential unit to have while hunting Titans. This unit has a single use blink to get out of your base defenses."
+        }
+    ]
+}

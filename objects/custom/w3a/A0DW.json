@@ -1,0 +1,132 @@
+{
+    "base": "ACmf",
+    "id": "A0DW",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Nms1",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Nms1",
+            "type": 2,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Nms2",
+            "type": 2,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "BNms",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(A0DF)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "128",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Mana Shi|cffffcc00e|rld",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Mana Shi|cffffcc00e|rld",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Activates a shield that absorbs 100% of the damage taken, absorbing 1 damage per point of mana.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Activates a shield that absorbs 100% of the damage taken, absorbing 2 damage per point of mana.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "D",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "Deactivate Mana Shield",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "Deactivate Mana Shield",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

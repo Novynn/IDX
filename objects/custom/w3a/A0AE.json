@@ -1,0 +1,104 @@
+{
+    "base": "Aspb",
+    "id": "A0AE",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSpiritWalkerMasterTraining.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Combat Skills",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "Tauren",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Combat Skills",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Contains a variety of abilities for the Tauren's use.",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "spb1",
+            "type": 3,
+            "value": "A0AR,A0BD,A0AO,A0AG,A0AL,A0AF,A0AB,A0AK,A0AT,A0D2,A0AQ",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "spb2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "spb3",
+            "type": 0,
+            "value": "11",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "spb4",
+            "type": 0,
+            "value": "11",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

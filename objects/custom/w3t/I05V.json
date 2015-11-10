@@ -1,0 +1,111 @@
+{
+    "base": "rspl",
+    "id": "I05V",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AItx,AIsx,Arel"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "AIvu"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Provides the holder with an additonal 15% attack speed and 20 damage. Also increases health regeneration."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\TreasureChest\\treasurechest.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "50000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNThoriumMelee.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa8888ffSword of the Magistrate|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Provides the holder with an additonal 15% attack speed and 20 damage. Also increases health regeneration."
+        }
+    ]
+}

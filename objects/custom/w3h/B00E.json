@@ -1,0 +1,61 @@
+{
+    "base": "Bpoi",
+    "id": "B00E",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCrushingWave.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\ZigguratFrostMissile\\ZigguratFrostMissile.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Freezing Water"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is drenched with freezing water; Its movement speed has been reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

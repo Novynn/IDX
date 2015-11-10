@@ -1,0 +1,31 @@
+{
+    "base": "BOsf",
+    "id": "B01U",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTauren.blp"
+        },
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\FeralSpirit\\feralspiritdone.mdl"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Tauren Guard"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Tauren Guard"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

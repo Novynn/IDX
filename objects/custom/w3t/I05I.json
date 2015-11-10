@@ -1,0 +1,76 @@
+{
+    "base": "tdex",
+    "id": "I05I",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "AIgm"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "none.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLeftArrow.blp"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Previous Page - None"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Previous Page"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Switch to the previous page of the shop."
+        }
+    ]
+}

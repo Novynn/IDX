@@ -1,0 +1,26 @@
+{
+    "base": "Bdet",
+    "id": "B01P",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNManaBurn.blp"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Detected"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is detected; an enemy player can see it."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

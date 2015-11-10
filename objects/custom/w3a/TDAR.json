@@ -1,0 +1,223 @@
+{
+    "base": "ANdo",
+    "id": "TDAR",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ndo1",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Ndo1",
+            "type": 2,
+            "value": "60",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Ndo2",
+            "type": 0,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Ndo3",
+            "type": 2,
+            "value": "120",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "Ndou",
+            "type": 3,
+            "value": "n00I",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Ndou",
+            "type": 3,
+            "value": "n00I",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00Z,B010",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00Z,B010",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alsk",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "200",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Mark of Darkness",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TDAR 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "600",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Learn |cff4169e1Mark of Darkness|r - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Demonicus marks his target unit for the manifestation of a Spawn of Darkness.|r|n|cff808080''When darkness calls, you'd better pick up.''|r|n|n|cff1e90ffThe afflicted unit cannot cast spells and will take 60 damage per second until it dies|n|r|cffffcc00Level 1|r - |cff1e90ffUpon the unit's death, a Spawn of Darkness will spawn.|n|r|cffffcc00Level 2|r - |cff1e90ffUpon the unit's death, two Spawns of Darkness will spawn.|nUnit-Targeted - 60 second cooldown.|n|r|n|cffff5522Note:|r This ability will not work on Builders.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,neutral,nonhero,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,neutral,nonhero,organic",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Cast |cff4169e1Mark of Darkness|r - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Cast |cff4169e1Mark of Darkness|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Demonicus marks his target unit for the manifestation of a Spawn of Darkness.|r|n|cff808080\"When darkness calls, you'd better pick up.\"|r|n|n|cff1e90ffThe afflicted unit cannot cast spells and will take 60 damage per second until it dies. Upon the unit's death, a Spawn of Darkness will spawn.|nUnit-Targeted - 60 second cooldown.|n|r|n|cffff5522Note:|r This ability will not work on Builders.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Demonicus marks his target unit for the manifestation of a Spawn of Darkness.|r|n|cff808080\"When darkness calls, you'd better pick up.\"|r|n|n|cff1e90ffThe afflicted unit cannot cast spells and will take 60 damage per second until it dies. Upon the unit's death, two Spawns of Darkness will spawn.|nUnit-Targeted - 60 second cooldown.|n|r|n|cffff5522Note:|r This ability will not work on Builders.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

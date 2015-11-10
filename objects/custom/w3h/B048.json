@@ -1,0 +1,51 @@
+{
+    "base": "BIcf",
+    "id": "B048",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathCoil.blp"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedDamage.mdl"
+        },
+        {
+            "id": "fspt",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fiery Wrath"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Fiery Wrath; it will deal periodic damage over time to nearby enemy units."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

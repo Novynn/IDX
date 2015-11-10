@@ -1,0 +1,301 @@
+{
+    "base": "nbt1",
+    "id": "n003",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "24"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.20000005"
+        },
+        {
+            "id": "ua1f",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1h",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "abilities\\weapons\\huntermissile\\huntermissile.mdl"
+        },
+        {
+            "id": "ua1p",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1q",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "1800"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9"
+        },
+        {
+            "id": "uabr",
+            "type": 2,
+            "value": "15"
+        },
+        {
+            "id": "uabt",
+            "type": 3,
+            "value": "buffer"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Wood"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ubs2",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "OrcBuildingConstructionLoop"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udp2",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulfi",
+            "type": 0,
+            "value": "512"
+        },
+        {
+            "id": "ulfo",
+            "type": 0,
+            "value": "512"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "135"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.150000006"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffb7ae6bSpear Tower|r"
+        },
+        {
+            "id": "unbm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN1"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "WatchTower"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Build a |cffb7ae6bSpear Tower|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Troll's basic defensive tower.|n|cff808080This tower has high damage, but takes up quite a bit more food. Don't overbuild these, they are powerful enough in small numbers.|r|n|n|cffffcc00Health:|r 250|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 25 Pierce|n|cffffcc00Attack Range:|r 700|n|cffffcc00Attack Cooldown: |r1.2s|n|n|cffff0000Note:|r You should build these in a base behind 4-5 walls. They're only effective if the titan cannot reach them."
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "n002"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "base": "Blsh",
+    "id": "Blsh",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNChainLightning.blp"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Charm\\CharmTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Energy Charge"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is charged with damaging energy; nearby enemy units will take damage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

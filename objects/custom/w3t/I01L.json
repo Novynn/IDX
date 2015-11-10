@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I01L",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A06E,AItn,A06C,A06D"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A06E"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Toxic Tower"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Abilities\\Weapons\\DemonHunterMissile\\DemonHunterMissile.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "135"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGem.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.60000002"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff59f700Toxic Tower|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Toxic Tower at a target location. Also adds +10 to the holders attack damage, and causes the holder to Shoot toxic projectiles at enemy units."
+        }
+    ]
+}

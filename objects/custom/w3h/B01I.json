@@ -1,0 +1,21 @@
+{
+    "base": "Bfro",
+    "id": "B01I",
+    "mods": [
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\FrostDamage\\FrostDamage.mdl"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is iced down and has reduced move speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

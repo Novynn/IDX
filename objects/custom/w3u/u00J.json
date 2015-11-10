@@ -1,0 +1,181 @@
+{
+    "base": "usap",
+    "id": "u00J",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Asid,Aall,ARax"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUndeadShrine.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\SacrificialAltar\\SacrificialAltar.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": "I024,I02O,I02P"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff483d8bPool of Ancient Ritual|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Demonologist)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upar",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\8x8SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": "_"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700T|r) Summon |cff483d8bPool of Ancient Ritual|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q027,q028,q029,q030,q031,q032,q033,q034,q035,q036,q059,q137,q144"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Contains powerful items for sale as well as strong upgrades."
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "mechanical"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "USMA"
+        }
+    ]
+}

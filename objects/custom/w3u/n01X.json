@@ -1,0 +1,81 @@
+{
+    "base": "ngme",
+    "id": "n01X",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aall,Avul,Apit"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "none.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": "I050,I05J,I01E,I019,I042,I040,I068,I027"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Merchant of Artifacts"
+        },
+        {
+            "id": "unbm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unbr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Page 2)"
+        },
+        {
+            "id": "uocc",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.100000001"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

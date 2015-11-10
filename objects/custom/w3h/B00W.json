@@ -1,0 +1,31 @@
+{
+    "base": "BHav",
+    "id": "B00W",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNGlacier.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Polar Wrath"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Polar Wrath"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has the Polar Wrath effect. It has +1800hp, +5 armor, +50 damage, and spell immunity."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

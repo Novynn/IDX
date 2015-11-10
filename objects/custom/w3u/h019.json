@@ -1,0 +1,191 @@
+{
+    "base": "hwat",
+    "id": "h019",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "129"
+        },
+        {
+            "id": "ua1f",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "enemies,structure"
+        },
+        {
+            "id": "ua1h",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1q",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "175"
+        },
+        {
+            "id": "ucs1",
+            "type": 3,
+            "value": "WoodLightBash"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "7"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "2200"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "6"
+        },
+        {
+            "id": "umas",
+            "type": 0,
+            "value": "522"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Units\\Creeps\\SeaElemental\\SeaElemental.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "3"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "370"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Oceanic Behemoth"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(TSAR 4.0.0 Level 3)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.20000005"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "2"
+        }
+    ]
+}

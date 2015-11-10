@@ -1,0 +1,118 @@
+{
+    "base": "AUcs",
+    "id": "A07S",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ucs1",
+            "type": 2,
+            "value": "300",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ucs2",
+            "type": 2,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ucs3",
+            "type": 2,
+            "value": "900",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Ucs4",
+            "type": 2,
+            "value": "350",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "350",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "20",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Z",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "150",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "nightelf",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q022",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,ground,organic",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Carrion Swarm",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Sends a horde of bats, causing 300 damage to enemy units caught in their path.|n|cffffcc00Point-Targeted -- 20 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

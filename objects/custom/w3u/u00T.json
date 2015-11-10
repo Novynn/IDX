@@ -1,0 +1,146 @@
+{
+    "base": "uloc",
+    "id": "u00T",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "enemies,nonancient,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aloc,A0CH,A0CF,A0CK"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "125"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "125"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathCoil.blp"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\undead\\PlagueCloud\\PlagueCloud.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "20"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "20"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Fart Cloud"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.70000005"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ussi",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTranquility.blp"
+        }
+    ]
+}

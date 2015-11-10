@@ -1,0 +1,41 @@
+{
+    "base": "nglm",
+    "id": "n006",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A037,A038"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Goblin)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "other"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": "mechanical,ward"
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "standon"
+        }
+    ]
+}

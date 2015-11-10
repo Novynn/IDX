@@ -1,0 +1,86 @@
+{
+    "base": "tsct",
+    "id": "I058",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AItx,A0J8,A0I3"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0I3"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "iclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "The Box of Pyros emits a lethal aura, This Aura weakens nearby enemies armor and burns their health and mana.|nWhen held as an item, it deals damage to nearby enemies. Also provides the holder with +20 attack damage."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNArcaneVault.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff00ff00Box of Pyros|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Box of Pyros emits a lethal aura, This Aura weakens nearby enemies armor and burns their health and mana.|nWhen held as an item, it deals damage to nearby enemies. Also provides the holder with +20 attack damage."
+        }
+    ]
+}

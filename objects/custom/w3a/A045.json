@@ -1,0 +1,76 @@
+{
+    "base": "AId1",
+    "id": "A045",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "3",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "4",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "5",
+            "variation": 5
+        },
+        {
+            "data": 1,
+            "id": "Idef",
+            "type": 0,
+            "value": "6",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "6",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Bubonicus)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

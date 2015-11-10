@@ -1,0 +1,96 @@
+{
+    "base": "ratc",
+    "id": "I01U",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSirenAdept.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Super Regenerative Armored Spines Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Purchase Super Regenerative Armored Spines Recipe"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00An armored set of highly effective regenerative spines. |r|n|cff1e90ff    +18 Health Regeneration per Second|n    +50% Mana Regeneration per Second|n    +3 Armor|n    +80 Movespeed (Does not stack)|n|nPassive.|r|n|n|cffffd700Requires:|r|n  3x Regenerative Spines|n  1x Webbed Feet|n  1x Super Regenerative Armored Spines Recipe"
+        }
+    ]
+}

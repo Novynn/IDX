@@ -1,0 +1,21 @@
+{
+    "base": "XEsf",
+    "id": "X001",
+    "mods": [
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Polymorph\\PolyMorphDoneGround.mdl"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Starfall (No Effect)"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

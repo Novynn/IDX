@@ -1,0 +1,91 @@
+{
+    "base": "bfhr",
+    "id": "I01X",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A07K"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A07K"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Allows the holder to throw magical hammers at enemy titans every 2 minutes. It has a range of 800, deals 200 damage, and stuns for 3 seconds."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStormBolt.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa00aeefStorm Hammer|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Allows the holder to throw magical hammers at enemy titans every 2 minutes. It has a range of 800, deals 200 damage, and stuns for 3 seconds."
+        }
+    ]
+}

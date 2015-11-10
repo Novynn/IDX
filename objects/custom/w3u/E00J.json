@@ -1,0 +1,446 @@
+{
+    "base": "Edmm",
+    "id": "E00J",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "59"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1f",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "ground,structure,debris,item,ward"
+        },
+        {
+            "id": "ua1h",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\LichMissile\\LichMissile.mdl"
+        },
+        {
+            "id": "ua1p",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1q",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "105"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "hero"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ua2t",
+            "type": 3,
+            "value": "hero"
+        },
+        {
+            "id": "uaap",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A04R,A050,AInv"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "500"
+        },
+        {
+            "id": "uagi",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "uagp",
+            "type": 2,
+            "value": "5"
+        },
+        {
+            "id": "ualp",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "ubpr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.540000021"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucbs",
+            "type": 2,
+            "value": "0.50999999"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "175"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ucs1",
+            "type": 3,
+            "value": "MetalHeavyChop"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.460000008"
+        },
+        {
+            "id": "udtm",
+            "type": 2,
+            "value": "4.0999999"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "50"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhab",
+            "type": 3,
+            "value": "TCAQ,TCAW,TCAE,TCAR,TCAF"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhhd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "6"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLichVersion2.blp"
+        },
+        {
+            "id": "uimz",
+            "type": 2,
+            "value": "125"
+        },
+        {
+            "id": "uinp",
+            "type": 2,
+            "value": "7"
+        },
+        {
+            "id": "uint",
+            "type": 0,
+            "value": "42"
+        },
+        {
+            "id": "uisz",
+            "type": 2,
+            "value": "125"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "7"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "125"
+        },
+        {
+            "id": "ulsz",
+            "type": 2,
+            "value": "125"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.200000003"
+        },
+        {
+            "id": "umas",
+            "type": 0,
+            "value": "522"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\undead\\HeroLich\\HeroLich_V1.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "5"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff0080ffLegendary Titan of Ice|R"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": "_"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "202"
+        },
+        {
+            "id": "upra",
+            "type": 3,
+            "value": "STR"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upro",
+            "type": 3,
+            "value": "|cff0080ffGlacious|r"
+        },
+        {
+            "id": "upru",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urq1",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urq2",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urqc",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "300"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "2.0999999"
+        },
+        {
+            "id": "usew",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ussi",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLichVersion2.blp"
+        },
+        {
+            "id": "ustp",
+            "type": 2,
+            "value": "12"
+        },
+        {
+            "id": "ustr",
+            "type": 0,
+            "value": "44"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "giant"
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "300"
+        }
+    ]
+}

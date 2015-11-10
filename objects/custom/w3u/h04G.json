@@ -1,0 +1,216 @@
+{
+    "base": "hrif",
+    "id": "h04G",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "69"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure,ward"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "abilities\\weapons\\huntermissile\\huntermissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "700"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "22"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeadhunter.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.100000001"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\orc\\HeadHunter\\HeadHunter_V1.mdl"
+        },
+        {
+            "id": "umh1",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "330"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Head Hunter"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.899999976"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "HeadHunter"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Head Hunter"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A high damage ranged unit that is fragile and slow. Does not have Single Blink."
+        }
+    ]
+}

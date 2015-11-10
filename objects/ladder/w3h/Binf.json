@@ -1,0 +1,61 @@
+{
+    "base": "Binf",
+    "id": "Binf",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNFrost.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\FrostArmor\\FrostArmorTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Arctic Might"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been boosted with Arctic Might; it has 50 bonus armor and 25% bonus damage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

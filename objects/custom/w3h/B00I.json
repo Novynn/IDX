@@ -1,0 +1,51 @@
+{
+    "base": "BEer",
+    "id": "B00I",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Entangling Roots"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "N"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been hit by Entangling Roots; it cannot move."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

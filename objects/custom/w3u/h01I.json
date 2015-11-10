@@ -1,0 +1,281 @@
+{
+    "base": "hctw",
+    "id": "h01I",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "29"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0.850000024"
+        },
+        {
+            "id": "ua1f",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1h",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\IllidanMissile\\IllidanMissile.mdl"
+        },
+        {
+            "id": "ua1p",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1q",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "1800"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9,A00U"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "900"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "OrcBuildingConstructionLoop"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "0.100000009"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAntiMagicShell.blp"
+        },
+        {
+            "id": "uimz",
+            "type": 2,
+            "value": "110"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "150"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.150000006"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\PowerGenerator\\PowerGenerator.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffcf9633Enhanced Radon Tower|r"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.949999988"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Upgrade to an |cffcf9633Enhanced Radon Tower|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Radioactive's enhanced defensive tower.|n|cff808080Seemingly weak tower but powerful in large numbers. Provides several tier options late-game.|r|n|n|cffffcc00Health:|r 250|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 30 Pierce|n|cffffcc00Attack Range:|r 600|n|cffffcc00Attack Cooldown: |r0.85s"
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "h01J"
+        }
+    ]
+}

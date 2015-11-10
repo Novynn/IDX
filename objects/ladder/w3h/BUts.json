@@ -1,0 +1,16 @@
+{
+    "base": "BUts",
+    "id": "BUts",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Unholy Armor"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

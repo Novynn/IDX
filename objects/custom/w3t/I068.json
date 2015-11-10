@@ -1,0 +1,91 @@
+{
+    "base": "ratc",
+    "id": "I068",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0NJ"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0NJ"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEnchantedCrows.blp"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Ethereal Mirror"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00S|r) Purchase Ethereal Mirror"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Gives the holder the ability to send units' essenses to the Nether. While in this state, they have a reduced attack and movement speed and cannot build structures. They are immune to physical damage, however effects from spells are amplified."
+        }
+    ]
+}

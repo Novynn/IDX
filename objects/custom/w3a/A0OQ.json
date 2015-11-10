@@ -1,0 +1,34 @@
+{
+    "base": "AItx",
+    "id": "A0OQ",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Iatt",
+            "type": 0,
+            "value": "25",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(+25)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "nonhero",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

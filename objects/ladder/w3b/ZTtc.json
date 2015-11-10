@@ -1,0 +1,21 @@
+{
+    "base": "ZTtc",
+    "id": "ZTtc",
+    "mods": [
+        {
+            "id": "bhps",
+            "type": 2,
+            "value": "1e+09"
+        },
+        {
+            "id": "bonc",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

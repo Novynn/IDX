@@ -1,0 +1,91 @@
+{
+    "base": "pnvu",
+    "id": "I04H",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Increases armor by +5 and hit points by 250.|n|cffff0000Recipe|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpThree.blp"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa8888cdShield of Might|r Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700A|r) |cff8888cdShield of Might|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A mighty shield that increases the holders armor by +5 and hit points by +250.|n|cffffd700Requires:|r 1 Titan Egg, Shield of Will"
+        }
+    ]
+}

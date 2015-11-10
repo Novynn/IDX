@@ -1,0 +1,141 @@
+{
+    "base": "ohwd",
+    "id": "o022",
+    "mods": [
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "unknown"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Apiv,Adtg"
+        },
+        {
+            "id": "uabt",
+            "type": 3,
+            "value": "buffer"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Ethereal"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udtm",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "25"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPhilosophersStone.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\CrystalShard\\CrystalShard.mdl"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Sentry Stone"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(TTAD 4.0.0)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "RockGolem"
+        },
+        {
+            "id": "utc2",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uwu1",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uwu2",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

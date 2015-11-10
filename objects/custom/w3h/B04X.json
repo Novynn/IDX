@@ -1,0 +1,36 @@
+{
+    "base": "BNab",
+    "id": "B04X",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEntanglingRoots.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\EntanglingRoots\\EntanglingRootsTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Entangled"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been Entangled.  It has reduced armor, and a slower movement speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

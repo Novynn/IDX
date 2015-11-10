@@ -1,0 +1,86 @@
+{
+    "base": "tsct",
+    "id": "I056",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0HU,A0E4,AI2m"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0HU"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage. This tower also gives off an aura that gives bonus mana regeneration to your structures.|nWhen held as an item, it gives off a mana regeneration aura and adds 200 mana to the holder."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\Cinematic\\SunWell\\SunWell.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFountainOfLife.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.300000012"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff00ffffWell of Power|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "|cff00ffffWell of Power|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage. This tower also gives off an aura that gives bonus mana regeneration to your structures.|nWhen held as an item, it gives off a mana regeneration aura and adds 200 mana to the holder."
+        }
+    ]
+}

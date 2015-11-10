@@ -1,0 +1,111 @@
+{
+    "base": "Absk",
+    "id": "A0AC",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAncestralSpirit.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B01W",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\BattleRoar\\RoarCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "90",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aefl",
+            "type": 3,
+            "value": "TaurenWarcry",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aefs",
+            "type": 3,
+            "value": "TaurenWarcry",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "W",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Charge",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Charge",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Causes the Tauren to move 100% faster and attack 50% faster for 10 seconds. |n|cffffcc00Activated-- 90 second cooldown",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "bsk1",
+            "type": 2,
+            "value": "500",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "bsk3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

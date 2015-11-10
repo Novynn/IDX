@@ -1,0 +1,377 @@
+{
+    "base": "Ahar",
+    "id": "A0NP",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Har1",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Har1",
+            "type": 0,
+            "value": "2",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Har1",
+            "type": 0,
+            "value": "2",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Har1",
+            "type": 0,
+            "value": "2",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Har1",
+            "type": 0,
+            "value": "2",
+            "variation": 5
+        },
+        {
+            "data": 2,
+            "id": "Har2",
+            "type": 0,
+            "value": "10",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Har2",
+            "type": 0,
+            "value": "10",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Har2",
+            "type": 0,
+            "value": "10",
+            "variation": 4
+        },
+        {
+            "data": 2,
+            "id": "Har2",
+            "type": 0,
+            "value": "10",
+            "variation": 5
+        },
+        {
+            "data": 3,
+            "id": "Har3",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "900",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "900",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "900",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "900",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "1.20000005",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "1.10000002",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.899999976",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.800000012",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Dryad Workers)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "116",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "116",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "116",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "116",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "alive,dead,tree",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "alive,dead,tree",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "alive,dead,tree",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "alive,dead,tree",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "alive,dead,tree",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Gather",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Gather",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Gather",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Gather",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Gather",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Return Resources",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Return Resources",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Return Resources",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Return Resources",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Return Resources",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Return the carried lumber to the nearest |cff99b4d1Shelter|r.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Return the carried lumber to the nearest |cff99b4d1Shelter|r.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Return the carried lumber to the nearest |cff99b4d1Shelter|r.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Return the carried lumber to the nearest |cff99b4d1Shelter|r.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Return the carried lumber to the nearest |cff99b4d1Shelter|r.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

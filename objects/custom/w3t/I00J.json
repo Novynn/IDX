@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I00J",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A00C,AIx5,AIx5,AItx"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A00C"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Sacred Seashell"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Props\\Ruins_Shells\\Ruins_Shells4.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "135"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSpy.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.39999998"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff00ffffSacred Seashell|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Sacred Seashell at a target location. Also provides the holder with +10 to all states and +20 damage."
+        }
+    ]
+}

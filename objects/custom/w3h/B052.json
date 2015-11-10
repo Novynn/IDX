@@ -1,0 +1,26 @@
+{
+    "base": "Binv",
+    "id": "B052",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Editor's Grace"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "|cff00ff00Editor's Grace|r"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This user is an editor of Island Defense.|n|n|cffff0000Note:|r This does not give an unfair advantage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

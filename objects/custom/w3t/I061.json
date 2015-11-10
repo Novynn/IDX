@@ -1,0 +1,86 @@
+{
+    "base": "tsct",
+    "id": "I061",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0LW,AItx,AIrm,A0LE"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0LE"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage, and also turns nearby friendly units invisible while they're nearby. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff00ff00While being held as an item, the holder will turn invisibile when attacked to avoid taking further damage. Invisibility lasts 3 seconds or until the holder casts or attacks. The holder also gains +20 attack damage and increased mana regeneration.|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMagicImmunity.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "issc",
+            "type": 1,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff3399ffSpiritual Rift|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "|cff3399ffSpiritual Rift|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage, and also turns nearby friendly units invisible while they're nearby. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff00ff00While being held as an item, the holder will turn invisibile when attacked to avoid taking further damage. Invisibility lasts 3 seconds or until the holder casts or attacks. The holder also gains +20 attack damage and increased mana regeneration.|r"
+        }
+    ]
+}

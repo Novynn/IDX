@@ -1,0 +1,41 @@
+{
+    "base": "BHab",
+    "id": "B020",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNDrum.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "War Drums"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "Tauren"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\GeneralAuraTarget\\GeneralAuraTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "War Drums"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the affects of War Drums; it has increased movement and attack speed."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

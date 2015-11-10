@@ -1,0 +1,41 @@
+{
+    "base": "Bssd",
+    "id": "B03F",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStrongDrink.blp"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "overhead"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\StrongDrink\\BrewmasterTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Drunken Haze"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is Drunk; its movement speed has been reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

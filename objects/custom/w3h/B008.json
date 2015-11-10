@@ -1,0 +1,26 @@
+{
+    "base": "BHwe",
+    "id": "B008",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Watery Minion"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "x"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Watery Minion"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "base": "Aabr",
+    "id": "A08Q",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Oar1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Oar2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Demon Aura",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\VampiricPotion\\VampPotionCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

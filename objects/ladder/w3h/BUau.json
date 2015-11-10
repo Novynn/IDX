@@ -1,0 +1,26 @@
+{
+    "base": "BUau",
+    "id": "BUau",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBearBlink.blp"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Light Energy Tower"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has 50% bonus hp regen."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "base": "hspt",
+    "id": "h022",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00T,Adtn"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "16"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUnbroken.blp"
+        },
+        {
+            "id": "ulbd",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ulbs",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Units\\Creeps\\Unbroken\\Unbroken.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "320"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff90ee90Harvester|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Morphling)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "25"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urb1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "250"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.400000006"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "NetherDragon"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Train Worker"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Basic worker unit that can harvest lumber.|n|cff808080What do you mean 'there's an octopus on my face'?|r|n|n|cffff0000Note:|r Can Detonate to free up space for more food or to prevent feeding the titan."
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "250"
+        }
+    ]
+}

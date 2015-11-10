@@ -1,0 +1,86 @@
+{
+    "base": "lmbr",
+    "id": "I065",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A00O"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A00O"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isel",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Purchase Bundle of Lumber"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Gives the player 700 lumber when used."
+        }
+    ]
+}

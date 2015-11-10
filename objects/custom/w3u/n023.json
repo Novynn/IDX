@@ -1,0 +1,131 @@
+{
+    "base": "nfbr",
+    "id": "n023",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Apiv,A0EB"
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": "alternate"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNWisp.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\nightelf\\Wisp\\Wisp.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "100"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "100"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffdc143cI ANNOY JOO|r"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "8"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Frog"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\AnimateDead\\AnimateDeadTarget.mdl"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "20"
+        },
+        {
+            "id": "util",
+            "type": 3,
+            "value": "K,O,*"
+        }
+    ]
+}

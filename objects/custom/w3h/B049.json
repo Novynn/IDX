@@ -1,0 +1,61 @@
+{
+    "base": "BOae",
+    "id": "B049",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFrostMourne.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Wind Gale"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "back"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Tornado\\Tornado_Target.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Wind Gale"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Wind Gale; it has an increased movement speed and attack rate."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

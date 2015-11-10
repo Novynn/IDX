@@ -1,0 +1,36 @@
+{
+    "base": "BOwk",
+    "id": "B012",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNElunesBlessing.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Endless Night"
+        },
+        {
+            "id": "fspd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "|cff00ff00Endless Night|r"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is empowered by pure darkness, and is causing an Endless Night on the Island."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

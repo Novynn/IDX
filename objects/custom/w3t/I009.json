@@ -1,0 +1,81 @@
+{
+    "base": "rat6",
+    "id": "I009",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AItj"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Charged"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Boosts attack damage by 5."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNagaWeaponUp1.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1200"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Trident"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700A|r) Purchase Trident"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the attack damage of the holder by 5."
+        }
+    ]
+}

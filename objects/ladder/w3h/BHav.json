@@ -1,0 +1,21 @@
+{
+    "base": "BHav",
+    "id": "BHav",
+    "mods": [
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Avatar"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is in Avatar form; it has increased hit points, attack damage, armor, and is immune to spells."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

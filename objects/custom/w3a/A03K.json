@@ -1,0 +1,27 @@
+{
+    "base": "AIrv",
+    "id": "A03K",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Det1",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Item Reveal Entire Map (Potion of Omniscience)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

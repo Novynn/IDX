@@ -1,0 +1,36 @@
+{
+    "base": "BNsg",
+    "id": "B027",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCharm.blp"
+        },
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\ControlMagic\\ControlMagicTarget.mdl"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Floating Eye"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Floating Eye"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "A floating eye"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "base": "Bshs",
+    "id": "B02Q",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHardenedSkin.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Stone Skin"
+        },
+        {
+            "id": "frac",
+            "type": 3,
+            "value": "orc"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Stone Skin"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has a stone skin, attacking this unit may render you unconscious for a short period of time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

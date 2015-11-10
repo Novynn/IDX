@@ -1,0 +1,51 @@
+{
+    "base": "Bspo",
+    "id": "B01N",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\PassiveButtons\\PASBTNFeedBack.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Voltron)"
+        },
+        {
+            "id": "fspd",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\AIlb\\AIlbSpecialArt.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Shock"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit was hit by Shock; its movement speed and attack rate have been reduced."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "base": "phea",
+    "id": "I03V",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A062"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A062"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "iclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "iclr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Restores 250 hit points."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\CrystalShard\\CrystalShard.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "125"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeartOfSearinox.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.449999988"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Expertly Enchanted Stone"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Restores 250 hit points."
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "base": "ewsp",
+    "id": "e01B",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aeth"
+        },
+        {
+            "id": "uble",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "ubui",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucbs",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "replaceableTextures\\CommandButtons\\BTNtemp.blp"
+        },
+        {
+            "id": "uimz",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "war3mapImported\\dummy.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "0.100000001"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "522"
+        },
+        {
+            "id": "umxp",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "umxr",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "xe unit"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Dummy Caster)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uprw",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "commoner"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "0.00999999978"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "http://wc3campaigns.net/vexorian"
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "_"
+        }
+    ]
+}

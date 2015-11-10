@@ -1,0 +1,36 @@
+{
+    "base": "Basl",
+    "id": "BWAR",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSentryWard.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Classification)"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "|cff00ff00Ward|r"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is a ward."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

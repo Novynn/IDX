@@ -1,0 +1,81 @@
+{
+    "base": "brac",
+    "id": "I05G",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0ID"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "A mystical stone that allows the holder to teleport a short distance of 600, allowing it to escape the Titan or its Minions.|n|cffffd700Requires:|r 2 Titan Eggs, 1 Staff of Teleportation"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPebble.blp"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa8a2be2Mystic Stone Recipe|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700X|r) |cff8a2be2Mystic Stone Recipe|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A mystical stone that allows the holder to teleport a short distance of 600, allowing it to escape the Titan or its Minions.|n|cffffd700Requires:|r 2 Titan Eggs, 1 Staff of Teleportation"
+        }
+    ]
+}

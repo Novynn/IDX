@@ -1,0 +1,91 @@
+{
+    "base": "pnvu",
+    "id": "I01V",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0CB,A0C0,A0C1"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A06Z"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "80"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStone.blp"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Life Essence"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Purchase Life Essence"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Fills Titans with vitality, replenishing 1000 hp in an 750 AoE over 20 seconds when used. Also provides a 12hp/s regeneration aura, and an 6 mana/s regeneration aura."
+        }
+    ]
+}

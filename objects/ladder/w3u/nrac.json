@@ -1,0 +1,101 @@
+{
+    "base": "nrac",
+    "id": "nrac",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Amim,Assp,Awan,A08V"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSnowOwl.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\critters\\SnowOwl\\SnowOwl.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "90"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "240"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|CFF00AEEFKara"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "SnowOwl"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Demon\\DemonSmallDeathExplode\\DemonSmallDeathExplode.mdl"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": "air"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Kara the Wonderful"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Call upon the spirit of fearsome Kara to save you."
+        }
+    ]
+}

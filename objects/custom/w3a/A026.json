@@ -1,0 +1,20 @@
+{
+    "base": "AIms",
+    "id": "A026",
+    "mods": [
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Super Regen)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "base": "rhth",
+    "id": "I02J",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMountainGiant.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Titan - Terminus"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) |cff9C7639Terminus|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cffff8000Medium|r|n|n|cffffcc00Nuke:|r|cff00ff00 Hurl Boulder (Small AoE nuke)|n|r|n|cffffd700Pebble Toss:|r|cff00ff00 (Single target spell; stun)|n|n|r|cffffd700Heal:|r |cff00ff00Healing Stone (Equivlent to a greater healing ward lasting 8 seconds.  Weak heal at beginning)|n|r|n|cffffcc00Ultimate:|r|cff00ff00 Earth's Valor (Powerful avatar granting 50 bonus damage, 1200 bonus hp, 5 bonus armor and spell immunity for 60 seconds)|n|r|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Stone.  A difficult titan to get starting with and has poor scouting ability.  Late game, especially with Earth's Valor, Granitacles is arguably the best base sieger in game; dominates hard lvl 13+.|r"
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "base": "Abrf",
+    "id": "A07E",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "h021",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Eme1",
+            "type": 3,
+            "value": "h021",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Eme2",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "h024",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "h024",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPurpleFelhound.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "180",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "90",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "150",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "50",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Beast Form",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Permanent)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q026",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arqa",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Beast Form",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Beast Form",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFacelessOne.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Transforms the Morphling into a fast and powerful beast, able to do heavy damage. While in this form, the Morphling cannot build, nor harvest gold or lumber. Beast form has no natural regeneration.|n|cffffcc00Activated -- 180 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Transforms the Morphling into a fast and powerful beast, able to do heavy damage. While in this form, the Morphling cannot build, nor harvest gold or lumber. Beast form has no natural regeneration.|n|cffffcc00Activated -- 90 second cooldown.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "R",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Builder Form",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Builder Form",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Transforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|n|cffffcc00Activated -- 30 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Transforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|n|cffffcc00Activated -- 30 second cooldown.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

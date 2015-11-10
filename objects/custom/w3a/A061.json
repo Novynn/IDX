@@ -1,0 +1,76 @@
+{
+    "base": "Awha",
+    "id": "A061",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Wha1",
+            "type": 2,
+            "value": "18",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Wha2",
+            "type": 0,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "13.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "13.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Radioactive - Level 5)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ata0",
+            "type": 3,
+            "value": "overhead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Environment\\UndeadBuildingFire\\UndeadLargeBuildingFire2.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Gather",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

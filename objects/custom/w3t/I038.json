@@ -1,0 +1,76 @@
+{
+    "base": "tsct",
+    "id": "I038",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0C7,AItx,AItj"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A029"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a duplicate of the holder."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathTower.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0080Replicator|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Can be used to make a duplicate of the holder, that deals 75% damage and takes 125% damage, but cannot use skills. A unit can only have one duplicate at a time. Also makes the holder deal 25 more damage. Duplicates last for 60 seconds.|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r|n|n|cffff5522Note:|r When used on Morphling's Beast form, it will show a Morphling Warrior. This is a known issue with no current work-around."
+        }
+    ]
+}

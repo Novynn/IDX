@@ -1,0 +1,91 @@
+{
+    "base": "tsct",
+    "id": "I04L",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0G5,A0GD"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0G5"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Rally fellow Drunk Pirates to attack nearby Enemies"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "buildings\\other\\Tavern\\Tavern.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTavern.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.25"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff5d00Tavern|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "This item coats your weapon in freshly brewed beer from the tavern, slowing your enemies when you attack. It also allows you to call forth some pirates when activated who can not be controlled but will run out and attack the nearest enemy for 20 seconds before they disappear.|n|cffff0000Activated|r - 60 second cooldown.|n|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "base": "BHab",
+    "id": "B00L",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCloudOfFog.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Fog Generator"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Monsoon\\MonsoonRain.mdl,war3mapImported\\MistAura.mdx"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fog Generator"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of the Fog; it can only be seen when it attacks."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

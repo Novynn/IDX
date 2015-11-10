@@ -1,0 +1,16 @@
+{
+    "base": "Bfrz",
+    "id": "Bfrz",
+    "mods": [
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\FreezingBreath\\FreezingBreathTargetArt.mdl"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

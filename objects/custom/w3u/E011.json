@@ -1,0 +1,531 @@
+{
+    "base": "Edmm",
+    "id": "E011",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "59"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1.5"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1f",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "ground,structure,debris,item,ward"
+        },
+        {
+            "id": "ua1h",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": ".mdl"
+        },
+        {
+            "id": "ua1p",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1q",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "105"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "hero"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua2t",
+            "type": 3,
+            "value": "hero"
+        },
+        {
+            "id": "uaap",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "AInv"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "500"
+        },
+        {
+            "id": "uagi",
+            "type": 0,
+            "value": "42"
+        },
+        {
+            "id": "uagp",
+            "type": 2,
+            "value": "4.5"
+        },
+        {
+            "id": "ualp",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uawt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "ubpr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.5"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucbs",
+            "type": 2,
+            "value": "0.50999999"
+        },
+        {
+            "id": "ucpt",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ucs1",
+            "type": 3,
+            "value": "MetalHeavyChop"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udtm",
+            "type": 2,
+            "value": "2.13000011"
+        },
+        {
+            "id": "uept",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uerd",
+            "type": 1,
+            "value": "100"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhab",
+            "type": 3,
+            "value": "TCAQ,TCAW,TCAE,TCAR,TCAF"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhhd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "6"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNetherDragon.blp"
+        },
+        {
+            "id": "uimz",
+            "type": 2,
+            "value": "120"
+        },
+        {
+            "id": "uinp",
+            "type": 2,
+            "value": "7"
+        },
+        {
+            "id": "uint",
+            "type": 0,
+            "value": "42"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "7"
+        },
+        {
+            "id": "ulpy",
+            "type": 2,
+            "value": "80"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "5"
+        },
+        {
+            "id": "umas",
+            "type": 0,
+            "value": "522"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\NetherDragon\\NetherDragon.mdl"
+        },
+        {
+            "id": "umh1",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "5"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "100"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "150"
+        },
+        {
+            "id": "umvr",
+            "type": 2,
+            "value": "0.800000012"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "365"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "hover"
+        },
+        {
+            "id": "umxp",
+            "type": 1,
+            "value": "33"
+        },
+        {
+            "id": "umxr",
+            "type": 1,
+            "value": "25"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0000Legendary Titan of Storms|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uori",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": "_"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "202"
+        },
+        {
+            "id": "upra",
+            "type": 3,
+            "value": "STR"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upro",
+            "type": 3,
+            "value": "|cffa8a8a8Aetherious|r,|cffa8a8a8Breezerious|r"
+        },
+        {
+            "id": "upru",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uprw",
+            "type": 2,
+            "value": "61"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "urq1",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urq2",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urqc",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "40"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.60000002"
+        },
+        {
+            "id": "usew",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ushh",
+            "type": 1,
+            "value": "200"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": "ShadowFlyer"
+        },
+        {
+            "id": "ushw",
+            "type": 1,
+            "value": "200"
+        },
+        {
+            "id": "ushx",
+            "type": 1,
+            "value": "100"
+        },
+        {
+            "id": "ushy",
+            "type": 1,
+            "value": "100"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ussi",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNNetherDragon.blp"
+        },
+        {
+            "id": "ustp",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ustr",
+            "type": 0,
+            "value": "44"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utpr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "giant"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "base": "tsct",
+    "id": "I05T",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0KU"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0KU"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "This egg sack allows you to summon spiderlings. These are controllable and can repair nearby allied structures.|nNote: These spiderlings will not block you, they do not give any experience or gold to the enemy."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\Dungeon\\Terrain\\EggSack\\EggSack1.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEggSack.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.649999976"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffffa500Egg Sack|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "|cffffa500Egg Sack|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "This egg sack allows you to summon spiderlings. These are controllable and can repair nearby allied structures.|n|cffff0000Note:|r These spiderlings will not block you, they do not give any experience or gold to the enemy.|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
+        }
+    ]
+}

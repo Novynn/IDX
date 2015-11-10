@@ -1,0 +1,482 @@
+{
+    "base": "AUls",
+    "id": "TVAE",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Uls1",
+            "type": 0,
+            "value": "4",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Uls1",
+            "type": 0,
+            "value": "5",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Uls1",
+            "type": 0,
+            "value": "5",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Uls1",
+            "type": 0,
+            "value": "5",
+            "variation": 4
+        },
+        {
+            "data": 2,
+            "id": "Uls2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Uls2",
+            "type": 2,
+            "value": "0",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Uls2",
+            "type": 2,
+            "value": "0",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Uls2",
+            "type": 2,
+            "value": "0",
+            "variation": 4
+        },
+        {
+            "data": 4,
+            "id": "Uls4",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Uls4",
+            "type": 2,
+            "value": "60",
+            "variation": 2
+        },
+        {
+            "data": 4,
+            "id": "Uls4",
+            "type": 2,
+            "value": "60",
+            "variation": 3
+        },
+        {
+            "data": 4,
+            "id": "Uls4",
+            "type": 2,
+            "value": "60",
+            "variation": 4
+        },
+        {
+            "data": 5,
+            "id": "Uls5",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Uls5",
+            "type": 2,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 5,
+            "id": "Uls5",
+            "type": 2,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 5,
+            "id": "Uls5",
+            "type": 2,
+            "value": "1",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "Ulsu",
+            "type": 3,
+            "value": "u00H",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "Ulsu",
+            "type": 3,
+            "value": "u00H",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "Ulsu",
+            "type": 3,
+            "value": "u00H",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "Ulsu",
+            "type": 3,
+            "value": "u00H",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "950",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "950",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "950",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "950",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "12",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "12",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "12",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "12",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "3",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "3",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "3",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aefl",
+            "type": 3,
+            "value": "BanishLoop",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "3",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "3",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "3",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "4",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alsk",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "250",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "250",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "350",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "400",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Static Sphere",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TVAE 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Learn |cff6495edStatic Sphere|r - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "E",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Voltron calls upon the electricity in the sky, pulling it toward him and restoring his energy. This process also lets loose a swarm of static spheres that shoot lightning at enemy buildings. Damage dealt is enhanced and returned to the Titan in a bonus healing effect.|r|n|n|cffffcc00Level 1|r - |cff1e90ffRestores 200 health with up to 200 bonus health.|r|n|cffffcc00Level 2|r - |cff1e90ffRestores 300 health with up to 300 bonus health.|r|n|cffffcc00Level 3|r - |cff1e90ffRestores 500 health with up to 300 bonus health.|r|n|cffffcc00Level 4|r - |cff1e90ffRestores 700 health with up to 300 bonus health.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r|n|n|cffff5522Note: |rThis ability's bonus only works near enemy structures!",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,invulnerable,structure,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,invulnerable,structure,vulnerable",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,invulnerable,structure,vulnerable",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies,invulnerable,structure,vulnerable",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Cast |cff6495edStatic Sphere|r - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Cast |cff6495edStatic Sphere|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Cast |cff6495edStatic Sphere|r - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Cast |cff6495edStatic Sphere|r - [|cffffcc00Level 4|r]",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Voltron lets loose a swarm of static spheres that shoot lightning at enemy buildings. Damage dealt is enhanced and returned to the Titan in a healing effect.|r|n|n|cff1e90ffRestores up to 400 health.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r|n|n|cffff5522Note: |rThis ability only works near enemy structures!",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Voltron lets loose a swarm of static spheres that shoot lightning at enemy buildings. Damage dealt is enhanced and returned to the Titan in a healing effect.|r|n|n|cff1e90ffRestores up to 600 health.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r|n|n|cffff5522Note: |rThis ability only works near enemy structures!",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Voltron lets loose a swarm of static spheres that shoot lightning at enemy buildings. Damage dealt is enhanced and returned to the Titan in a healing effect.|r|n|n|cff1e90ffRestores up to 800 health.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r|n|n|cffff5522Note: |rThis ability only works near enemy structures!",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Voltron lets loose a swarm of static spheres that shoot lightning at enemy buildings. Damage dealt is enhanced and returned to the Titan in a healing effect.|r|n|n|cff1e90ffRestores up to 1000 health.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r|n|n|cffff5522Note: |rThis ability only works near enemy structures!",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

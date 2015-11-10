@@ -1,0 +1,31 @@
+{
+    "base": "BNsg",
+    "id": "BNsg",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFelHound.blp"
+        },
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Doom\\DoomTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fel Hound"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "A ferocious Fel Hound"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

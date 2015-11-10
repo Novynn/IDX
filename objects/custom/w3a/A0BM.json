@@ -1,0 +1,90 @@
+{
+    "base": "AUds",
+    "id": "A0BM",
+    "mods": [
+        {
+            "data": 3,
+            "id": "Hmt3",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Uds1",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Uds2",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "45",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aeat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Demon\\DarkPortal\\DarkPortalTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "1000",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Fiend)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Demon\\DarkPortal\\DarkPortalTarget.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

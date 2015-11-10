@@ -1,0 +1,56 @@
+{
+    "base": "BEim",
+    "id": "B02X",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDarkSummoning.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Radiation"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "Hunter"
+        },
+        {
+            "id": "fsat",
+            "type": 3,
+            "value": "Environment\\UndeadBuildingFire\\UndeadLargeBuildingFire1.mdl"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\Immolation\\ImmolationTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Radiation"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is emitting radiation; nearby enemy ground units will take damage over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

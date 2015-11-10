@@ -1,0 +1,48 @@
+{
+    "base": "Aspb",
+    "id": "A01I",
+    "mods": [
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Beta Book",
+            "variation": 0
+        },
+        {
+            "data": 1,
+            "id": "spb1",
+            "type": 3,
+            "value": "A01O,A01S",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "spb2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "spb3",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "spb4",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

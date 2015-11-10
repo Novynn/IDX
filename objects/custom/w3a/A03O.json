@@ -1,0 +1,111 @@
+{
+    "base": "ANfl",
+    "id": "A03O",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ocl1",
+            "type": 2,
+            "value": "200",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ocl2",
+            "type": 0,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ucs3",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Ucs4",
+            "type": 2,
+            "value": "900",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "900",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "60",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Calls forth a cone of lightning to damage enemies. Hits up to 5 enemies dealing 100 damage to each.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "|cffffcc00F|rorked Lightning",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Calls forth a cone of lightning on a target enemy unit, hitting up to 5 enemy units dealing 200 damage to each.|n|cffffcc00Unit-Targetted -- 60 second cooldown.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

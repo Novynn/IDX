@@ -1,0 +1,171 @@
+{
+    "base": "ucs1",
+    "id": "u00C",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "19"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aeth,TBAS"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "22"
+        },
+        {
+            "id": "ucs1",
+            "type": 3,
+            "value": "RockHeavyBash"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSkeletonWarrior.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\undead\\Skeleton\\Skeleton.mdl"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "390"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Skeletal Minion"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(TBND 4.0.0)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "202"
+        },
+        {
+            "id": "urun",
+            "type": 1,
+            "value": "650"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1"
+        },
+        {
+            "id": "ushh",
+            "type": 1,
+            "value": "70"
+        },
+        {
+            "id": "ushu",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ushw",
+            "type": 1,
+            "value": "70"
+        },
+        {
+            "id": "ushx",
+            "type": 1,
+            "value": "45"
+        },
+        {
+            "id": "ushy",
+            "type": 1,
+            "value": "35"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Skeleton"
+        },
+        {
+            "id": "uwal",
+            "type": 1,
+            "value": "650"
+        }
+    ]
+}

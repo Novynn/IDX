@@ -1,0 +1,101 @@
+{
+    "base": "engs",
+    "id": "I03F",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03W"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03W"
+        },
+        {
+            "id": "iclb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iclg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "This is an enchanted gemstone module, with the ability to enhance Radon towers with an Overload spell."
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUltravision.blp"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "C"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Radon Module - Overload"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q231"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00C|r) Purchase Radon Module - Overload"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00An upgrade module for Radon towers which adds an additional 10 damage and grants the Overload ability.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |r5% damage bonus to nearby structures for 30 seconds.|n|cffffcc00Super Radon Tower: |r10% damage bonus to nearby structures for 30 seconds.|n|cffffcc00Mega Radon Tower: |r15% damage bonus to nearby structures for 30 seconds."
+        }
+    ]
+}

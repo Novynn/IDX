@@ -1,0 +1,62 @@
+{
+    "base": "Afbk",
+    "id": "A00M",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Magic Pearl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "asat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\Feedback\\ArcaneTowerAttack.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Magic Pear.l",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Attacks destroy 50 mana per hit. The mana combusts, dealing damage to the attacked unit.",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "fbk1",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "fbk3",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

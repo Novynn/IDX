@@ -1,0 +1,31 @@
+{
+    "base": "BHwe",
+    "id": "BHwe",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCripple.blp"
+        },
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\Charm\\CharmTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Ethereal Mark"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "An Ethereal Mark"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

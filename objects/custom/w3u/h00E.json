@@ -1,0 +1,151 @@
+{
+    "base": "hhou",
+    "id": "h00E",
+    "mods": [
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Arlm,A028"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDranaiHut.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\DraneiHut1\\DraneiHut1.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff99b4d1Shelter|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(makura)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.649999976"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "240"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00S|r) Build Shelter"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "h00A,n007,q202,q203,q232,q233,q234,q235"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as a Shelter, this building acts as the Makrura's main resource return point.|n|cff808080Trains harvesting makrura to collect lumber for you. This building allows units to drop of their wood.|r|n|n|cffffcc00Health:|r 200|n|cffffcc00Armor:|r 0 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r These are weak buildings, useless as walls or defense. Only build the amount that you need, because they can end up feeding a lot."
+        }
+    ]
+}

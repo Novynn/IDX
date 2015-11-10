@@ -1,0 +1,21 @@
+{
+    "base": "BOsf",
+    "id": "B02K",
+    "mods": [
+        {
+            "id": "feat",
+            "type": 3,
+            "value": "Units\\Undead\\PlagueCloud\\PlagueCloudtarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Stench"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

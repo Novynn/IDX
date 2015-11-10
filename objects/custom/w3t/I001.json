@@ -1,0 +1,61 @@
+{
+    "base": "whwd",
+    "id": "I001",
+    "mods": [
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "Q"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700Q|r) Purchase Healing Wards"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cff1e90ffDrops a ward that heals nearby friendly units for 30 seconds.|r|n|n|cffff5522Note: |rThis item stacks! |cff1e90ffDouble-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
+        }
+    ]
+}

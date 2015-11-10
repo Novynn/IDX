@@ -1,0 +1,346 @@
+{
+    "base": "ocat",
+    "id": "o01E",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "24"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0.850000024"
+        },
+        {
+            "id": "ua1f",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure"
+        },
+        {
+            "id": "ua1h",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Weapons\\AncientProtectorMissile\\AncientProtectorMissile.mdl"
+        },
+        {
+            "id": "ua1p",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ua1q",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "900"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0CR,A0H9,A0AY"
+        },
+        {
+            "id": "uabt",
+            "type": 3,
+            "value": "buffer"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "1000"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uamn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubdg",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "72"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.200000003"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "180"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0000Mega Catapult|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(ogre)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\4x4SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.10000002"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usma",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "2.5"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": "structure"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Construct a |cffff0000Mega Catapult|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Ogre's main defensive tower.|n|cff808080Used for long-range defense. Effective at defending a base within its walls. can be upgraded many tmes to enhance its effectiveness.|r|n|n|cffffcc00Health:|r 150|n|cffffcc00Armor:|r 3 Heavy|n|cffffcc00Attack:|r 25 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r0.85s|n|n|cffff0000Note:|r You should build these in a base behind 4-5 walls. They're only effective if the titan cannot reach them."
+        },
+        {
+            "id": "uver",
+            "type": 0,
+            "value": "1"
+        }
+    ]
+}

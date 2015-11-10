@@ -1,0 +1,16 @@
+{
+    "base": "Xbof",
+    "id": "Xbof",
+    "mods": [
+        {
+            "id": "feat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "base": "nfro",
+    "id": "nfro",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Awan,A055"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "700"
+        }
+    ]
+}

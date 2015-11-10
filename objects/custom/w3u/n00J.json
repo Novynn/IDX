@@ -1,0 +1,81 @@
+{
+    "base": "ngme",
+    "id": "n00J",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aall,Avul,Apit"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Units\\Creeps\\HeroGoblinAlchemist\\HeroGoblinAlchemist.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": "I04W,I04I,I026,I021,I03S,I04H,I023,I04S,I05W,I05G,I02Z"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Yacapo and Dildamesh"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\2x2Default.tga"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.75"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ushb",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "HeroGoblinAlchemist"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "1"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

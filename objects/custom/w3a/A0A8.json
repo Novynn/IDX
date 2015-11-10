@@ -1,0 +1,111 @@
+{
+    "base": "Aroc",
+    "id": "A0A8",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Efk1",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Efk2",
+            "type": 2,
+            "value": "3000",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Efk3",
+            "type": 0,
+            "value": "25",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNShockWave.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amac",
+            "type": 2,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\FaerieDragonMissile\\FaerieDragonMissile.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amsp",
+            "type": 0,
+            "value": "1800",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Energy Wave",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "x",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,enemies,ground,nonancient,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Energy Wave",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "A passive ability that fires powerful waves of energy at nearby enemy units every time the tower attacks, dealing damage to each target. This ability gives the the Wave Tower the ability to smite all nearby enemies simultaneously.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

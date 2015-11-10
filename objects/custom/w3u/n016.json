@@ -1,0 +1,206 @@
+{
+    "base": "nwnr",
+    "id": "n016",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "49"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,nonancient,structure,ward"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "100"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aloc,Amim"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "900"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "255"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "155"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udu1",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "550"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "4"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBandit.blp"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\creeps\\Bandit\\Bandit.mdl"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "380"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Drunken Pirate"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Special)"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "usle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Bandit"
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": "ground,ward"
+        },
+        {
+            "id": "utco",
+            "type": 0,
+            "value": "12"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Drunken Pirate"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "This unit reeks of alcohol.  He appears angry and ready to take his anger out on the nearest enemy."
+        }
+    ]
+}

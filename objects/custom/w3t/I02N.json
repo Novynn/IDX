@@ -1,0 +1,111 @@
+{
+    "base": "hval",
+    "id": "I02N",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A01I"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A01I"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Charged"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\QuestionMark\\QuestionMark.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iicd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSpellBookBLS.blp"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.5"
+        },
+        {
+            "id": "isel",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Beta Book"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "|cff4169e1Beta Book|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cff6a5acdWelcome to the |r|cffffa500Island Defense|r |cffff45004|r|cffffa500.|r|cffff45000|r|cffffa500.|r|cffff45000|r|cff6a5acd Beta! This book will be your guide to some of the key changes to the game. Please take the time to read it before you start playing.|n|n|r|cffb8afe7Drop this book to free up inventory space! It will self destruct once out of your inventory.|r"
+        }
+    ]
+}

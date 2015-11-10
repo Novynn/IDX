@@ -1,0 +1,236 @@
+{
+    "base": "uzg2",
+    "id": "u011",
+    "mods": [
+        {
+            "id": "uaap",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0FZ"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uani",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Wood"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "BuildingConstructionLoop"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "70"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBarrel.blp"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "60"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Units\\Other\\TNTBarrel\\TNTBarrel.mdl"
+        },
+        {
+            "id": "umxp",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "umxr",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffc0c0c0Barrel of Explosives|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upar",
+            "type": 3,
+            "value": "_"
+        },
+        {
+            "id": "upat",
+            "type": 3,
+            "value": "PathTextures\\4x4SimpleSolid.tga"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.5"
+        },
+        {
+            "id": "ushb",
+            "type": 3,
+            "value": "BuildingShadowSmall"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1280"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": "Objects\\Spawnmodels\\Human\\HCancelDeath\\HCancelDeath.mdl"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "2.5"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Upgrade to a |cffc0c0c0Barrel of Explosives|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A strong wall for the Pirate.|n|cff808080These barrels are laden with explosives. Whenever one is destroyed, it lets off a devastating blast that damages nearby enemy units.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 15 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed: |rN/A"
+        },
+        {
+            "id": "utyp",
+            "type": 3,
+            "value": "Mechanical"
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

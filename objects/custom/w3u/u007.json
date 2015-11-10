@@ -1,0 +1,26 @@
+{
+    "base": "uplg",
+    "id": "u007",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A046,Aloc,WARD"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNExhumeCorpses.blp"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(Bubonicus)"
+        }
+    ]
+}

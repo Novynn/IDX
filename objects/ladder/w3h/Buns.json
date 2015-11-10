@@ -1,0 +1,36 @@
+{
+    "base": "Buns",
+    "id": "Buns",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanBuild.blp"
+        },
+        {
+            "id": "fefl",
+            "type": 3,
+            "value": "BuildingConstructionLoop"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "overhead"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\UnholyFrenzy\\UnholyFrenzyTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Salvage"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

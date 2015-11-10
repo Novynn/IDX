@@ -1,0 +1,71 @@
+{
+    "base": "tsct",
+    "id": "I01C",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03Q,AItx,AItf"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03Q"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates an |cff99b4d1Energy Spire|r"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff99b4d1Energy Spire|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates an |cff99b4d1Energy Spire|r at a target location. Also provides +35 damage to the holder."
+        }
+    ]
+}

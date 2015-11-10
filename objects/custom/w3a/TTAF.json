@@ -1,0 +1,181 @@
+{
+    "base": "AHav",
+    "id": "TTAF",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Hav1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Hav2",
+            "type": 2,
+            "value": "1250",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hav3",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEarthquake.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\EarthQuake\\EarthQuakeTarget.mdl,Abilities\\Spells\\Orc\\WarStomp\\WarStompCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "240",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "500",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Earth's Valor",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TTAF 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEarthquake.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Learn |cff6c00ceEarth's Valor|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "12",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00The Titan uses the earth around him to boost his powers for a short duration.|r|n|n|cff1e90ffGrants 10 bonus armor, 1250 bonus hit points, 50 bonus damage, and spell immunity for 60 seconds.|nSelf-Targeted - 4 minute cooldown.|r|n|n|cffff5522Note|r: You will still be able to Punish and Teleport the Titan during his spell immunity.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Activate |cff6c00ceEarth's Valor|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEarthquake.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00The Titan uses the earth around him to boost his powers for a short duration.|r|n|n|cff1e90ffGrants 10 bonus armor, 1250 bonus hit points, 50 bonus damage, and spell immunity for 60 seconds.|nSelf-Targeted - 4 minute cooldown.|r|n|n|cffff5522Note|r: You will still be able to Punish and Teleport the Titan during his spell immunity.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Deactivate |cff6c00ceEarth's Valor|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

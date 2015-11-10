@@ -1,0 +1,41 @@
+{
+    "base": "BPSE",
+    "id": "&DIS",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCancel.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Disabled"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Disabled"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit cannot do anything."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "base": "ANeg",
+    "id": "TVUW",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Neg1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Neg2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Neg3",
+            "type": 3,
+            "value": "TCAW,TVAW",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Neg4",
+            "type": 3,
+            "value": "_",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "Neg5",
+            "type": 3,
+            "value": "_",
+            "variation": 1
+        },
+        {
+            "data": 6,
+            "id": "Neg6",
+            "type": 3,
+            "value": "_",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "TCAW -> TVAW",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Customicus)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

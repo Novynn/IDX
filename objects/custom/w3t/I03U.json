@@ -1,0 +1,46 @@
+{
+    "base": "tels",
+    "id": "I03U",
+    "mods": [
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Goblin Night Scope"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Purchase Goblin Night Scope"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Provides an increase to the holder's line of sight radius at night when carried."
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "base": "dsum",
+    "id": "I00I",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A008"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A008"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Summons a Gnoll Tracker"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRobeOfTheMagi.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Gnoll Luck Charm"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00D|r) Purchase Gnoll Luck Charm"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Calls forth a Gnoll Tracker that can reveal nearby invisible units.|n|cffffd7004 minute cooldown, lasts for 75 seconds.|r"
+        }
+    ]
+}

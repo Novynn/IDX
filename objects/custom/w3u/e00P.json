@@ -1,0 +1,211 @@
+{
+    "base": "edob",
+    "id": "e00P",
+    "mods": [
+        {
+            "id": "uaap",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Asid,A09W"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNIceCrownObelisk.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "24"
+        },
+        {
+            "id": "ulbd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ulbs",
+            "type": 0,
+            "value": "11"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "doodads\\cinematic\\IcecrownObelisk\\IcecrownObelisk.mdl"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff1e90ffMagical Obelisk|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(faerie)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN1"
+        },
+        {
+            "id": "ures",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.800000012"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": "I00Q"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "ArcaneVault"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Construct a |cff1e90ffMagical Obelisk|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q013,q014,q131,q151,q152,q153,q156,q157,q160,q209,q210,q211,q212,q260,q094,q095,q096"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as a Research Center, this building provides you with first level upgrades.|n|cff808080Build this to get upgrades that greatly increase your chances of survival. With this, you can train powerful Titan Hunters and upgrade your walls. This building also regenerates nearby units mana.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build this in a safe place."
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "HMED"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "base": "BNab",
+    "id": "B01M",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEarthquake.blp"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Earthshock"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit has been Earthshocked.  It has reduced armor, and is being damaged over time."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

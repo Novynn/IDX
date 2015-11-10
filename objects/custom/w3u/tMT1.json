@@ -1,0 +1,71 @@
+{
+    "base": "now2",
+    "id": "tMT1",
+    "mods": [
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMarkOfFire.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\human\\phoenix\\phoenix.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "100"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "320"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Phoenix Scout"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(TMAD 4.0.0)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "undead"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.5"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1100"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1100"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "Phoenix"
+        }
+    ]
+}

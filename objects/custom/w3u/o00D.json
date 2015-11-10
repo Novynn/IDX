@@ -1,0 +1,216 @@
+{
+    "base": "otrb",
+    "id": "o00D",
+    "mods": [
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "_"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": ".mdl"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "unknown"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "ARax"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNMarketplace.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "60"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1250"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\other\\ForestTrollHut1\\ForestTrollHut1.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff483d8bWarden's Sanctuary|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(gnoll)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "ushb",
+            "type": 3,
+            "value": "ShadowHouse"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "400"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "HumanLumberMill"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Construct a |cff483d8bWarden's Sanctuary|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q010,q011,q045,q139,q237,q238,q239,q241,q251"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as an Advanced Research Center, this building provides you with tier two upgrades.|n|cff808080Build this to get advanced upgrades that greatly increase your chances of survival.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 10 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build this in a safe base."
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": "EMDB"
+        }
+    ]
+}

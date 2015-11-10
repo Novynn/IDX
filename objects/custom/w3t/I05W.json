@@ -1,0 +1,81 @@
+{
+    "base": "brac",
+    "id": "I05W",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "AIvu"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Allows the holder to blend into the background and become invisible at night. Also provides the holder with additional health and mana regeneration.|n|cffffd700Requires:|r 1 Titan Eggs, 1 Eye of Ocean"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCloak.blp"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "D"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa6666dbCloak of Shadows|r Recipe"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700D|r) |cff6666dbCloak of Shadows|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Allows the holder to blend into the background and become invisible. Also provides the holder with additional health and mana regeneration.|n|cffffd700Requires:|r 1 Titan Egg, 1 Eye of the Ocean"
+        }
+    ]
+}

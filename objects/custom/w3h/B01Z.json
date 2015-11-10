@@ -1,0 +1,31 @@
+{
+    "base": "BHab",
+    "id": "B01Z",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEtherealFormOn.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Tauren Master"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Tauren Master"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is a Tauren Master."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

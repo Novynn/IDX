@@ -1,0 +1,36 @@
+{
+    "base": "Broa",
+    "id": "B015",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDisenchant.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Overload"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\VengeanceMissile\\VengeanceMissile.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Overload"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is overloading with energy; its attack damage has been increased."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

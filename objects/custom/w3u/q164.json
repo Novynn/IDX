@@ -1,0 +1,131 @@
+{
+    "base": "ncop",
+    "id": "q164",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aloc,Avul,UPGR"
+        },
+        {
+            "id": "ubdg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucol",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "W"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNWitchDoctorAdept.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\LordaeronSummer\\Props\\PeasantGrave\\PeasantGrave.mdl"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Tauren Caster Training"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(4.0.0 - Triggered Upgrade)"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "0.100000001"
+        },
+        {
+            "id": "ushr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uspe",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Research Tauren Caster Training"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Allows the Tauren to cast Enfeeble on enemy units. This ability shrinks a target unit for 6 seconds, slowing its movement and attack speed by 30%.  Adds 50 mana to Taurens Pool"
+        }
+    ]
+}

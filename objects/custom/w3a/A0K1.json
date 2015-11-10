@@ -1,0 +1,27 @@
+{
+    "base": "AIs6",
+    "id": "A0K1",
+    "mods": [
+        {
+            "data": 3,
+            "id": "Istr",
+            "type": 0,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(+10 Strength)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

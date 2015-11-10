@@ -1,0 +1,276 @@
+{
+    "base": "edob",
+    "id": "e00U",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "209"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0.850000024"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "abilities\\weapons\\DemolisherMissile\\DemolisherMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "800"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "missile"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "1800"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "900"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Wood"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "700"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNTaurenTotem.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1600"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0.150000006"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\orc\\TaurenTotem\\TaurenTotem.mdl"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "3.5"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff0000Mega Totem Tower|r"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "70"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "urb1",
+            "type": 2,
+            "value": "250"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "q057,n00S"
+        },
+        {
+            "id": "ures",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.39999998"
+        },
+        {
+            "id": "uscb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "TaurenTotem"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Build |cFFFF0000Mega Totem Tower|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Tauren's ultimate defensive tower.|n|cff808080Although these towers take up four times the space of an average tower, they have a very high attack damage and a fast attack speed.|r|n|n|cffffcc00Health:|r 700|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 200 Pierce|n|cffffcc00Attack Range:|r 800|n|cffffcc00Attack Speed:|r Very Fast"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "base": "Amfl",
+    "id": "A09Y",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "1200",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acas",
+            "type": 2,
+            "value": "0.600000024",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "30",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aefl",
+            "type": 3,
+            "value": "ManaFlareLoop",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aefs",
+            "type": 3,
+            "value": "ManaFlareLoop",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Z",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Faerie)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "400",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q156",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Mana Flare",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Causes the Faerie to channel negative magical energies that damage nearby enemies when they cast spells. The Faerie gains 50 armor during the effect, and deals 0.6 damage for every mana point used by enemies nearby.|n|nLasts 5 seconds.|nChanneling -- 30 second cooldown.|n|nNote: During this time, the Faerie Dragon cannot be controlled.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "Z",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00Z|r) Stop Mana Flare",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "mfl1",
+            "type": 2,
+            "value": "0.600000024",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "mfl2",
+            "type": 2,
+            "value": "0.600000024",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "mfl3",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "mfl4",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 5,
+            "id": "mfl5",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

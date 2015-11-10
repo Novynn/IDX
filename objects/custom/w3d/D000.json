@@ -1,0 +1,48 @@
+{
+    "base": "LOth",
+    "id": "D000",
+    "mods": [
+        {
+            "data": 0,
+            "id": "ddes",
+            "type": 2,
+            "value": "1.20000005",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dfil",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Structures\\RuinsArchway0_\\RuinsArchway0_0.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dmas",
+            "type": 2,
+            "value": "0.400000006",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dmis",
+            "type": 2,
+            "value": "0.100000001",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dnam",
+            "type": 3,
+            "value": "CustomArchway",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

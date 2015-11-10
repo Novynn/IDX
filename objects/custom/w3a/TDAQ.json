@@ -1,0 +1,321 @@
+{
+    "base": "Absk",
+    "id": "TDAQ",
+    "mods": [
+        {
+            "data": 0,
+            "id": "aani",
+            "type": 3,
+            "value": "spell,slam",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfDarkness.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00Y",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00Y",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00Y",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\HowlOfTerror\\HowlCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "12",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "12",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "12",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aeat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\HowlOfTerror\\HowlCaster.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "300",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Concentrated Darkness",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(TDAQ 4.0.0)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aord",
+            "type": 3,
+            "value": "concentrateddarkness",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfDarkness.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Learn |cff7b68eeConcentrated Darkness|r - [|cffffcc00Level %d|r]",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Demonicus releases shards of pure darkness that seek out the living, piercing their armor and dealing damage.|r|n|cff808080Fear the darkness.|r|n|n|cffffcc00Level 1|r - |cff1e90ffDamages units in an area of 600 around Demonicus, dealing 105 initial damage. Units affected lose 3 armor and take an extra 20 damage over time for 4 seconds.|r|n|cffffcc00Level 2|r - |cff1e90ffDamages units in an area of 600 around Demonicus, dealing 135 initial damage. Units affected lose 4 armor and take an extra 20 damage over time for 4 seconds.|r|n|cffffcc00Level 3|r - |cff1e90ffDamages units in an area of 600 around Demonicus, dealing 155 initial damage. Units affected lose 5 armor and take an extra 20 damage over time for 4 seconds.|n|r|n|cff1e90ffSelf-Targeted - 12 second cooldown.|r",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "none",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "none",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "none",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeConcentrated Darkness|r - [|cffffcc00Level 1|r]",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeConcentrated Darkness|r - [|cffffcc00Level 2|r]",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Cast |cff7b68eeConcentrated Darkness|r - [|cffffcc00Level 3|r]",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Demonicus releases shards of pure darkness that seek out the living, piercing their armor and dealing damage.|r|n|cff808080Fear the darkness.|r|n|n|cff1e90ffSummons shards of darkness that seek out enemy units in an area of 600 around Demonicus. On hit, they deal 105 initial damage with an extra 20 damage over time for 4 seconds. During this time, they also have their armor reduced by 3.|nSelf-Targeted - 12 second cooldown.|r",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Demonicus releases shards of pure darkness that seek out the living, piercing their armor and dealing damage.|r|n|cff808080Fear the darkness.|r|n|n|cff1e90ffSummons shards of darkness that seek out enemy units in an area of 600 around Demonicus. On hit, they deal 135 initial damage with an extra 20 damage over time for 4 seconds. During this time, they also have their armor reduced by 4.|nSelf-Targeted - 12 second cooldown.|r",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Demonicus releases shards of pure darkness that seek out the living, piercing their armor and dealing damage.|r|n|cff808080Fear the darkness.|r|n|n|cff1e90ffSummons shards of darkness that seek out enemy units in an area of 600 around Demonicus. On hit, they deal 155 initial damage with an extra 20 damage over time for 4 seconds. During this time, they also have their armor reduced by 5.|nSelf-Targeted - 12 second cooldown.|r",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "bsk1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "bsk2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "bsk3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

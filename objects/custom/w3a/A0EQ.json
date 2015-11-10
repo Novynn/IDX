@@ -1,0 +1,69 @@
+{
+    "base": "Assk",
+    "id": "A0EQ",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ssk1",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ssk2",
+            "type": 2,
+            "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ssk3",
+            "type": 2,
+            "value": "8",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Armor of Fate)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "human",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "base": "AIp6",
+    "id": "A0C2",
+    "mods": [
+        {
+            "data": 0,
+            "id": "acat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\ReplenishHealth\\ReplenishHealthCasterOverhead.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Greater Rejuv Flask",
+            "variation": 0
+        },
+        {
+            "data": 1,
+            "id": "irl1",
+            "type": 2,
+            "value": "3000",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "irl2",
+            "type": 2,
+            "value": "1500",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "irl3",
+            "type": 0,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

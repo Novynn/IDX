@@ -1,0 +1,211 @@
+{
+    "base": "nbrg",
+    "id": "n000",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "20000"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "udea",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "none"
+        },
+        {
+            "id": "udup",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "1"
+        },
+        {
+            "id": "ulev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Training Dummy"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ushx",
+            "type": 1,
+            "value": "20"
+        },
+        {
+            "id": "ushy",
+            "type": 1,
+            "value": "20"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usma",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "usrg",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "util",
+            "type": 3,
+            "value": "Y,X,J,V,Q,*"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Training Dummy"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

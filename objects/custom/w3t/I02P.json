@@ -1,0 +1,86 @@
+{
+    "base": "rspl",
+    "id": "I02P",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0M8"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0M8"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Empowers the user with demonic strength."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "15"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "R"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Chaos Essence"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "h002"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Empower with Chaos Essence"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "When bought, empowers all nearby friendly units in a 500 AoE with +100% damage for 12 seconds."
+        }
+    ]
+}

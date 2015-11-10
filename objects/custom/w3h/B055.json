@@ -1,0 +1,26 @@
+{
+    "base": "Binv",
+    "id": "B055",
+    "mods": [
+        {
+            "id": "feff",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "ID Legend"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This user has donated to the creation of ToR.|n|n|cffff0000Note:|r This does not give an unfair advantage."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

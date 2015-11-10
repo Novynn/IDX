@@ -1,0 +1,20 @@
+{
+    "base": "Aeth",
+    "id": "Aeth",
+    "mods": [
+        {
+            "data": 2,
+            "id": "Eth2",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

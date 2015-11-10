@@ -1,0 +1,71 @@
+{
+    "base": "Bclf",
+    "id": "B04I",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNBloodLust.blp"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Ogre)"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "arm,left"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "arm,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "leg,left"
+        },
+        {
+            "id": "fta5",
+            "type": 3,
+            "value": "leg,right"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Bloodlust\\BloodlustTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Bloodlust"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is bloodlustin"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "base": "nft2",
+    "id": "n01K",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "49"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0.5"
+        },
+        {
+            "id": "ua1d",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\TinkerRocket\\TinkerRocketMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "1100"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A00D,A0H9"
+        },
+        {
+            "id": "uabr",
+            "type": 2,
+            "value": "15"
+        },
+        {
+            "id": "uabt",
+            "type": 3,
+            "value": "buffer"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "1100"
+        },
+        {
+            "id": "uarm",
+            "type": 3,
+            "value": "Wood"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "OrcBuildingConstructionLoop"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.25"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "750"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uimz",
+            "type": 2,
+            "value": "370"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "370"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff4c00Rapid Fire Tower|r"
+        },
+        {
+            "id": "unbm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "orc"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.79999995"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "GoblinSapper"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Build Rapid Fire Tower (|cffffd700X|r)"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "This Tower rapidly shoots streams of rockets at enemy units at a distance of 1100. Don't let its low attack damage fool you, this tower deals quite a bit of pain. |cffff4c00This tower can also be turned into an item so that it may be moved to a different location. While being held as an item it enables its carrier to spew rockets onto nearby enemies.|r"
+        }
+    ]
+}

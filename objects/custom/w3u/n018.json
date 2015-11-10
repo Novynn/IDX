@@ -1,0 +1,71 @@
+{
+    "base": "nech",
+    "id": "n018",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "AInv,A07N"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "32"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "2700"
+        },
+        {
+            "id": "umpi",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "umpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "umpr",
+            "type": 2,
+            "value": "3"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "390"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "4"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "1.50000012"
+        }
+    ]
+}

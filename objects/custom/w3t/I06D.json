@@ -1,0 +1,86 @@
+{
+    "base": "tsct",
+    "id": "I06D",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0OW,A043,AId5"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0OW"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates an Island Bloom"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Plants\\Ruins_Flower\\Ruins_Flower0.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPyrolia.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.20000005"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffff69b4Island Bloom|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates an Island Bloom at the target location. Also provides it's holder with a slowing Bloom Aura and gives a +5 armor boost."
+        }
+    ]
+}

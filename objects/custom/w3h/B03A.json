@@ -1,0 +1,41 @@
+{
+    "base": "BNab",
+    "id": "B03A",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPurge.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Draenei Overload"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "origin"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Overload"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is paralyzed by a blast of energy; it's speed is crippled."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

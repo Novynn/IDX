@@ -1,0 +1,71 @@
+{
+    "base": "tsct",
+    "id": "I04K",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0GB"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0GB"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Rebuild your fireworks display"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNScatterRockets.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Rebuild |cffff5d00Fireworks Launcher|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Use this item to rebuild your Fireworks Launcher.|n|cffff4500|nDouble-right click on this item to convert it into it's ability form.|r"
+        }
+    ]
+}

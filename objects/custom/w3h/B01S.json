@@ -1,0 +1,31 @@
+{
+    "base": "Binf",
+    "id": "B01S",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Inner Fire"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "x"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\NightElf\\TrueshotAura\\TrueshotAura.mdl"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This structure has Inner Fire; its armor and attack damage are increased."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

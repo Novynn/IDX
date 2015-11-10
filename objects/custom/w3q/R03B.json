@@ -1,0 +1,853 @@
+{
+    "base": "Rhan",
+    "id": "R03B",
+    "mods": [
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "gar1",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNStatUp.blp",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "gba1",
+            "type": 2,
+            "value": "100",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpx",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gbpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gef1",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gglb",
+            "type": 0,
+            "value": "45",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "ghk1",
+            "type": 3,
+            "value": "R",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "glmb",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "glvl",
+            "type": 0,
+            "value": "16",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 5)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 6)",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 7)",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 8)",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 9)",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 10)",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 11)",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 12)",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 13)",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 14)",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 15)",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 16)",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 17)",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 18)",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 19)",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "gnam",
+            "type": 3,
+            "value": "Health Upgrade - (Level 20)",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "greq",
+            "type": 3,
+            "value": "R04K,TWN4",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "grqc",
+            "type": 3,
+            "value": "4,1",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "gtib",
+            "type": 0,
+            "value": "10",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 5)",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 6)",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 7)",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 8)",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 9)",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 10)",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 11)",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 12)",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 13)",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 14)",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 15)",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 16)",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 17)",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 18)",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 19)",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "gtp1",
+            "type": 3,
+            "value": "(|cffffcc00R|r) Research Health Upgrade - (Level 20)",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 6
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 7
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 8
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 9
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 10
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 11
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 12
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 13
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 14
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 15
+        },
+        {
+            "data": 0,
+            "id": "gub1",
+            "type": 3,
+            "value": "Further increases the hit points of your builder by 100.",
+            "variation": 16
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

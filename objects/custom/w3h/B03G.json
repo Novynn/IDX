@@ -1,0 +1,41 @@
+{
+    "base": "Buns",
+    "id": "B03G",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRejuvenation.blp"
+        },
+        {
+            "id": "fefl",
+            "type": 3,
+            "value": "NightElfGrowingLoop"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Replant"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Undead\\AntiMagicShell\\AntiMagicShell.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Replant"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

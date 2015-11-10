@@ -1,0 +1,36 @@
+{
+    "base": "Babr",
+    "id": "Babr",
+    "mods": [
+        {
+            "id": "fspd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Other\\HowlOfTerror\\HowlTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Demonic Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of a Demonic Totem; it has a bonus to hit point regeneration."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

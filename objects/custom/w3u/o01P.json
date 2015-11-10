@@ -1,0 +1,251 @@
+{
+    "base": "owtw",
+    "id": "o01P",
+    "mods": [
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage. This tower has the ability to simultaneously attack all nearby enemy titans within an area of 1000 at the same time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0Any ranged unit that holds this item will be able to simultaneously attack all nearby titans.|r"
+        },
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "199"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "2"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1m",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Shockwave\\ShockwaveMissile.mdl"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9,A00D,A0A8"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "1000"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubs1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udp1",
+            "type": 2,
+            "value": "0.400000006"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "fort"
+        },
+        {
+            "id": "uept",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "X"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "750"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHolyBolt.blp"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uma1",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Abilities\\Weapons\\ProcMissile\\ProcMissile.mdl"
+        },
+        {
+            "id": "umvf",
+            "type": 2,
+            "value": "400"
+        },
+        {
+            "id": "umvh",
+            "type": 2,
+            "value": "400"
+        },
+        {
+            "id": "umvt",
+            "type": 3,
+            "value": "fly"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|CFFFFF200Wave Tower|R"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "45"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "n00S"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "3"
+        },
+        {
+            "id": "uscb",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700X|r) Build Wave Tower"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "A powerful tower that deals amazing damage. This tower has the ability to simultaneously attack all nearby enemy titans within an area of 1000 at the same time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0Any ranged unit that holds this item will be able to simultaneously attack all nearby titans.|r"
+        }
+    ]
+}

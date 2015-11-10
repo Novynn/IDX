@@ -1,0 +1,76 @@
+{
+    "base": "tsct",
+    "id": "I04U",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0CW"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A06B"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Rebuild your Mutation Tower"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHex.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Rebuild |cff32cd32Mutation Tower|r"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Use this item to rebuild your Mutation Tower.|n|cffffd700Caution: |rDo not stop the rebuid process once started.  You will lose your item."
+        }
+    ]
+}

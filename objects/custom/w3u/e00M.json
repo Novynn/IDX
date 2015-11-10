@@ -1,0 +1,186 @@
+{
+    "base": "edob",
+    "id": "e00M",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Asid,A028"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "E"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCoralBed.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "24"
+        },
+        {
+            "id": "ulbd",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ulbs",
+            "type": 0,
+            "value": "11"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "150"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\naga\\CoralBed\\CoralBed.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff1e90ffCoral Bed|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(makrura)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "25"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urac",
+            "type": 3,
+            "value": "human"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN1"
+        },
+        {
+            "id": "ures",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urev",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.79999995"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": "I00Q"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "360"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "SpawningGrounds"
+        },
+        {
+            "id": "uspa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Construct a |cff1e90ffCoral Bed|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "q013,q014,q041,q209,q210,q211,q212,q257,q260"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as a Research Center, this building provides you with first level upgrades.|n|cff808080Build this to get upgrades that greatly increase your chances of survival. With this, you can train a powerful Titan Hunter and upgrade your walls.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build this in a safe place."
+        }
+    ]
+}

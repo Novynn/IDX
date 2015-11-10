@@ -1,0 +1,71 @@
+{
+    "base": "ngme",
+    "id": "n01U",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aall,Avul,Apit"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "10"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhom",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "buildings\\naga\\TempleofTides\\TempleofTides.mdl"
+        },
+        {
+            "id": "umki",
+            "type": 3,
+            "value": "I05I,I051,I05B,I01G,I01H,I01F,I018,I017,I01I,I03L"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Merchant of Consumables"
+        },
+        {
+            "id": "unbm",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unbr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "X (Page 1)"
+        },
+        {
+            "id": "uocc",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "usei",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uubs",
+            "type": 3,
+            "value": ""
+        }
+    ]
+}

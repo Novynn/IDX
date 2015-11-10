@@ -1,0 +1,188 @@
+{
+    "base": "Aamk",
+    "id": "A00X",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Iagi",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Iagi",
+            "type": 0,
+            "value": "4",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Iagi",
+            "type": 0,
+            "value": "6",
+            "variation": 3
+        },
+        {
+            "data": 4,
+            "id": "Ihid",
+            "type": 0,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Ihid",
+            "type": 0,
+            "value": "1",
+            "variation": 2
+        },
+        {
+            "data": 4,
+            "id": "Ihid",
+            "type": 0,
+            "value": "1",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Iint",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Iint",
+            "type": 0,
+            "value": "4",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Iint",
+            "type": 0,
+            "value": "6",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Istr",
+            "type": 0,
+            "value": "2",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Istr",
+            "type": 0,
+            "value": "4",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Istr",
+            "type": 0,
+            "value": "6",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Hunter)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "nightelf",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aret",
+            "type": 3,
+            "value": "(|cffffcc00U|r) Learn Attribute Bonus - [|cffffcc00Level %d|r].",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arhk",
+            "type": 3,
+            "value": "U",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arut",
+            "type": 3,
+            "value": "Gives a permanent bonus to Agility, Intelligence, and Strength. |n|n|cffffcc00Level 1|r - Adds two points to all stats.|n|cffffcc00Level 2|r - Adds two additional points.|n|cffffcc00Level 3|r - Adds two additional points.",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Gives a total of 2 points to Agility, Intelligence, and Strength",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Gives a total of 4 points to Agility, Intelligence, and Strength",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Gives a total of 6 points to Agility, Intelligence, and Strength",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

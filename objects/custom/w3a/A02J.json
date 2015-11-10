@@ -1,0 +1,321 @@
+{
+    "base": "Awha",
+    "id": "A02J",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Wha1",
+            "type": 2,
+            "value": "10",
+            "variation": 1
+        },
+        {
+            "data": 1,
+            "id": "Wha1",
+            "type": 2,
+            "value": "12",
+            "variation": 2
+        },
+        {
+            "data": 1,
+            "id": "Wha1",
+            "type": 2,
+            "value": "14",
+            "variation": 3
+        },
+        {
+            "data": 1,
+            "id": "Wha1",
+            "type": 2,
+            "value": "16",
+            "variation": 4
+        },
+        {
+            "data": 1,
+            "id": "Wha1",
+            "type": 2,
+            "value": "18",
+            "variation": 5
+        },
+        {
+            "data": 2,
+            "id": "Wha2",
+            "type": 0,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Wha2",
+            "type": 0,
+            "value": "99999",
+            "variation": 2
+        },
+        {
+            "data": 2,
+            "id": "Wha2",
+            "type": 0,
+            "value": "99999",
+            "variation": 3
+        },
+        {
+            "data": 2,
+            "id": "Wha2",
+            "type": 0,
+            "value": "99999",
+            "variation": 4
+        },
+        {
+            "data": 2,
+            "id": "Wha2",
+            "type": 0,
+            "value": "99999",
+            "variation": 5
+        },
+        {
+            "data": 3,
+            "id": "Wha3",
+            "type": 2,
+            "value": "150",
+            "variation": 2
+        },
+        {
+            "data": 3,
+            "id": "Wha3",
+            "type": 2,
+            "value": "150",
+            "variation": 3
+        },
+        {
+            "data": 3,
+            "id": "Wha3",
+            "type": 2,
+            "value": "150",
+            "variation": 4
+        },
+        {
+            "data": 3,
+            "id": "Wha3",
+            "type": 2,
+            "value": "150",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "13.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "13.5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "13.5",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "13.5",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "13.5",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "13.5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "13.5",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "13.5",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "13.5",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "13.5",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "5",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Nature - Level 1)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "900",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "900",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "900",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "900",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "tree,alive,dead",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "tree,alive,dead",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "tree,alive,dead",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "tree,alive,dead",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Gather",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Gather",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Gather",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Gather",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00G|r) Gather",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 3
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 4
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Harvests lumber from trees.",
+            "variation": 5
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "base": "tsct",
+    "id": "I00T",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A01J,AIev"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A01J"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Creates a Giant Hermit Crab"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Props\\Ruins_Shells\\Ruins_Shells1.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "90"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHermitCrab.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "2500"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "1.20000005"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff8c6239Giant Hermit|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Creates a Giant Hermit at a target location. Also provides its' holder with an evasion of 15% from attacks."
+        }
+    ]
+}

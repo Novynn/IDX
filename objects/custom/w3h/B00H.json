@@ -1,0 +1,31 @@
+{
+    "base": "BHad",
+    "id": "B00H",
+    "mods": [
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Determination Aura"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "war3mapImported\\OrcSelectionAura.mdx"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Determination Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Determination Aura; it has increased armor."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

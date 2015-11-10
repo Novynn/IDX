@@ -1,0 +1,71 @@
+{
+    "base": "pomn",
+    "id": "I03M",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A03K"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A03K"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Artifact"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Purchase Potion of Omniscience"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Reveals the entire map for 5 seconds when used. Does not detect invisible units."
+        }
+    ]
+}

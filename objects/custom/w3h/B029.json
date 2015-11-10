@@ -1,0 +1,31 @@
+{
+    "base": "Binv",
+    "id": "B029",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNUrnOfKelThuzad.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Shadow Dust"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Shadow Dust"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is invisible; enemy units cannot see it. If it attacks or casts a spell it will become visible."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

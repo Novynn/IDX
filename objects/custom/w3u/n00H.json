@@ -1,0 +1,61 @@
+{
+    "base": "ncrb",
+    "id": "n00H",
+    "mods": [
+        {
+            "id": "ucar",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ucol",
+            "type": 2,
+            "value": "32"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "4000"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSkink.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "units\\critters\\Skink\\Skink.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Skink"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "Giant"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "202"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "4"
+        },
+        {
+            "id": "ussc",
+            "type": 1,
+            "value": "1.50000012"
+        }
+    ]
+}

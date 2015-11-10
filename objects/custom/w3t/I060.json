@@ -1,0 +1,91 @@
+{
+    "base": "rat6",
+    "id": "I060",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A0IG"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A0IG"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Charged"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Boosts attack speed by 5%."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSoulGem.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "1000"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "D"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Shadowstone"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffd700D|r) Purchase a Shadowstone"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the attack speed of the holder by 5%."
+        }
+    ]
+}

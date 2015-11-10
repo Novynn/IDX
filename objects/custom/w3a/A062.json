@@ -1,0 +1,34 @@
+{
+    "base": "AIh1",
+    "id": "A062",
+    "mods": [
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "80",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Expertly Enchanted Stone",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Demonologist)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

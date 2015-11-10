@@ -1,0 +1,61 @@
+{
+    "base": "rde0",
+    "id": "I03R",
+    "mods": [
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Charged"
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAdvancedReinforcedHides.blp"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Armored Scales"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "Purchase |cffffd700A|rrmored Scales"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Increases the armor of the Hero by 1.|n|cffff4500Collect 3 of these and they will combine to form a Shield of Fate.|r"
+        }
+    ]
+}

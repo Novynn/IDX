@@ -1,0 +1,41 @@
+{
+    "base": "BHad",
+    "id": "B02N",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDeathCoil.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Fart Cloud"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "Armor"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Fart Cloud"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Fart Cloud; it has increased armor."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "base": "hhou",
+    "id": "h03U",
+    "mods": [
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Arlm"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udaa",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufma",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "S"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "200"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNEnchantedGemstone.blp"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "5"
+        },
+        {
+            "id": "ulum",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Cityscape\\Props\\CrystalLamp\\CrystalLamp.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cff99b4d1Mana Node|r"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(draenei)"
+        },
+        {
+            "id": "upap",
+            "type": 3,
+            "value": "unbuildable,blighted"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.10000002"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "240"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00S|r) Build a |cff99b4d1Mana Node|r"
+        },
+        {
+            "id": "utra",
+            "type": 3,
+            "value": "e014,n007,h03W,q202,q203,q232,q233,q234,q235"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Also refered to as a Shelter, this building acts as the Draenei's main resource return point.|n|cff808080Trains harvesting draenei that collect lumber for you. This building allows units to drop of their wood.|r|n|n|cffffcc00Health:|r 200|n|cffffcc00Armor:|r 0 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r These are weak buildings, useless as walls or defense. Only build the amount that you need, because they can end up feeding a lot."
+        }
+    ]
+}

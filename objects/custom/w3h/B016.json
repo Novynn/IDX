@@ -1,0 +1,61 @@
+{
+    "base": "Bvul",
+    "id": "B016",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCloakOfFlames.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Invulnerable"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "I"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "chest"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "fta5",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Environment\\UndeadBuildingFire\\UndeadLargeBuildingFire1.mdl"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

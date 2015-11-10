@@ -1,0 +1,116 @@
+{
+    "base": "rspl",
+    "id": "I04R",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A05L,Arel,AIrm"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "Ashm"
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Permanent"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Allows the holder to blend into the background and become invisible at night. Also provides the holder with additional health and mana regeneration."
+        },
+        {
+            "id": "idrp",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ifil",
+            "type": 3,
+            "value": "Objects\\InventoryItems\\TreasureChest\\treasurechest.mdl"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "50000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNCloak.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iper",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iusa",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iuse",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|caa6666dbCloak of Shadows|r"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Allows the holder to blend into the background and become invisible. Also provides the holder with additional health and mana regeneration."
+        }
+    ]
+}

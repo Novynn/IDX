@@ -1,0 +1,106 @@
+{
+    "base": "rhth",
+    "id": "I03X",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "icla",
+            "type": 3,
+            "value": "Miscellaneous"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "idro",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ihtp",
+            "type": 0,
+            "value": "500000"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeroCryptLord.blp"
+        },
+        {
+            "id": "ilev",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ilvo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipaw",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ipri",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iprn",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isto",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "A"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Titan - Fossurious"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00A|r) |cffcd853fFossurious|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "|cffffcc00Difficulty:|r |cffff8000Medium|r|n|n|cffffcc00Nuke: Groundripping|r |cff00ff00 (Sends out tendrils in a wave that rip out of the ground, stunning units and dealing damage.)|n|r|n|cffffcc00Heal:|r |cff00ff00Burrow (Fossurious digs into the ground rending his attacks and slowing his movement speed while increasing regeneration.)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Imbued Carapace (Grants Fossurious an increased health regeneration as well as additional armor at the cost of mana.)|r|n|n|cffffcc00Description:|r |cff0080ffLegendary Titan of Crypt.  Has no natural windwalk, becomes invisible while burrowed.  Fossurious has a cleave attack  and is a weak titan early then becoming stronger late in the game.|r"
+        }
+    ]
+}

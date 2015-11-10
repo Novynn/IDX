@@ -1,0 +1,36 @@
+{
+    "base": "Binv",
+    "id": "B05E",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNPortal.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Portal"
+        },
+        {
+            "id": "fnsf",
+            "type": 3,
+            "value": "(Ground)"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "|cff00ff00Portal|r"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is portalling to a nearby Void Gate; it has increased armor and spell damage reduction."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

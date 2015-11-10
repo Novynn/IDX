@@ -1,0 +1,139 @@
+{
+    "base": "Aeye",
+    "id": "A01G",
+    "mods": [
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "Beye",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "180",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "180",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "8",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "8",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "8",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "8",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Gnoll)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "500",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Sentry Ward",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00W|r) Sentry Ward",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Skill|r|cffffcc00]|r|n|n|cffffcc00Summon an invisible and immovable ward to scout the area.|r|n|cff1e90ffThe summoned ward provides a movement speed bonus to friendly units by 25% in an area of 900. The ward has a sight range of 600, 200 health, and lasts for 8 seconds.|n|nPoint-Targeted - 180 second cooldown.|r|n|n|cffff5522Note:|r Movement speed bonus does not stack with Nature's Aura Tree.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "|cffffcc00[|r|cffff8c00Skill|r|cffffcc00]|r|n|n|cffffcc00Summon an invisible and immovable ward to scout the area.|r|n|cff1e90ffThe summoned ward provides truesight vision, as well as providing a movement speed bonus to friendly units by 25% in an area of 900. The ward has a sight range of 600, 200 health, and lasts for 8 seconds.|n|nPoint-Targeted - 180 second cooldown.|r|n|n|cffff5522Note:|r Movement speed bonus does not stack with Nature's Aura Tree.",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "hwdu",
+            "type": 3,
+            "value": "o020",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "hwdu",
+            "type": 3,
+            "value": "o01G",
+            "variation": 2
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

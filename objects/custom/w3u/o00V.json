@@ -1,0 +1,46 @@
+{
+    "base": "otot",
+    "id": "o00V",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aeth,WARD"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNClockWerkGoblin.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Units\\Creeps\\HeroTinkerRobot\\HeroTinkerRobot.mdl"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Mechanical Trap"
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.20000005"
+        },
+        {
+            "id": "usnd",
+            "type": 3,
+            "value": "ClockwerkGoblin"
+        }
+    ]
+}

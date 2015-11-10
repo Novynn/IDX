@@ -1,0 +1,231 @@
+{
+    "base": "hctw",
+    "id": "h010",
+    "mods": [
+        {
+            "id": "ua1b",
+            "type": 0,
+            "value": "34"
+        },
+        {
+            "id": "ua1c",
+            "type": 2,
+            "value": "0.850000024"
+        },
+        {
+            "id": "ua1g",
+            "type": 3,
+            "value": "air,ground,item,structure"
+        },
+        {
+            "id": "ua1p",
+            "type": 3,
+            "value": "enemies"
+        },
+        {
+            "id": "ua1r",
+            "type": 0,
+            "value": "600"
+        },
+        {
+            "id": "ua1s",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ua1t",
+            "type": 3,
+            "value": "pierce"
+        },
+        {
+            "id": "ua1w",
+            "type": 3,
+            "value": "msplash"
+        },
+        {
+            "id": "ua1z",
+            "type": 0,
+            "value": "1800"
+        },
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0H9"
+        },
+        {
+            "id": "uacq",
+            "type": 2,
+            "value": "900"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ubld",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsl",
+            "type": 3,
+            "value": "OrcBuildingConstructionLoop"
+        },
+        {
+            "id": "ucam",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "udef",
+            "type": 0,
+            "value": "4"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "normal"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugor",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhd1",
+            "type": 2,
+            "value": "0.699999988"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "T"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "300"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0.300000012"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
+        },
+        {
+            "id": "uimz",
+            "type": 2,
+            "value": "100"
+        },
+        {
+            "id": "ulba",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "ulpz",
+            "type": 2,
+            "value": "120"
+        },
+        {
+            "id": "ulur",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffcf9633Enhanced Cannon Tower|r"
+        },
+        {
+            "id": "upgr",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "upoi",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "upri",
+            "type": 0,
+            "value": "20"
+        },
+        {
+            "id": "uqd1",
+            "type": 2,
+            "value": "0.5"
+        },
+        {
+            "id": "ureq",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "urtm",
+            "type": 0,
+            "value": "10"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "1500"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00T|r) Upgrade to an |cffcf9633Enhanced Cannon Tower|r"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "The Goblins's enhanced defensive tower.|n|cff808080These towers have high damage and a quick speed which makes them very effective. Splash damage is very useful when versing multiple enemies!|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 35 Pierce|n|cffffcc00Attack Range:|r 600|n|cffffcc00Attack Cooldown: |r0.85s"
+        },
+        {
+            "id": "uupt",
+            "type": 3,
+            "value": "h011"
+        }
+    ]
+}

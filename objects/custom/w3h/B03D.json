@@ -1,0 +1,51 @@
+{
+    "base": "Bshs",
+    "id": "B03D",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNFlare.blp"
+        },
+        {
+            "id": "feff",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Incendiary"
+        },
+        {
+            "id": "frac",
+            "type": 3,
+            "value": "orc"
+        },
+        {
+            "id": "fspd",
+            "type": 0,
+            "value": "2"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Human\\FlakCannons\\FlakTarget.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Incendiary"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is coated with an incendiary powder"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

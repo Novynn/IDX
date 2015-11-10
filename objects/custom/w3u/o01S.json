@@ -1,0 +1,31 @@
+{
+    "base": "ohwd",
+    "id": "o01S",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "A0AP,WARD"
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "250"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "Tauren"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "240"
+        }
+    ]
+}

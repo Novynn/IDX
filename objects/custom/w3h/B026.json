@@ -1,0 +1,66 @@
+{
+    "base": "BNab",
+    "id": "B026",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNDizzy.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Shadow Catcher"
+        },
+        {
+            "id": "fta1",
+            "type": 3,
+            "value": "head"
+        },
+        {
+            "id": "fta2",
+            "type": 3,
+            "value": "hand,left"
+        },
+        {
+            "id": "fta3",
+            "type": 3,
+            "value": "hand,right"
+        },
+        {
+            "id": "fta4",
+            "type": 3,
+            "value": "foot,left"
+        },
+        {
+            "id": "fta5",
+            "type": 3,
+            "value": "foot,right"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "6"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Weapons\\AvengerMissile\\AvengerMissile.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Shadow Catcher"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is covered in shadows; it is invisible and moves faster."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}
