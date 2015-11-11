@@ -300,7 +300,7 @@
             "data": 0,
             "id": "arut",
             "type": 3,
-            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Consumes a corpse, launching 24 corpse chunks that land within the target area dealing damage and stunning any units hit.|nThis ability is channeled and increases the chance of hitting units in the target area until it reaches 24 chunks launched or is canceled by the player.|r|n|n|cffffcc00Level 1|r - |cff1e90ffDeals up to 135 damage and stuns for 1 second.|r|n|cffffcc00Level 2|r - |cff1e90ffDeals up to 155 damage and stuns for 1.5 seconds.|r|n|cffffcc00Level 3|r - |cff1e90ffDeals up to 180 damage and stuns for 2 seconds.|n|nPoint-Targeted - 5 second cooldown.|r|n|n|cffff5522Note:|r If you have no corpses, this ability will not launch any chunks.",
+            "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Consumes a corpse, launching 24 corpse chunks that land within the target area dealing damage and stunning any units hit.|nThis ability is channeled and increases the chance of hitting units in the target area until it reaches 24 chunks launched or is canceled by the player.|r|n|n|cffffcc00Level 1|r - |cff1e90ffDeals up to 135 damage and stuns for 0.25 second.|r|n|cffffcc00Level 2|r - |cff1e90ffDeals up to 155 damage and stuns for 0.5 seconds.|r|n|cffffcc00Level 3|r - |cff1e90ffDeals up to 180 damage and stuns for 1 second.|n|nPoint-Targeted - 5 second cooldown.|r|n|n|cffff5522Note:|r If you have no corpses, this ability will not launch any chunks.",
             "variation": 0
         },
         {
