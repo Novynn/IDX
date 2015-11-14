@@ -41,8 +41,10 @@ library TaurenRace requires Races {
             UnitMakeAbilityPermanent(u, true, 'A0AB');
             UnitMakeAbilityPermanent(u, true, 'A0AT');
             UnitMakeAbilityPermanent(u, true, 'A0BD');
-            UnitMakeAbilityPermanent(u, true, 'A0D2');
+            UnitMakeAbilityPermanent(u, true, 'A04F');
+            //UnitMakeAbilityPermanent(u, true, 'A0D2'); // Attunement
             UnitMakeAbilityPermanent(u, true, 'A0AG');
+            UnitMakeAbilityPermanent(u, true, 'A0AC');
         }
         
         private static method create() -> thistype {

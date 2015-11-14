@@ -45,6 +45,8 @@ library TaurenUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxS
 				Upgrades.addRequirement('q174');
             Upgrades.end();
 			
+			//'A0IH';
+			
             Upgrades.begin("Totemic Defenses", "all");
 				Upgrades.addRequirement('q057');
             Upgrades.end();

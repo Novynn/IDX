@@ -18,13 +18,6 @@
         },
         {
             "data": 0,
-            "id": "achd",
-            "type": 0,
-            "value": "1",
-            "variation": 0
-        },
-        {
-            "data": 0,
             "id": "aite",
             "type": 0,
             "value": "0",
@@ -35,13 +28,6 @@
             "id": "anam",
             "type": 3,
             "value": "Spiritual Attunement",
-            "variation": 0
-        },
-        {
-            "data": 0,
-            "id": "areq",
-            "type": 3,
-            "value": "q044",
             "variation": 0
         },
         {

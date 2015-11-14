@@ -27,7 +27,21 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
             "variation": 0
         },
         {
@@ -74,13 +88,6 @@
         },
         {
             "data": 0,
-            "id": "areq",
-            "type": 3,
-            "value": "q044",
-            "variation": 0
-        },
-        {
-            "data": 0,
             "id": "arhk",
             "type": 3,
             "value": "",
@@ -97,7 +104,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Reduces all magic damage against the Tauren by 25%.|n|cffffcc00Passive.",
+            "value": "Reduces all magic damage against the Tauren Champion by 25%.|n|cffffcc00Passive.",
             "variation": 1
         },
         {
