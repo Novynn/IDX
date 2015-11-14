@@ -17,13 +17,6 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
         public static constant integer STATE_FINISHED = 4;     // On gameover
         private static integer mState = STATE_IDLE;
         
-        // Results to use in playerResult();
-        public static constant integer RESULT_UNKNOWN = 0;
-        public static constant integer RESULT_WINNER = 1;
-        public static constant integer RESULT_LOSER = 2;
-        public static constant integer RESULT_LEAVER = 3;
-        public static constant integer RESULT_DEBUG = 4;
-        
         // Debug
         public static boolean ignorePlayers[];
         

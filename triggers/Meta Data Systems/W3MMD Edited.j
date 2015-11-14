@@ -87,7 +87,7 @@ library MMD initializer init requires GetPlayerActualName
         public constant integer MINIMUM_PARSER_VERSION = 1
         private constant string FILENAME = "MMD.Dat"
         private constant string M_KEY_VAL = "val:"
-        private constant string M_KEY_CHK = "chk:"
+        //private constant string M_KEY_CHK = "chk:"
         private constant integer NUM_SENDERS_NAIVE = 1
         private constant integer NUM_SENDERS_SAFE = 1 // Never raise
         private integer num_senders = NUM_SENDERS_NAIVE
@@ -200,14 +200,14 @@ library MMD initializer init requires GetPlayerActualName
 
     ///Stores previously sent messages for tamper detection purposes
     private struct QueueNode
-        readonly real timeout
+        //readonly real timeout
         readonly string msg
         readonly integer checksum
         readonly string key
         public QueueNode next = 0
         public static method create takes integer id, string msg returns QueueNode
             local QueueNode this = QueueNode.allocate()
-            set .timeout = time() + 7.0 + GetRandomReal(0, 2+0.1*GetPlayerId(GetLocalPlayer()))
+            //set .timeout = time() + 7.0 + GetRandomReal(0, 2+0.1*GetPlayerId(GetLocalPlayer()))
             set .msg = msg
             set .checksum = poor_hash(.msg, id)
             set .key = I2S(id)
@@ -215,7 +215,7 @@ library MMD initializer init requires GetPlayerActualName
         endmethod
         private method onDestroy takes nothing returns nothing
             call FlushStoredInteger(gc, M_KEY_VAL+.key, .msg)
-            call FlushStoredInteger(gc, M_KEY_CHK+.key, .key)
+            //call FlushStoredInteger(gc, M_KEY_CHK+.key, .key)
             set .msg = null
             set .key = null
             set .next = 0
@@ -223,12 +223,12 @@ library MMD initializer init requires GetPlayerActualName
         
         public method store takes nothing returns nothing
             call StoreInteger(gc, M_KEY_VAL+.key, .msg, .checksum)
-            call StoreInteger(gc, M_KEY_CHK+.key, .key, .checksum)
+            //call StoreInteger(gc, M_KEY_CHK+.key, .key, .checksum)
         endmethod
         
         public method send takes nothing returns nothing
             call SyncStoredInteger(gc, M_KEY_VAL+.key, .msg)
-            call SyncStoredInteger(gc, M_KEY_CHK+.key, .key)
+            //call SyncStoredInteger(gc, M_KEY_CHK+.key, .key)
         endmethod
         
         public method sync takes nothing returns nothing 

@@ -31,8 +31,7 @@ library MetaData requires MMD, GameTimer {
             //    if (thread.synced) break;
             //    TriggerSyncReady();
             //}
-            
-            //thread.destroy();
+            if (thread != 0) thread.destroy();
         }
         
         private static method getTriggerPlayerData(trigger t) -> PlayerData {
@@ -58,19 +57,19 @@ library MetaData requires MMD, GameTimer {
         }
         
         public static method onPlayerJoin(PlayerData p) {
-            if (thistype.extras()) {
-                thistype.syncPlayerClass(p);
-            }
+            //if (thistype.extras()) {
+            //    thistype.syncPlayerClass(p);
+            //}
         }
         
         public static method onPlayerLeft(PlayerData p) {
-            if (Game.state() == Game.STATE_FINISHED) return;
-            if (thistype.extras()) {
-                thistype.syncPlayerClass(p);
-                thistype.syncPlayerFed(p);
-            }
+            //if (Game.state() == Game.STATE_FINISHED) return;
+            //if (thistype.extras()) {
+            //    thistype.syncPlayerClass(p);
+            //    thistype.syncPlayerFed(p);
+            //}
             
-            thistype.syncPlayerFlag(p);
+            //thistype.syncPlayerFlag(p);
         }
         
         public static method onPlayerClassChange(PlayerData p) {
@@ -114,7 +113,6 @@ library MetaData requires MMD, GameTimer {
         }
         
         public static method initializeAct() { static if (LIBRARY_MMD){
-            
             integer i = 0;
             Thread thread = thistype.syncBegin();
             MMD_emit("init version " + I2S(MMD_MINIMUM_PARSER_VERSION) + " " + I2S(MMD_CURRENT_VERSION));
@@ -210,42 +208,24 @@ library MetaData requires MMD, GameTimer {
             PlayerData p = thistype.getTriggerPlayerData(GetTriggeringTrigger());
             Thread thread = 0; 
             integer flag = 0;
+			if (thistype.isFinalized()) return;
             if (!GameSettings.getBool("MMD_ENABLED")) return;
-            if (Game.state() != Game.STATE_FINISHED) return;
+			
             thread = thistype.syncBegin();
-            if (GameSettings.getBool("DEBUG")){
-                MMD_FlagPlayer(p.player(), MMD_FLAG_PRACTICING);
-            }
-            else if (p.hasLeft()){
-                if (p.leftDuringGameState(Game.STATE_IDLE)){
-                    MMD_FlagPlayer(p.player(), MMD_FLAG_LEAVER);
-                }
-                else if (p.leftDuringGameState(Game.STATE_FINISHED)){
-                    return;
-                }
-                else {
-                    // Otherwise, they left during the game and shall be flagged as leavers.
-                    MMD_FlagPlayer(p.player(), MMD_FLAG_LOSER);
-                }
-            }
-            else {
-                // TODO: Change this to an actual value instead of "1"
-                if (Game.mode().playerResult(p) == 1){
-                    MMD_FlagPlayer(p.player(), MMD_FLAG_WINNER);
-                }
-                else {
-                    MMD_FlagPlayer(p.player(), MMD_FLAG_LOSER);
-                }
-            }
+			MMD_FlagPlayer(p.player(), Game.mode().playerResult(p));
             thistype.syncEnd(thread);
-            thread = 0;
         } }
+		
+		private static boolean finalized = false;
+		public static method isFinalized() -> boolean {
+			return thistype.finalized;
+		}
         
         public static method finalize() {
             static if (LIBRARY_MMD){
                 PlayerDataArray list = 0;
                 integer i = 0;
-                if (Game.state() != Game.STATE_FINISHED) return;
+				if (thistype.isFinalized()) return;
                 if (!GameSettings.getBool("MMD_ENABLED")) return;
                 
                 // Now for players that are still here...
@@ -254,6 +234,12 @@ library MetaData requires MMD, GameTimer {
                     thistype.syncPlayerFlag(list[i]);
                 }
                 list.destroy();
+				list = PlayerData.leavers();
+                for (0 <= i < list.size()){
+                    thistype.syncPlayerFlag(list[i]);
+                }
+                list.destroy();
+				thistype.finalized = true;
             }
         }
         

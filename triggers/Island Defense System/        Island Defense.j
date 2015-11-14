@@ -325,27 +325,16 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
         }
         
         public method playerResult(PlayerData p) -> integer {
-            integer result = Game.RESULT_UNKNOWN;
+            integer result = 0;
             if (GameSettings.getBool("DEBUG")) {
-                result = Game.RESULT_DEBUG;
-            }
-            else if (p.hasLeft()) {
-                if (p.leftDuringGameState(Game.STATE_IDLE)){
-                    result = Game.RESULT_LEAVER;
-                }
-                else if (p.leftDuringGameState(Game.STATE_FINISHED)){
-                    // Do nothing
-                }
-                else {
-                    result = Game.RESULT_LOSER;
-                }
+                result = MMD_FLAG_PRACTICING;
             }
             else {
-                if (p.class() == this.winningClass()) {
-                    result = Game.RESULT_WINNER;
+                if (p.initialClass() == this.winningClass()) {
+                    result = MMD_FLAG_WINNER;
                 }
                 else {
-                    result = Game.RESULT_LOSER;
+                    result = MMD_FLAG_LOSER;
                 }
             }
             
@@ -360,7 +349,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
             list = PlayerData.all();
             for (0 <= i < list.size()){
                 p = list[i];
-                if (p.class() == this.winnerClass){
+                if (p.initialClass() == this.winnerClass){
                     RemovePlayer(p.player(), PLAYER_GAME_RESULT_VICTORY);
                 }
                 else {
