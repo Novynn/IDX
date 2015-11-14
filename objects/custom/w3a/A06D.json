@@ -13,7 +13,7 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanMissileUpTwo.blp",
+            "value": "",
             "variation": 0
         },
         {
@@ -34,15 +34,22 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": "2",
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": "2",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "1",
+            "variation": 0
         },
         {
             "data": 0,
@@ -90,21 +97,21 @@
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "Heavy Water",
+            "value": "",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Fires a cannon ball at enemies every 2.2 seconds dealing 50 damage.",
+            "value": "",
             "variation": 1
         },
         {
             "data": 1,
             "id": "pxf1",
             "type": 2,
-            "value": "40",
+            "value": "30",
             "variation": 1
         },
         {

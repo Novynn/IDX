@@ -124,7 +124,7 @@ library Transmute requires CreateItemEx {
             integer i = whichItem(id);
 			
             if (i != 0){
-				UnitSetUpgradeProgress(u, 99);
+				UnitSetUpgradeProgress(u, 80); // Can't be 99 as it messes up scaling
             }
             u = null;
             

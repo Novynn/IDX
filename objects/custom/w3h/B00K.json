@@ -5,7 +5,7 @@
         {
             "id": "fart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNFreezingBreath.blp"
+            "value": "ReplaceableTextures\\CommandButtons\\BTNThorns.blp"
         },
         {
             "id": "fnam",
@@ -20,12 +20,12 @@
         {
             "id": "ftip",
             "type": 3,
-            "value": "Heavy Water"
+            "value": "Damaged"
         },
         {
             "id": "fube",
             "type": 3,
-            "value": "This unit has been hit by Heavy Water."
+            "value": "This unit has been damaged by a transmuted ultimate tower."
         },
         {
             "id": "udes",
