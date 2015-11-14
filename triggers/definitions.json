@@ -1579,6 +1579,16 @@
         },
         {
             "desc": "",
+            "enabled": true,
+            "index": 2,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "        Movespeed",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
             "enabled": false,
             "index": 2,
             "initialState": 0,
@@ -3124,16 +3134,6 @@
             "initialState": 0,
             "isCustom": true,
             "name": "FeralTower",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "IslandBloom",
             "runOnInit": false,
             "type": 0
         },
