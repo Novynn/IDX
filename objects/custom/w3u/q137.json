@@ -25,7 +25,7 @@
         {
             "id": "ubpx",
             "type": 0,
-            "value": "1"
+            "value": "2"
         },
         {
             "id": "ubpy",
@@ -50,7 +50,7 @@
         {
             "id": "uhot",
             "type": 3,
-            "value": "S"
+            "value": "D"
         },
         {
             "id": "uico",
@@ -120,7 +120,7 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00S|r) Research Empowered Talismans"
+            "value": "(|cffffcc00D|r) Research Empowered Talismans"
         },
         {
             "id": "utub",
