@@ -1,0 +1,31 @@
+{
+    "base": "BHad",
+    "id": "B02P",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNRegenerationAura.blp"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Items\\VampiricPotion\\VampPotionCaster.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Demonic Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is under the effects of Demonic Aura; it has increased armor."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}
