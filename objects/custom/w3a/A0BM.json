@@ -79,5 +79,6 @@
             "value": "Abilities\\Spells\\Demon\\DarkPortal\\DarkPortalTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

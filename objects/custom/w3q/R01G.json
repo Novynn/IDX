@@ -79,5 +79,6 @@
             "value": "Gives the Magnataur the ability to cast Hypothermia on enemy units. Hypothermia reduces a targeted enemy's armor by 15 and grants sight of the afflicted unit for 5 seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

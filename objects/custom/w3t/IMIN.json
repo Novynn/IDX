@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cffff8c00Consumable|r|cffffcc00]|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

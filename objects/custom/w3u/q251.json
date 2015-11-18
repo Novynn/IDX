@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the mana capacity of your Titan Hunter by 200, hit points by 400, attack damage by 20, and attack range by 200. Also makes his attacks poisoned so that his attacks slow the movement speed enemy units by 20%."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -100,5 +100,6 @@
             "value": "The tower uses its power to cause a target enemy titan to morph into a random critter for 3 seconds. Has a cooldown of 60 seconds.|nUnit-Targeted -- 60 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

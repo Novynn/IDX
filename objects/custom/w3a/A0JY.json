@@ -121,5 +121,6 @@
             "value": "Increases nearby friendly units' movement speed by 20% and attack rate by 10%.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

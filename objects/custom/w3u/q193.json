@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Gives the Tauren the ability to use healing wards. Also gives him the War Drums aura, boosting his movement and attack speeds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

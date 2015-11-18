@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit is empowered by pure darkness, and is causing an Endless Night on the Island."
         }
-    ]
+    ],
+    "type": "Buff"
 }

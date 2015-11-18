@@ -191,5 +191,6 @@
             "value": "The Satyr moves so fast he is able to dodge all physical and magical attacks made against him.|n|n|cffadd8e6Cooldown:|r 25",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

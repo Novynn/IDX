@@ -289,5 +289,6 @@
             "value": "Summons 4 ferocious Fel Beasts to do your bidding. Lasts 75 seconds.|nActivated -- 75 second cooldown.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Ability"
 }

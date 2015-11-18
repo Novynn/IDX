@@ -107,5 +107,6 @@
             "value": "Enables Stone Walls to upgrade to Cement Walls. These walls have increased defense, and 150 more hit points.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

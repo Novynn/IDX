@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Provides the holder with an additonal 15% attack speed and 20 damage. Also increases health regeneration.|n|cffffd700Requires:|r 2 Titan Eggs, Trident"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -205,5 +205,6 @@
             "value": "Boosts your basic defenses, giving 50 bonus health to your walls.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

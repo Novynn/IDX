@@ -233,5 +233,6 @@
             "value": "Allows the Faerie Dragon to cast Energy Charge. This allows the Faerie Dragon to charge allied units with damaging energy that whirls around them. Deals 50 damage per second.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

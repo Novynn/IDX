@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Calls forth a Gnoll Tracker that can reveal nearby invisible units.|n|cffffd7004 minute cooldown, lasts for 75 seconds.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

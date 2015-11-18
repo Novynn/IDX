@@ -142,5 +142,6 @@
             "value": "A poison attack that slows the target enemy's movement by <A0H7,DataB1,%>% for <A0H7,Dur1> seconds while dealing <A0H7,DataA2> damage per second.|nPassive.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

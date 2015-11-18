@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Grants your hunter 50 additional hit points."
         }
-    ]
+    ],
+    "type": "Unit"
 }

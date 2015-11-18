@@ -72,5 +72,6 @@
             "value": "air,ground,organic",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

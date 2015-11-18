@@ -170,5 +170,6 @@
             "value": "Increases the mana capacity of the Faerie Dragon and his Titan hunter by 50, hit points by 100, attack damage by 40, and attack range by 250. Also makes the Faerie Dragons attacks poisoned so that they slow the movement speed enemy units by 20%. Gives the Faerie's Titan Hunter the ability to cast Faerie Fire.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

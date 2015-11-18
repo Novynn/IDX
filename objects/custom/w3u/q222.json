@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the damage of your Titan Hunter by 20, hit points by 200, attack speed by 15%, and mana by 400. Also allows the hunter to have a chance to perform critical strikes on his targets."
         }
-    ]
+    ],
+    "type": "Unit"
 }

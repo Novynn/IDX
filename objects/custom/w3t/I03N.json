@@ -47,5 +47,6 @@
             "type": 3,
             "value": "(|cffffcc00R|r) Purchase Elixir of Shielding"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Reveals the entire map for 5 seconds when used. Does not detect invisible units."
         }
-    ]
+    ],
+    "type": "Item"
 }

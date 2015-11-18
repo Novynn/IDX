@@ -44,5 +44,6 @@
             "value": "air,enemies,ground,neutral,organic",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

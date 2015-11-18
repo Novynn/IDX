@@ -93,5 +93,6 @@
             "value": "Enables the Demonologist to cast Voodoo on target enemy units.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

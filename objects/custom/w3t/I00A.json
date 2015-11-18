@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Increases the armor of the holder by 1."
         }
-    ]
+    ],
+    "type": "Item"
 }

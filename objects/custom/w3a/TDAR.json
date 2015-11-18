@@ -212,5 +212,6 @@
             "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Demonicus marks his target unit for the manifestation of a Spawn of Darkness.|r|n|cff808080\"When darkness calls, you'd better pick up.\"|r|n|n|cff1e90ffThe afflicted unit cannot cast spells and will take 60 damage per second until it dies. Upon the unit's death, two Spawns of Darkness will spawn.|nUnit-Targeted - 60 second cooldown.|n|r|n|cffff5522Note:|r This ability will not work on Builders.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

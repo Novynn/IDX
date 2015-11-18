@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Switch to the previous page of the shop."
         }
-    ]
+    ],
+    "type": "Item"
 }

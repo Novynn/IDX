@@ -142,5 +142,6 @@
             "value": "Increase the health and armor of your Venomous Protectors.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

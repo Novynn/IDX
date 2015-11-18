@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Enables the Morphling's Beast form to launch Deadly spines at enemys, damaging them over time and slowing them."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -107,5 +107,6 @@
             "value": "Gives a 15% chance that an attack will stun an opponent for 1.5 seconds.|n|cffffcc00Passive",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

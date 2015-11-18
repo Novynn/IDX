@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cff808080\"The Island wasn't always like this...\"|r|n|cffffcc00An easy introduction quest to get you started|r|n|n|cffffcc00Difficulty:|r Easy|n|cffffcc00Time:|r Moderate|n|cffffcc00Reward:|r 5 Gold|n|n|cff1e90ffI need you to collect some water samples for me.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -222,5 +222,6 @@
             "type": 3,
             "value": "The ultimate tower for any Murlocs' defense. Not only does it do incredible damage, but it also has an ability that can heal allied units, including structures. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff00ffffWhile being held as an item it provides the hero with +10 to all stats and +20 damage.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

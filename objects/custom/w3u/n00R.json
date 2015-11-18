@@ -157,5 +157,6 @@
             "type": 3,
             "value": "Summon Tauren Guard"
         }
-    ]
+    ],
+    "type": "Unit"
 }

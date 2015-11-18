@@ -44,5 +44,6 @@
             "value": "Gives a 20% percent chance to avoid an attack.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Allows your hunter to create a cloud of radiation that poisons an area. The poisonious gases decreases enemy units armor by <A0ED,DataC1>; while dealing <A0ED,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets."
         }
-    ]
+    ],
+    "type": "Unit"
 }

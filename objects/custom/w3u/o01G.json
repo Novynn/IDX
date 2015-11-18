@@ -32,5 +32,6 @@
             "type": 3,
             "value": "mechanical,ward"
         }
-    ]
+    ],
+    "type": "Unit"
 }

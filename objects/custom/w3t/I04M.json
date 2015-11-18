@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Use this item to rebuild your Tavern.|n|cffffd700|n|cffff4500|nDouble-right click on this item to convert it into it's ability form.|r|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

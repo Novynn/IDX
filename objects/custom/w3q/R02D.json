@@ -296,5 +296,6 @@
             "value": "Grants the Morphling Warrior bonus armour.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

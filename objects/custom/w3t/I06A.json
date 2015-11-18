@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Increases the Hero's rate of mana regeneration by 120% and adds 600 mana when worn."
         }
-    ]
+    ],
+    "type": "Item"
 }

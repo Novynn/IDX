@@ -121,5 +121,6 @@
             "value": "|cffff0bffTitan info goes here!|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

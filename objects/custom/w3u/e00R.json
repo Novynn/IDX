@@ -172,5 +172,6 @@
             "type": 3,
             "value": "Also refered to as a Research Center, this building provides you with first level upgrades.|n|cff808080Build this to get upgrades that greatly increase your chances of survival. With this, you can upgrade your walls and learn basic spells.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 5 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build this in a safe place."
         }
-    ]
+    ],
+    "type": "Unit"
 }

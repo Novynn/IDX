@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit is under the effects of Soul Burn; it's mana is being drained periodically."
         }
-    ]
+    ],
+    "type": "Buff"
 }

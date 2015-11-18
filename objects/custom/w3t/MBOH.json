@@ -107,5 +107,6 @@
             "type": 3,
             "value": "The bones of a Titanous Minion.These bones, when held by a Hero, increases the stats of the holder by 5. If held by a normal unit, it will get additonal armor and attack damage. These cannot be destroyed or picked up by the Titan or his minions."
         }
-    ]
+    ],
+    "type": "Item"
 }

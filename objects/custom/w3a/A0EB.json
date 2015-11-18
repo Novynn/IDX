@@ -58,5 +58,6 @@
             "value": "This unit is channeling a portal, it is immune to damage.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

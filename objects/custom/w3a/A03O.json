@@ -100,5 +100,6 @@
             "value": "Calls forth a cone of lightning on a target enemy unit, hitting up to 5 enemy units dealing 200 damage to each.|n|cffffcc00Unit-Targetted -- 60 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

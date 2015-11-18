@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Transforms into spirit that can see invisible units, but cannot attack. The spirit lasts 8 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

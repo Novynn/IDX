@@ -58,5 +58,6 @@
             "value": "Gives an additional 10 mana per second regeneration to nearby friendly structures.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Allows the Tauren to cast Bloodlust on his towers. This ability causes the targeted tower to attack 50% faster for 60 seconds. Adds 50 mana to Taurens Pool"
         }
-    ]
+    ],
+    "type": "Unit"
 }

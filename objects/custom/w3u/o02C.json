@@ -327,5 +327,6 @@
             "type": 3,
             "value": "The Draenei's ultimate defensive tower.|n|cff808080These towers deal average damage early-game. Late-game however, they can use mana to enhance the damage.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 45 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r0.8s"
         }
-    ]
+    ],
+    "type": "Unit"
 }

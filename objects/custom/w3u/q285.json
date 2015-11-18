@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Upgrades the Magnataurs Polar Wrath, giving an extra 400 hp, 5 armor and increasing the duration of the effect to 120 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has been Enfeebled; its attack rate and movement speed are slowed."
         }
-    ]
+    ],
+    "type": "Buff"
 }

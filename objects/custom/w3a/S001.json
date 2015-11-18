@@ -30,5 +30,6 @@
             "value": "Causes nearby morphling harvesters to run into the Burrow so that they can defend their base.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

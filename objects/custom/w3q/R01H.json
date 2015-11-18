@@ -121,5 +121,6 @@
             "value": "Allows the Magnataur to summon an Abominable Snowman to aid him in battle.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

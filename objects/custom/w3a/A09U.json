@@ -72,5 +72,6 @@
             "value": "Abilities\\Spells\\Items\\VampiricPotion\\VampPotionCaster.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

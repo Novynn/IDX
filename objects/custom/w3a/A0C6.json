@@ -107,5 +107,6 @@
             "value": "Creates a duplicate of the target, which lasts 15 seconds. The duplicate unit deals 50% of the originals damage, and takes 3x more damage. Duplicate units cannot use active abilities or items.|n|n|cffff5522Note:|r When used on Morphling's Beast form, it will show a Morphling Warrior. This is a known issue with no current work-around.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

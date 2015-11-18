@@ -205,5 +205,6 @@
             "value": "Further upgrades your Barrel of Explosives to do additional damage when they explode.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

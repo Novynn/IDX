@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Gives the Magnataur the power to call forth a blizzard."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -77,5 +77,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r|n|n|cffffcc00A mystical rod full of negative power, that can fire off bolts of energy at enemy units.|r|n|cff1e90ff    On use: hits the targeted unit for 180 spell damage. Has a range of 700.|n|nUnit-Targeted - 120 second cooldown.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

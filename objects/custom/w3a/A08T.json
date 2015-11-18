@@ -37,5 +37,6 @@
             "value": "Abilities\\Spells\\Human\\ControlMagic\\ControlMagicTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -79,5 +79,6 @@
             "value": "Abilities\\Spells\\Other\\Incinerate\\IncinerateBuff.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

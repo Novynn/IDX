@@ -100,5 +100,6 @@
             "value": "Gives 10 additional armor to nearby friendly units and structures.|n|cffffcc00Passive aura - 500 range.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

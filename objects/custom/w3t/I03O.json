@@ -47,5 +47,6 @@
             "type": 3,
             "value": "Reveals enemy invisible units in an area around the user.|nContains 2 charges. |nLasts 5 seconds."
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -121,5 +121,6 @@
             "value": "Break the wheel lock on the catapult, allowing it to move around.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

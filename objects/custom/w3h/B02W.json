@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has under the effects of radiation poisoning.  It has reduced armor, movement speed, attack speed and is being damaged over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

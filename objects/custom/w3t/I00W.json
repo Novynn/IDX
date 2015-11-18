@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Creates a Stasis at a target location. Also makes the holders attacks have a 15% chance to stun an enemy for 1 second."
         }
-    ]
+    ],
+    "type": "Item"
 }

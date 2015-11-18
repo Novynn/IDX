@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Gives the Makrura and her structures the ability to see as far at night as they do during the day."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -226,5 +226,6 @@
             "value": "Allows the Faerie Dragon to cast Inner Fire on his buildings. This ability increases the attack damage of targeted buildings by 100% for 60 seconds. It can be cast on up to 10 buildings max.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

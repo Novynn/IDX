@@ -121,5 +121,6 @@
             "value": "Launchs a poisoned spine at an enemy, 75 damage per second. The poison slows the attack rate and movement speed of the enemy for a short duration. Lasts 3 seconds. |n|cffffcc00Unit-Targeted -- 45 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -257,5 +257,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. This tower has the ability to morph energy into duplicates of friendly units that can attack. This tower also has the ability to transmute into an item. |c00ff0080While being held as an item, it provides the holder with +25 damage and the ability to use the towers energy to create a duplicate of the holder.|r|n|n|cffff5522Note:|r When used on Morphling's Beast form, it will show a Morphling Warrior. This is a known issue with no current work-around."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -37,5 +37,6 @@
             "value": "air,enemies,ground",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

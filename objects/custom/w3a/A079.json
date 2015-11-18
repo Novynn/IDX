@@ -107,5 +107,6 @@
             "value": "Reduces a target enemy unit's attack rate and damage by 15%. |nLasts 12 seconds.|n|cffffcc00Unit-Targeted -- 130 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

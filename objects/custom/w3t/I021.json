@@ -77,5 +77,6 @@
             "type": 3,
             "value": "Allows the holder to throw magical hammers at enemy titans every 2 minutes. It has a range of 800, deals 200 damage, and stuns for 3 seconds.|n|cffffd700Requires:|r 3 Eggs, 1 Trident"
         }
-    ]
+    ],
+    "type": "Item"
 }

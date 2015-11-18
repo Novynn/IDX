@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Magic Mushroom at a target location. Also makes the holder degenerate nearby enemy units mana over time."
         }
-    ]
+    ],
+    "type": "Item"
 }

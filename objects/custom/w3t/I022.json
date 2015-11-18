@@ -107,5 +107,6 @@
             "type": 3,
             "value": "This massive egg is seemingly worthless. Or is it... It's magical consistency would be perfect for making powerful items. If only you had the right help..."
         }
-    ]
+    ],
+    "type": "Item"
 }

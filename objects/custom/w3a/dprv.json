@@ -30,5 +30,6 @@
             "value": "(Damage System)",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

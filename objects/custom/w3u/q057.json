@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Allows you to build Tauren's final defensive tower tier, the |cffff0000Mega Totem Tower|r."
         }
-    ]
+    ],
+    "type": "Unit"
 }

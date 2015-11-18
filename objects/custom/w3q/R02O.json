@@ -58,5 +58,6 @@
             "value": "Gives the Makrura and her structures the ability to see as far at night as they do during the day.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

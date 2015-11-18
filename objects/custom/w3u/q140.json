@@ -137,5 +137,6 @@
             "type": 3,
             "value": "Grants the Morphling 4 bonus armour in all forms."
         }
-    ]
+    ],
+    "type": "Unit"
 }

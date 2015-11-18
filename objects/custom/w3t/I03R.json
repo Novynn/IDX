@@ -52,5 +52,6 @@
             "type": 3,
             "value": "Increases the armor of the Hero by 1.|n|cffff4500Collect 3 of these and they will combine to form a Shield of Fate.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

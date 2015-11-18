@@ -72,5 +72,6 @@
             "value": "Abilities\\Weapons\\FarseerMissile\\FarseerMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

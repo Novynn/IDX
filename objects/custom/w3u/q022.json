@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Empowers the Demonologist with the capacity to send a horde of bats at the target location; damaging enemy units caught in their path."
         }
-    ]
+    ],
+    "type": "Unit"
 }

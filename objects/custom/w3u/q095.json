@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Permenently increases the mana of your Builder by 50."
         }
-    ]
+    ],
+    "type": "Unit"
 }

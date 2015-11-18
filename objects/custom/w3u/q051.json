@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increases the amount of lumber that harvesters obtain per interval by 2"
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -107,5 +107,6 @@
             "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Drowns attacked units, slowing them down as they suffocate.|r|n|cff808080\"You should've learnt how to swim.\"|r|n|n|cff1e90ffA drowning attack that slows the target enemy's movement by <TLAS,DataB1,%>% for <TLAS,Dur1> seconds.|nPassive.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

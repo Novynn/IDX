@@ -450,5 +450,6 @@
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Causes frost to erupt from the ground, damaging and slowing units caught in the blast.|r|n|n|cff1e90ffDeals 180 damage to units caught in the blast, and also slows their movement speed by 40% for 4 seconds.|n|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

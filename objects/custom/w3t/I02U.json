@@ -97,5 +97,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8000Medium|r|n|n|cffffcc00Nuke:|r |cff00ff00Cyclone (Low damage, throws enemy units into the air)|n|r|n|cffffcc00Heal:|r |cff00ff00Rejuvinating rains (Heals damage over time)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Soul Storm (Increases attackspeed by 100% for a limited time.)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Wind. Good all round. Unpredictable scout and mana intensive but has powerful abilities that are deadly when combined.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Hurls forth a stream of neutralizing magic that bounces up to 5 times, dispelling any unit in its wake.|n|n|cffff5522Note:|r If you target an ally, it will only bounce to allies. If you target an enemy, then it will only bounce to enemies."
         }
-    ]
+    ],
+    "type": "Item"
 }

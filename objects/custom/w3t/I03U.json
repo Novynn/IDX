@@ -37,5 +37,6 @@
             "type": 3,
             "value": "Provides an increase to the holder's line of sight radius at night when carried."
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -132,5 +132,6 @@
             "type": 3,
             "value": "Upgrades all of the Magnataur's walls so that they have an additional 50 hit points. Also allows you to upgrade your walls to Artic Glaciers."
         }
-    ]
+    ],
+    "type": "Unit"
 }

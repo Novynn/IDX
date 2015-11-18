@@ -107,5 +107,6 @@
             "value": "Gives a 25% chance that an attack will deal 200 damage to nearby units. |n|cffffcc00Passive",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

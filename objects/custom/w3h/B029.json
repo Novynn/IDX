@@ -22,5 +22,6 @@
             "type": 3,
             "value": "This unit is invisible; enemy units cannot see it. If it attacks or casts a spell it will become visible."
         }
-    ]
+    ],
+    "type": "Buff"
 }

@@ -121,5 +121,6 @@
             "value": "Gives 1.5 additional mana regeneration to nearby Feral Towers.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -79,5 +79,6 @@
             "value": "Increasing the rate in which your Feral Towers grow.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

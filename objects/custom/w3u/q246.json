@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Further surrounds Troll walls and towers with spikes that damage enemy melee attackers. Deals 20 additional damage per attack.|nAlso slightly increases the walls durability, extending 50 hit points to it."
         }
-    ]
+    ],
+    "type": "Unit"
 }

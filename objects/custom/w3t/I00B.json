@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Increases damage by 10 and attack rate by 10%."
         }
-    ]
+    ],
+    "type": "Item"
 }

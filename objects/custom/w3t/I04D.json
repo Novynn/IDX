@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Grants complete spell immunity to the holder."
         }
-    ]
+    ],
+    "type": "Item"
 }

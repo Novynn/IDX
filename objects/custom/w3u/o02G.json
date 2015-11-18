@@ -207,5 +207,6 @@
             "type": 3,
             "value": "The Box of Pyros emits a lethal aura, This Aura weakens nearby enemies armor and burns their health and mana.|nWhen held as an item, it deals damage to nearby enemies. Also provides the holder with +20 attack damage."
         }
-    ]
+    ],
+    "type": "Unit"
 }

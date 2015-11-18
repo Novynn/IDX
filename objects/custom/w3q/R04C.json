@@ -72,5 +72,6 @@
             "value": "Enables your hunter to Pulverize your enemy, stunning them for a short period of time.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

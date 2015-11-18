@@ -9,5 +9,6 @@
             "value": "air,allies,friend,ground,invulnerable,organic,vulnerable",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

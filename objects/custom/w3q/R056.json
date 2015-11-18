@@ -107,5 +107,6 @@
             "value": "Allows the Dryad to use her Thorns Aura ability.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

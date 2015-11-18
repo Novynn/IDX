@@ -107,5 +107,6 @@
             "value": "Add another cannon to your arsenal, allowing the ability to target two enemies at once.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

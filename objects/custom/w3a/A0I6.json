@@ -86,5 +86,6 @@
             "value": "Gives 5 additional armor to nearby friendly units and structures.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

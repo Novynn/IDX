@@ -2,5 +2,6 @@
     "base": "Bblo",
     "id": "B01D",
     "mods": [
-    ]
+    ],
+    "type": "Buff"
 }

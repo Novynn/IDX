@@ -58,5 +58,6 @@
             "value": "enemies",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

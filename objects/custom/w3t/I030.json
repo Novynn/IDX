@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Increases the Titan's attack damage by 35, strength by 10 and movement speed by 80. Also grants the holder the Domination aura, which increases the attack damage of nearby units by 15%."
         }
-    ]
+    ],
+    "type": "Item"
 }

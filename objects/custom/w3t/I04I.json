@@ -57,5 +57,6 @@
             "type": 3,
             "value": "Reduces Magic damage dealt to the builder by 25%.|n|cffffd700Requires:|r 1 Titan Egg, 2 Armored Scales"
         }
-    ]
+    ],
+    "type": "Item"
 }

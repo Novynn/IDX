@@ -17,5 +17,6 @@
             "type": 3,
             "value": "This unit has 50% bonus hp regen."
         }
-    ]
+    ],
+    "type": "Buff"
 }

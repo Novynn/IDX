@@ -107,5 +107,6 @@
             "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Shocks attacked units, slowing them down as they are electrocuted.|r|n|n|cff1e90ffA shocking attack that slows the target enemy's movement by <TLAS,DataB1,%>% for <TLAS,Dur1> seconds.|nPassive.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

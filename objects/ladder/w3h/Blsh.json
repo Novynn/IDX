@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit is charged with damaging energy; nearby enemy units will take damage."
         }
-    ]
+    ],
+    "type": "Buff"
 }

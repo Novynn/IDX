@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8040Medium|r|n|n|cffffcc00Escape Abilities: |r|cff00ff00Mana Shield, Portal|r|cffffcc00|n|nDescription:|r |cff0080ffAn average builder who utilizes mana to synergize his units and structures. Summons all of his units directly. The Draenei can create a formidable army or base, making it a versatile race. Walls and towers are weak unless supplemented with mana.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -42,5 +42,6 @@
             "type": 3,
             "value": "This unit is under the effects of Fiery Wrath; it will deal periodic damage over time to nearby enemy units."
         }
-    ]
+    ],
+    "type": "Buff"
 }

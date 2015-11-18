@@ -77,5 +77,6 @@
             "type": 3,
             "value": "Creates an Island Bloom at the target location. Also provides it's holder with a slowing Bloom Aura and gives a +5 armor boost."
         }
-    ]
+    ],
+    "type": "Item"
 }

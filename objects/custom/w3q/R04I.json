@@ -191,5 +191,6 @@
             "value": "Increases the movement speed of your Titan Hunter by 20, hit points by 300, adds an incendiary effect to your attack, and enables auxiliary cannons.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

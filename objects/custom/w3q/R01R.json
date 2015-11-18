@@ -177,5 +177,6 @@
             "value": "Increases the movement speed of the hunter by 60, range by 200, and allows the hunter to use the Atomic Split ability.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

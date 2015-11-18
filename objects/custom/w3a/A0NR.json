@@ -65,5 +65,6 @@
             "value": "invulnerable,self,vulnerable",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

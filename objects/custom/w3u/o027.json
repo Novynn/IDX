@@ -302,5 +302,6 @@
             "type": 3,
             "value": "The Gnoll's incomparable defensive tower.|n|cff808080Useful towers with average attack damage. Slowing poison however make these towers excel all the others. Most effective in large numbers.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 55 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r0.85s"
         }
-    ]
+    ],
+    "type": "Unit"
 }

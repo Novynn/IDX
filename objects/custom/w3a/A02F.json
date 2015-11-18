@@ -121,5 +121,6 @@
             "value": "Binds the target unit to the Troll using mystical voodoo. Whenever the Troll is attacked, the damage will be transferred to any units currently under the Troll's voodoo instead. Lasts 5 minutes or until the bound unit dies.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

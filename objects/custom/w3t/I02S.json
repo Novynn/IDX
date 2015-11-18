@@ -72,5 +72,6 @@
             "type": 3,
             "value": "The Berserker Gem increases attack speed by 25%, damage by 20, and grants the Berserk ability, giving all nearby units +30% attack for 25 seconds.|n|cffffaa00This item is passable.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

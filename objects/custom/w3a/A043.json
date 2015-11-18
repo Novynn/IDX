@@ -72,5 +72,6 @@
             "value": "Slows the movement speed of any nearby enemy units in an area of 350.|n|cffffcc00Passive.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -107,5 +107,6 @@
             "value": "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

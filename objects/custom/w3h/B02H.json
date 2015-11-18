@@ -57,5 +57,6 @@
             "type": 3,
             "value": "This unit is caught noxious gasses; it will take damage over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

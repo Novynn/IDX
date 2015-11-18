@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has gained bonus mana regeneration."
         }
-    ]
+    ],
+    "type": "Buff"
 }

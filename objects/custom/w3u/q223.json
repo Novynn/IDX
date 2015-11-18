@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increase the health and armor of your Venomous Protectors."
         }
-    ]
+    ],
+    "type": "Unit"
 }

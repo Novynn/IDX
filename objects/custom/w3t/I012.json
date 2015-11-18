@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Panic, Teleport|n|n|r|cffffcc00Description:|r |cff0080ffGood beginner builder requiring no gold to start making defenses.  Average walls--Good Towers; very good late game.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit is under the effects of Fart Cloud; it has increased armor."
         }
-    ]
+    ],
+    "type": "Buff"
 }

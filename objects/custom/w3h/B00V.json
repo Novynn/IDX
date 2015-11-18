@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has Hypothermia; it has reduced armor and can be seen by the enemy for 3 seconds."
         }
-    ]
+    ],
+    "type": "Buff"
 }

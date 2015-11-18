@@ -107,5 +107,6 @@
             "type": 3,
             "value": "Allows the holder to blend into the background and become invisible. Also provides the holder with additional health and mana regeneration."
         }
-    ]
+    ],
+    "type": "Item"
 }

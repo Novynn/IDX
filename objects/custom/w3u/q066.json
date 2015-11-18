@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the attack range of your Factories by 300 and attack damage by 5."
         }
-    ]
+    ],
+    "type": "Unit"
 }

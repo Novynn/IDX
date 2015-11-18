@@ -67,5 +67,6 @@
             "type": 3,
             "value": "|cfff0bfffThese claws are wreathed in flames, burning any structure you attack for 10 damage for 5 seconds. Also adds an additional 15 attack damage.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

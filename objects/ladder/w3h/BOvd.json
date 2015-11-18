@@ -12,5 +12,6 @@
             "type": 3,
             "value": "This unit is under the effects of Death Shield, and is invulnerable."
         }
-    ]
+    ],
+    "type": "Buff"
 }

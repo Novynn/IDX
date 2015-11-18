@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Grants the Demonologist with the ability to enchant stones with life essence, creating an item that heals the user for 125 hp."
         }
-    ]
+    ],
+    "type": "Unit"
 }

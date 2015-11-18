@@ -100,5 +100,6 @@
             "value": "The Satyr is well versed in the art of stealth, and his skill allows him to simply fade into the background when not performing actions. 1.5 second fade time.|n|cffffcc00Passive.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Ability"
 }

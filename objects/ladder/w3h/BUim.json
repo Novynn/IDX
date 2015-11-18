@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has been cycloned; it is in the air for a short duration."
         }
-    ]
+    ],
+    "type": "Buff"
 }

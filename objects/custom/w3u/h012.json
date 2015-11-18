@@ -227,5 +227,6 @@
             "type": 3,
             "value": "The Goblins's ultimate defensive tower.|n|cff808080These towers have high damage and a quick speed which makes them very effective. Splash damage is very useful when versing multiple enemies!|r|n|n|cffffcc00Health:|r 500|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 55 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r0.85s"
         }
-    ]
+    ],
+    "type": "Unit"
 }

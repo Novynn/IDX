@@ -79,5 +79,6 @@
             "value": "Abilities\\Weapons\\FrostWyrmMissile\\FrostWyrmMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

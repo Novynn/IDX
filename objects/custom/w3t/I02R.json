@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a floating sentry that can fly and moves slowly. Lasts for 360 seconds."
         }
-    ]
+    ],
+    "type": "Item"
 }

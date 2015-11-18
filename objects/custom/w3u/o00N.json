@@ -237,5 +237,6 @@
             "type": 3,
             "value": "The ultimate Markura Defense. This watery anomaly drenches titans with freezing water causing their movement speed to be reduced. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFF005AFFWhile being held as an item, it causes the hero to automatically spew damaging waves of water onto enemy units at an incredible rate. It will also provide the holder with +20 damage.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

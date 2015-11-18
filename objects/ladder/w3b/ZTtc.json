@@ -12,5 +12,6 @@
             "type": 0,
             "value": "1"
         }
-    ]
+    ],
+    "type": "Destructable"
 }

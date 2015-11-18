@@ -97,5 +97,6 @@
             "type": 3,
             "value": "Randomly transmutes an Ultimate Tower into a new one.|n|cffffd700Requires: |rAny Ultimate Tower (in item form), 1 Titan Egg"
         }
-    ]
+    ],
+    "type": "Item"
 }

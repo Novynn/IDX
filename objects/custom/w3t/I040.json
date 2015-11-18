@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Gives the Titan an aura of command that increases nearby allied units attack damage. Also grants the holder +10 strength."
         }
-    ]
+    ],
+    "type": "Item"
 }

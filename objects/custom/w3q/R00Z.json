@@ -128,5 +128,6 @@
             "value": "Increases the attack damage of Spear Throwers by 30, and movement speed by 20%.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

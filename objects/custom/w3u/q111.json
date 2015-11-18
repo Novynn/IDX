@@ -132,5 +132,6 @@
             "type": 3,
             "value": "Improves the Satyr's weapon, causing it to deal 25 extra damage and reduce the armour of damaged units by 2 for two seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

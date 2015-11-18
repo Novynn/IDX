@@ -93,5 +93,6 @@
             "value": "Causes the Demonologist to be able to link demons' spirits together; distributing damage amongst them.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

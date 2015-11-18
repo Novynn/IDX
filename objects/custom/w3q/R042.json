@@ -65,5 +65,6 @@
             "value": "Enables you to convert Mana Voids into Battle Constructs. These melee fighters have a protective mana shield.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

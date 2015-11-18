@@ -16,5 +16,6 @@
             "value": "Attack Speed Bounus 10%",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Creates the Crown of Thieves at a target location. Also provides 250 hp and 5 armour to the holder."
         }
-    ]
+    ],
+    "type": "Item"
 }

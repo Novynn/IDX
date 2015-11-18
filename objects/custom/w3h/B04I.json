@@ -62,5 +62,6 @@
             "type": 3,
             "value": "This unit is bloodlustin"
         }
-    ]
+    ],
+    "type": "Buff"
 }

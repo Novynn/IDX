@@ -184,5 +184,6 @@
             "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00Demonicus summons a Shade from the void to do his bidding.|r|n|cff808080\"You cannot hide from darkness.\"|r|n|n|cff1e90ffSummons an invisible Shade with True Sight for 30 seconds.|nSelf-Targeted - 55 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

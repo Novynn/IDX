@@ -107,5 +107,6 @@
             "value": "Silence enemies for 3 seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

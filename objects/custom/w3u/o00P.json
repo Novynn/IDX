@@ -212,5 +212,6 @@
             "type": 3,
             "value": "The ultimate tower for any Gnolls' defense. This tower packs quite a punch, It has an attack that deals 130 chaos damage, and also has 2 secondary weapons so it can attack more than 1 unit at a time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |c0000ff40While being held as an item, it causes the hero to shoot deadly projectiles at enemy units and adds +10 to damage.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

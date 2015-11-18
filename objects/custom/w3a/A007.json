@@ -72,5 +72,6 @@
             "value": "Objects\\Spawnmodels\\NightElf\\NECancelDeath\\NECancelDeath.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

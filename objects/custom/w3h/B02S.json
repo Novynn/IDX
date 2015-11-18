@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit is producing a Heroic Aura. Half of the damage taken by nearby friendly units will be redirected against this unit instead."
         }
-    ]
+    ],
+    "type": "Buff"
 }

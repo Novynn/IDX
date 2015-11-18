@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Enables your hunter to Pulverize your enemy, stunning them for a short period of time."
         }
-    ]
+    ],
+    "type": "Unit"
 }

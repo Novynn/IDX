@@ -222,5 +222,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. This tower also has the ability to cast 4 spells; Bloodlust, Frost Armor, Mana Burn, and heal. |cff0054a6While being held as an item, it causes the hero's attacks to drain mana from enemies. Also provides the holder with +30 damage.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

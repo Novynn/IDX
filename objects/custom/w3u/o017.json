@@ -227,5 +227,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. The Light Energy Tower has the ability to cast Healing Ray onto nearby friendly structures. This ray will heal up to 3 targets for 200 hit points each. This tower also has the ability to transmute into an item so that it may be moved to a different location.|cff5f9ea0While being held as an item, it gives the holder +50% hit point regeneration and + 10 to armor.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Upgrades ships cannon balls to be coated with a incendiary.  By itself it does nothing but, if the enemy destroys your Barrel of Explosives with the incendiary on them the damage will be greatly enhanced."
         }
-    ]
+    ],
+    "type": "Unit"
 }

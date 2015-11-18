@@ -77,5 +77,6 @@
             "type": 3,
             "value": "Calls forth a Furbolg Shaman that has multiple abilities such as healing and temporarily increasing the attack speed of friendly units. Last for 75 seconds.|n|n4 minute cooldown."
         }
-    ]
+    ],
+    "type": "Item"
 }

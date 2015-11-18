@@ -132,5 +132,6 @@
             "type": 3,
             "value": "Allows the Demonologist to bind summoned demons to himself, allowing them to stay in the physical world for longer. Increases duration of all normal summoned demons to 75 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

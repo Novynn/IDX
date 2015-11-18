@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit's attack is disabled."
         }
-    ]
+    ],
+    "type": "Buff"
 }

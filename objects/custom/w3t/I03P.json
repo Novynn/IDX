@@ -77,5 +77,6 @@
             "type": 3,
             "value": "Increases armor by +2 and hit points by 150."
         }
-    ]
+    ],
+    "type": "Item"
 }

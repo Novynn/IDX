@@ -307,5 +307,6 @@
             "type": 3,
             "value": "A highly skilled Titan Hunter. The Hunter is able to collect the bones of fallen Titans and their minions to increase his level. The Hunter requires a lot of lumber and time to revive... Do not let him die."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Creates an |cff99b4d1Energy Spire|r at a target location. Also provides +35 damage to the holder."
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -97,5 +97,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff0000Hard|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Panic, Wind Walk|n|n|r|cffffcc00Description:|r |cff0080ffA difficult to play builder requiring some gold to build miniature armies and a large sum of gold to construct a base.  Good race for people with good micro-management.  Can build structures while invisible. One of the strongest titan hunters in the game.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

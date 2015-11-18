@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Creates an |cef0054a6Ultimate Structure|r at the target location.|n|n|cffff0000Warning!|r Don't cancel this while it is rebuilding or you will lose the item for good."
         }
-    ]
+    ],
+    "type": "Item"
 }

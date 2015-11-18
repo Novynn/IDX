@@ -77,5 +77,6 @@
             "type": 3,
             "value": "When bought, empowers all nearby friendly units in a small area of 500 with +100% damage for 5 seconds."
         }
-    ]
+    ],
+    "type": "Item"
 }

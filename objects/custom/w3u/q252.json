@@ -112,5 +112,6 @@
             "type": 3,
             "value": "Enables the Demonologist to summon a Fel Hound and a Demonic Arachnathid."
         }
-    ]
+    ],
+    "type": "Unit"
 }

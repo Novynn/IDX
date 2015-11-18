@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Increases the movement speed over land by 40 when worn.|n|cffed1c24Does not stack.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

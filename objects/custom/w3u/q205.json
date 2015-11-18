@@ -112,5 +112,6 @@
             "type": 3,
             "value": "A highly skilled Titan Hunter. The Hunter is able to kill the Titan and his minions in order to increase his level. This particular type of hunter is very effective at scouting due to its flying capabilities. With expert training this hunter  adds another cannon to its attack, allowing it to target two enemies at once."
         }
-    ]
+    ],
+    "type": "Unit"
 }

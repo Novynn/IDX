@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00Ancient armor, told to change the fate of the wearer. |r|n|cff1e90ff    +10 Armour|n    +5% Evasion (Does not stack)|n    When attacked: 50% chance to reduce damage taken by 8, capped so that you will always take at least 5 damage.|n|nPassive.|r|n|n|cffffd700Requires:|r|n  3x Shield of Fate|n  1x Armor of Fate Recipe"
         }
-    ]
+    ],
+    "type": "Item"
 }

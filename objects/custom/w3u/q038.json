@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Increase the effectiveness of the sap on the venom on your Spear Throwers and Venomous Protectors."
         }
-    ]
+    ],
+    "type": "Unit"
 }

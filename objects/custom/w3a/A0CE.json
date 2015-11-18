@@ -100,5 +100,6 @@
             "value": "Gives the Ogre a 15% chance to afflict a unit with soul burn on each attack. Enemy units afflicted with soul burn are wreathed in magical flames which cause 100 damage per second, prevent the casting of spells, and reduces their movement speed by 25%.|nLasts 4 seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

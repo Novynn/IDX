@@ -167,5 +167,6 @@
             "type": 3,
             "value": "Also refered to as a Food Source, this building provides food for towers and harvesters.|n|cff808080Each cage provides 25 food. Monkeys inside the cage will throw fruit at nearby enemies, resulting in a weak attack.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 20 Pierce|n|cffffcc00Attack Range:|r 700|n|cffffcc00Attack Speed:|r Fast|n|n|cffff0000Note:|r You only need 6 of these. You can also destroy them once your food limit is reached to prevent feeding."
         }
-    ]
+    ],
+    "type": "Unit"
 }

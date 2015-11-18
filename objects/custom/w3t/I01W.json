@@ -87,5 +87,6 @@
             "type": 3,
             "value": "Fills Titans with vitality, replenishing 1000 hp in an 750 AoE over 20 seconds when used. Also provides a regenerative aura for all nearby titans. |n|cffffd700Requires:|r 2 Regenerative Spines, Magic Coral, Greater Replenishment Flask & Recipe"
         }
-    ]
+    ],
+    "type": "Item"
 }

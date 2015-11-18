@@ -107,5 +107,6 @@
             "value": "The builder quickly fades into the background becoming invisible for 10 seconds and also adding a slight increase to movement speed.  Attacking an enemy while hidden will do an additional 250 Damage|n|cffff0000Activated |r-- 80 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

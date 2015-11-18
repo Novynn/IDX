@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Allows the Ogre to enter a state of lust for blood, giving him +200 hit points, +5 armor, 50% magic resistance, and armor type of fortified for 15 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

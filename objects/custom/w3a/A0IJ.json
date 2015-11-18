@@ -121,5 +121,6 @@
             "value": "Hurls a bolt of lightning that bounces up to 3 times, dealing 115 damage to the primary target. Each jump deals less damage.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

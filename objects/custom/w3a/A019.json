@@ -30,5 +30,6 @@
             "value": "enemy",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

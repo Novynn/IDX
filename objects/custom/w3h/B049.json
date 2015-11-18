@@ -52,5 +52,6 @@
             "type": 3,
             "value": "This unit is under the effects of Wind Gale; it has an increased movement speed and attack rate."
         }
-    ]
+    ],
+    "type": "Buff"
 }

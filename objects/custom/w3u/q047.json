@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Increases the maximum hit points of Stone Throwers by 200, mana by 2, damage by 20, and attack range by 250."
         }
-    ]
+    ],
+    "type": "Unit"
 }

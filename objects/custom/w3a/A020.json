@@ -93,5 +93,6 @@
             "value": "Slows a target enemy unit's movement speed by 26% for 30 seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

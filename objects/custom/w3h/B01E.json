@@ -57,5 +57,6 @@
             "type": 3,
             "value": "This unit is channeling the essence of Life; it has increased regeneration."
         }
-    ]
+    ],
+    "type": "Buff"
 }

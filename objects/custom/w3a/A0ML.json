@@ -23,5 +23,6 @@
             "value": "Receive Gold Coin",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

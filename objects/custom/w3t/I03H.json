@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00An upgrade module for Radon towers which grants additional attack speed.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |r50% faster attack speed.|n|cffffcc00Super Radon Tower: |r50% faster attack speed.|n|cffffcc00Mega Radon Tower: |r50% faster attack speed."
         }
-    ]
+    ],
+    "type": "Item"
 }

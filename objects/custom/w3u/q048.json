@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Enables you to train Ancient Mystics. These ranged support units deal a decent amount of damage and have supportive spells to assist an army."
         }
-    ]
+    ],
+    "type": "Unit"
 }

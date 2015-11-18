@@ -79,5 +79,6 @@
             "value": "Abilities\\Weapons\\IllidanMissile\\IllidanMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -72,5 +72,6 @@
             "value": "Abilities\\Weapons\\BloodElfMissile\\BloodElfMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

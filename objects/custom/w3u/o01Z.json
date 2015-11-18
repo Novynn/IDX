@@ -302,5 +302,6 @@
             "type": 3,
             "value": "The Murloc's ultimate defensive tower.|n|cff808080This tower has a strong offense in big numbers, although upgraded is better when possible. Excellent damage late-game.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 50 Pierce|n|cffffcc00Attack Range:|r 1000|n|cffffcc00Attack Cooldown: |r0.85s"
         }
-    ]
+    ],
+    "type": "Unit"
 }

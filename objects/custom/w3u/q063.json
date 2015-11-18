@@ -122,5 +122,6 @@
             "type": 3,
             "value": "This upgrade allows the Magnataur to unleash his ultimate ability on unsuspecting titans. When under the influence of Polar Wrath, the magnataur will be granted an additional 600 hit points, +50 bonus damage, and spell immunity. |nNote: You may not gather Gold while in Polar Wrath form."
         }
-    ]
+    ],
+    "type": "Unit"
 }

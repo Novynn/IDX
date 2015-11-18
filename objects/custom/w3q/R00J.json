@@ -198,5 +198,6 @@
             "value": "Increases your Ancient Mystics mana capacity and regeneration. Also increases the effectiveness of their spells.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

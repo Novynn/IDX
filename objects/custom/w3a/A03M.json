@@ -30,5 +30,6 @@
             "value": "air,ground,item,structure",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -86,5 +86,6 @@
             "value": "Slams the ground, dealing 175 damage to nearby enemy land units and stunning them for 1 second. |n|cffffcc00Activated -- 25 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

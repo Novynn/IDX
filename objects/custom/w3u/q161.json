@@ -132,5 +132,6 @@
             "type": 3,
             "value": "Raises the Satyr's combat prowness to a higher state, allowing him to avoid fatal blows and hit enemy weak points. Improves the Satyr's Shadow Dash and gives 8% evasion and a 10% chance to deal 2x damage."
         }
-    ]
+    ],
+    "type": "Unit"
 }

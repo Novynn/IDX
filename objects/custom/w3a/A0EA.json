@@ -142,5 +142,6 @@
             "value": "A poison attack that deals 4 damage per second  and slows attack speed by 10% and move speed by 25%. Lasts 3 seconds.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

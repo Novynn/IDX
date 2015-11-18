@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8040Medium|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Charge, Enfeeble|n|n|cffffcc00Description:|r |cff0080ffA strong builder with offensive and defensive capabilities.  Requires a small amount of gold to build a base.  Towers do a massive amount of damage, but take up 4 times as much space as any other builder's.  Weak walls late game. This race has no titan hunter.  Many upgrades available to unlock abilties and increase the builder's combat strength.  Very effective base support unit and offensive unit with gold.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

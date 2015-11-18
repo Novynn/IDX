@@ -380,5 +380,6 @@
             "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Bubonicus consumes one of his held corpses, healing himself and his nearby allies while also driving them into a feeding frenzy. If Bubonicus has no corpses, he will instead consume some of his own flesh which will damage himself while healing others nearby. Doing so however, will not grant the frenzy bonus for himself. |r|n|n|cff1e90ffHeals you and your nearby allies for 800 health.|r|n|cff1e90ffWhen under a feeding frenzy, units have their movespeed increased by 20% and their attack speed by 40% for 8 seconds|r|n|n|cff1e90ffSelf-Targeted - 1.2 second cooldown.|r",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Ability"
 }

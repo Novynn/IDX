@@ -86,5 +86,6 @@
             "value": "An aura that gives friendly nearby ranged units a 10% bonus to their attack damage. This aura works on units and structures.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

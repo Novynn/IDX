@@ -112,5 +112,6 @@
             "type": 3,
             "value": "Allows the Faerie Dragon to cast Mana Flare. This is a channeled ability that deals 0.6 damage to nearby enemy titans for any mana point used when casting spells."
         }
-    ]
+    ],
+    "type": "Unit"
 }

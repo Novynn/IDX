@@ -142,5 +142,6 @@
             "value": "Creates a cloud of radiation, poisoning everything in the area.  The poisonious gases decreases enemy units armor by <A0ED,DataC1>; while dealing <A0ED,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.  |nLasts <A0ED,Dur1> seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

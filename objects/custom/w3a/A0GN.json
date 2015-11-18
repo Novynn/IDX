@@ -16,5 +16,6 @@
             "value": "(+20 Strength)",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

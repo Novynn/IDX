@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Sludge Launcher at a target location. Also makes the holder's attacks slow the movement speed and attack rate of enemies."
         }
-    ]
+    ],
+    "type": "Item"
 }

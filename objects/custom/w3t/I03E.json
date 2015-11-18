@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00An upgrade module for Radon towers which adds mana burn to every attack.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |r5 mana burned on each enemy attacked.|n|cffffcc00Super Radon Tower: |r10 mana burned on each enemy attacked.|n|cffffcc00Mega Radon Tower: |r15 mana burned on each enemy attacked."
         }
-    ]
+    ],
+    "type": "Item"
 }

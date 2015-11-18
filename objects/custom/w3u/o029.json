@@ -197,5 +197,6 @@
             "type": 3,
             "value": "Also refered to as an Advanced Research Center, this building provides you with tier two upgrades.|n|cff808080Build this to get advanced upgrades that greatly increase your chances of survival.|r|n|n|cffffcc00Health:|r 600|n|cffffcc00Armor:|r 10 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r You should only build this in a safe base."
         }
-    ]
+    ],
+    "type": "Unit"
 }

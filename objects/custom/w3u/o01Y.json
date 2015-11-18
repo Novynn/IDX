@@ -257,5 +257,6 @@
             "type": 3,
             "value": "This mechanical stink trap packs more than a punch. Not only does it do incredible splash damage with a distance of 2000, but it also drops a cloud of stench on whoever it attacks.  Any titan that breaths in these fumes will take a minimum of 50 damage a second for 5 seconds. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFF8C6239While being held as an item, the holder will be covered in noxious fumes that deal 50 damage a second to nearby enemy units."
         }
-    ]
+    ],
+    "type": "Unit"
 }

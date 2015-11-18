@@ -97,5 +97,6 @@
             "type": 3,
             "value": "A mystical stone that allows the holder to teleport a short distance of 600, allowing it to escape the Titan or its Minions."
         }
-    ]
+    ],
+    "type": "Item"
 }

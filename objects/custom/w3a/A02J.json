@@ -310,5 +310,6 @@
             "value": "Harvests lumber from trees.",
             "variation": 5
         }
-    ]
+    ],
+    "type": "Ability"
 }

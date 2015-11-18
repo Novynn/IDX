@@ -149,5 +149,6 @@
             "value": "|cff1e90ffThis ability gives control of the targeted Titan or Minion to |r|cff007100Dark Green|r|cff1e90ff.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

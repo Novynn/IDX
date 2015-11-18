@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Teleport, Seaweed Aura|n|n|cffffcc00Description:|r |cff0080ffExcellent beginner builder requiring no gold to start making defenses.  Workers cost 1 less food each.  Excellent walls early game--Towers have below average damage to start with but have 100 extra base range.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

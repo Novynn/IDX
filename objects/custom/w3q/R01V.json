@@ -219,5 +219,6 @@
             "value": "Fortifies your walls by giving them an additional 50 health.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

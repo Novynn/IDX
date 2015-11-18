@@ -254,5 +254,6 @@
             "value": "Sends a wave of damaging water that strikes 6 enemies with a base damage of 175 .",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

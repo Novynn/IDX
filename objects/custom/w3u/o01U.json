@@ -237,5 +237,6 @@
             "type": 3,
             "value": "A slow but powerful tower that deals amazing damage. The attacks of this tower light the ground on fire, burning enemies. This tower can also be turned into an item so that it may be moved to a different location. |c00ff8040While being held it provides the hero with +25 damage as well as a firey aura that burns nearby titans.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

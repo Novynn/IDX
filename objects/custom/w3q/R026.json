@@ -79,5 +79,6 @@
             "value": "Boosts the Magnataur's endurance, allowing for 50% bonus hp regeneration and 50 more mana.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

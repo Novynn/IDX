@@ -37,5 +37,6 @@
             "type": 3,
             "value": "Enemy units that attack this structure will take damage."
         }
-    ]
+    ],
+    "type": "Buff"
 }

@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Allows the demonologist to summon the powerful  Balthasar, a demonic Titan Hunter with the Demon Shock, and Demon Aura abilities as well as the ability to blink.|nLasts 45 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

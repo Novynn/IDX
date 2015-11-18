@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Creates a Heavy Cannon Tower at a target location. Also provides its holder with an aura that gives +15 armor to nearby friendly units, and increases the holders attack damage by +20."
         }
-    ]
+    ],
+    "type": "Item"
 }

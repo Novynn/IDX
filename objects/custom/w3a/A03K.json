@@ -16,5 +16,6 @@
             "value": "Item Reveal Entire Map (Potion of Omniscience)",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

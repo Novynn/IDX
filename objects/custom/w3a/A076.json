@@ -16,5 +16,6 @@
             "value": "Causes workers within the tower to return to work.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -121,5 +121,6 @@
             "value": "Burns right into nearby enemies souls, draining their mana periodically.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Tropical Glyph at a target location. Also provides +35 damage to the holder and gives off an aura that gives friendly nearby  ranged units and structures a 20% bonus to their attack damage."
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -170,5 +170,6 @@
             "value": "Each attack has a chance to blast all units around the target, crippling their speed and dealing heavy damage.|n|cffffcc00Passive.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

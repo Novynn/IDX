@@ -44,5 +44,6 @@
             "value": "air,ground,friend,self,vuln,invu",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

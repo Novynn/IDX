@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Allows you to summon a Greater Turtle, that has additional health and can grow to a large size and act as a temporary wall."
         }
-    ]
+    ],
+    "type": "Item"
 }

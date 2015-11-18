@@ -51,5 +51,6 @@
             "value": "Abilities\\Spells\\NightElf\\TargetArtLumber\\TargetArtLumber.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

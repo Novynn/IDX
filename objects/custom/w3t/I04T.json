@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Can be used to make a duplicate of the holder, that deals 75% damage and takes 125% damage, but cannot use skills. A unit can only have one duplicate at a time. Also makes the holder deal 25 more damage. Duplicates last for 60 seconds.|n|cffff4500|nDouble-right click on this item to convert it into it's ability form.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

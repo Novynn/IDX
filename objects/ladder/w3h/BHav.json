@@ -12,5 +12,6 @@
             "type": 3,
             "value": "This unit is in Avatar form; it has increased hit points, attack damage, armor, and is immune to spells."
         }
-    ]
+    ],
+    "type": "Buff"
 }

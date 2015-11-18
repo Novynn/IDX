@@ -217,5 +217,6 @@
             "type": 3,
             "value": "A powerful stationary unit that deals amazing damage. This unit has the ability to give your enemies Crabs, causing their defense to be reduced by 15 and granting you sight of the targeted unit. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFFFF5D00While being held as an item it grants the holder +10 to defense and +10 to attack damage."
         }
-    ]
+    ],
+    "type": "Unit"
 }

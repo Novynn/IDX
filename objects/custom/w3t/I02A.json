@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Teleport|n|n|cffffcc00Description:|r |cff0080ffGood beginner builder requiring no gold to start making defenses.  Has ability to lay down a sentry ward for a few seconds to catch invisible titans.  Excellent walls late game--Average towers with powerful slow poison.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

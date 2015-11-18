@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Catapult at a target location. Also makes the holders attacks have a chance to do 3 times normal damage."
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -72,5 +72,6 @@
             "value": "Enables you to train Venomous Protectors. These melee units are meaty tanks that can blink to surround the titan or one of his minions.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

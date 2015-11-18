@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8040Medium|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Windwalk, Voodoo|n|n|r|cffffcc00Description:|r |cff0080ffGood beginner builder requiring no gold to start making defenses.  Fairly space efficient builder.  Average walls all around - Strongest and yet most expensive towers in the game costing more food than usual.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

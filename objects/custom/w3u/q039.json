@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Increases the maximum hit points of Head Hunters by 200, damage by 10, and attack range by 400."
         }
-    ]
+    ],
+    "type": "Unit"
 }

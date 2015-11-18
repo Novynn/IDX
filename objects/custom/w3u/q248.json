@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the attack rate of all Spear Towers by 20%."
         }
-    ]
+    ],
+    "type": "Unit"
 }

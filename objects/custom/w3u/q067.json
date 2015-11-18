@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Replaces all of your Fortified Armed Walls into Advanced Walls. These walls evade 20% of attacks and have 20 armor."
         }
-    ]
+    ],
+    "type": "Unit"
 }

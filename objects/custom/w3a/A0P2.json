@@ -114,5 +114,6 @@
             "value": "You have been blessed by the island. You now move 10% faster.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -12,5 +12,6 @@
             "type": 3,
             "value": "This unit is iced down and has reduced move speed."
         }
-    ]
+    ],
+    "type": "Buff"
 }

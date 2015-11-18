@@ -112,5 +112,6 @@
             "type": 3,
             "value": "A highly skilled Titan Hunter. The Hunter is able to kill the Titan and his minions in order to increase his level. This particular type of hunter is very effective at helping your builder escape titans. It can move freely in and out of bases without using blink, and can act as a transport vehicle for your builder."
         }
-    ]
+    ],
+    "type": "Unit"
 }

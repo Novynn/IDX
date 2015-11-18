@@ -62,5 +62,6 @@
             "type": 3,
             "value": "|cff1e90ffTeleports the hero to the targeted allied structure.|r|n|n|cffff5522Note: |rThis item stacks! |cff1e90ffDouble-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

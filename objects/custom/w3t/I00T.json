@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Giant Hermit at a target location. Also provides its' holder with an evasion of 15% from attacks."
         }
-    ]
+    ],
+    "type": "Item"
 }

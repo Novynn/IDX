@@ -163,5 +163,6 @@
             "value": "While active, this aura will redirect half of the damage that friendly units take around the Warrior to the Warrior. You may turn this effect on and off at your will.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

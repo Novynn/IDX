@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff0000Hard|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Blink, Phase Shift |n|n|cffffcc00Description:|r |cff0080ffA good builder requiring gold to build towers.  Towers attack very slow, but have higher than average damage and mana burn.  Above average walls late game. Many upgrades available to unlock abilties that help boost the strength of his base.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

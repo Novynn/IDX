@@ -52,5 +52,6 @@
             "type": 3,
             "value": "Regenerates 2000 hit points and 1000 mana of the Hero over 30 seconds.|n|cffff4500Collect 2 of these and they will combine to form a Greater Replenishment Potion.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

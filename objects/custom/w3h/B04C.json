@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit has adept hunter training."
         }
-    ]
+    ],
+    "type": "Buff"
 }

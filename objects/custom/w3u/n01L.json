@@ -207,5 +207,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. This tower has the ability to focus energy into beams of lightning to beat down your foes, and comes equiped with the Forked Lightning and Chain Lightning abilities. |cffdaff87This building can also turn into an item so that it may be moved to a different location. While being held as an item the holder is granted +35 to attack damage.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

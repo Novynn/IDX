@@ -128,5 +128,6 @@
             "value": "Reveals a large area.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

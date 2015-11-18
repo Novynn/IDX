@@ -93,5 +93,6 @@
             "value": "Increases the attack rate of all Spear Towers by 20%.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

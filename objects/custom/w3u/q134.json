@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Allows your Hunter Construct to use Mana link, transfering his power to any friendly unit. Also improves the mana capacity of the hunter by 200."
         }
-    ]
+    ],
+    "type": "Unit"
 }

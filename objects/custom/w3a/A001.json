@@ -86,5 +86,6 @@
             "value": "Creates a barrier that stops 150 points of spell damage from affecting a target unit. |nLasts 10 seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

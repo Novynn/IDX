@@ -112,5 +112,6 @@
             "type": 3,
             "value": "Allows the Satyr to turn allied units invisible at will.|n|cffffd700Last for 15 seconds.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

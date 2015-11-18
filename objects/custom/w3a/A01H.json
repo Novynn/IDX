@@ -58,5 +58,6 @@
             "value": "Abilities\\Weapons\\PhoenixMissile\\Phoenix_Missile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

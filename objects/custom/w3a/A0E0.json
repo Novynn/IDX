@@ -128,5 +128,6 @@
             "value": "Transfers mana between the Hunter and a friendly unit. Transfers 50 mana per second..|n|cffffcc00Unit targeted -- 10 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

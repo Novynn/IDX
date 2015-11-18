@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Activates an aura that gives all Titanous units on the island an additional 5 armor."
         }
-    ]
+    ],
+    "type": "Unit"
 }

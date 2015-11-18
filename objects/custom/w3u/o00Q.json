@@ -217,5 +217,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage, burns 50 mana on attack and has the ability to cast mana burn for 350 mana every 20 seconds. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff0080While being held as an item, this tower makes the holder degenerate nearby enemy units mana over time.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

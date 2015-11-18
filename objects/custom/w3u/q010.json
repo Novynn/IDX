@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Grants 2 additional item slots on your main builder."
         }
-    ]
+    ],
+    "type": "Unit"
 }

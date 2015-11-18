@@ -142,5 +142,6 @@
             "value": "Transfers mana between the Hunter and a Feral Tower. Transfers 15 mana per second.|n|cffffcc00Structure targeted -- 30 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

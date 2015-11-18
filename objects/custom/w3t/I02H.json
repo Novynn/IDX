@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Nuke:|r |cff00ff00Crushing Wave (Very long range, area of effect nuke requiring no vision)|n|n|r|cffffcc00Heal:|r |cff00ff00Regenerative Water (Large instant-cast area of effect heal)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Disable (Prevents structures from attacking in a medium sized area for 10 seconds)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of the Depth.  Below average scouting ability early game but makes up for it by being able to power level with Crushing Wave and casting Eye of the Ocean on targets.  Early game domination but begins lacking late game.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

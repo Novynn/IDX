@@ -324,5 +324,6 @@
             "value": "Increases the hit points of catapults by 100.",
             "variation": 7
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

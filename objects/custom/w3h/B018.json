@@ -62,5 +62,6 @@
             "type": 3,
             "value": "This unit is under the effects of Shadow Walk. It has permanant invisibility."
         }
-    ]
+    ],
+    "type": "Buff"
 }

@@ -177,5 +177,6 @@
             "value": "Gives a total of 6 points to Agility, Intelligence, and Strength",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

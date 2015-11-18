@@ -237,5 +237,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage and the ability to cast Tranquility which buffs nearby allies and debuffs enemies. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff00ff00While being held as an item, the holder will turn invisibile when attacked to avoid taking further damage. Invisibility lasts 3 seconds or until the holder casts or attacks. The holder also gains +20 attack damage and increased mana regeneration.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

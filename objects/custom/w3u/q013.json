@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Boosts your basic defenses, giving 50 bonus health to your walls."
         }
-    ]
+    ],
+    "type": "Unit"
 }

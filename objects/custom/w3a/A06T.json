@@ -58,5 +58,6 @@
             "value": "Changes the time of day for 60 seconds so that the titan can shadowmeld. This ability has a cooldown of 3 minutes.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

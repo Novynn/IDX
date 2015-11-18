@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increases the armor of all walls and catapults by 1."
         }
-    ]
+    ],
+    "type": "Unit"
 }

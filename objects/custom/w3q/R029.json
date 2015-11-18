@@ -86,5 +86,6 @@
             "value": "Allows the Demonologist to channel demonic energy into damaging fire enabling him to cast Demon Shock.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

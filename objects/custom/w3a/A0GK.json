@@ -93,5 +93,6 @@
             "value": "Grants 20 bonus Armor to nearby allied structures for 15 Seconds.|n|cffffd700Cooldown:|r 60 Seconds",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

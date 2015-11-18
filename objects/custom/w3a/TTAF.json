@@ -170,5 +170,6 @@
             "value": "(|cffffcc00F|r) Deactivate |cff6c00ceEarth's Valor|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

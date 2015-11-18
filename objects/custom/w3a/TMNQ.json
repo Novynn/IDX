@@ -429,5 +429,6 @@
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion concentrates his energy, sending flames towards his target. These flames quickly spread to other nearby units, burning them.|r|n|n|cff1e90ffDamages the targeted unit by 180, and bounces to 6 units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

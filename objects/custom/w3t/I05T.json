@@ -87,5 +87,6 @@
             "type": 3,
             "value": "This egg sack allows you to summon spiderlings. These are controllable and can repair nearby allied structures.|n|cffff0000Note:|r These spiderlings will not block you, they do not give any experience or gold to the enemy.|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

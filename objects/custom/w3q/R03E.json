@@ -184,5 +184,6 @@
             "value": "Enables the Faerie Dragon to build her final tower tier; the |cffff0000Mega Energy Tower|r.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

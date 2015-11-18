@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cff6a5acdThis player was an alpha tester for |r|cffffa500Island Defense|r |cffff45004|r|cffffa500.|r|cffff45000|r|cffffa500.|r|cffff45000|r|cff6a5acd.|r|n|n|cffb8afe7Double right-click me to free up inventory space! The effect will still be attached to your unit.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

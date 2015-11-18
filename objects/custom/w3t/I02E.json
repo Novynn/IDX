@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff0000Hard|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Panic, Stun Trap|n|n|cffffcc00Description:|r |cff0080ffA good builder requiring gold to build towers.  Titan hunter can fly but is very slow.  Above average walls with evasion which construct and upgrade very fast--Good towers with some splash damage.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

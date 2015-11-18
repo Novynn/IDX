@@ -65,5 +65,6 @@
             "value": "Gives a 15% chance that an attack will do 100 bonus damage and stun an opponent for 1 second.|n|cffffcc00Passive",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

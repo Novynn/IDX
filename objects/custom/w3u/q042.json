@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Increases the maximum hit points of your Ancient Mystics by 200, attack speed by 10% and attack range by 150."
         }
-    ]
+    ],
+    "type": "Unit"
 }

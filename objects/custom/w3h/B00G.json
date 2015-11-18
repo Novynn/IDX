@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit is under the effects of Fortification Aura; it has increased armor."
         }
-    ]
+    ],
+    "type": "Buff"
 }

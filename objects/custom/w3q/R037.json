@@ -303,5 +303,6 @@
             "value": "Increases the range of catapult attacks by 50.",
             "variation": 6
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -44,5 +44,6 @@
             "value": "enemies,ground,neutral",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

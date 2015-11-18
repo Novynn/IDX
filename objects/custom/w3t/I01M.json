@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Light Energy Tower at a target location. Also provides its holder with 10 bonus armor and 50% bonus hp regen."
         }
-    ]
+    ],
+    "type": "Item"
 }

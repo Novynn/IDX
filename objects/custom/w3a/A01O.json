@@ -121,5 +121,6 @@
             "value": "|cffff0bffDefender info goes here!|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -62,5 +62,6 @@
             "type": 3,
             "value": "This unit is Saturated in damaging water; nearby enemy ground units will take damage over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

@@ -132,5 +132,6 @@
             "type": 3,
             "value": "Increases health and mana regeneration in all forms by 4 per second. This allows the Morphling to regenerate health and mana while in Beast Form."
         }
-    ]
+    ],
+    "type": "Unit"
 }

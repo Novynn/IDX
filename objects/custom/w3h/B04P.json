@@ -37,5 +37,6 @@
             "type": 3,
             "value": "This unit is under the effects of Domination Aura; it has a 20% increase to its attack damage."
         }
-    ]
+    ],
+    "type": "Buff"
 }

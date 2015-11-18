@@ -58,5 +58,6 @@
             "value": "Gives a 5% chance to do 4 times normal damage on an attack.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

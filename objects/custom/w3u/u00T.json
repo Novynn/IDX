@@ -137,5 +137,6 @@
             "type": 3,
             "value": "ReplaceableTextures\\CommandButtons\\BTNTranquility.blp"
         }
-    ]
+    ],
+    "type": "Unit"
 }

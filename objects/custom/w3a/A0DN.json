@@ -107,5 +107,6 @@
             "value": "The demonologist travels through another dimension turning ethereal and reappearing at 1 of 13 designated power nodes.  Risky ability, only use in tight situations.|n|cffffcc00Self-Targeted -- 180 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

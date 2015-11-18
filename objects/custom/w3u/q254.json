@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increases the duration of Demon Overlord, Demonic Arachnathids and Fel Hounds by an additional 10 seconds. Also doubles the amount of Arachnathids and Fel Hounds summoned."
         }
-    ]
+    ],
+    "type": "Unit"
 }

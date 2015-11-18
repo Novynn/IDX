@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has been hit by Energy Blast."
         }
-    ]
+    ],
+    "type": "Buff"
 }

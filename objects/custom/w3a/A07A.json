@@ -275,5 +275,6 @@
             "value": "Summons 2 demonic arachnathids with slow poison to do your bidding.  Lasts 75 seconds.|n|cffffcc00Activated -- 75 second cooldown.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Ability"
 }

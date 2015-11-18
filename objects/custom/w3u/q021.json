@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Gives the Morphling Warrior 25% evasion, and critical strike."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -198,5 +198,6 @@
             "value": "Slams the earth, creating an earthquake at the targeted location. Any enemy units caught in the blast will have reduced movespeed and will take damage over time.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

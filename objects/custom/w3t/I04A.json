@@ -87,5 +87,6 @@
             "type": 3,
             "value": "Summon a Greater Gnoll Tracker.|n|cffffd700Requires:|r Gnoll Tracker & Recipe"
         }
-    ]
+    ],
+    "type": "Item"
 }

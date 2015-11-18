@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit is covered in frost and will take damage over time and suffer a movement and attack speed penalty."
         }
-    ]
+    ],
+    "type": "Buff"
 }

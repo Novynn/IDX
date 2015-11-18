@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Can summon an extremely fast frog with the ability to collect items. This unit has no attack and very few hit points, so its only good use is to scavenge the map for items that the Titan has not picked up. (Each Frog lasts for 5 minutes.)"
         }
-    ]
+    ],
+    "type": "Item"
 }

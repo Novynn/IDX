@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Upgrades Walls so that they have an additional 50 hit points."
         }
-    ]
+    ],
+    "type": "Unit"
 }

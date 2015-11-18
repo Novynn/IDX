@@ -9,5 +9,6 @@
             "value": "ReplaceableTextures\\CommandButtons\\BTNImprovedUnholyStrength.blp",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

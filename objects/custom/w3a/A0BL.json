@@ -163,5 +163,6 @@
             "value": "Transports the Fiend through the Nether realm, to any location. The Fiend is invunerable while traveling.|R|n|cffffcc00Point-targetted -- 120 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -121,5 +121,6 @@
             "value": "The Demolisher's ammo is drenched in burning oil, causing missiles to light the ground on fire and burn enemy units. Deals 75 damage per second.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

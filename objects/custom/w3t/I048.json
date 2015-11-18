@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Summons 5 Troll Head Hunters to come to your aid.|n|cffffd7003 minute cooldown, lasts for 2 minutes.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

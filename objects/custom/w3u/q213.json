@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Upgrades your Barrel of Explosives to do additional damage when they explode."
         }
-    ]
+    ],
+    "type": "Unit"
 }

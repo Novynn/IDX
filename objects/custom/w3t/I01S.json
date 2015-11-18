@@ -87,5 +87,6 @@
             "type": 3,
             "value": "Increases mana by 350, grants the holder truesight, and can actively be used to reveal large portions of the map. This item is also passable.|n|cffffd700Requires:|r Two Pearls of Vision, Magic Coral & Recipe"
         }
-    ]
+    ],
+    "type": "Item"
 }

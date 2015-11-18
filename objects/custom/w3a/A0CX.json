@@ -100,5 +100,6 @@
             "value": "Weakens nearby enemies armor.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

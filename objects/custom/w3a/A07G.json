@@ -247,5 +247,6 @@
             "value": "|cff1e90ffTransforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|nActivated - 15 second cooldown.|r|n|n|cffff5522Note:|r Resets ability cooldowns.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

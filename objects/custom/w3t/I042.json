@@ -62,5 +62,6 @@
             "type": 3,
             "value": "An armor that can change the holders fate. Provides +3 armor, and reduces 1/4 of incoming damage up to 5, and gives 1% evasion.|n|n|cffff0000Evasion does not stack|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

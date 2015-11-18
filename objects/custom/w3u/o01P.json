@@ -242,5 +242,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. This tower has the ability to simultaneously attack all nearby enemy titans within an area of 1000 at the same time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0Any ranged unit that holds this item will be able to simultaneously attack all nearby titans.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

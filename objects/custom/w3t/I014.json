@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Grants a mana burning ability and gives +30 damage.|n|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

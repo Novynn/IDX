@@ -317,5 +317,6 @@
             "value": "Further boosts harvester lumber acquisition rate.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

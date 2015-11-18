@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Increases the Titan's movement speed by 80, attack speed by 15%, and damage by 25."
         }
-    ]
+    ],
+    "type": "Item"
 }

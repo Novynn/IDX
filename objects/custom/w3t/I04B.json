@@ -87,5 +87,6 @@
             "type": 3,
             "value": "Increases the number of Trolls summoned to 5.|n|cffffd700Requires:|r Troll Hand & Recipe"
         }
-    ]
+    ],
+    "type": "Item"
 }

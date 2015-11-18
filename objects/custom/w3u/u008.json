@@ -142,5 +142,6 @@
             "type": 3,
             "value": "standon,ward"
         }
-    ]
+    ],
+    "type": "Unit"
 }

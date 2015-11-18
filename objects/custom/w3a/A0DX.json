@@ -79,5 +79,6 @@
             "value": "Abilities\\Spells\\NightElf\\Blink\\BlinkTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

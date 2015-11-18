@@ -67,5 +67,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. This tower does low basic damage, but when charged, can deal a rapid series of devastating attacks.|n|cff99b4d1When held as an item, it allows the holder to shoot lightning at nearby enemy units. Also grants +20 attack damage.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

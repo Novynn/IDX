@@ -16,5 +16,6 @@
             "value": "air,enemies,ground,invulnerable,vulnerable",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

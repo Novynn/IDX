@@ -22,5 +22,6 @@
             "type": 3,
             "value": "This unit is hidden by a Storm; it is invisible and moves faster."
         }
-    ]
+    ],
+    "type": "Buff"
 }

@@ -112,5 +112,6 @@
             "type": 3,
             "value": "(|cffffcc00Z|r) Upgrade Test (Level 1)"
         }
-    ]
+    ],
+    "type": "Unit"
 }

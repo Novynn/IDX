@@ -58,5 +58,6 @@
             "value": "Objects\\Spawnmodels\\NightElf\\EntBirthTarget\\EntBirthTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

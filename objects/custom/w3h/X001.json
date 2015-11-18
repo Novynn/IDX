@@ -12,5 +12,6 @@
             "type": 3,
             "value": "Starfall (No Effect)"
         }
-    ]
+    ],
+    "type": "Buff"
 }

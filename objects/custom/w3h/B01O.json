@@ -57,5 +57,6 @@
             "type": 3,
             "value": "This unit is hidden by a dark current; it is invisible and moves faster."
         }
-    ]
+    ],
+    "type": "Buff"
 }

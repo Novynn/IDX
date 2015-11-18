@@ -240,5 +240,6 @@
             "value": "Further increases the amount of lumber that harvesters obtain per interval by 2",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

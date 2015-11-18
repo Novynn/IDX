@@ -191,5 +191,6 @@
             "value": "Allows the Faerie Dragon to cast Faerie Fire. This ability reduces armor by 5 and gives vision of the targeted unit for 5 seconds. It can also be used on critters around the map to give vision of them for a prolonged period of time.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

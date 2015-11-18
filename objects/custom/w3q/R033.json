@@ -331,5 +331,6 @@
             "value": "Increases the range of Demolisher attacks by 50.",
             "variation": 6
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

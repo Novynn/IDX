@@ -65,5 +65,6 @@
             "value": "A poison attack that slows the target enemy's movement by 30% and attack rate by 10% for 3 seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

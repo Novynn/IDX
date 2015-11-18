@@ -7,5 +7,6 @@
             "type": 3,
             "value": "Abilities\\Spells\\Undead\\FreezingBreath\\FreezingBreathTargetArt.mdl"
         }
-    ]
+    ],
+    "type": "Buff"
 }

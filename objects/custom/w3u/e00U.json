@@ -267,5 +267,6 @@
             "type": 3,
             "value": "The Tauren's ultimate defensive tower.|n|cff808080Although these towers take up four times the space of an average tower, they have a very high attack damage and a fast attack speed.|r|n|n|cffffcc00Health:|r 700|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 200 Pierce|n|cffffcc00Attack Range:|r 800|n|cffffcc00Attack Speed:|r Very Fast"
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit is constantly growing, especially during the day when it thrives."
         }
-    ]
+    ],
+    "type": "Buff"
 }

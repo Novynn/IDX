@@ -107,5 +107,6 @@
             "value": "Sends a horde of bats, causing 300 damage to enemy units caught in their path.|n|cffffcc00Point-Targeted -- 20 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

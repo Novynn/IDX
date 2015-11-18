@@ -142,5 +142,6 @@
             "value": "Allows the Methane Machine to store the Ogre's fart gasses.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

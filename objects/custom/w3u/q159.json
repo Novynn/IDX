@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Allows the Faerie Dragon to cast Silence on a targeted area. Enemy units within the area will be unable to cast spells for 4 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

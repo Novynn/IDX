@@ -128,5 +128,6 @@
             "value": "Abilities\\Spells\\Other\\Monsoon\\MonsoonRain.mdl,war3mapImported\\MistAura.mdx",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

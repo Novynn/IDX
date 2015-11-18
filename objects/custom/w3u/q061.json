@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Causes the Demonologist to be able to link demons' spirits together; distributing damage amongst them."
         }
-    ]
+    ],
+    "type": "Unit"
 }

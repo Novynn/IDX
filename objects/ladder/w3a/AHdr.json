@@ -93,5 +93,6 @@
             "value": "Transfers mana between the Hunter and a target. Drains 75 mana per second from an enemy.|n|cffffcc00Unit targeted -- 35 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

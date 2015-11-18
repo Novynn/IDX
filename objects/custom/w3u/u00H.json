@@ -122,5 +122,6 @@
             "type": 3,
             "value": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp"
         }
-    ]
+    ],
+    "type": "Unit"
 }

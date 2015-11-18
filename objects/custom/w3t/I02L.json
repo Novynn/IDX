@@ -97,5 +97,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8000Medium|r|n|n|cffffcc00Nuke:|r |cff00ff00Forked Lightning (Standard multi-target spell)|r|n|n|cffffcc00Heal:|r |cff00ff00Static Sphere (Single target heal for x amount after 3 seconds--requires nearby structures to work)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Conduction (1200 range blink with large cooldown--rather easy to prevent)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Energy.  Has a shortened wind walk but has a few handy abilities like Atmospheric Charge (Invisibility detection) and 12% evasion.  Average titan throughout game.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

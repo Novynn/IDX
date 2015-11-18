@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Enables the Morphling to build its final tower tier; the |cffff0000Mega Pulse Tower|r."
         }
-    ]
+    ],
+    "type": "Unit"
 }

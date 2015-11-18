@@ -128,5 +128,6 @@
             "value": "The Demonologist focuses his energys into creating a powerful barrier that reduces the damage dealt to him. Changes armour type to fortified and gives the Demonologist 25% magic resistance.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

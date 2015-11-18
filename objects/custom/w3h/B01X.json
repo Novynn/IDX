@@ -37,5 +37,6 @@
             "type": 3,
             "value": "This structure has Bloodlust; its attack speed is increased."
         }
-    ]
+    ],
+    "type": "Buff"
 }

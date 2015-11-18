@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit is equipted with only the finest weapons; its attack damage is increased."
         }
-    ]
+    ],
+    "type": "Buff"
 }

@@ -100,5 +100,6 @@
             "value": "Gives 5 additional armor to all Titanous units on the Island.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

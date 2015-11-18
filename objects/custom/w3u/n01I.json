@@ -217,5 +217,6 @@
             "type": 3,
             "value": "A low damage unit with the ability to see invisible units, an essential unit to have while hunting Titans. This unit has a single use blink to get out of your base defenses."
         }
-    ]
+    ],
+    "type": "Unit"
 }

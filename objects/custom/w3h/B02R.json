@@ -37,5 +37,6 @@
             "type": 3,
             "value": "This unit is under the influence of Heroic Aura. Half of the damage it takes will be redirected against the source of the Aura."
         }
-    ]
+    ],
+    "type": "Buff"
 }

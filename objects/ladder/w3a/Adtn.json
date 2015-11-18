@@ -65,5 +65,6 @@
             "value": "Detonate on the target location to remove negative spells on friendly units. Kills this unit in the process.|n|n|cffff5522Note:|r Use this ability when the Titan overruns your base in order to stop him from gaining levels from killing these units.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

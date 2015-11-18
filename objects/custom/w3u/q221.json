@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increasing the rate in which your Feral Towers grow."
         }
-    ]
+    ],
+    "type": "Unit"
 }

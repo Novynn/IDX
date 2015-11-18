@@ -57,5 +57,6 @@
             "type": 3,
             "value": "Steals mana from a titan and gives it to the user. One Charge."
         }
-    ]
+    ],
+    "type": "Item"
 }

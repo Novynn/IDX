@@ -79,5 +79,6 @@
             "value": "Allows your Enhanced, Super, and Mega Radon towers to be upgraded using purchasable modules.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -82,5 +82,6 @@
             "type": 3,
             "value": "Covers the titan in shadows for 30 seconds, hiding him from sight, as well as increasing his speed by 25%. If he attacks or uses an ability he will be revealed briefly. Also grants an added 350 mana, mana regeneration, and 20 damage. |N|CFFED1C24Invisibility does not stack with Fog Generator or Shadow walk."
         }
-    ]
+    ],
+    "type": "Item"
 }

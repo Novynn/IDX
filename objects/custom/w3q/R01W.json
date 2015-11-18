@@ -233,5 +233,6 @@
             "value": "Gives the Morphling Warrior 25% evasion, and critical strike.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

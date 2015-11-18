@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Enables the Morphling Warrior to learn and use his combat skills as well as Slam."
         }
-    ]
+    ],
+    "type": "Unit"
 }

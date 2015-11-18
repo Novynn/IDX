@@ -107,5 +107,6 @@
             "value": "Increases the attack damage of |cffff0000Enraged Tidal Guardians|r by 5.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -345,5 +345,6 @@
             "value": "The Satyr dashes forward, maximising his movement speed by 5 seconds. If the Satyr attacks during this phase he will deal an extra 100 damage.|n|n|cffadd8e6Cooldown:|r 40",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Ability"
 }

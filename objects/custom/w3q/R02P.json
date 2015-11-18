@@ -226,5 +226,6 @@
             "value": "Decreases the casting delay and cooldown time of teleporting by 0.25s and 20s respectively. Also increases the radius of the Mound's regeneration aura slightly.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

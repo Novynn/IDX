@@ -72,5 +72,6 @@
             "value": "The Satyr is a skilled thief, able to loot titans, giving him gold and lumber every time he lands a hit on a titanic hero.|n|cffffcc00Passive.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

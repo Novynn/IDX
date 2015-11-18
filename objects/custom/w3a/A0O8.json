@@ -79,5 +79,6 @@
             "value": "Abilities\\Weapons\\WitchDoctorMissile\\WitchDoctorMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

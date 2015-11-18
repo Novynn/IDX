@@ -47,5 +47,6 @@
             "type": 3,
             "value": "This unit had Frostbite; its movement speed has been reduced."
         }
-    ]
+    ],
+    "type": "Buff"
 }

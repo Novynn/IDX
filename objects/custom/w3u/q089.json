@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Allows the Morphling Beast to use Paralyzing Barbs, which add a passive slow effect to his attacks."
         }
-    ]
+    ],
+    "type": "Unit"
 }

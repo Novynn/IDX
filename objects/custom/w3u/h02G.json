@@ -142,5 +142,6 @@
             "type": 3,
             "value": "Also refered to as a Shelter, this building acts as the Murloc's main resource return point.|n|cff808080Trains harvesting murloc slaves to collect lumber for you. This building allows units to drop of their wood.|r|n|n|cffffcc00Health:|r 200|n|cffffcc00Armor:|r 0 Fortified|n|cffffcc00Attack:|r N/A|n|cffffcc00Attack Range:|r N/A|n|cffffcc00Attack Speed:|r N/A|n|n|cffff0000Note:|r These are weak buildings, useless as walls or defense. Only build the amount that you need, because they can end up feeding a lot."
         }
-    ]
+    ],
+    "type": "Unit"
 }

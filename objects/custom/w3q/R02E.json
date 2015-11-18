@@ -128,5 +128,6 @@
             "value": "Allows the Morphling to shift form more rapidly.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

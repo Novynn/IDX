@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Creates a Rapid Fire Tower at a target location. Also makes the holder shoot streams of rockets at enemy units."
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -86,5 +86,6 @@
             "value": "Enables the Demonologist to summon a Fel Hound and a Demonic Arachnathid.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

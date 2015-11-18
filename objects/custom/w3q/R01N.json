@@ -72,5 +72,6 @@
             "value": "Gives the Magnataur the power to call forth a blizzard.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

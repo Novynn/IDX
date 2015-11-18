@@ -79,5 +79,6 @@
             "value": "Abilities\\Weapons\\ProcMissile\\ProcMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

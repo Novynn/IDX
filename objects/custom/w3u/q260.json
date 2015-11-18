@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Further increases the hit points of your builder by 100.|nNote: This upgrade can be researched an unlimited amount of times."
         }
-    ]
+    ],
+    "type": "Unit"
 }

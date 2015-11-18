@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Can summon 4 Spearlocs every 3 minutes. Spearlocs last 2 minutes. (Gold is recieved by killing the Titan or one of his minions)."
         }
-    ]
+    ],
+    "type": "Item"
 }

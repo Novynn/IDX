@@ -232,5 +232,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage and has extremely long range. This tower's attacks also destroy 50 mana per hit against any unit, causing bonus damage equal to the mana destroyed. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff0080While being held as an item, this tower makes the holder degenerate nearby enemy units mana over time.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

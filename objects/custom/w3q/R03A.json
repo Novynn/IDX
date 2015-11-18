@@ -261,5 +261,6 @@
             "value": "Increases the armor of all walls and catapults by 1.",
             "variation": 5
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

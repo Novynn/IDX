@@ -114,5 +114,6 @@
             "value": "Gives a 20% chance to dodge an attack and a 10% chance to deal 4 times normal damage.|n|cffffcc00Passive.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

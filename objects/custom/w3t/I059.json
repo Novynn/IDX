@@ -77,5 +77,6 @@
             "type": 3,
             "value": "The Box of Storms increases nearby friendly units attack speed, movement speed and armor."
         }
-    ]
+    ],
+    "type": "Item"
 }

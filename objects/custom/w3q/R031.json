@@ -163,5 +163,6 @@
             "value": "Allows you to use Shadow Dust on allied structures as well as units. Also reduces the cooldown of the Satyr's Shadowdust ability by 15 seconds.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

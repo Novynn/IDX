@@ -72,5 +72,6 @@
             "value": "Return the carried lumber to the nearest |cff99b4d1Shelter|r.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

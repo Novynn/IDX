@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has the Mark of Darkness; it cannot cast spells and will take damage until it dies, and a Spawn of Darkness will progenerate from its corpse. Doom cannot be dispelled or cancelled."
         }
-    ]
+    ],
+    "type": "Buff"
 }

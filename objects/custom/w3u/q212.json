@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the hit points of your builder by 100.|n|cffff0000Note:|r It is recommended you get your advanced research center and the upgrades there before spending gold on this upgrade."
         }
-    ]
+    ],
+    "type": "Unit"
 }

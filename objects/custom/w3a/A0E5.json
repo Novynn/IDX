@@ -79,5 +79,6 @@
             "value": "Abilities\\Weapons\\ChimaeraLightningMissile\\ChimaeraLightningMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

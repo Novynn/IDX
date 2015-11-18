@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Increases the attack speed of the Hero by 5%.|n|cffff4500Collect 3 of these and they will combine to form a Gem of Haste.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

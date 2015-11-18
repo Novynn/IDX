@@ -93,5 +93,6 @@
             "value": "Upgrades Walls and Towers so that they have an additional 150 hp.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

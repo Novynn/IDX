@@ -16,5 +16,6 @@
             "value": "friend,ground,invulnerable,nonhero,vulnerable",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

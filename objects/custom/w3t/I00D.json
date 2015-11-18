@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Increases attack damage by 20 and strength by 8 when held."
         }
-    ]
+    ],
+    "type": "Item"
 }

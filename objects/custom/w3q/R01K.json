@@ -79,5 +79,6 @@
             "value": "Allows the Magnataur to freeze a target enemy unit's weapons, causing it to have a 25% chance to miss on an attack.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

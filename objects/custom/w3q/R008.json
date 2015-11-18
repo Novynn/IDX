@@ -79,5 +79,6 @@
             "value": "Enables the Demonologist to cast sacrifice on summoned units or critters. The unit is killed and from it spawns an invisible scout with True Sight for 15 seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -202,5 +202,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. The sticky sludge launched from this tower drenches titans causing their attack speed to be reduced. Also deals 5 poison damage per second. This tower also has the ability to transmute into an item so that it may be moved to a different location. |c0000ff40While being held as an item, it causes the hero's attacks to slow the movement speed and attack rate of enemies.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

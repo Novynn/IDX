@@ -222,5 +222,6 @@
             "type": 3,
             "value": "This Building allows you to summon a horde of drunking pirates every 60 seconds.  These pirates are uncontrollable but will run to the nearest enemy and start attacking.|nNote: These pirate will not block you, they do not give any experience or gold to the enemy and they can not be targeted for spells."
         }
-    ]
+    ],
+    "type": "Unit"
 }

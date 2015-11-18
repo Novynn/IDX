@@ -51,5 +51,6 @@
             "value": "Abilities\\Spells\\Human\\DispelMagic\\DispelMagicTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

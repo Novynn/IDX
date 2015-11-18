@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Exchanges 5 gold for 600 lumber. Takes 10 seconds to complete."
         }
-    ]
+    ],
+    "type": "Unit"
 }

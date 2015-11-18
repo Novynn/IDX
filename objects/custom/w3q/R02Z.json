@@ -191,5 +191,6 @@
             "value": "The Satyr's wealth allows him the best in weaponry, allowing him to aquire a legendary assassins blade, coveted by all shadowy figures. Gives a total of 300 bonus damage to the Satyr.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

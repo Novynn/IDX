@@ -366,5 +366,6 @@
             "value": "Grants your hunter 50 additional hit points.",
             "variation": 6
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

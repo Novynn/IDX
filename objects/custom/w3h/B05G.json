@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit is explosive; it will explode when killed by an enemy unit."
         }
-    ]
+    ],
+    "type": "Buff"
 }

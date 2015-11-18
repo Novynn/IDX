@@ -114,5 +114,6 @@
             "value": "Enhances the Magnataur builder with Fortification Aura. This aura increases his armor by 10, and also grants friendly structures and units around him with the same defense bonus.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has a Methane Machine; nearby enemy ground units will take damage over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

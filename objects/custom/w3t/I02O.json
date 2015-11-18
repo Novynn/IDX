@@ -87,5 +87,6 @@
             "type": 3,
             "value": "Regenerates friendly demons around the holder for 10 hp per second, and provides bonus mana regeneration and armour for the holder. Does not heal self."
         }
-    ]
+    ],
+    "type": "Item"
 }

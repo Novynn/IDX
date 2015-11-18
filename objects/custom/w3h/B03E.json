@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit is Drunk; its movement speed has been reduced."
         }
-    ]
+    ],
+    "type": "Buff"
 }

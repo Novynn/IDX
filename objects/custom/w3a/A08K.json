@@ -79,5 +79,6 @@
             "value": "Doodads\\Cinematic\\TownBurningFireEmitter\\TownBurningFireEmitter",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

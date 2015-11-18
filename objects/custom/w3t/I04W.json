@@ -57,5 +57,6 @@
             "type": 3,
             "value": "Allows you to summon a Greater Turtle that has additional health, and can grow to a large size and act as a temporary wall.|n|cffffd700Requires:|r 1 Titan Egg, 1 Turtle Scales"
         }
-    ]
+    ],
+    "type": "Item"
 }

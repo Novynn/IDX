@@ -72,5 +72,6 @@
             "value": "Increases the mana of your Titan Hunter by 150.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

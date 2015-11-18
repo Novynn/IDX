@@ -197,5 +197,6 @@
             "type": 3,
             "value": "This unit reeks of alcohol.  He appears angry and ready to take his anger out on the nearest enemy."
         }
-    ]
+    ],
+    "type": "Unit"
 }

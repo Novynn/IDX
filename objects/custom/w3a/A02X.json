@@ -44,5 +44,6 @@
             "value": "Creates a shield of frost around a target friendly unit. The shield adds <A02X,DataB1> armor and slows melee units that attack it for <A02X,Dur1> seconds. |nLasts <A02X,DataA1> seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -163,5 +163,6 @@
             "value": "Hurls an incendiary explosive at the target enemy, slowing their movement by 20%, dealing damage and applying the Incendiary buff to enemy units in a small area for 3 seconds.|nUnit-Targeted - 60 second cooldown",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

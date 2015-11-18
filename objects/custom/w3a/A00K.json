@@ -79,5 +79,6 @@
             "value": "Abilities\\Spells\\Other\\BreathOfFire\\BreathOfFireDamage.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

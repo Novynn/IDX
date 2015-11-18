@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Reduces the mana consumption of Orb of Destruction, allowing it to be used more often."
         }
-    ]
+    ],
+    "type": "Unit"
 }

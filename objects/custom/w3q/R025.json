@@ -128,5 +128,6 @@
             "value": "Grants another 2 additional item slots on your main builder.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8040Medium|r|n|n|cffffcc00Escape Abilities:|r |CFF662D91None|n|n|r|cffffcc00Description:|r |cff0080ffA race not recommended for beginners requiring some gold to acheive well.  Has no titan hunter and no initital escape abilities.  Harvesters cost half as much food but harvest slower; builder has fast harvest.  Three different, upgradable forms for Morphling to assume. Above average walls late game--Decent towers requiring harvesters inside to attack.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

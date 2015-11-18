@@ -187,5 +187,6 @@
             "type": 3,
             "value": "USMA"
         }
-    ]
+    ],
+    "type": "Unit"
 }

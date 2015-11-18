@@ -79,5 +79,6 @@
             "value": "|cffffcc00[|r|cffff8c00Skill|r|cffffcc00]|r|n|n|cffffcc00Teleports you to the target friendly structure. Useful when you need to escape from the Titan.|r|n|cff1e90ffYou may target any friendly structure on the entire map.|n|nUnit-Targeted - 360 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

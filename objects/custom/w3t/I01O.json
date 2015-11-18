@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Changes the time of day for 60 seconds, and adds +10 to the attack damage of the holder. This item is permanent with a cooldown of 3 minutes."
         }
-    ]
+    ],
+    "type": "Item"
 }

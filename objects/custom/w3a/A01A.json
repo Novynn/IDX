@@ -51,5 +51,6 @@
             "value": "Causes a target enemy unit to be bound to the ground so that it cannot move for 3 seconds.|n|cffffcc00Unit-Targeted -- 60 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

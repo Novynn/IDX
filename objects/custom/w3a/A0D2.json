@@ -107,5 +107,6 @@
             "value": "Reduces all magic damage against the Tauren Champion by 25%.|n|cffffcc00Passive.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

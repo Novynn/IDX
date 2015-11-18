@@ -58,5 +58,6 @@
             "value": "Gives extra damage to the attacks of all player owned units.|n|cffffcc00Passive.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

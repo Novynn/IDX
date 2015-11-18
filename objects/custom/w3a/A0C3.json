@@ -233,5 +233,6 @@
             "value": "The Satyr's razor blade deals 100 bonus damage and cuts through the targets armour, reducing it by 8.|n|cffffcc00Passive.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Ability"
 }

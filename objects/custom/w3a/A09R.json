@@ -58,5 +58,6 @@
             "value": "Gives all nearby Demons a bonus to hit point regeneration. Does not stack with Demon Totem. Does not affect self.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

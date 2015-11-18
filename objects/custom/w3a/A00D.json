@@ -114,5 +114,6 @@
             "value": "Turns the tower into an item which can be moved to another location or held in inventory for bonus effects.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -112,5 +112,6 @@
             "type": 3,
             "value": "Enables the Magnataur to use his Frostbite ability.|n|nFrostbite slows a target enemy unit's attack rate by 20% and movement speed by 50% for 5 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

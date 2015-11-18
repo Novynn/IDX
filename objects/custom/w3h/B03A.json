@@ -32,5 +32,6 @@
             "type": 3,
             "value": "This unit is paralyzed by a blast of energy; it's speed is crippled."
         }
-    ]
+    ],
+    "type": "Buff"
 }

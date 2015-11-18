@@ -72,5 +72,6 @@
             "type": 3,
             "value": "|cff87ceebNon-Combat Consumable|r|nRegenerates up to 3000 hit points and 1500 mana of every allied unit within 600 AoE over 45 seconds."
         }
-    ]
+    ],
+    "type": "Item"
 }

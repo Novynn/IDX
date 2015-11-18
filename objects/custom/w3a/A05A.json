@@ -156,5 +156,6 @@
             "value": "If you're seeing this, something went wrong!",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

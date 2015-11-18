@@ -132,5 +132,6 @@
             "type": 3,
             "value": "Enhances the Morphling's warrior form by making his attacks have a 25% chance to do 3 times his normal damage."
         }
-    ]
+    ],
+    "type": "Unit"
 }

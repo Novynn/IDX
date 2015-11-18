@@ -37,5 +37,6 @@
             "value": "Increases a target friendly building's attack rate by 25% for <A082,Dur1> seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

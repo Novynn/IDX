@@ -233,5 +233,6 @@
             "value": "Cancel Polar Vengeance and return to your normal builder form",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

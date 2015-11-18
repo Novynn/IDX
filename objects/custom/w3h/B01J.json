@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit is empowered with Chaos essence; its attack damage has been increased."
         }
-    ]
+    ],
+    "type": "Buff"
 }

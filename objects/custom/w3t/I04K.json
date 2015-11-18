@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Use this item to rebuild your Fireworks Launcher.|n|cffff4500|nDouble-right click on this item to convert it into it's ability form.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

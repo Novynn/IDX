@@ -22,5 +22,6 @@
             "type": 3,
             "value": "This unit is Earthbound; it has a decreased movement speed and attack rate."
         }
-    ]
+    ],
+    "type": "Buff"
 }

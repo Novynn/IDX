@@ -142,5 +142,6 @@
             "value": "Increases the maximum hit points of you workers by 100.|n|cffff0000(This upgrade does not work on your main builder.)|r",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

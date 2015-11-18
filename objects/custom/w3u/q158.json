@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Allows the Faerie Dragon to use Death Shield. This is a channled ability that turns all nearby units and structures owned by the Faerie Dragon invulnerable for 5 seconds. Also removes any negative buffs from all nearby structures. Covers an extremely large area."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -202,5 +202,6 @@
             "type": 3,
             "value": "A powerful tower that deals lets out a fireworks display.  These fireworks actually damage all enemies in an area of 900 around this launcher. |cff00ff40While being held as an item, it shoots random fireworks at nearby enemies.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

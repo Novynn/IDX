@@ -163,5 +163,6 @@
             "value": "Increases the Tauren's mana by 100, hit points by 100, attack range by 50, and hit point regeneration by 50%.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

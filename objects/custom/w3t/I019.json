@@ -67,5 +67,6 @@
             "type": 3,
             "value": "This item gives off an aura that turns nearby titans invisible. If the titans attack or cast a spell, they will become visible for a brief moment.|n|cffed1c24Invisibility does not stack with Shadow Catcher or Shadow walk.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

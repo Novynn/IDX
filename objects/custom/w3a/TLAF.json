@@ -261,5 +261,6 @@
             "value": "Deactivate Saturation to stop draining mana.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

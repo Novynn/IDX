@@ -37,5 +37,6 @@
             "value": "Gives a 20% chance to do 3 times normal damage on an attack.|n|cffffcc00Passive.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

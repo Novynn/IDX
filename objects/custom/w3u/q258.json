@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Allows you to use the Courier ability in the mound to summon a Chimaera that will drop off your items at the chosen location."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -232,5 +232,6 @@
             "type": 3,
             "value": "Fires shards of ice at enemies. This tower's attack is extremely good at slowing enemies down. |CFF087AFFThis tower can also turn into an item so that it may be moved to a different location. While being held as an item the holders attacks slow the attack and movement speed of enemy units.|R"
         }
-    ]
+    ],
+    "type": "Unit"
 }

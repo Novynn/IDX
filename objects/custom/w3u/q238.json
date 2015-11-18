@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increases the maximum hit points of your Titan Hunter by 300."
         }
-    ]
+    ],
+    "type": "Unit"
 }

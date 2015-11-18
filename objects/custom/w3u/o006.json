@@ -207,5 +207,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. This tower also gives off an aura that increases the attack damage of nearby ranged units, including towers, by 20%. This tower can also be turned into an item so that it may be moved to a different location. |cffff8040While being held it provides the holder with +35 damage while still giving off the aura that increases the attack damage of nearby friendly ranged units.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

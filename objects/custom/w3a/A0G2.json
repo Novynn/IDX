@@ -79,5 +79,6 @@
             "value": "Coats the Enemy in Incendiary Power, by itself it does nothing but, if your enemy kills one of your  explosive barrels, the explosion is magnified.|nLasts .<A0G2,Dur1,%> seconds.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

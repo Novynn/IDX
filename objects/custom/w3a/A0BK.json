@@ -128,5 +128,6 @@
             "value": "Forms the Fiends power into a solid Pillar of Demonic energy, which impedes the movement of ground units. The wall lasts for 8 seconds.|n|cffffcc00Point Targeted -- 80 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

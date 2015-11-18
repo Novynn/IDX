@@ -93,5 +93,6 @@
             "value": "Allows the builder to become invisible for 10 seconds.|n|cffffcc00Activated -- 80 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

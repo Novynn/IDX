@@ -415,5 +415,6 @@
             "value": "Toughens the Satyr, granting him an additional 50 hit points and extra armour.",
             "variation": 7
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

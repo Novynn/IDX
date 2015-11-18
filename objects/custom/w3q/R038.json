@@ -121,5 +121,6 @@
             "value": "The Satyr learns how to steal resources from his enemies without them even noticing.|n|nAllows you to Plunder from your enemies before landing a hit.|n|n|cffff0000Note:|r This allows you to speed poke.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

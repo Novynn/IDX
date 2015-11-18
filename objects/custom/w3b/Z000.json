@@ -62,5 +62,6 @@
             "type": 0,
             "value": "2"
         }
-    ]
+    ],
+    "type": "Destructable"
 }

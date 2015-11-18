@@ -121,5 +121,6 @@
             "value": "Turns all the Faerie Dragon's units and structures invulnerable in an area around the Faerie Dragon. This removes any buffs from all nearby towers. Does not affect ally units or structures. |nLasts 10 seconds.|n|cffffcc00Activated -- 180 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

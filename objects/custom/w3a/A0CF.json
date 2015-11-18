@@ -149,5 +149,6 @@
             "value": "Increases movement speed of the Ogre by 35%.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

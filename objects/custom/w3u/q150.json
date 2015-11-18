@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the mana capacity of the Faerie Dragon by 50, hit points by 100, attack damage by 40, and attack range by 250. Additionally changes her armor type to Fortified, and also makes the her attacks slow the movement speed enemy units by 20%."
         }
-    ]
+    ],
+    "type": "Unit"
 }

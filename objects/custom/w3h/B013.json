@@ -17,5 +17,6 @@
             "type": 3,
             "value": "This unit is bound by Voodoo; it will take damage instead of the caster until it dies."
         }
-    ]
+    ],
+    "type": "Buff"
 }

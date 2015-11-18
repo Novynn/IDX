@@ -261,5 +261,6 @@
             "value": "Grants the Magnataur 50 additional hit points.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

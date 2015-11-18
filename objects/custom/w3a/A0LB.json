@@ -79,5 +79,6 @@
             "value": "Abilities\\Spells\\Items\\OrbCorruption\\OrbCorruptionSpecialArt.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

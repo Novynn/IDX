@@ -436,5 +436,6 @@
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Water erupts from the ground, seeking out and damaging all who oppose the mighty Titan of the Abyss.|r|n|cff808080Water from the Abyss bends easily in the hands of it's master.|r|n|n|cff1e90ffDamages the targeted unit by 180, and bounces to 6 units within 600 range.|nUnit-Targeted - 10 second cooldown.|r",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

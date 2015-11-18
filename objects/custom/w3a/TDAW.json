@@ -198,5 +198,6 @@
             "value": "Deactivate Shadow Walk to stop draining mana.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

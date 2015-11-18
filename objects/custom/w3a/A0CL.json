@@ -72,5 +72,6 @@
             "value": "air,enemies,ground,neutral,nonancient",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

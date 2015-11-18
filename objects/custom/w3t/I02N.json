@@ -102,5 +102,6 @@
             "type": 3,
             "value": "|cff6a5acdWelcome to the |r|cffffa500Island Defense|r |cffff45004|r|cffffa500.|r|cffff45000|r|cffffa500.|r|cffff45000|r|cff6a5acd Beta! This book will be your guide to some of the key changes to the game. Please take the time to read it before you start playing.|n|n|r|cffb8afe7Drop this book to free up inventory space! It will self destruct once out of your inventory.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

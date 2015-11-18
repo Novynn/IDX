@@ -202,5 +202,6 @@
             "type": 3,
             "value": "A powerful warrior with medium damage. Has a slow poison attack. This unit has a single use blink to get out of your base defenses."
         }
-    ]
+    ],
+    "type": "Unit"
 }

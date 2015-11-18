@@ -62,5 +62,6 @@
             "type": 3,
             "value": "This unit is caught within a toxic fart cloud; its movement speed has been reduced and it will take damage over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

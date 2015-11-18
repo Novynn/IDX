@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Boosts harvester lumber acquisition rate."
         }
-    ]
+    ],
+    "type": "Unit"
 }

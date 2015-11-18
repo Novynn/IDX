@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the range of |cffff0000Mega Dart Tower|r by 100."
         }
-    ]
+    ],
+    "type": "Unit"
 }

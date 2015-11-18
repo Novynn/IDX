@@ -114,5 +114,6 @@
             "value": "Reduces the mana consumption of Orb of Destruction, allowing it to be used more often.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

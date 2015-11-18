@@ -156,5 +156,6 @@
             "value": "Enhances the Morphling's warrior form by making his attacks have a 15% chance to stun his enemy for 1 second and deal 75 bonus damage.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

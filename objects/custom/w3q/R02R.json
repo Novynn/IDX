@@ -184,5 +184,6 @@
             "value": "Gives the Tauren the Pulverize ability. This skill gives a 25% chance that an attack will deal 200 damage to nearby units.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

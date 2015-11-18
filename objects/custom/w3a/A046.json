@@ -51,5 +51,6 @@
             "value": "air,enemies,ground,mechanical,neutral,organic,structure",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

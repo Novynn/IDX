@@ -842,5 +842,6 @@
             "value": "Further increases the hit points of your builder by 100.",
             "variation": 16
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

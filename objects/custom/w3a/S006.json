@@ -100,5 +100,6 @@
             "value": "Decrease nearby enemies units' movement speed by 15% and attack rate by 10%.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

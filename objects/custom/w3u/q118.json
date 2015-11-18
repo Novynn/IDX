@@ -122,5 +122,6 @@
             "type": 3,
             "value": "The Satyr's wealth allows him the best in weaponry, allowing him to aquire a brilliant sapphire blade. Adds 100 damage."
         }
-    ]
+    ],
+    "type": "Unit"
 }

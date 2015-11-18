@@ -87,5 +87,6 @@
             "type": 3,
             "value": "Gives the titan a one use invisible flying sentry that can scout over bases. |cffff0000Does not have truesight. |rSlow moving. |n|cffffd700Requires:|r Eye of the Ocean & Recipe"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8040Medium|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Isotopic Shield|n|n|r|cffffcc00Description:|r |cff0080ffAn average builder that becomes siginificantly better with gold.  Buildings build themselves and Titan Hunters can fit through 1x1 spaces. Average walls--Average towers with gold upgrades available that boost damage or add special features.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

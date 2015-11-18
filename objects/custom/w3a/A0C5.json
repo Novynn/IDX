@@ -65,5 +65,6 @@
             "value": "Increases the life regeneration of player units by 2 hp/s.|n|cffffcc00Passive.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

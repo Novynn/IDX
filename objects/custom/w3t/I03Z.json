@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Reduces Magic damage dealt to the holder by 75%."
         }
-    ]
+    ],
+    "type": "Item"
 }

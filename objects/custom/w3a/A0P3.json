@@ -72,5 +72,6 @@
             "value": "Abilities\\Spells\\Other\\CreepSleep\\CreepSleepTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

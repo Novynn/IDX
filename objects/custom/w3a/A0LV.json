@@ -107,5 +107,6 @@
             "value": "Gives nearby units invisibility which lasts until the unit attacks, casts a spell or gets out of range. Also provides additonal mana regeneration.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -107,5 +107,6 @@
             "value": "|cffffcc00[|r|cff5f9ea0Scouting|r|cffffcc00]|r|n|n|cffffcc00The Titan commands ice crystals in the clouds above him to periodically view areas of the Island.|r|n|n|cff1e90ffGrants you the vision of a random location on the Island for 15s.|nPassive - 45 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

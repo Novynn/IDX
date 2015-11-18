@@ -79,5 +79,6 @@
             "value": "Rejuvnates a friendly target unit or structures hit points by 300 over 5 seconds.|n|n|cffadd8e6Cooldown:|r 30",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

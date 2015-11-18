@@ -42,5 +42,6 @@
             "type": 3,
             "value": "This unit is Panicking! Its movement speed has increased."
         }
-    ]
+    ],
+    "type": "Buff"
 }

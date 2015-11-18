@@ -82,5 +82,6 @@
             "type": 3,
             "value": "Hides the Titan for 20 seconds while increasing his movement speed by 25% and allowing him to walk through other units (not structures). Useful for escaping armies that box you in. Cooldown is 3 minutes. Beware... Gnoll Trackers can see invisible units."
         }
-    ]
+    ],
+    "type": "Item"
 }

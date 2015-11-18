@@ -58,5 +58,6 @@
             "value": "Increases all player owned units' movement speed by 10% and attack rate by 20%.|n|cffffcc00Passive.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

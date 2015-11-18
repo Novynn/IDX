@@ -51,5 +51,6 @@
             "value": "Gives a 35% chance an attack will do 3 times the normal damage.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

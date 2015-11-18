@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Creates a Wave Tower at a target location. Also makes the holder able to attack all nearby enemy units at the same time."
         }
-    ]
+    ],
+    "type": "Item"
 }

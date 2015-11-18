@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increases the attack damage and armour of all summoned demons. Stage 1."
         }
-    ]
+    ],
+    "type": "Unit"
 }

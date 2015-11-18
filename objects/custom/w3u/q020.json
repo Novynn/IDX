@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Allows the Morphling Warrior to use Shockwave as well as increasing the effectiveness of Slam."
         }
-    ]
+    ],
+    "type": "Unit"
 }

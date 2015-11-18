@@ -72,5 +72,6 @@
             "type": 3,
             "value": "The Box of Gaia decreases nearby enemies attack speed, movement speed and armor.|nWhen held as an item, it gives the holder a slow aura and also provides the holder with +10 attack damage."
         }
-    ]
+    ],
+    "type": "Item"
 }

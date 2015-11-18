@@ -79,5 +79,6 @@
             "value": "Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for 3 seconds.|n|cffffcc00Unit-Targeted -- 60 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

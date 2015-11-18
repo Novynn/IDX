@@ -262,5 +262,6 @@
             "type": 3,
             "value": "The ultimate tower for any base defense. This tower packs quite a punch, It has an attack that deals 130 chaos damage, and also has 2 secondary weapons so it can attack more than 1 unit at a time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0While being held as an item, it causes radioacive waste to shoot from its holder and also grants +10 damage.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

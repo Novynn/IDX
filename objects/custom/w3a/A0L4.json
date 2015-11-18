@@ -79,5 +79,6 @@
             "value": "Abilities\\Weapons\\LordofFlameMissile\\LordofFlameMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

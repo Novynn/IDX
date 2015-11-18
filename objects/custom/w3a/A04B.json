@@ -86,5 +86,6 @@
             "value": "Abilities\\Spells\\Undead\\Possession\\PossessionCaster.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -12,5 +12,6 @@
             "type": 3,
             "value": "This user has donated to the creation of ToR.|n|n|cffff0000Note:|r This does not give an unfair advantage."
         }
-    ]
+    ],
+    "type": "Buff"
 }

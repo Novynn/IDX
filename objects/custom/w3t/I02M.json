@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffc02701Hard|r|n|n|cffffcc00Nuke:|r |cff00ff00Corpse Launch|n|n|r|cffffcc00Heal:|r |cff00ff00Consume|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Meat Shield|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Decay. Uses corpses as his main requirement for his spells. Once you have your first few levels you're pretty well off. Mid-late game domination.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

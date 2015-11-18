@@ -58,5 +58,6 @@
             "value": "A powerful paralyzing agent is secreted from the Beasts barbs, slowing titans movement speed by 50% and attack speed by 15% for one second.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -97,5 +97,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff0000Very Hard|r|n|n|cffffcc00Escape Abilities:|r |CFF812DFFPermanent Invisibility|n|n|r|cffffcc00Description:|r |cff0080ffA fragile stealth artist, this gold hungry builder can loot the titan. Although physically fragile, his high damage combined with his abilities make him perfect for slaying titans. Definitely not for those new to Island Defense."
         }
-    ]
+    ],
+    "type": "Item"
 }

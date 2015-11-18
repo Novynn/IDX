@@ -268,5 +268,6 @@
             "value": "Upgrades all of the Magnataur's walls so that they have an additional 50 hit points.",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

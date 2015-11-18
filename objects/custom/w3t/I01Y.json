@@ -82,5 +82,6 @@
             "type": 3,
             "value": "Gives the titan a permanent healing ward item that has a 90 second cooldown. Each ward lasts 30 seconds: |n|cffffd700Requires:|r 3 healing wards & Recipe"
         }
-    ]
+    ],
+    "type": "Item"
 }

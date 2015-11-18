@@ -93,5 +93,6 @@
             "value": "Deactivate Mana Shield",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

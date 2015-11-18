@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Increases the maximum hit points of Spearlocs by 250, mana by 3, and attack damage by 25."
         }
-    ]
+    ],
+    "type": "Unit"
 }

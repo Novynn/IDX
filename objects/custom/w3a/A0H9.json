@@ -142,5 +142,6 @@
             "value": "Creates an circle around the tower that shows how far it's range is.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

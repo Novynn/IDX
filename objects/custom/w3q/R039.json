@@ -163,5 +163,6 @@
             "value": "Increases the mana capacity of your Titan Hunter by 200, hit points by 400, attack damage by 20, and movement speed by 60. Also makes his attacks have a 15% chance to afflict a unit with Soul Burn.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -82,5 +82,6 @@
             "type": 3,
             "value": "Fills Titans with vitality, replenishing 1000 hp in an 750 AoE over 20 seconds when used. Also provides a 12hp/s regeneration aura, and an 6 mana/s regeneration aura."
         }
-    ]
+    ],
+    "type": "Item"
 }

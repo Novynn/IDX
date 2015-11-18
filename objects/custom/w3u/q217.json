@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Allows your Titan Hunter to use the Nature's Grace aura. This aura increases the regeneration rate of nearby Feral Towers."
         }
-    ]
+    ],
+    "type": "Unit"
 }

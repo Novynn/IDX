@@ -72,5 +72,6 @@
             "value": "Gives your Vicious Fungovors a slowing attack.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

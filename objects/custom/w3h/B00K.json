@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This unit has been damaged by a transmuted ultimate tower."
         }
-    ]
+    ],
+    "type": "Buff"
 }

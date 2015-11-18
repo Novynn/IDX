@@ -107,5 +107,6 @@
             "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Lights attacked units on fire, burning them.|r|n|cff808080\"Die in flames.\"|r|n|n|cff1e90ffA burning attack that slows the target enemy's movement by <TMAS,DataB1,%>% for <TMAS,Dur1> seconds.|nPassive.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

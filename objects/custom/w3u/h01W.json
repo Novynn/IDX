@@ -247,5 +247,6 @@
             "type": 3,
             "value": "This ranged unit deals 80 damage, but only has 215 hit points and is very slow. This unit does not have Blink."
         }
-    ]
+    ],
+    "type": "Unit"
 }

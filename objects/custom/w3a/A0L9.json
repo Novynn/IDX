@@ -72,5 +72,6 @@
             "value": "Abilities\\Spells\\Orc\\SpikeBarrier\\SpikeBarrier.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

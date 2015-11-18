@@ -57,5 +57,6 @@
             "type": 3,
             "value": "This unit is coated with an incendiary."
         }
-    ]
+    ],
+    "type": "Buff"
 }

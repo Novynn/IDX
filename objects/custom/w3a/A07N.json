@@ -72,5 +72,6 @@
             "value": "Allows the you to become invisible for 15 seconds and increases your movement speed by 10%.|n|cffffcc00Activated -- 80 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

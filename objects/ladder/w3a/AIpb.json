@@ -16,5 +16,6 @@
             "value": "Abilities\\Spells\\Items\\OrbVenom\\OrbVenom.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

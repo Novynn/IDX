@@ -65,5 +65,6 @@
             "value": "Gives a 25% chance that an attack will stun an opponent for 1 second.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

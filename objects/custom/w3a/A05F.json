@@ -100,5 +100,6 @@
             "value": "Slows enemy attack and movement speed by 20%, and deals 5 damage per second.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

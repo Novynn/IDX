@@ -184,5 +184,6 @@
             "value": "Turns an allied unit or structure invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts 10 seconds.|n|cffffcc00Unit targeted -- 30 second cooldown.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

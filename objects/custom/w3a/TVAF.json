@@ -156,5 +156,6 @@
             "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Voltron uses the conductive properties of the air around him in order to teleport to the target location in the blink of an eye.|r|n|n|cff1e90ffBlinks to the target location within a maximum area of 3000.|nPoint-Targeted - 60 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

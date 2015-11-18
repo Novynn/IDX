@@ -79,5 +79,6 @@
             "value": "A poison attack that deals 2 damage per second, and slows the target enemy's movement by 20%.|n|cffffcc00Passive|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

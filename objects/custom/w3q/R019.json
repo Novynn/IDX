@@ -72,5 +72,6 @@
             "value": "Increases the attack rate of all Cannon Towers by 15%.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

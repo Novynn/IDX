@@ -47,5 +47,6 @@
             "type": 3,
             "value": "This unit is emitting radiation; nearby enemy ground units will take damage over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

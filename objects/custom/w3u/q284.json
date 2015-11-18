@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Enhances the Gnoll's Ward, giving it true sight."
         }
-    ]
+    ],
+    "type": "Unit"
 }

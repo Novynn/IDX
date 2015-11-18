@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Crab Mutant at a target location. Also provides its' holder +10 to armor and +10 to attack damage."
         }
-    ]
+    ],
+    "type": "Item"
 }

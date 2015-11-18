@@ -57,5 +57,6 @@
             "type": 3,
             "value": "Increases the attack damage of the Hero by 5.|n|cffff4500Collect 3 of these and they will combine to form a Trident of Power.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

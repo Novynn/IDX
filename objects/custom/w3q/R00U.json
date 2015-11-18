@@ -142,5 +142,6 @@
             "value": "Increases the duration of Demon Overlord, Demonic Arachnathid and Fel Hound by an additional 15 seconds and doubles the amount of summons.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

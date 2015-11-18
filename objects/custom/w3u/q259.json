@@ -132,5 +132,6 @@
             "type": 3,
             "value": "The Satyr trains his senses, being able to know when he has been detected by the enemy.|n|nGrants a visual buff on your Satyr whenever he is visible to an enemy player."
         }
-    ]
+    ],
+    "type": "Unit"
 }

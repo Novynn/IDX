@@ -121,5 +121,6 @@
             "value": "A poison attack that deals 4 damage per second, and slows the target enemy's speed by 1%. Stacks.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

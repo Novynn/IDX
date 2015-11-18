@@ -79,5 +79,6 @@
             "value": "Increases the maximum hit points of Spearlocs, Head Hunters, Stone Throwers, and Trackers by 150 hit points.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

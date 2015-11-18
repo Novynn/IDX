@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Enables the Morphling to change into a powerful beast able to hunt down titans. Initially has Lifesteal, and can learn Howl, Deadly spines, and Paralyzing barbs."
         }
-    ]
+    ],
+    "type": "Unit"
 }

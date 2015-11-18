@@ -114,5 +114,6 @@
             "value": "Deals 5 damage per second and slows movement speed and attack rate.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

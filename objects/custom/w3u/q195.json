@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increases the hit points of catapults by 100."
         }
-    ]
+    ],
+    "type": "Unit"
 }

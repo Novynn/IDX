@@ -227,5 +227,6 @@
             "type": 3,
             "value": "A powerful tower that can only deal damage during the daytime. This tower has the ability to cast Seed, which creates 3 seedlings at the targeted position that attack nearby enemy units. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff8c6239While being held as an item it gives its carrier a slowing Bloom Aura and also increases the armor of the holder by 5.|r"
         }
-    ]
+    ],
+    "type": "Unit"
 }

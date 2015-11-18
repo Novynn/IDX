@@ -79,5 +79,6 @@
             "value": "Enables the Magnataur to cast Arctic Armor on himself or allied units. This increases defense by 5, and slows enemy melee attackers.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

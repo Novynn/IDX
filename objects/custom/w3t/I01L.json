@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Toxic Tower at a target location. Also adds +10 to the holders attack damage, and causes the holder to Shoot toxic projectiles at enemy units."
         }
-    ]
+    ],
+    "type": "Item"
 }

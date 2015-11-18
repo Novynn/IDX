@@ -162,5 +162,6 @@
             "type": 3,
             "value": "A strong wall for the Goblin.|n|cff808080These walls have 20% evasion and will attack nearby enemies.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 20 Fortified|n|cffffcc00Attack:|r 10 Chaos|n|cffffcc00Attack Range:|r 105|n|cffffcc00Attack Speed:|r Very Fast"
         }
-    ]
+    ],
+    "type": "Unit"
 }

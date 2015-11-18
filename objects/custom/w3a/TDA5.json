@@ -289,5 +289,6 @@
             "value": "|cffc3dbffRight-click to deactivate auto-casting.|r",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -149,5 +149,6 @@
             "value": "Opens a portal allowing the Draenei into the void, teleporting you to a random Void Gate you own. The Draenei is immune to damage while teleporting.|n|cffffcc00Activated -- 180 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

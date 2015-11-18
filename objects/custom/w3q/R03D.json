@@ -219,5 +219,6 @@
             "value": "Increases the movement speed of catapults by 75.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

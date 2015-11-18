@@ -52,5 +52,6 @@
             "type": 3,
             "value": "This unit is drenched with freezing water; Its movement speed has been reduced."
         }
-    ]
+    ],
+    "type": "Buff"
 }

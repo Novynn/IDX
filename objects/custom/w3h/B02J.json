@@ -52,5 +52,6 @@
             "type": 3,
             "value": "This unit is afflicted by Soul Burn. It cannot cast spells, attacks for less damage, moves slower, and will take damage over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

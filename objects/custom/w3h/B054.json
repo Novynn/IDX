@@ -27,5 +27,6 @@
             "type": 3,
             "value": "This player has been blessed by the island. This unit has increased movement speed."
         }
-    ]
+    ],
+    "type": "Buff"
 }

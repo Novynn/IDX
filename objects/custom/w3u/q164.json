@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Allows the Tauren to cast Enfeeble on enemy units. This ability shrinks a target unit for 6 seconds, slowing its movement and attack speed by 30%.  Adds 50 mana to Taurens Pool"
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Grants +35 damage to the holder, and can be used to cast Mutate on titans every 60 seconds."
         }
-    ]
+    ],
+    "type": "Item"
 }

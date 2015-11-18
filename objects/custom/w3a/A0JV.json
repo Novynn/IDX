@@ -58,5 +58,6 @@
             "value": "(Minion Bones Armor Effect)",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

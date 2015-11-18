@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cff00ff00Random!|r|n|n|cff1e90ffRandomers will receive a random item:|n    20% Webbed Feet|n    20% Regenerative Spines|n    20% Trident|n    10% Moon Crystal|n    10% Magic Coral|n    5% Gem of Haste|n    5% Pearl of Vision|n    2.5% Shield of Fate|n    2.5% Windcatcher|n    2.5% Eternal Wards|n    2.5% Ethereal Mirror|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

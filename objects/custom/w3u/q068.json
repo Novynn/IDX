@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Enables the Magnataur to use his War Cry skill. When used, War Cry grants a 15% increase in attack damage to friendly nearby units and structures in an area of 700 around the Magnataur."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Surrounds Troll walls and towers with spikes that damage enemy melee attackers. Deals 20 damage per attack.|nAlso slightly increases the walls durability, extending 50 hit points to it."
         }
-    ]
+    ],
+    "type": "Unit"
 }

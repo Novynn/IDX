@@ -72,5 +72,6 @@
             "value": "Abilities\\Spells\\Demon\\DemonBoltImpact\\DemonBoltImpact.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

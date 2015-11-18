@@ -197,5 +197,6 @@
             "type": 3,
             "value": "undead"
         }
-    ]
+    ],
+    "type": "Unit"
 }

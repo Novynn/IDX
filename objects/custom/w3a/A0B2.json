@@ -79,5 +79,6 @@
             "value": "Abilities\\Spells\\Other\\Volcano\\VolcanoMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

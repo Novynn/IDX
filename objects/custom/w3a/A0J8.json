@@ -72,5 +72,6 @@
             "value": "Cause nearby enemies to be consumed in burning flames, dealing damage over time.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

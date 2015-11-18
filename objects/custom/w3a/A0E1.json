@@ -79,5 +79,6 @@
             "value": "Abilities\\Spells\\Orc\\Bloodlust\\BloodlustTarget.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

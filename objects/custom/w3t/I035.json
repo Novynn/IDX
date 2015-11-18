@@ -97,5 +97,6 @@
             "type": 3,
             "value": "Restores 5 mana to all friendly nearby units, allowing certain units to reuse their one use blinks."
         }
-    ]
+    ],
+    "type": "Item"
 }

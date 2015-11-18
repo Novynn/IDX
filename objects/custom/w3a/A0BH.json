@@ -128,5 +128,6 @@
             "value": "Transports the Fiend through the Nether realm to a set location, but needs a friendly demon at the location to anchor the portal.|R|n|cffffcc00Unit-targetted -- 120 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

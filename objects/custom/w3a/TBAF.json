@@ -191,5 +191,6 @@
             "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Bubonicus uses his corpses in order to form a shield around him, protecting him from danger.|r|n|n|cff1e90ffConsumes all of Bubonicus's corpses in order to form several shields. These shields block all damage taken from enemies and redirect the damage to a shield. Each shield has 500 health, and will last until destroyed, after which a disease cloud will spawn which reduces nearby enemy units' and structures' armor by 5 for 5 seconds.|n|nSelf-Targeted - 3 minute cooldown|r.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

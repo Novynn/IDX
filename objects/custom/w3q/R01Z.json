@@ -429,5 +429,6 @@
             "value": "Increases the attack damage and armour of all summoned demons. Stage 10.",
             "variation": 10
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

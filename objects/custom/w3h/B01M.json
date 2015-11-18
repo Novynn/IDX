@@ -17,5 +17,6 @@
             "type": 3,
             "value": "This unit has been Earthshocked.  It has reduced armor, and is being damaged over time."
         }
-    ]
+    ],
+    "type": "Buff"
 }

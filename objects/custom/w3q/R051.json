@@ -72,5 +72,6 @@
             "value": "A highly skilled Titan Hunter. The Hunter is able to kill the Titan and his minions in order to increase his level.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

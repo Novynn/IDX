@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00An upgrade module for Radon towers which adds an additional 10 damage and grants the Overload ability.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |r5% damage bonus to nearby structures for 30 seconds.|n|cffffcc00Super Radon Tower: |r10% damage bonus to nearby structures for 30 seconds.|n|cffffcc00Mega Radon Tower: |r15% damage bonus to nearby structures for 30 seconds."
         }
-    ]
+    ],
+    "type": "Item"
 }

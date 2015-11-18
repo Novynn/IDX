@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Use this item to rebuild your Mutation Tower.|n|cffffd700Caution: |rDo not stop the rebuid process once started.  You will lose your item."
         }
-    ]
+    ],
+    "type": "Item"
 }

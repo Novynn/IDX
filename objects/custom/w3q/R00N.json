@@ -72,5 +72,6 @@
             "value": "A highly skilled Titan Hunter. The Hunter is able to kill the Titan and his minions in order to increase his level. This particular type of hunter is very effective at stopping Titans in their tracks with his net ability. He is very useful in trapping titans when they least expect it.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

@@ -122,5 +122,6 @@
             "type": 3,
             "value": "Increases the attack damage of catapults by 2 and hp by 35."
         }
-    ]
+    ],
+    "type": "Unit"
 }

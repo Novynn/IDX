@@ -268,5 +268,6 @@
             "value": "Further doubles the amount of Fel Hounds that can be summoned for a total of 4.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

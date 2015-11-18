@@ -135,5 +135,6 @@
             "value": "Gives a <AHbh,DataA2>% chance that an attack will do <AHbh,DataC1> bonus damage and stun an opponent for .0<AHbh,Dur1,%> seconds.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Creates an Aura Tree at a target location. While being held, this item increases attack speed by 5%, movement speed by 25%, and attack damage of ranged units by 15%."
         }
-    ]
+    ],
+    "type": "Item"
 }

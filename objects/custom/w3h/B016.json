@@ -52,5 +52,6 @@
             "type": 3,
             "value": "Environment\\UndeadBuildingFire\\UndeadLargeBuildingFire1.mdl"
         }
-    ]
+    ],
+    "type": "Buff"
 }

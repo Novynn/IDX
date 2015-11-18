@@ -16,5 +16,6 @@
             "value": "air,ground,invulnerable,neutral,organic,player,vulnerable",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

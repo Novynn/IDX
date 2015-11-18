@@ -226,5 +226,6 @@
             "value": "Enables Super Enchanted Walls to upgrade to Imbued Walls. These walls have increased defense, and 50 more hit points.",
             "variation": 3
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

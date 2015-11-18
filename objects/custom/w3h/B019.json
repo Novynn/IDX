@@ -42,5 +42,6 @@
             "type": 3,
             "value": "This unit was hit by Decay; its movement speed and attack rate have been reduced."
         }
-    ]
+    ],
+    "type": "Buff"
 }

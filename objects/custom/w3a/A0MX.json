@@ -51,5 +51,6 @@
             "value": "Gives additional mana regeneration to nearby structures.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

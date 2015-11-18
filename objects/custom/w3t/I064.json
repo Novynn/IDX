@@ -52,5 +52,6 @@
             "type": 3,
             "value": "A single gold coin."
         }
-    ]
+    ],
+    "type": "Item"
 }

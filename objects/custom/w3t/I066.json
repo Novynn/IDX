@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Flee and Entangling Roots|r|n|n|cffffcc00Description:|r  |cff0080ffAn average builder with towers that can naturally upgrade over time instead of requiring wood. Has a ranged hunter that can fit through small gaps which other units can walk through.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

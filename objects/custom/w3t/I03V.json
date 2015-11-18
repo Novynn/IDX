@@ -112,5 +112,6 @@
             "type": 3,
             "value": "Restores 250 hit points."
         }
-    ]
+    ],
+    "type": "Item"
 }

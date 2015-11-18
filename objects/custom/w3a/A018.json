@@ -93,5 +93,6 @@
             "value": "(E) Energy Transfer",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

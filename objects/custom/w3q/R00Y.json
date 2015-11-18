@@ -107,5 +107,6 @@
             "value": "Increases the maximum hit points of Venomous Protectors by 100,  attack damage by 20 and increases armor by 3.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

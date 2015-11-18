@@ -72,5 +72,6 @@
             "value": "A highly skilled Titan Hunter. The Hunter is able to kill the Titan and his minions in order to increase his level. This particular type of hunter is very effective at scouting due to its flying capabilities. With expert training this hunter can lay landmines that devastate unsuspecting titans.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

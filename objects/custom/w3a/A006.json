@@ -72,5 +72,6 @@
             "value": "Abilities\\Spells\\Other\\CrushingWave\\CrushingWaveDamage.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

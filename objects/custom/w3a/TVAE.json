@@ -471,5 +471,6 @@
             "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Voltron lets loose a swarm of static spheres that shoot lightning at enemy buildings. Damage dealt is enhanced and returned to the Titan in a healing effect.|r|n|n|cff1e90ffRestores up to 1000 health.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r|n|n|cffff5522Note: |rThis ability only works near enemy structures!",
             "variation": 4
         }
-    ]
+    ],
+    "type": "Ability"
 }

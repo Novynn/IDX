@@ -107,5 +107,6 @@
             "value": "Increases the attack damage of |cFFFF0000Mega Dart Towers|r by 10.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

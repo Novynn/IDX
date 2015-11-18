@@ -47,5 +47,6 @@
             "type": 3,
             "value": "This unit is hidden by a vaporous cloud; it is invisible and moves faster."
         }
-    ]
+    ],
+    "type": "Buff"
 }

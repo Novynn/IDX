@@ -72,5 +72,6 @@
             "type": 3,
             "value": "Creates a Whirlpool at a target location. Also adds +20 do the holders attack damage, and causes the holder to spew damaging streams of icy cold water onto enemy units."
         }
-    ]
+    ],
+    "type": "Item"
 }

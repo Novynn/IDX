@@ -92,5 +92,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|n|r|n|cffffcc00Escape Abilities:|r |cff00ff00Dissipate, Toss Incendiary Explosive|n|n|r|cffffcc00Description:|r |cff0080ffThe pirate builder makes use of cannons from ships.  These cannons deal a very heavy blow to the enemy.  The downside is it takes a long time to reload the cannons.  This builder also can make walls that explode when they are killed.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

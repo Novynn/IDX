@@ -65,5 +65,6 @@
             "value": "Item Reveal Entire Map (Fast)",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

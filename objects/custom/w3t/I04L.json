@@ -82,5 +82,6 @@
             "type": 3,
             "value": "This item coats your weapon in freshly brewed beer from the tavern, slowing your enemies when you attack. It also allows you to call forth some pirates when activated who can not be controlled but will run out and attack the nearest enemy for 20 seconds before they disappear.|n|cffff0000Activated|r - 60 second cooldown.|n|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

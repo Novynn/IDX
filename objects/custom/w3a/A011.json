@@ -44,5 +44,6 @@
             "value": "Attack Speed Bonus 50%",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

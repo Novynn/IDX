@@ -58,5 +58,6 @@
             "value": "Abilities\\Spells\\Orc\\AncestralSpirit\\AncestralSpiritCaster.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

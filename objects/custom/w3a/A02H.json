@@ -170,5 +170,6 @@
             "value": "|cff1e90ffSummons an untargetable and invulnerable Courier who will transfer items in the Gold Mound to the targeted point or unit.|n|nPoint or Unit Targeted - 30 second cooldown.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

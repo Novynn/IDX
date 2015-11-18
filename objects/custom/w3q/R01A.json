@@ -107,5 +107,6 @@
             "value": "Increases the attack range of your Factories by 300 and attack damage by 5.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Upgrade"
 }

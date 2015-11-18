@@ -65,5 +65,6 @@
             "value": "An aura that gives friendly nearby units a damage shield, which deals 20% of an enemy unit's melee attack damage back to it.",
             "variation": 2
         }
-    ]
+    ],
+    "type": "Ability"
 }

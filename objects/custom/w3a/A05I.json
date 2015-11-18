@@ -100,5 +100,6 @@
             "value": "Reduces all magic damage against the Demonologist by 25%.|n|cffffcc00Passive.|r",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Shoot waves of fireworks at your enemies in an area of 450. A Wave of Fireworks is launched every second for 5 seconds.  Fireworks deal 150 damage. |nLasts 5 seconds and has a 45 second cooldown.|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

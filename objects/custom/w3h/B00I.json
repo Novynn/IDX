@@ -42,5 +42,6 @@
             "type": 3,
             "value": "This unit has been hit by Entangling Roots; it cannot move."
         }
-    ]
+    ],
+    "type": "Buff"
 }

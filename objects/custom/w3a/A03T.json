@@ -58,5 +58,6 @@
             "value": "Teleports this unit to a targeted friendly stucture. |CFF00F100When you need to escape the titan use this ability to teleport to an ally's base that is far from danger.|R|n|cffffcc00Unit-targetted -- 360 second cooldown.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

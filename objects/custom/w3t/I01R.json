@@ -87,5 +87,6 @@
             "type": 3,
             "value": "Increases attack damage by 50 and strength by 20 when held.|n|cffffd700Requires:|r 2 Tridents of Power"
         }
-    ]
+    ],
+    "type": "Item"
 }

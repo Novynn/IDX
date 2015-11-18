@@ -100,5 +100,6 @@
             "value": "Calls forth a wave of healing energy that bounces up to 3 times, healing each target for 200 hit points. This can only be cast on structures.",
             "variation": 1
         }
-    ]
+    ],
+    "type": "Ability"
 }

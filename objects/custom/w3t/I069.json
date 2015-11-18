@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Increases the Hero's damage by 25, strength by 10, mana regeneration by 60% and mana points by 350."
         }
-    ]
+    ],
+    "type": "Item"
 }

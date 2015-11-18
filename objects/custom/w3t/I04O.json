@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Creates an Ice Palace at a target location. Grants +20 damage and gives the user a critical strike ability."
         }
-    ]
+    ],
+    "type": "Item"
 }

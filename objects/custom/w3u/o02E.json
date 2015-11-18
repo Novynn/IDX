@@ -212,5 +212,6 @@
             "type": 3,
             "value": "A powerful tower that deals amazing damage. This tower also gives off an aura that gives bonus mana regeneration to your structures.|nWhen held as an item, it gives off a mana regeneration aura and adds 200 mana to the holder."
         }
-    ]
+    ],
+    "type": "Unit"
 }

@@ -112,5 +112,6 @@
             "type": 3,
             "value": "A highly skilled Titan Hunter. The Hunter is able to kill the Titan and his minions in order to increase his level. This particular type of hunter is very effective at hit and run attacks.  With his slowing poison ability, he is very hard to catch and makes a great defensive addition to any base."
         }
-    ]
+    ],
+    "type": "Unit"
 }

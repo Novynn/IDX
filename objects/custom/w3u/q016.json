@@ -127,5 +127,6 @@
             "type": 3,
             "value": "Fortifies your walls by giving them an additional 50 health."
         }
-    ]
+    ],
+    "type": "Unit"
 }

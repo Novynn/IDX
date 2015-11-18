@@ -117,5 +117,6 @@
             "type": 3,
             "value": "Increases the damage of your Titan Hunter by 20, hit points by 200, and attack speed by 15%. Also allows the hunter to trap the titan in entangling roots for 3 seconds."
         }
-    ]
+    ],
+    "type": "Unit"
 }

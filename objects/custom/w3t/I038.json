@@ -67,5 +67,6 @@
             "type": 3,
             "value": "Can be used to make a duplicate of the holder, that deals 75% damage and takes 125% damage, but cannot use skills. A unit can only have one duplicate at a time. Also makes the holder deal 25 more damage. Duplicates last for 60 seconds.|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r|n|n|cffff5522Note:|r When used on Morphling's Beast form, it will show a Morphling Warrior. This is a known issue with no current work-around."
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -67,5 +67,6 @@
             "type": 3,
             "value": "This is a permanent teleportation staff. It works the same as any other teleportation staff, except the casting time on this one is half a second and it can be used over and over. (Long Cooldown).|n|cffffd700Requires:|r 2 Titan Eggs, 1 Staff of Teleportation"
         }
-    ]
+    ],
+    "type": "Item"
 }

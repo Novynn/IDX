@@ -62,5 +62,6 @@
             "type": 3,
             "value": "Reveals a targeted area. Invisible units are also revealed by the Pearl's effect. Lasts 10 seconds."
         }
-    ]
+    ],
+    "type": "Item"
 }

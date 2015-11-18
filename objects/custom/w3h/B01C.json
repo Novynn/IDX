@@ -42,5 +42,6 @@
             "type": 3,
             "value": "This unit is hidden by the shadows; it is invisible and moves faster."
         }
-    ]
+    ],
+    "type": "Buff"
 }

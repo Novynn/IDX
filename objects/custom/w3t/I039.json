@@ -87,5 +87,6 @@
             "type": 3,
             "value": "|cffffcc00Difficulty:|r |cffff8040Medium|r|n|n|cffffcc00Escape Abilities:|r |cff00ff00Bloodlust, Fart Cloud|n|n|r|cffffcc00Description:|r |cff0080ffAn average builder whos main defensive units can also be used offensively if needed.  Does not have basic towers, but instead uses catapults that take up 2x2 spacing.  Average walls--Average \"towers\" The Ogre is a very versitile race who can build a primarry base or help hunt minions.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

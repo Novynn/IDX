@@ -252,5 +252,6 @@
             "type": 3,
             "value": "The Dryad's generic defensive tower.|n|cff808080Useful towers with average attack damage. Can be upgraded using mana instead of wood.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 80 Pierce|n|cffffcc00Attack Range:|r 850|n|cffffcc00Attack Speed:|r Very Fast|n|n|cffff0000Note:|r You should build these in a base behind 4-5 walls. They're only effective if the titan cannot reach them."
         }
-    ]
+    ],
+    "type": "Unit"
 }

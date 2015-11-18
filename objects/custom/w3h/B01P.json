@@ -17,5 +17,6 @@
             "type": 3,
             "value": "This unit is detected; an enemy player can see it."
         }
-    ]
+    ],
+    "type": "Buff"
 }

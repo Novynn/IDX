@@ -82,5 +82,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cffff8c00Consumable|r|cffffcc00]|r|n|n|cffffcc00An idol shaped as a Chimaera. Useful when you want to collect items out of your reach.|r|n|cff1e90ff    On use: summons a Chimera Scout that lasts for 30 seconds. The Scout has 200 health, 6 inventory slots, minimal sight, and a speed of 300.|n|nSelf-Targeted - 300 second cooldown.|r"
         }
-    ]
+    ],
+    "type": "Item"
 }

@@ -37,5 +37,6 @@
             "type": 3,
             "value": "This unit was hit by Incinerate; its movement speed and attack rate have been reduced."
         }
-    ]
+    ],
+    "type": "Buff"
 }

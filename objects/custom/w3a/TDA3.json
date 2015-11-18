@@ -30,5 +30,6 @@
             "value": "undead",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }

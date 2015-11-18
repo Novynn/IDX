@@ -79,5 +79,6 @@
             "value": "Abilities\\Weapons\\ZigguratMissile\\ZigguratMissile.mdl",
             "variation": 0
         }
-    ]
+    ],
+    "type": "Ability"
 }
