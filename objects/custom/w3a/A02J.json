@@ -309,13 +309,6 @@
             "type": 3,
             "value": "Harvests lumber from trees.",
             "variation": 5
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

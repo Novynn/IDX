@@ -169,13 +169,6 @@
             "type": 3,
             "value": "|cffffcc00Insolance will not be tolerated. You forcefully take control of the targeted unit, removing any negative effects from it.|r|n|n|cff1e90ffRemoves negative buffs from the targeted allied unit and ensures you have ownership over it.|nUnit-Targeted - 1 second cooldown.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

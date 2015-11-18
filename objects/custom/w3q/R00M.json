@@ -71,13 +71,6 @@
             "type": 3,
             "value": "A highly skilled Titan Hunter. The Hunter is able to kill the Titan and his minions in order to increase his level. This particualar hunter moves very slowly, but is adept at defending base enterences. Needless to say, he is best used as an extra wall to block any intruders from entering your layer.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

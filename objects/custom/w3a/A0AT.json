@@ -85,13 +85,6 @@
             "type": 3,
             "value": "Grants the Tauren +100 hit points, +50 mana, +50 bonus attack range, and +50% hit point regeneration.|n|n|cffdaa520Passive|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

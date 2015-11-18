@@ -113,13 +113,6 @@
             "type": 3,
             "value": "Enhances the Magnataur builder with Fortification Aura. This aura increases his armor by 10, and also grants friendly structures and units around him with the same defense bonus.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

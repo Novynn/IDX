@@ -31,11 +31,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit's attack is disabled."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

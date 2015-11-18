@@ -134,13 +134,6 @@
             "type": 3,
             "value": "Call for some pirates from the pub, these pirates are will run out and attack the nearest enemy, they attack for 20 seconds before they run out of energy and disapper.|n|cffff0000Activated|r -- 60 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -92,13 +92,6 @@
             "type": 3,
             "value": "Allows the builder to become invisible for 10 seconds and increase movement speed.|n|cffffcc00Activated -- 120 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -78,13 +78,6 @@
             "type": 3,
             "value": "Single use short distance teleportation, used for getting your army out of your base.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

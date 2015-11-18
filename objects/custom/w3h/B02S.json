@@ -31,11 +31,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is producing a Heroic Aura. Half of the damage taken by nearby friendly units will be redirected against this unit instead."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

@@ -204,13 +204,6 @@
             "type": 3,
             "value": "Boosts your basic defenses, giving 50 bonus health to your walls.",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

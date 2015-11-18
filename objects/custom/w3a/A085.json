@@ -71,13 +71,6 @@
             "type": 3,
             "value": "The beast gains 20% of his attack damage in life when he attacks an enemy.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

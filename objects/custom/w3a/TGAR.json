@@ -365,13 +365,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Non-descript.|r|n|n|cff1e90ffSlows the attack speed of enemy structures by 40% within a range of 350 from the targeted point for 20 seconds.|nPoint-Targeted - 20 second cooldown.|r",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

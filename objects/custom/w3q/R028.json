@@ -78,13 +78,6 @@
             "type": 3,
             "value": "Empowers the Demonologist with the capacity to send a horde of bats at the target location; damaging enemy units caught in their path.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

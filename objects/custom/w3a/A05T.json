@@ -64,13 +64,6 @@
             "type": 3,
             "value": "A poison attack that slows the target enemy's movement by 30% and attack rate by 10% for 3 seconds.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

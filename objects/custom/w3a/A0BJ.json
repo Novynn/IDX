@@ -99,13 +99,6 @@
             "type": 3,
             "value": "The Fiend burns all of its life force, creating a Demonic Stalker that has true sight.|n|cffffd700The Stalker last for 8 seconds.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

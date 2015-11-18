@@ -127,13 +127,6 @@
             "type": 3,
             "value": "Upgrades your |cffff0000Mega Axe Towers|r into |cffff0000Deadly Mega Axe Towers|r. These towers have an extra 5 damage and have a more potent slowing poison effect.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

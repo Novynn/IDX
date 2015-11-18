@@ -127,13 +127,6 @@
             "type": 3,
             "value": "Increases the maximum hit points of Trackers by 150, attack range by 250, and sight range by 200.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

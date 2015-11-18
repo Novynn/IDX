@@ -120,13 +120,6 @@
             "type": 3,
             "value": "|cffff0bffDefender info goes here!|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

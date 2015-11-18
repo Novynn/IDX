@@ -197,13 +197,6 @@
             "type": 2,
             "value": "100",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -51,11 +51,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is drenched with freezing water; Its movement speed has been reduced."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

@@ -197,13 +197,6 @@
             "type": 3,
             "value": "Gives the Tauren the Earthshock ability. This skill creates a devastating earthquake at the target location, slowing enemies and dealing damage over time.",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -43,13 +43,6 @@
             "type": 3,
             "value": "Sends a bolt of negative energy that burns 350 points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned. |n|cffffcc00Unit-Targetted -- 20 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

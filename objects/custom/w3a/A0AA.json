@@ -78,13 +78,6 @@
             "type": 3,
             "value": "A poison attack that deals 2 damage per second, and slows the target enemy's movement by 20%.|n|cffffcc00Passive|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

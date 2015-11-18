@@ -120,13 +120,6 @@
             "type": 3,
             "value": "Sacrifices the targeted summoned unit or critter in order to summon a Demonic Stalker with True Sight.  Lasts 15 seconds.|n|cffffcc00Unit-Targeted - 100 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

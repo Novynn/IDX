@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has been Entangled.  It has reduced armor, and a slower movement speed."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

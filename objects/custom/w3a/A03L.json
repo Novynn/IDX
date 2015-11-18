@@ -43,13 +43,6 @@
             "type": 3,
             "value": "Gives a 20% percent chance to avoid an attack.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

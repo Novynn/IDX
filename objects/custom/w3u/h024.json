@@ -88,11 +88,6 @@
             "value": "MetalMediumSlice"
         },
         {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
-        },
-        {
             "id": "udp1",
             "type": 2,
             "value": "0.349999994"

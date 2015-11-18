@@ -358,13 +358,6 @@
             "type": 3,
             "value": "Calls up healing sands from the ground that heal the titanous minion and 2 nearby allies for 550 hit points each.|n|cffffcc00Self-Targeted -- 9 second cooldown.",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

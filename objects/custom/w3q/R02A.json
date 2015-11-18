@@ -113,13 +113,6 @@
             "type": 3,
             "value": "Adds an additional 250 mana to the Demonologist and his Demonic Fiend by improving their ability to manipulate talismans.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

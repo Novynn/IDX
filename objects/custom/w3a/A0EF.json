@@ -71,13 +71,6 @@
             "type": 3,
             "value": "Emmits radiation onto nearby enemy organic units in an area of 300 around the hunter. 45 points of damage per second.|nPassive.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -46,11 +46,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is Panicking! Its movement speed has increased."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

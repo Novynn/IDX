@@ -92,13 +92,6 @@
             "type": 3,
             "value": "This upgrade allows the tauren to unleash his ultimate ability on unsuspecting titans. When under the influence of Ancestral Rage, the tauren will be granted, +1000 hit points, Warstomp, and his attacks will do chaos damage.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

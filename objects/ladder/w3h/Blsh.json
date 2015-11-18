@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is charged with damaging energy; nearby enemy units will take damage."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

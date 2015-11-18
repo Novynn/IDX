@@ -176,13 +176,6 @@
             "type": 3,
             "value": "Gives a total of 6 points to Agility, Intelligence, and Strength",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

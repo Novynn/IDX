@@ -407,13 +407,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Strikes units within a cone in front of the caster, damaging them.|r|n|n|cff1e90ffHits units in a cone with 600 range, dealing 180 damage.|n|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -36,11 +36,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit was hit by an Eye of the Ocean; it is revealed to an enemy player."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

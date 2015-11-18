@@ -134,13 +134,6 @@
             "type": 3,
             "value": "The Ogre lets out a noxious fart that reduces nearby enemy movement speed and renders them unable to cast spells for 3 seconds. The fart also causes the Ogre and nearby organic owned units to move 35% faster and boost their armor by +10. |cffffd700Last 5 seconds.|r|n|n|cffadd8e6Cooldown:|r 90",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

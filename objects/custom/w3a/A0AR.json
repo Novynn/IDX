@@ -127,13 +127,6 @@
             "type": 3,
             "value": "Increases the attack rate of a targeted structure owned by the tauren by 50% for 60 seconds. |n|cffffcc00Unit Targeted -- 20 second cooldown",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

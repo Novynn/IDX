@@ -127,13 +127,6 @@
             "type": 3,
             "value": "The Magnataur calls down 6 waves of freezing ice shards; each wave deals 100 damage to units within the target area.|n|n|cffadd8e6Cooldown:|r 60|n|n|cffff0000Channeled|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

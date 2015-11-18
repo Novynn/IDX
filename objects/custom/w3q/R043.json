@@ -134,13 +134,6 @@
             "type": 3,
             "value": "Increases the mana of the main builder and Battle Constructs by 50, and doubles the effectiveness of the Battle Construct mana shield.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

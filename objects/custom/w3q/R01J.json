@@ -162,13 +162,6 @@
             "type": 3,
             "value": "This ability cools the Magnataur's body from within, enabling him to live more comfortably in this warmer climate. This also adds a small move speed bonus. This upgrade is also required for the Magnataur to use Polar Wrath.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

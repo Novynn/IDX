@@ -106,13 +106,6 @@
             "type": 3,
             "value": "Generates a powerful charge around a target unit, dealing 50 damage per second to enemy units around it. Lasts 20 seconds.|n|cffffcc00Unit Targeted-- 120 second cooldown",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

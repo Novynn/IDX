@@ -274,13 +274,6 @@
             "type": 3,
             "value": "Improves the Satyrs ability to fade himself to 1.75 seconds, also gives the Satyr a 32% chance to evade an attack.",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -51,11 +51,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is Charging; it has increased movement and attack speed."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

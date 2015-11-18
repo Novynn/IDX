@@ -41,11 +41,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has a Meat Shield; it is protected from damage until its shields are destroyed."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

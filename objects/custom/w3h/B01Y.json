@@ -41,11 +41,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has been pulverized."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

@@ -71,11 +71,6 @@
             "id": "fube",
             "type": 3,
             "value": "Transforms the Tauren into a powerful warrior with 1000 bonus hit points and 150 chaos damage."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

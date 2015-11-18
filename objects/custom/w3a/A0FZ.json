@@ -323,13 +323,6 @@
             "type": 3,
             "value": "When destroyed this unit explodes causing damage to nearby enemies. The explosion deals ??? damage in a small area and half the damage in a slightly larger area. If the unit is under a incendiary effect, the damage will be doubled and cause a slightly larger explosion.|n|cffff0000Passive|r",
             "variation": 5
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

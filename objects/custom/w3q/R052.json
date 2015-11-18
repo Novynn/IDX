@@ -169,13 +169,6 @@
             "type": 3,
             "value": "Improves your Titan Hunter's Nature's Grace ability, making it more effective at regenerating Feral Towers' mana.",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

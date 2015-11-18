@@ -260,13 +260,6 @@
             "type": 3,
             "value": "Hones the Satyr's weapon to a razor edge, giving it 100 bonus damage and causing it to reduce the armour of damaged units by 8 for two seconds.",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

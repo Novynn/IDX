@@ -92,13 +92,6 @@
             "type": 3,
             "value": "Unlocks the potential of your Arcane Constructs, allowing them to use Orbs of Destruction, adding extra splash damage.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

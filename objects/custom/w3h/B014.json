@@ -21,11 +21,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has been detected; it is visible to an enemy player."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

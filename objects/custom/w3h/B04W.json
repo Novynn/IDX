@@ -41,11 +41,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is Fleeing! Its movement speed has increased."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

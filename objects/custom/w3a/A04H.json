@@ -232,13 +232,6 @@
             "type": 3,
             "value": "Cancel Polar Vengeance and return to your normal builder form",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

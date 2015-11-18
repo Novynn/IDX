@@ -71,13 +71,6 @@
             "type": 3,
             "value": "Increases the mana of your Titan Hunter by 150.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

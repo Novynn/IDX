@@ -505,13 +505,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00The Titan summons a stone that emits healing energy, granting health regeneration to those nearby.|r|n|n|cff1e90ffSummons a ward that heals 160 health per second to nearby units within an area of 400 for 12 seconds.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

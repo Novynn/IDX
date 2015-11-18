@@ -106,13 +106,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Chills attacked units, slowing them and dealing damage as they freeze.|r|n|n|cff1e90ffA chilling attack that slows the target enemy's movement by <TGAS,DataB1,%>% and dealing <TGAS,DataA1> damage per second for <TGAS,Dur1> seconds.|nPassive.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

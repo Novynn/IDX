@@ -267,13 +267,6 @@
             "type": 3,
             "value": "Slams the ground, dealing 150 points of damage and slowing the movement and attack rate of nearby enemy units for 5 seconds.|nActivated - 25 second cooldown.",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

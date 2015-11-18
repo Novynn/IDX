@@ -169,13 +169,6 @@
             "type": 3,
             "value": "|cff1e90ffSummons an untargetable and invulnerable Courier who will transfer items in the Gold Mound to the targeted point or unit.|n|nPoint or Unit Targeted - 30 second cooldown.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

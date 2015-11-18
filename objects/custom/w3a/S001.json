@@ -29,13 +29,6 @@
             "type": 3,
             "value": "Causes nearby morphling harvesters to run into the Burrow so that they can defend their base.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

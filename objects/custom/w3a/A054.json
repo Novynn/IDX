@@ -120,13 +120,6 @@
             "type": 3,
             "value": "Creates a swarm of demonic spirits that bite and tear at nearby enemy units. As they consume enemy flesh, they convert it into a substance that restores hit points to the Demonic Grave when they return. |nLasts 10 seconds.|n|nActivated - 2 minute cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

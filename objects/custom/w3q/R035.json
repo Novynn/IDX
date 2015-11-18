@@ -407,13 +407,6 @@
             "type": 3,
             "value": "Increases the range of Demolisher attacks by 50.",
             "variation": 6
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

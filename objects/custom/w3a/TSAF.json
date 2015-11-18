@@ -435,13 +435,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Sypherious releases a torrent of water upon the selected area, damaging all units hit by the wave.|r|n|cff808080\"There's no surfing this wave.\"|r|n|n|cff1e90ffSends a wave out in a cone shape with a range of 500, and maximum radius of 240, that deals 180 damage to units caught inside.|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

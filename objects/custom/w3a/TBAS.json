@@ -106,13 +106,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Spreads corruption on touch, causing attacked units to decay rapidly.|r|n|n|cff1e90ffA decaying attack that slows the target enemy's movement by <TBAS,DataB1,%>% for <TBAS,Dur1> seconds.|n|nPassive.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

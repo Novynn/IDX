@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is under the effects of a Demonic Totem; it has a bonus to hit point regeneration."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

@@ -162,13 +162,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cffff8c00Skill|r|cffffcc00]|r|n|n|cffffcc00Hurl a handful of rapidly growing seeds at the target! The seeds grow upon contact, entangling the targeted hostile unit.|r|n|cff1e90ffThe affected unit will have it's attack and movement speeds reduced by 10% and 75% respectively for 5 seconds. The entangled unit will also take 50 damage on the initial hit and then 5 damage every second there onwards for the remaining duration.|n|nUnit-Targeted - 120 second cooldown.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

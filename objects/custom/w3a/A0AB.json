@@ -99,13 +99,6 @@
             "type": 3,
             "value": "Each attack dealt by the Tauren releases aftershocks, dealing damage to any enemy units within 500 area of effect around him.|n|n|cffdaa520Passive|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

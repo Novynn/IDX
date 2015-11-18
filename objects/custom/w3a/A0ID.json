@@ -71,13 +71,6 @@
             "type": 3,
             "value": "Teleports the holder a short distance of 400, allowing it to escape the Titan or his Minions.|n|n|cffadd8e6Cooldown:|r 35",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

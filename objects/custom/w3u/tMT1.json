@@ -3,11 +3,6 @@
     "id": "tMT1",
     "mods": [
         {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
-        },
-        {
             "id": "uico",
             "type": 3,
             "value": "ReplaceableTextures\\CommandButtons\\BTNMarkOfFire.blp"

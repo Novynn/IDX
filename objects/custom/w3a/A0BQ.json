@@ -337,13 +337,6 @@
             "type": 3,
             "value": "Cuts through the targets armour, reducing it by 8.|n|cffffcc00Passive.",
             "variation": 5
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

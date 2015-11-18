@@ -33,11 +33,6 @@
             "value": "0"
         },
         {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
-        },
-        {
             "id": "uico",
             "type": 3,
             "value": "ReplaceableTextures\\CommandButtons\\BTNShimmerWeed.blp"

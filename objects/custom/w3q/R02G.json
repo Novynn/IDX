@@ -260,13 +260,6 @@
             "type": 3,
             "value": "Further increases the Draenei's towers and walls mana capacity 50 and also increases their mana regeneration rate by 20%.",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

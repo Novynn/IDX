@@ -85,13 +85,6 @@
             "type": 3,
             "value": "Increases the movement speed and attack rate of the tauren and nearby organic units owned by him. Move speed is increased by 10% and attack speed by 15%. |n|cffffcc00Passive",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

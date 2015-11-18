@@ -204,13 +204,6 @@
             "type": 3,
             "value": "Summons 3 Tauren Guards. Each Tauren has 700 hit points and deals 65 damage. |nLasts 60 seconds. |n|n|cffffcc00--- 180 second cooldown.|r",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

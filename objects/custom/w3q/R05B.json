@@ -337,13 +337,6 @@
             "type": 3,
             "value": "Further boosts harvester lumber acquisition rate.",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

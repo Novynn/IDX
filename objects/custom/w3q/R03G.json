@@ -106,13 +106,6 @@
             "type": 3,
             "value": "Increases the attack range of your mana pools by 300 and attack damage by 5.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

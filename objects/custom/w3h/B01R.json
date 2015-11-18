@@ -36,11 +36,6 @@
             "id": "fube",
             "type": 3,
             "value": "Enemy units that attack this structure will take damage."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

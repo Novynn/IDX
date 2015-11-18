@@ -239,13 +239,6 @@
             "type": 3,
             "value": "Further increases the amount of lumber that harvesters obtain per interval by 2",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

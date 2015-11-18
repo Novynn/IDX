@@ -92,13 +92,6 @@
             "type": 3,
             "value": "Enables the Magnataur to summon powerful polar winds that render him invisible for 5 seconds and increase movement speed by 10%.|n(Has a cooldown of 80 seconds.)",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

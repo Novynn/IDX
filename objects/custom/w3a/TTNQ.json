@@ -400,13 +400,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The minion throws a boulder at the selected location, damaging all units in the way.|r|n|n|cff1e90ffSends a boulder out with a range of 500, that deals 180 damage to units hit.|n|nPoint-Targeted - 10 second cooldown.|r",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

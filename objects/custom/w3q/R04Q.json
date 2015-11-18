@@ -106,13 +106,6 @@
             "type": 3,
             "value": "Allows the Morphling to regenerate health and mana while in Beast Form.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

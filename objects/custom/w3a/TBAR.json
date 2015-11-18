@@ -106,13 +106,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00Bubonicus becomes better at handling corpses, increasing the amount that he can exhume and store.|r|n|n|cffffcc00Level 1 |r- |cff1e90ffRaises Bubonicus' corpse storage capacity to 6.|n|r|cffffcc00Level 2|r - |cff1e90ffIncreases the rate at which corpses spawn at the Mound and from Corpse Wards to 45 seconds rather than 60 seconds. Also, for each corpse stored Bubonicus will gain an additional armor point.|n|nPassive.|r",
             "variation": 0
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

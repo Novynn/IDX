@@ -31,11 +31,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is equipted with only the finest weapons; its attack damage is increased."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

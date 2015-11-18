@@ -57,13 +57,6 @@
             "type": 3,
             "value": "Gives all nearby Demons a bonus to hit point regeneration. Does not stack with Demon Totem. Does not affect self.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -141,13 +141,6 @@
             "type": 3,
             "value": "Allows the Methane Machine to store the Ogre's fart gasses.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

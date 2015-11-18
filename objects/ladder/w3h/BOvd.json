@@ -11,11 +11,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is under the effects of Death Shield, and is invulnerable."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

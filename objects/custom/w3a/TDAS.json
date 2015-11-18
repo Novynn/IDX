@@ -106,13 +106,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Smothers attacked units in darkness, slowing them down as they try to escape.|r|n|cff808080\"Tonight is not your night.\"|r|n|n|cff1e90ffA smothering attack that slows the target enemy's movement by 40% for 2 seconds.|nPassive.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

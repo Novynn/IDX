@@ -428,13 +428,6 @@
             "type": 3,
             "value": "Increases the attack damage and armour of all summoned demons. Stage 10.",
             "variation": 10
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

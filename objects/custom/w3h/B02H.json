@@ -56,11 +56,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is caught noxious gasses; it will take damage over time."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

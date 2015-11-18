@@ -106,13 +106,6 @@
             "type": 3,
             "value": "Silence enemies for 3 seconds.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

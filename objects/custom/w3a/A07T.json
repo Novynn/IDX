@@ -169,13 +169,6 @@
             "type": 3,
             "value": "Sends a fiery bolt of demonic energy at a target enemy unit dealing 250 damage which bounces up to 3 times to nearby enemies.  Additional enemies hit are also dealt 250 damage.|n|cffffcc00Unit-Targeted -- 16 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

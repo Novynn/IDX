@@ -554,13 +554,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff6495edHeal|r|cffffcc00]|r|n|n|cffffcc00Demonicus summons waves of pure darkness from the void, bringing them into the physical world to heal him and his allies.|r|n|cff808080\"Darkness is everywhere. You cannot escape me.\"|r|n|n|cff1e90ffSends waves of darkness to the target location, healing friendly units for up to 900 health.|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

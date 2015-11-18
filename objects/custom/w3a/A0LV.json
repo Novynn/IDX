@@ -106,13 +106,6 @@
             "type": 3,
             "value": "Gives nearby units invisibility which lasts until the unit attacks, casts a spell or gets out of range. Also provides additonal mana regeneration.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

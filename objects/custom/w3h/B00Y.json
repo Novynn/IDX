@@ -36,11 +36,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit was hit by Concentrated Darkness; its armor has been decreased and it will take damage over time."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

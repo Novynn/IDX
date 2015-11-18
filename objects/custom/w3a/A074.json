@@ -288,13 +288,6 @@
             "type": 3,
             "value": "Summons 4 ferocious Fel Beasts to do your bidding. Lasts 75 seconds.|nActivated -- 75 second cooldown.",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

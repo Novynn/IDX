@@ -204,13 +204,6 @@
             "type": 3,
             "value": "Further upgrades your Barrel of Explosives to do additional damage when they explode.",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

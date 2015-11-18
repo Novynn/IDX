@@ -218,13 +218,6 @@
             "type": 3,
             "value": "Fortifies your walls by giving them an additional 50 health.",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

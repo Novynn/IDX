@@ -106,13 +106,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff5f9ea0Hunting|r|cffffcc00]|r|n|n|cffffcc00Drowns attacked units, slowing them down as they suffocate.|r|n|cff808080\"You should've learnt how to swim.\"|r|n|n|cff1e90ffA drowning attack that slows the target enemy's movement by <TSAS,DataB1,%>% for <TSAS,Dur1> seconds.|nPassive.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

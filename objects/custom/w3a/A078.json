@@ -36,13 +36,6 @@
             "type": 3,
             "value": "Gives a 20% chance to do 3 times normal damage on an attack.|n|cffffcc00Passive.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

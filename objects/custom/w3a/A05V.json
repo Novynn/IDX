@@ -162,13 +162,6 @@
             "type": 3,
             "value": "Confuses the enemy by creating 2 illusions of the hunter. These illusions deal no damage and take 3x extra damage from attacks. This ability also Dispels all magic from the Hunter. |nLasts 15 seconds.|nActivated -- 60 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

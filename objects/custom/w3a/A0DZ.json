@@ -99,13 +99,6 @@
             "type": 3,
             "value": "Overloads the Hunter's systems, reducing his mana regeneration, but allowing him to unleash paralysing shockwaves that disable all nearby enemy units. Lasts 60 seconds.|n|cffffd700Activated -- 120 second cooldown|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

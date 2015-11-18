@@ -85,13 +85,6 @@
             "type": 3,
             "value": "Infuses the towers attack with its own life energy, adding 5 bonus damage in exchange for 25 mana.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

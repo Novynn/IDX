@@ -841,13 +841,6 @@
             "type": 3,
             "value": "Further increases the hit points of your builder by 100.",
             "variation": 16
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -155,13 +155,6 @@
             "type": 3,
             "value": "Transforms your normal greater speed turtle into a larger, stronger turtle that is 2x2 in size, has an additional 200 hit points and can be used as an emergency wall.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -127,13 +127,6 @@
             "type": 3,
             "value": "Grants another 2 additional item slots on your main builder.",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

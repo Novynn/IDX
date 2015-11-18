@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has been damaged by a transmuted ultimate tower."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

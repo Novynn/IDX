@@ -78,13 +78,6 @@
             "type": 3,
             "value": "Slows the movement speed of any nearby enemy units in an area of 400.|n|cffffcc00Passive.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -56,11 +56,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is covered in sludge. Its attack speed and movement speed have been reduced and it will take damage over time."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

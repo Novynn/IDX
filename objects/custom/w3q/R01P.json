@@ -71,13 +71,6 @@
             "type": 3,
             "value": "Causes Rapid, Frost, Overload, and Magic Radon towers to have a 5% chance to deal 4x damage.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

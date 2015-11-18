@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has been Enfeebled; its attack rate and movement speed are slowed."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

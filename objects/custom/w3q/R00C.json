@@ -155,13 +155,6 @@
             "type": 3,
             "value": "Increases the speed of your Titan Hunter by 80, hit points by 200, attack speed by 15%, and hit point regeneration by 30%. Also grants the hunter an aura that increases the armor of all nearby friendly units by 10.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

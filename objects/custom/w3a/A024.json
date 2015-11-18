@@ -78,13 +78,6 @@
             "type": 3,
             "value": "Gives 15 additional armor to nearby friendly units and structures.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

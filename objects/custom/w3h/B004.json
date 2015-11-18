@@ -61,11 +61,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is Saturated in damaging water; nearby enemy ground units will take damage over time."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

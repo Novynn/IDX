@@ -41,11 +41,6 @@
             "id": "ftat",
             "type": 3,
             "value": "Abilities\\Spells\\Human\\ManaShield\\ManaShieldCaster.mdl"
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

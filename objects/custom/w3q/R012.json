@@ -78,13 +78,6 @@
             "type": 3,
             "value": "Enables you to train Spear Throwers. These ranged units have a high attack damage, but do not have blink, they are also slow and have a low amount of hit points. (Best used for base defenses).",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

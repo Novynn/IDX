@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is portalling to a nearby Void Gate; it has increased armor and spell damage reduction."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

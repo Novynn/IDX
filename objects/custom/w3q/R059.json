@@ -99,13 +99,6 @@
             "type": 3,
             "value": "Improves the maximum population a Troll clan can employ.|cff808080|nWith the cannibalism reform, Trolls learn the art of preservation to a higher degree. While still highly self-cannibalistic, the reform allows a higher max population.|r|n|cff00ff00Decreases the food cost on worker units to 5.|r",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

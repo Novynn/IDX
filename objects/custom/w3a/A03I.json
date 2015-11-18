@@ -78,13 +78,6 @@
             "type": 3,
             "value": "Deals 5 damage per second and slows movement speed and attack rate.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

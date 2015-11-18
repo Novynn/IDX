@@ -372,13 +372,6 @@
             "type": 3,
             "value": "Return the carried lumber to the nearest |cff99b4d1Shelter|r.",
             "variation": 5
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

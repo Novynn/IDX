@@ -71,13 +71,6 @@
             "type": 3,
             "value": "A powerful poison is secreted from the thorns, slowing the enemies movement and attack speeds by 10% and dealing additional damage.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

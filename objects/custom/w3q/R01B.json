@@ -127,13 +127,6 @@
             "type": 3,
             "value": "Replaces all of your Fortified Armed Walls into Advanced Walls. These walls evade 20% of attacks and have 20 armor. This upgrade also grants normal Armed Walls with 5 bonus armor.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

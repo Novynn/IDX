@@ -323,13 +323,6 @@
             "type": 3,
             "value": "Increases the hit points of catapults by 100.",
             "variation": 7
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

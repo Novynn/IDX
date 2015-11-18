@@ -127,13 +127,6 @@
             "type": 3,
             "value": "Calls forth some drunken Pirates from the Tavern. These Pirates can not be controlled, but they will run out and attack the nearest enemies for 20 seconds before they run out of energy and disapper.|n|n|cffadd8e6Cooldown:|r 60",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

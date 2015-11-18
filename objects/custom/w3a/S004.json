@@ -57,13 +57,6 @@
             "type": 3,
             "value": "Increases all player owned units' movement speed by 10% and attack rate by 20%.|n|cffffcc00Passive.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

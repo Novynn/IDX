@@ -78,13 +78,6 @@
             "type": 3,
             "value": "Coats the Enemy in Incendiary Power, by itself it does nothing but, if your enemy kills one of your  explosive barrels, the explosion is magnified.|nLasts .<A0G2,Dur1,%> seconds.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

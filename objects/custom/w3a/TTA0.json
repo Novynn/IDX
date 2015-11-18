@@ -246,13 +246,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff4169e1Unique|r|cffffcc00]|r|n|n|cffffcc00The Titan throws a small stone at the target, stunning it on impact.|r|n|n|cff1e90ffStuns the target unit for 2 seconds, or Hero for 2.5 seconds.|n|nUnit-Targeted - 13 second cooldown.|r",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

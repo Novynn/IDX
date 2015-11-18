@@ -407,13 +407,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00Summons three lightning balls that move in a cone towards the target point. These balls damage any enemy units near them.|r|n|n|cff1e90ffEach ball hits units in a 150 range, dealing 180 damage.|r|n|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

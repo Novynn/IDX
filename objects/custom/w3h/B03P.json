@@ -41,11 +41,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit was hit by Drown; its movement speed and attack rate have been reduced."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

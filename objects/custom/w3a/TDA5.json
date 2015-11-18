@@ -288,13 +288,6 @@
             "type": 3,
             "value": "|cffc3dbffRight-click to deactivate auto-casting.|r",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -46,11 +46,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has Crabs; it has reduced armor and can be seen by the enemy for 30 seconds."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

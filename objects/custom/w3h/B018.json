@@ -61,11 +61,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is under the effects of Shadow Walk. It has permanant invisibility."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

@@ -51,11 +51,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has been boosted with Arctic Might; it has 50 bonus armor and 25% bonus damage."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

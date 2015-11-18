@@ -127,13 +127,6 @@
             "type": 3,
             "value": "Shoot waves of fireworks at your enemies. A Wave of Fireworks is launched every second for <A0G3,Dur1> seconds.  Fireworks deal <A0G3,DataA1> damage. |n|cffff0000Lasts:|r <A0G3,Dur1> seconds.|n|cffff0000Cooldown:|r <A0G3,Cool1> seconds.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

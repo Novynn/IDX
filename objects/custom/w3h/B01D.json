@@ -2,10 +2,5 @@
     "base": "Bblo",
     "id": "B01D",
     "mods": [
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
-        }
     ]
 }

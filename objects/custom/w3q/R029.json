@@ -85,13 +85,6 @@
             "type": 3,
             "value": "Allows the Demonologist to channel demonic energy into damaging fire enabling him to cast Demon Shock.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

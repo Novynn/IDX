@@ -120,13 +120,6 @@
             "type": 3,
             "value": "Makes the targetted enemy unit unable to cast spells for 4 seconds.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

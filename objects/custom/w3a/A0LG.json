@@ -127,13 +127,6 @@
             "type": 3,
             "value": "The Ogre starts to lust for blood causing himself to go into a rage increasing his hit points by +200, gaining 50% magic resistance, and fortified armor type. |cffffd700Last 15 seconds.|n|r|n|cffadd8e6Cooldown:|r 120",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -120,13 +120,6 @@
             "type": 3,
             "value": "Inflicts extreme pain on an enemy unit causing it 80 damage per second, impeding their casting and slowing their movement speed by 20%.  Lasts 5 seconds.|n|cffffcc00Unit-Targetted -- 90 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -99,13 +99,6 @@
             "type": 3,
             "value": "A passive ability that fires powerful waves of energy at nearby enemy units every time the tower attacks, dealing damage to each target. This ability gives the the Wave Tower the ability to smite all nearby enemies simultaneously.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -92,13 +92,6 @@
             "type": 3,
             "value": "Increases the attack rate of all Spear Towers by 20%.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -162,13 +162,6 @@
             "type": 3,
             "value": "A wave of force that ripples outward, causing 400 damage to enemy units in a line.|n|cffffcc00Point-Targeted -- 45 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

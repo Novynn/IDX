@@ -56,11 +56,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is hidden by a vaporous cloud; it is invisible and moves faster."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

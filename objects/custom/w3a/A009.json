@@ -85,13 +85,6 @@
             "type": 3,
             "value": "Sun light that can heal a friendly unit, including structures for 600 hp. |n|cffffcc00Unit-Targetted -- 80 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

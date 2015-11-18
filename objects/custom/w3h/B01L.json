@@ -36,11 +36,6 @@
             "id": "fube",
             "type": 3,
             "value": "This structure is chilled; it has reduced attack speed."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

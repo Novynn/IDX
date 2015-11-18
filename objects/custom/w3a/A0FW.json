@@ -169,13 +169,6 @@
             "type": 3,
             "value": "Each attack has a chance to blast all units around the target, crippling their speed and dealing heavy damage.|n|cffffcc00Passive.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -21,11 +21,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit was hit by an Rending Blade; its armour is temporarily reduced."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

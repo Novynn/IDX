@@ -31,11 +31,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has adept hunter training."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

@@ -106,13 +106,6 @@
             "type": 3,
             "value": "Reduces a target enemy unit's attack rate and damage by 15%. |nLasts 12 seconds.|n|cffffcc00Unit-Targeted -- 130 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

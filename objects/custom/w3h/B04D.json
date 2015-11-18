@@ -21,11 +21,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is under the effects of Tranquility; if it is attacked, it will temporarily turn invisible to avoid taking further damage."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

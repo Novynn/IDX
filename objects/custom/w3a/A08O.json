@@ -120,13 +120,6 @@
             "type": 3,
             "value": "A poison attack that deals 4 damage per second, and slows the target enemy's speed by 1%. Stacks.",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

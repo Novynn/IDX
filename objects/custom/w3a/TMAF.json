@@ -176,13 +176,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff6c00ceUltimate Ability|r|cffffcc00]|r|n|n|cffffcc00Moltenious concentrates, calling the heat from around him to form Magmide, a fiery elemental, into his command.|r|n|n|cff1e90ffCalls a 4000 hit point Magmide up from the ground at the target point from a distance of 1200. The Magmide has fortified armor and deals 150 damage.|n|nPoint-Targeted - 3.5 minute cooldown|r|n|n|cffff5522Note:|r Magmide only lives for 1 minute.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

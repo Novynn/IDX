@@ -365,13 +365,6 @@
             "type": 3,
             "value": "Grants your hunter 50 additional hit points.",
             "variation": 6
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

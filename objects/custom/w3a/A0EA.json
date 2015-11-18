@@ -141,13 +141,6 @@
             "type": 3,
             "value": "A poison attack that deals 4 damage per second  and slows attack speed by 10% and move speed by 25%. Lasts 3 seconds.",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

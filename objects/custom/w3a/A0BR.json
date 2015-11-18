@@ -162,13 +162,6 @@
             "type": 3,
             "value": "Gives 32% chance to dodge an attack and a 10% chance to deal 2.5 times normal damage.",
             "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

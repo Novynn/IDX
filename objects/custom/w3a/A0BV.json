@@ -57,13 +57,6 @@
             "type": 3,
             "value": "Gives extra damage to the attacks of all player owned units.|n|cffffcc00Passive.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

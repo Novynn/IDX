@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has been cycloned; it is in the air for a short duration."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

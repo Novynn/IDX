@@ -64,13 +64,6 @@
             "type": 3,
             "value": "An aura that gives friendly nearby units a damage shield, which deals 20% of an enemy unit's melee attack damage back to it.",
             "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

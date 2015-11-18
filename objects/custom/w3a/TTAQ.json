@@ -428,13 +428,6 @@
             "type": 3,
             "value": "|cffffcc00[|r|cff7b68eeNuke|r|cffffcc00]|r|n|n|cffffcc00The Titan hurls a large boulder at the target area, damaging any foolish enough to be there.|r|n|n|cff1e90ffHits units in a 195 area, dealing 180 damage.|r|n|cff1e90ffPoint-Targeted - 12 second cooldown.|r",
             "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

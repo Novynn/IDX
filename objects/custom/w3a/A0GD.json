@@ -85,13 +85,6 @@
             "type": 3,
             "value": "A poison attack that slows the target enemy's movement by <Aspo,DataB1,%>% for <Aspo,Dur1> seconds.|n|cffffcc00Passive.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

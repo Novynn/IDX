@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is explosive; it will explode when killed by an enemy unit."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

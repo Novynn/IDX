@@ -21,11 +21,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is under the effects of Tranquility; it can only be seen when it attacks or casts a spell and it also has increased mana regeneration."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

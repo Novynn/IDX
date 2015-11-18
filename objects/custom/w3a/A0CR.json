@@ -120,13 +120,6 @@
             "type": 3,
             "value": "Break the wheel lock on the catapult, allowing it to move around.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -260,13 +260,6 @@
             "type": 3,
             "value": "Increases the armor of all walls and catapults by 1.",
             "variation": 5
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

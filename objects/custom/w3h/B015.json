@@ -26,11 +26,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is overloading with energy; its attack damage has been increased."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

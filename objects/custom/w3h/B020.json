@@ -31,11 +31,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit is under the affects of War Drums; it has increased movement and attack speed."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

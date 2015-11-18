@@ -92,13 +92,6 @@
             "type": 3,
             "value": "Causes the Demonologist to be able to link demons' spirits together; distributing damage amongst them.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

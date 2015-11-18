@@ -36,11 +36,6 @@
             "id": "fube",
             "type": 3,
             "value": "This structure has been attacked with Fiery Claws; it will take damage over time."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }

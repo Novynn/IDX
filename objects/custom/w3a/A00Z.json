@@ -92,13 +92,6 @@
             "type": 3,
             "value": "Activate Avatar to give the Hunter Slow Poison attack, as well as <AHav,DataB1> bonus hit points, <AHav,DataC1> bonus damage and spell immunity. |nLasts <AHav,Dur1> seconds. Long Cooldown.|n|cffffcc00Activated -- 600 second cooldown.",
             "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "udes",
-            "type": 0,
-            "value": "0",
-            "variation": 0
         }
     ]
 }

@@ -21,11 +21,6 @@
             "id": "fube",
             "type": 3,
             "value": "This unit has a Polar Form active. It it stronger and has spell immunity."
-        },
-        {
-            "id": "udes",
-            "type": 0,
-            "value": "0"
         }
     ]
 }
