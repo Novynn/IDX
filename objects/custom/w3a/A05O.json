@@ -4,9 +4,16 @@
     "mods": [
         {
             "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "1000",
+            "variation": 1
+        },
+        {
+            "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNBanshee.blp",
+            "value": "",
             "variation": 0
         },
         {
@@ -41,7 +48,7 @@
             "data": 0,
             "id": "amat",
             "type": 3,
-            "value": "Objects\\Spawnmodels\\Undead\\UndeadDissipate\\UndeadDissipate.mdl",
+            "value": "Abilities\\Spells\\Undead\\DeathCoil\\DeathCoilMissile.mdl",
             "variation": 0
         },
         {
@@ -62,7 +69,7 @@
             "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "Demonologist (UNUSED)",
+            "value": "Demonologist",
             "variation": 0
         },
         {
@@ -90,7 +97,7 @@
             "data": 1,
             "id": "pxf1",
             "type": 2,
-            "value": "25",
+            "value": "60",
             "variation": 1
         },
         {

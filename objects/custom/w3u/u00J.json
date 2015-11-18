@@ -5,7 +5,7 @@
         {
             "id": "uabi",
             "type": 3,
-            "value": "Asid,Aall,ARax"
+            "value": "Asid,Aall,A0I6,A06K,A05O"
         },
         {
             "id": "ubba",
@@ -158,14 +158,9 @@
             "value": "(|cffffd700T|r) Summon |cff483d8bPool of Ancient Ritual|r"
         },
         {
-            "id": "utra",
-            "type": 3,
-            "value": "q027,q028,q029,q030,q031,q032,q033,q034,q035,q036,q059,q137,q144"
-        },
-        {
             "id": "utub",
             "type": 3,
-            "value": "Contains powerful items for sale as well as strong upgrades."
+            "value": "Contains powerful items for sale as well as acting as a supportive structure."
         },
         {
             "id": "utyp",
