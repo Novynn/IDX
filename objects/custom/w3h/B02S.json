@@ -1,0 +1,41 @@
+{
+    "base": "BHad",
+    "id": "B02S",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeroicAuraOn.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Heroic Aura Giver"
+        },
+        {
+            "id": "ftac",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": "Abilities\\Spells\\Orc\\Voodoo\\VoodooAura.mdl"
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Heroic Aura"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "This unit is producing a Heroic Aura. Half of the damage taken by nearby friendly units will be redirected against this unit instead."
+        },
+        {
+            "id": "udes",
+            "type": 0,
+            "value": "0"
+        }
+    ]
+}

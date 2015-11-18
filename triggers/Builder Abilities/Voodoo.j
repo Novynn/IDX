@@ -6,7 +6,7 @@ library TrollVoodoo requires Damage, GameTimer {
     private constant integer ABILITY_ID = 'A02F';
     private constant integer BUFF_ID = 'B013';
     
-    private struct DamageLater {
+    public struct DamageLater {
         private unit u = null;
         private unit a = null;
         private real damage = 0.0;

@@ -1,0 +1,174 @@
+{
+    "base": "AEim",
+    "id": "A06M",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Eim1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Eim2",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Eim3",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "1",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeroicAuraOn.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02S,BEia",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aher",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "1",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Heroic Aura",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "q286",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "none",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Activate Heroic Aura",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auar",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHeroicAuraOff.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "While active, this aura will redirect half of the damage that friendly units take around the Warrior to the Warrior. You may turn this effect on and off at your will.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aubx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auby",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "Q",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00Q|r) Deactivate Heroic Aura",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "While active, this aura will redirect half of the damage that friendly units take around the Warrior to the Warrior. You may turn this effect on and off at your will.",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

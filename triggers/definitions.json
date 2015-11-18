@@ -3378,6 +3378,16 @@
             "type": 0
         },
         {
+            "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Heroic Aura",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
             "desc": "// TODO TEST THIS TO SEE IF UPGRADING KEEPS RED COLOR",
             "enabled": true,
             "index": 8,

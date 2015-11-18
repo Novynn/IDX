@@ -1,0 +1,48 @@
+{
+    "base": "Aasl",
+    "id": "A06L",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Slo1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02R",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Heroic Aura",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Morphling)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "air,friend,ground,vulnerable",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "udes",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        }
+    ]
+}

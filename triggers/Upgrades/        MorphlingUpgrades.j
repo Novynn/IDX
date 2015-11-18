@@ -21,6 +21,10 @@ library MorphlingUpgrades requires Upgrades, DefaultUpgrades, UnitManager, Bonus
             Upgrades.begin("Pulse Focusing", "all");
 				Upgrades.addRequirement('q278');
             Upgrades.end();
+			
+			Upgrades.begin("Heroic Aura", "all");
+				Upgrades.addRequirement('q286');
+            Upgrades.end();
      
             Upgrades.begin("Regeneration", "all");
             Upgrades.add('q219', thistype.isMorphling, function(unit u) {
