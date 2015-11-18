@@ -69,7 +69,7 @@
             "data": 1,
             "id": "spb1",
             "type": 3,
-            "value": "A077,A04E,A078,A07B",
+            "value": "A06M,A04E,A078,A07B,A077",
             "variation": 1
         },
         {
@@ -83,14 +83,14 @@
             "data": 3,
             "id": "spb3",
             "type": 0,
-            "value": "4",
+            "value": "5",
             "variation": 1
         },
         {
             "data": 4,
             "id": "spb4",
             "type": 0,
-            "value": "4",
+            "value": "5",
             "variation": 1
         },
         {
