@@ -23,7 +23,13 @@ library MagnataurUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitM
             Upgrades.end();
             Upgrades.begin("Polar Wrath", "all");
 				Upgrades.addRequirement('q063');
+				Upgrades.add('q285', thistype.isMagnataur, function(unit u) {
+					IncUnitAbilityLevel(u, 'A04H');
+				}, function(unit u) {
+					DecUnitAbilityLevel(u, 'A04H');
+				});
             Upgrades.end();
+			
             Upgrades.begin("Advanced War Training", "all");
 				Upgrades.addRequirement('q068');
             Upgrades.end();

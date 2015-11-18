@@ -17,11 +17,25 @@
             "variation": 1
         },
         {
+            "data": 2,
+            "id": "Hav2",
+            "type": 2,
+            "value": "1000",
+            "variation": 2
+        },
+        {
             "data": 3,
             "id": "Hav3",
             "type": 2,
             "value": "50",
             "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Hav3",
+            "type": 2,
+            "value": "50",
+            "variation": 2
         },
         {
             "data": 0,
@@ -46,10 +60,24 @@
         },
         {
             "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B00W",
+            "variation": 2
+        },
+        {
+            "data": 0,
             "id": "acdn",
             "type": 2,
             "value": "240",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "acdn",
+            "type": 2,
+            "value": "240",
+            "variation": 2
         },
         {
             "data": 0,
@@ -60,10 +88,24 @@
         },
         {
             "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "120",
+            "variation": 2
+        },
+        {
+            "data": 0,
             "id": "ahdu",
             "type": 2,
             "value": "80",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "120",
+            "variation": 2
         },
         {
             "data": 0,
@@ -81,10 +123,24 @@
         },
         {
             "data": 0,
+            "id": "alev",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "amcs",
             "type": 0,
             "value": "100",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "amcs",
+            "type": 0,
+            "value": "100",
+            "variation": 2
         },
         {
             "data": 0,
@@ -109,6 +165,13 @@
         },
         {
             "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Activate Polar Vengeance",
+            "variation": 2
+        },
+        {
+            "data": 0,
             "id": "auar",
             "type": 3,
             "value": "ReplaceableTextures\\CommandButtons\\BTNGlacier.blp",
@@ -120,6 +183,13 @@
             "type": 3,
             "value": "Activate Polar Wrath to give the Magnataur 600 bonus hit points, 50 bonus damage and spell immunity. |nLasts 80 seconds.|nCooldown: 240 seconds.|n|nNote: You may not gather Gold while in Polar Wrath form.",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Activate Polar Vengeance to give the Magnataur 1000 bonus hit points, 5 bonus armor, 50 bonus damage and spell immunity. |nLasts 120 seconds.|nCooldown: 240 seconds.|n|nNote: You may not gather Gold while in Polar Wrath form.",
+            "variation": 2
         },
         {
             "data": 0,
@@ -144,10 +214,24 @@
         },
         {
             "data": 0,
+            "id": "aut1",
+            "type": 3,
+            "value": "(|cffffcc00E|r) Deactivate Polar Vengeance",
+            "variation": 2
+        },
+        {
+            "data": 0,
             "id": "auu1",
             "type": 3,
             "value": "Cancel Polar Wrath and return to your normal builder form",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auu1",
+            "type": 3,
+            "value": "Cancel Polar Vengeance and return to your normal builder form",
+            "variation": 2
         },
         {
             "data": 0,

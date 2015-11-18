@@ -10,17 +10,17 @@
         {
             "id": "fnam",
             "type": 3,
-            "value": "Polar Wrath"
+            "value": "Polar Form"
         },
         {
             "id": "ftip",
             "type": 3,
-            "value": "Polar Wrath"
+            "value": "Polar Form"
         },
         {
             "id": "fube",
             "type": 3,
-            "value": "This unit has the Polar Wrath effect. It has +1800hp, +5 armor, +50 damage, and spell immunity."
+            "value": "This unit has a Polar Form active. It it stronger and has spell immunity."
         },
         {
             "id": "udes",
