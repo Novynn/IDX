@@ -119,6 +119,21 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			return 0;
 		}
 		
+		public static method researchCompleteSound(player p) {
+			race r = GetPlayerRace(p);
+			sound s = null;
+			if (r == RACE_HUMAN) 			s = gg_snd_KnightResearchComplete1;
+			else if (r == RACE_NIGHTELF) 	s = gg_snd_SentinelResearchComplete1;
+			else if (r == RACE_ORC) 		s = gg_snd_GruntResearchComplete1;
+			else if (r == RACE_UNDEAD) 		s = gg_snd_NecromancerResearchComplete1;
+			else 							s = gg_snd_ResearchComplete;
+			
+			if (GetLocalPlayer() == p) {
+				PlaySoundBJ(s);
+			}
+			s = null;
+		}
+		
 		public method incrementLevel(Upgrade upgrade, unit u, unit researching) {
 			integer currentLevel = this.levelFor(upgrade);
 			integer level = currentLevel + 1;
@@ -129,7 +144,7 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			integer nextId = 0;
 			
 			if (level > MAX_LEVEL) {
-				debug { this.say("PlayerUpgradeData.incrementLevel failed - max level reached (100)"); }
+				Upgrades.error(this.playerData, "|cffff0000PlayerUpgradeData.incrementLevel failed - max level reached (100)|r");
 				return;
 			}
 			
@@ -143,7 +158,7 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			}
 			
 			else if (GetUnitTypeId(u) != newId) {
-				debug { this.say("PlayerUpgradeData.incrementLevel failed - leveling unit had an incorrect unit id"); }
+				Upgrades.error(this.playerData, "|cffff0000PlayerUpgradeData.incrementLevel failed - leveling unit had an incorrect unit id|r");
 				return;
 			}
 			
@@ -163,9 +178,7 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			}
 			
 			debug {this.say("Successfully upgraded " + upgrade.id() + " to level " + I2S(level));}
-			if (GetLocalPlayer() == this.player()) {
-				PlaySoundBJ(gg_snd_ResearchComplete);
-			}
+			thistype.researchCompleteSound(this.player());
 			
 			// Set tech
 			if (level == MAX_LEVEL) {
@@ -735,28 +748,37 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			return thistype.getPlayerUpgradeLevel(p, id) > 0;
 		}
 		
+		public static method error(PlayerData p, string message) {
+			p.say(message);
+			if (GetLocalPlayer() == p.player()) {
+				PlaySoundBJ(gg_snd_Error);
+			}
+		}
+		
 		private static method onResearch(unit u, unit v) {
 			player p = GetOwningPlayer(u);
+			PlayerData q = PlayerData.get(p);
 			integer id = GetUnitTypeId(u);
 			UpgradeLevel upgradeLevel = thistype.objectMap[id];
 			UpgradeLevel nextUpgradeLevel = 0;
 			Upgrade upgrade = upgradeLevel.parent;
 			integer currentLevel = 0;
-			PlayerUpgradeData upP = PlayerUpgradeData[PlayerData.get(p)];
+			PlayerUpgradeData upP = PlayerUpgradeData[q];
+			
 			if (upP == 0) {
-				debug { BJDebugMsg("onResearch Failed - Could not find PlayerUpgradeData for player " + GetPlayerActualName(p)); }
+				thistype.error(q, "|cffff0000Research Failed - Could not find PlayerUpgradeData|r");
 				RemoveUnit(u);
 				return;
 			}
 			
 			if (upgradeLevel == 0) {
-				debug { BJDebugMsg("onResearch Failed - Could not find level unit in objectMap"); }
+				thistype.error(q, "|cffff0000Research Failed - Could not find level unit in object map|r");
 				RemoveUnit(u);
 				return;
 			}
 			
 			if (upgrade == 0) {
-				debug { BJDebugMsg("onResearch Failed - Could not find upgrade from upgradeLevel data"); }
+				thistype.error(q, "|cffff0000Research Failed - Could not find upgrade from upgradeLevel data|r");
 				RemoveUnit(u);
 				return;
 			}
@@ -766,11 +788,9 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			nextUpgradeLevel = upgrade.level(currentLevel + 1);
 			// This will pass even if the level is recursive
 			if (nextUpgradeLevel != upgradeLevel) {
-				debug { 
-					BJDebugMsg("onResearch Failed - Player " + GetPlayerActualName(p) + " was not at expected level");
-					BJDebugMsg("\tExpected level " + I2S(nextUpgradeLevel.level) + ", got level " + I2S(upgradeLevel.level));
-					BJDebugMsg("\tExpected object #" + I2S(nextUpgradeLevel) + " (" + GetObjectName(nextUpgradeLevel.unitId) + "), got object #" + I2S(upgradeLevel) + " (" + GetObjectName(upgradeLevel.unitId) + ")");
-				}
+				thistype.error(q, "|cffff0000Research Failed - Player |r" + GetPlayerActualName(p) + "|cffff0000 was not at expected level|r");
+				q.say("\t|cffff0000Expected level " + I2S(nextUpgradeLevel.level) + ", got level " + I2S(upgradeLevel.level) + "|r");
+				q.say("\t|cffff0000Expected object #" + I2S(nextUpgradeLevel) + " (|r" + GetObjectName(nextUpgradeLevel.unitId) + "|cffff0000), got object #" + I2S(upgradeLevel) + " (|r" + GetObjectName(upgradeLevel.unitId) + "|cffff0000)|r");
 				RemoveUnit(u);
 				return;
 			}
@@ -793,7 +813,7 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			integer id = 0;
 			string s = "";
 			
-			BJDebugMsg("Hiding all upgrades...");
+			// BJDebugMsg("Hiding all upgrades...");
 			
 			// q000 -> q999
 			for (0 <= i < 1000) {
@@ -805,13 +825,15 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 				
 				id = S2A(s);
 				
+				
+				
 				// Disabled
 				for (0 <= j < 12) {
 					SetPlayerTechMaxAllowed(Player(j), id, 0);
 				}
 			}
 			
-			BJDebugMsg("Hiding complete");
+			// BJDebugMsg("Hiding complete");
 		}
 		
 		public static method initialize() {
