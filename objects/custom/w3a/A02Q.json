@@ -20,7 +20,7 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNEntrapmentWard.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\PASEntrapmentWard.blp",
             "variation": 0
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "(Nature)",
+            "value": "(+15%)",
             "variation": 0
         },
         {

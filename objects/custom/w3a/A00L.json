@@ -20,7 +20,7 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNEntrapmentWard.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\PASEntrapmentWard.blp",
             "variation": 0
         },
         {
@@ -49,6 +49,13 @@
             "id": "anam",
             "type": 3,
             "value": "Tropical Aura",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(+20%)",
             "variation": 0
         },
         {

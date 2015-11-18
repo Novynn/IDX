@@ -20,7 +20,7 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNStoneArchitecture.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\PASStoneArchitecture.blp",
             "variation": 0
         },
         {
@@ -48,14 +48,14 @@
             "data": 0,
             "id": "anam",
             "type": 3,
-            "value": "Fortifification Aura",
+            "value": "Fortification Aura",
             "variation": 0
         },
         {
             "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "N",
+            "value": "Nature",
             "variation": 0
         },
         {
