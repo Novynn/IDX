@@ -39,6 +39,14 @@ library UnitSpawner requires Unit, Players {
         public static method spawnSpellWell(){
             thistype.TITAN_SPELL_WELL = CreateUnit(Player(PLAYER_NEUTRAL_AGGRESSIVE), 'h001', -384, -512, 270.0);
             SetUnitState(thistype.TITAN_SPELL_WELL, UNIT_STATE_LIFE, GetUnitState(thistype.TITAN_SPELL_WELL, UNIT_STATE_LIFE) / 4);
+			
+			// This should remove the health bar
+			// Unfortunately has the side effect of making it almost unclickable (have to drag select)
+			// UnitAddAbility(thistype.TITAN_SPELL_WELL, 'Aloc');
+			// ShowUnit(thistype.TITAN_SPELL_WELL, false);
+			// UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'Aloc');
+			// ShowUnit(thistype.TITAN_SPELL_WELL, true);
+			
             UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'ARal'); // Rally
             UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'Afih'); // Fire
             UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'Afin');
