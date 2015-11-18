@@ -25,7 +25,6 @@ library DemonologistBalthasar requires GT, UnitManager {
         }
         
         public method onSpawn() {
-			Upgrades.removeUpgrades(this.balth);
             UnitManager.hunterRespawn(this.balth);
             UnitApplyTimedLife(this.balth, 'BTLF', thistype.BALTH_LIFETIME);
         }
