@@ -99,9 +99,11 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
             
             GameTimer.new(function(GameTimer t) {
                 Game.say("|cffffcc00[|r|cffff0000GAME INITIALIZING...|r|cffffcc00]|r");
-                thistype.setMode(thistype[GameSettings.getStr ("GAME_MODE")]);
                 // Load HCL settings!
                 HCLSystem.setup();
+				
+				// Set game mode (after HCL! 0103a)
+                thistype.setMode(thistype[GameSettings.getStr ("GAME_MODE")]);
 				
 				// Initialize upgrades!
 				Upgrades.initialize();
