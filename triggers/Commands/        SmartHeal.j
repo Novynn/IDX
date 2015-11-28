@@ -23,7 +23,7 @@ library SmartHealCommand requires TweakManager {
         }
         
         public method initialize() {
-            GameSettings.setBool("TITAN_HEALING_SMART_HEAL", false);
+            GameSettings.setBool("TITAN_HEALING_SMART_HEAL", true);
         }
         
         public method activate(Args args){
