@@ -230,7 +230,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "The Faerie Dragon's ultimate defensive tower.|n|cff808080This tower deals a magic shattering attack and even burns 6 mana every time it contacts an enemy. Although this tower does high damage, it is twice as slow as most other towers.|r|n|n|cffffcc00Health:|r 500|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 110 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r1.7s"
+            "value": "The Faerie Dragon's ultimate defensive tower.|n|cff808080This tower deals a magic shattering attack and even burns 3 mana every time it contacts an enemy. Although this tower does high damage, it is twice as slow as most other towers.|r|n|n|cffffcc00Health:|r 500|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 110 Pierce|n|cffffcc00Attack Range:|r 900|n|cffffcc00Attack Cooldown: |r1.7s"
         },
         {
             "id": "uubs",

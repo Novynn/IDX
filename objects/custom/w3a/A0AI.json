@@ -20,21 +20,21 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "This tower's attacks destroy 4 mana per hit against any unit, causing bonus damage equal to the mana destroyed.",
+            "value": "This tower's attacks destroy 2 mana per hit against any unit, causing bonus damage equal to the mana destroyed.",
             "variation": 1
         },
         {
             "data": 1,
             "id": "fbk1",
             "type": 2,
-            "value": "4",
+            "value": "2",
             "variation": 1
         },
         {
             "data": 3,
             "id": "fbk3",
             "type": 2,
-            "value": "4",
+            "value": "2",
             "variation": 1
         },
         {
