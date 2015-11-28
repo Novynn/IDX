@@ -181,14 +181,14 @@
             "data": 0,
             "id": "auu1",
             "type": 3,
-            "value": "Transforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|n|cffffcc00Activated -- 30 second cooldown.",
+            "value": "Transforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|n|cffffcc00Activated -- 180 second cooldown.",
             "variation": 1
         },
         {
             "data": 0,
             "id": "auu1",
             "type": 3,
-            "value": "Transforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|n|cffffcc00Activated -- 30 second cooldown.",
+            "value": "Transforms the Morphling into his builder form giving him the ability to build structures, advanced repairing, and to harvest wood and gold.|nActivated -- 90 second cooldown.",
             "variation": 2
         }
     ],
