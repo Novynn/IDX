@@ -54,7 +54,8 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
             integer i = 0;
 
             if (GameSettings.getBool("TITAN_EXP_REDUCTION_ENABLED")){
-                rate = (this.factor() * ((((-this.fed() * 0.05) + 10) / 100) + 1));
+				// 0103b - removed "+10" skewing the factor
+                rate = (this.factor() * (((-this.fed() * 0.05) / 100) + 1));
                 
                 if (rate <= 0.0) {
                     rate = 0.0;

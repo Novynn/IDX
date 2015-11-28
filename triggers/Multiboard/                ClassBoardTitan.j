@@ -177,7 +177,7 @@ library MultiboardTitan requires MultiboardManager, Board, ExperienceSystem {
                     it = row[thistype.ColumnRate];
                     it.width = thistype.NumberWidth;
                     it.setDisplay(true, false);
-                    s = I2S(R2I(rate * 100.0)) + "%";
+                    s = R2SW(rate * 100, 4, 1) + "%";
                     it.text = "|cff2f4f4f" + s + "|r";
                     
                     it = row[thistype.ColumnFed];
@@ -245,7 +245,7 @@ library MultiboardTitan requires MultiboardManager, Board, ExperienceSystem {
                     it = row[thistype.ColumnRate];
                     it.width = thistype.NumberWidth;
                     it.setDisplay(true, false);
-                    s = I2S(R2I(rate * 100.0)) + "%";
+					s = R2SW(rate * 100, 4, 1) + "%";
                     if (p.class() == PlayerData.CLASS_DEFENDER){
                         it.text = s;
                     }
@@ -307,7 +307,7 @@ library MultiboardTitan requires MultiboardManager, Board, ExperienceSystem {
                     it = row[thistype.ColumnRate];
                     it.width = thistype.NumberWidth;
                     it.setDisplay(true, false);
-                    s = I2S(R2I(rate * 100.0)) + "%";
+                    s = R2SW(rate * 100, 4, 1) + "%";
                     it.text = "|cff2f4f4f" + s + "|r";
                     
                     it = row[thistype.ColumnFed];
@@ -392,7 +392,7 @@ library MultiboardTitan requires MultiboardManager, Board, ExperienceSystem {
                             fed = R2I(pFed.fed());
                             rate = pFed.rate();
                         }
-                        row[thistype.ColumnRate].text = I2S(R2I(rate * 100.0)) + "%";
+                        row[thistype.ColumnRate].text = R2SW(rate * 100, 4, 1) + "%";
                         row[thistype.ColumnFed].text = I2S(fed);
                     }
                     currentRow = currentRow + 1;
