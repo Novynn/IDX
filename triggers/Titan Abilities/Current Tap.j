@@ -5,7 +5,6 @@
 library CurrentTap requires GameTimer, RegisterPlayerUnitEvent, xecast, DestroyEffectTimed {
     public struct CurrentTap {
         public static real DELAY_TIME = 45.0;
-        public static real SELECTION_BUFFER = 0.0;
         public static string EFFECT = "Abilities\\Spells\\Human\\Blizzard\\BlizzardTarget.mdl";
         public static real EFFECT_TICK = 0.2;
         private static Table instances = 0;
@@ -20,15 +19,13 @@ library CurrentTap requires GameTimer, RegisterPlayerUnitEvent, xecast, DestroyE
         
         public method tick() {
             rect r = bj_mapInitialPlayableArea; // No need for a selection buffer here?
-            real x = GetRandomReal(GetRectMinX(r) + thistype.SELECTION_BUFFER, GetRectMaxX(r) - thistype.SELECTION_BUFFER);
-            real y = GetRandomReal(GetRectMinY(r) + thistype.SELECTION_BUFFER, GetRectMaxY(r) - thistype.SELECTION_BUFFER);
+            real x = GetRandomReal(GetRectMinX(r), GetRectMaxX(r));
+            real y = GetRandomReal(GetRectMinY(r), GetRectMaxY(r));
+			PlayerData p = PlayerData.get(GetOwningPlayer(this.caster));
             // Create "Current Tap"
-            
-            if (this.cast != 0) {
-				this.cast.owningplayer = GetOwningPlayer(this.caster);
-                this.cast.castOnPoint(x, y);
-            }
-            
+			this.cast.owningplayer = GetOwningPlayer(this.caster);
+			this.cast.castOnPoint(x, y);
+
             if (GameSettings.getBool("TITAN_GLACIOUS_SHOW_CURRENT_TAP_PINGS")) {
                 if (GetLocalPlayer() == GetOwningPlayer(this.caster)) {
                     PingMinimapEx(x, y, 2.0, 80, 80, 255, true);
