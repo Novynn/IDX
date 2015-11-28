@@ -35,19 +35,19 @@ library TerminusMinionNuke requires GenericTitanTargets {
             
             if (level == 1){
                 this.damageAmount = 130.0;
-                this.distance = 450.0;
+                this.distance = 500.0; // +50 due to loopControl constraints
             }
             else if (level == 2){
                 this.damageAmount = 155.0;
-                this.distance = 500.0;
+                this.distance = 550.0; // +50 due to loopControl constraints
             }
             else if (level == 3){
                 this.damageAmount = 180.0;
-                this.distance = 550.0;
+                this.distance = 600.0; // +50 due to loopControl constraints
             }
             
             this.wave.fxpath = thistype.WAVE_EFFECT;
-			this.wave.collisionSize = 175.0;
+			this.wave.collisionSize = 150.0;
             this.wave.speed = 1100; // How far it travels in 1 second.
         }
         

@@ -33,7 +33,7 @@ library TerminusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTar
             else if (level == 3){
                 this.damageAmount = 180.0;
             }
-			this.damageRange = 195.0;
+			this.damageRange = 245.0; // +50 from actual (0103a)
         }
         private unit caster = null;
         private player castingPlayer = null;
