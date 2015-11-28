@@ -27,7 +27,7 @@ library MovespeedCommand requires TweakManager {
 			
 			
 			
-			SyncSelections();
+			// SyncSelections(); - Causes bugs, not needed
 			GroupEnumUnitsSelected(g, p.player(), null);
 			
 			u = FirstOfGroup(g);
