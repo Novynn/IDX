@@ -218,6 +218,14 @@ library TitanFinder requires IslandDefenseSystem, Dialog {
 					Upgrades.swapPlayerUpgradeTables(thistype.oldPlayer.player(), thistype.newPlayer.player());
                     UnitManager.setWellOwner(thistype.newPlayer.player());
                     PunishmentCentre.update();
+					
+					// 0103a MMD Fix
+					// The Titan left, so the Defenders won by default
+					if (Game.isMode("ID")) {
+						Game.say("|cff00bfffSince the original Titan has left, the Defenders have won! Feel free to continue playing the game.|r");
+						IslandDefenseGameMode(Game.mode()).setWinningClass(PlayerData.CLASS_DEFENDER);
+					}
+					
                     thistype.oldPlayer.left();
                 }
                 thistype.oldPlayer = 0;

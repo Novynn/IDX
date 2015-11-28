@@ -26,9 +26,12 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
             // 1v1?
             return true;
         }
-        
+		
+		public method setWinningClass(integer class) {
+			this.winnerClass = class;
+		}
+		
         private integer winnerClass = PlayerData.CLASS_NONE;
-        
         public method winningClass() -> integer {
             return winnerClass;
         }
@@ -283,7 +286,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                     Game.say("|cff00bfffThe game should of ended with the defenders winning, but game victory is disabled.|r");
                 }
                 else {
-                    this.winnerClass = PlayerData.CLASS_DEFENDER;
+					if (this.winningClass() == PlayerData.CLASS_NONE) this.winnerClass = PlayerData.CLASS_DEFENDER;
                     Game.setState(Game.STATE_FINISHED);
                     Game.say("|cff00bfffThe defenders have slain the titan and his minions, the island is saved!|r" );
                 
@@ -296,7 +299,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                     Game.say("|cff00bfffThe game should of ended with the titan winning, but game victory is disabled.|r");
                 }
                 else {
-                    this.winnerClass = PlayerData.CLASS_TITAN;
+                    if (this.winningClass() == PlayerData.CLASS_NONE) this.winnerClass = PlayerData.CLASS_TITAN;
                     Game.setState(Game.STATE_FINISHED);
                     Game.say("|cff00bfffThe titan and his minions have slain all the defenders, the island is doomed!|r" );
                     SetTerrainFogEx(0, 1000, 8000, 0, 0, 0, 1);
@@ -330,7 +333,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                 result = MMD_FLAG_PRACTICING;
             }
             else {
-                if (p.initialClass() == this.winningClass()) {
+				if (p.initialClass() == this.winningClass()) {
                     result = MMD_FLAG_WINNER;
                 }
                 else {

@@ -15,13 +15,13 @@ library MetaData requires MMD, GameTimer {
         private static trigger triggerFlag[12];
         private static integer syncCount = 0;
         
-        public static method syncBegin() -> Thread {
+        public static method syncBegin() -> integer {
             //Thread thread = Thread.create();
             TriggerSyncStart();
             return 0; //thread;
         }
         
-        public static method syncEnd(Thread thread) {
+        public static method syncEnd(integer thread) {
             TriggerSyncReady();
             
             //thread.sync();
@@ -31,7 +31,7 @@ library MetaData requires MMD, GameTimer {
             //    if (thread.synced) break;
             //    TriggerSyncReady();
             //}
-            if (thread != 0) thread.destroy();
+            //if (thread != 0) thread.destroy();
         }
         
         private static method getTriggerPlayerData(trigger t) -> PlayerData {
@@ -114,7 +114,7 @@ library MetaData requires MMD, GameTimer {
         
         public static method initializeAct() { static if (LIBRARY_MMD){
             integer i = 0;
-            Thread thread = thistype.syncBegin();
+            integer thread = thistype.syncBegin();
             MMD_emit("init version " + I2S(MMD_MINIMUM_PARSER_VERSION) + " " + I2S(MMD_CURRENT_VERSION));
 
             for (0 <= i < 12) {
@@ -128,7 +128,7 @@ library MetaData requires MMD, GameTimer {
         } }
         
         public static method setupAct() { static if (LIBRARY_MMD){
-            Thread thread = 0; 
+            integer thread = 0; 
             if (thistype.isSetup) return;
             thistype.isSetup = true;
             if (thistype.extras()){
@@ -149,7 +149,7 @@ library MetaData requires MMD, GameTimer {
         } }
         
         public static method resetAct(){ static if (LIBRARY_MMD){
-            Thread thread = 0;
+            integer thread = 0;
             if (thistype.extras()){
                 thread = thistype.syncBegin();
                 MMD_LogCustom("map_reset", I2S(Game.id()));
@@ -160,7 +160,7 @@ library MetaData requires MMD, GameTimer {
         
         public static method syncPlayerClassAct() {
             PlayerData p = thistype.getTriggerPlayerData(GetTriggeringTrigger());
-            Thread thread = 0; 
+            integer thread = 0; 
             if (!thistype.extras()) return;
             thread = thistype.syncBegin();
             MMD_UpdateValueInt("start_class", p.player(), MMD_OP_SET, p.initialClass());
@@ -178,7 +178,7 @@ library MetaData requires MMD, GameTimer {
         
         public static method syncPlayerFedAct() {
             PlayerData p = thistype.getTriggerPlayerData(GetTriggeringTrigger());
-            Thread thread = 0; 
+            integer thread = 0; 
             if (!thistype.extras()) return;
             if (!PlayerDataFed.initialized() || PlayerDataFed[p] == 0) return;
             thread = thistype.syncBegin();
@@ -190,7 +190,7 @@ library MetaData requires MMD, GameTimer {
         
         public static method syncPlayerRaceAct() {
             PlayerData p = thistype.getTriggerPlayerData(GetTriggeringTrigger());
-            Thread thread = 0; 
+            integer thread = 0; 
             integer flag = 0;
             if (!thistype.extras()) return;
             if (p.chosenRace() == 0) return;
@@ -206,7 +206,7 @@ library MetaData requires MMD, GameTimer {
         
         public static method syncPlayerFlagAct() { static if (LIBRARY_MMD){
             PlayerData p = thistype.getTriggerPlayerData(GetTriggeringTrigger());
-            Thread thread = 0; 
+            integer thread = 0; 
             integer flag = 0;
 			if (thistype.isFinalized()) return;
             if (!GameSettings.getBool("MMD_ENABLED")) return;
