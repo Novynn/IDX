@@ -86,9 +86,23 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			this.upgradeTable = t;
 		}
 		
+		// We want to be able to keep a table of Upgrade's for the player along with their ID and
+		// their upgrade unit (of UpgradeLevel.unitId).
+		
+		public method levelFor(Upgrade upgrade) -> integer {
+			CurrentPlayerUpgrade cpu = 0;
+			if (this.upgradeTable.has(upgrade)) {
+				cpu = this.upgradeTable[upgrade];
+				return cpu.level;
+			}
+			return 0;
+		}
+		
+		private integer soundIndex = 0;
 		private Table upgradeTable = 0;
         private method onSetup(){
 			this.upgradeTable = Table.create();
+			this.soundIndex = -1;
         }
         
         private method onTerminate(){
@@ -107,28 +121,20 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			this.upgradeTable = 0;
         }
 		
-		// We want to be able to keep a table of Upgrade's for the player along with their ID and
-		// their upgrade unit (of UpgradeLevel.unitId).
-		
-		public method levelFor(Upgrade upgrade) -> integer {
-			CurrentPlayerUpgrade cpu = 0;
-			if (this.upgradeTable.has(upgrade)) {
-				cpu = this.upgradeTable[upgrade];
-				return cpu.level;
-			}
-			return 0;
+		public method setSoundIndex(integer i) {
+			this.soundIndex = i;
 		}
 		
-		public static method researchCompleteSound(player p) {
-			race r = GetPlayerRace(p);
+		public method researchCompleteSound() {
+			race r = GetPlayerRace(this.player());
 			sound s = null;
-			if (r == RACE_HUMAN) 			s = gg_snd_KnightResearchComplete1;
-			else if (r == RACE_NIGHTELF) 	s = gg_snd_SentinelResearchComplete1;
-			else if (r == RACE_ORC) 		s = gg_snd_GruntResearchComplete1;
-			else if (r == RACE_UNDEAD) 		s = gg_snd_NecromancerResearchComplete1;
-			else 							s = gg_snd_ResearchComplete;
+			if ((r == RACE_HUMAN && this.soundIndex == -1) 			|| this.soundIndex == 0) 	s = gg_snd_KnightResearchComplete1;
+			else if ((r == RACE_NIGHTELF && this.soundIndex == -1)  || this.soundIndex == 1) 	s = gg_snd_SentinelResearchComplete1;
+			else if ((r == RACE_ORC && this.soundIndex == -1) 		|| this.soundIndex == 2) 	s = gg_snd_GruntResearchComplete1;
+			else if ((r == RACE_UNDEAD && this.soundIndex == -1) 	|| this.soundIndex == 3) 	s = gg_snd_NecromancerResearchComplete1;
+			else 																				s = gg_snd_ResearchComplete;
 			
-			if (GetLocalPlayer() == p) {
+			if (GetLocalPlayer() == this.player()) {
 				PlaySoundBJ(s);
 			}
 			s = null;
@@ -178,7 +184,7 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
 			}
 			
 			debug {this.say("Successfully upgraded " + upgrade.id() + " to level " + I2S(level));}
-			thistype.researchCompleteSound(this.player());
+			this.researchCompleteSound();
 			
 			// Set tech
 			if (level == MAX_LEVEL) {
