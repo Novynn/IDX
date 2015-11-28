@@ -1,6 +1,6 @@
 //TESH.scrollpos=272
 //TESH.alwaysfold=0
-library xecast initializer init requires xebasic
+library xecast initializer init requires xebasic optional AIDS
 //******************************************************************************
 // xecast 0.9
 // ------
@@ -40,6 +40,10 @@ private keyword structinit
 globals
     private real EPSILON=0.001 //noticed in war3 this is the sort of precision we want...
 endglobals
+
+struct xecast_storage extends array
+    public integer data
+endstruct
 
 struct xecast[MAXINSTANCES]
 
@@ -170,9 +174,17 @@ struct xecast[MAXINSTANCES]
      local integer r
      local integer p
      local real    lt
+	 local xecast_storage storage  = xecast_storage[GetUnitIndex(u)]
         call IssueImmediateOrder(u,"stop")// bugfix, see: http://www.wc3c.net/showpost.php?p=1131163&postcount=5
-        call UnitRemoveAbility(u,GetUnitUserData(u))
-        call SetUnitUserData(u,0)
+        
+		static if (LIBRARY_AIDS) then
+		    call UnitRemoveAbility(u,storage.data)
+		    set storage.data = 0
+		else
+		    call UnitRemoveAbility(u,GetUnitUserData(u))
+			call SetUnitUserData(u,0)
+		endif
+		
         call SetUnitFlyHeight(u,0,0)
         call PauseUnit(u,false)
         if(.top==DUMMY_STACK_LIMIT) then
@@ -262,10 +274,19 @@ struct xecast[MAXINSTANCES]
             endloop
             set .expiretime[.current]=.cexpire
             set .recycle[.current]=dummy
-            call SetUnitUserData(dummy,.abilityid)
+			static if (LIBRARY_AIDS) then
+				set xecast_storage[GetUnitIndex(dummy)].data = .abilityid
+			else
+				call SetUnitUserData(dummy,.abilityid)
+			endif
             call TimerStart(.T, .expiretime[0]-TimerGetElapsed(.gametime), false, function xecast.dorecycle)
         else
-            call SetUnitUserData(dummy,0)
+			static if (LIBRARY_AIDS) then
+				set xecast_storage[GetUnitIndex(dummy)].data = 0
+			else
+				call SetUnitUserData(dummy,0)
+			endif
+		
             call SetUnitFlyHeight(dummy,0,0)
             call UnitRemoveAbility(dummy,.abilityid)
         endif
@@ -436,9 +457,16 @@ struct xecast[MAXINSTANCES]
 
     private static method removeAbility takes nothing returns boolean
      local unit u=GetTriggerUnit()
-         if(GetUnitUserData(u)!=0) then
-             call PauseUnit(u,true)
-         endif
+	 local xecast_storage storage = xecast_storage[GetUnitIndex(u)] 
+	     static if (LIBRARY_AIDS) then 
+             if(storage.data!=0) then
+                 call PauseUnit(u,true)
+             endif
+		 else  
+		     if (GetUnitUserData(u)!=0) then 
+                 call PauseUnit(u,true)
+             endif
+		 endif
         //This is necessary, picture a value for recycle delay that's higher than the casting time,
         //for example if the spell does dps, if you leave the dummy caster with the ability and it 
         //is owned by an AI player it will start casting the ability on player units, so it is
