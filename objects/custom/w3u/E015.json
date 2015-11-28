@@ -78,6 +78,11 @@
             "value": "hero"
         },
         {
+            "id": "uaap",
+            "type": 3,
+            "value": "large"
+        },
+        {
             "id": "uabi",
             "type": 3,
             "value": "AInv"
@@ -230,7 +235,7 @@
         {
             "id": "uinp",
             "type": 2,
-            "value": "7"
+            "value": "10"
         },
         {
             "id": "uint",

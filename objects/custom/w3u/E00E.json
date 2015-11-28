@@ -80,7 +80,7 @@
         {
             "id": "uaap",
             "type": 3,
-            "value": ""
+            "value": "large"
         },
         {
             "id": "uabi",
@@ -270,7 +270,7 @@
         {
             "id": "uinp",
             "type": 2,
-            "value": "7"
+            "value": "10"
         },
         {
             "id": "uint",
@@ -420,7 +420,7 @@
         {
             "id": "usin",
             "type": 0,
-            "value": "2400"
+            "value": "1800"
         },
         {
             "id": "usnd",
