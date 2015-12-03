@@ -2290,6 +2290,16 @@
         {
             "desc": "",
             "enabled": true,
+            "index": 1,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "MakeHeroic",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
             "index": 4,
             "initialState": 0,
             "isCustom": true,

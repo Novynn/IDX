@@ -1,0 +1,17 @@
+{
+    "base": "tkno",
+    "id": "IUMH",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "AUMH"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Tome of Power (UMH System)"
+        }
+    ],
+    "type": "Item"
+}

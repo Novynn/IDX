@@ -1,0 +1,27 @@
+{
+    "base": "nech",
+    "id": "NUMH",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "AInv"
+        },
+        {
+            "id": "uhhb",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "unsf",
+            "type": 3,
+            "value": "(UMH System)"
+        },
+        {
+            "id": "ustr",
+            "type": 0,
+            "value": "1"
+        }
+    ],
+    "type": "Unit"
+}

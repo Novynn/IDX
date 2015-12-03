@@ -1,0 +1,21 @@
+{
+    "base": "Amrf",
+    "id": "AUMH",
+    "mods": [
+        {
+            "data": 0,
+            "id": "Emeu",
+            "type": 3,
+            "value": "NUMH",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(UMH System)",
+            "variation": 0
+        }
+    ],
+    "type": "Ability"
+}
