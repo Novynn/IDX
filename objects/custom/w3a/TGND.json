@@ -20,7 +20,7 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNWendigo.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\ATCWendigo.blp",
             "variation": 0
         },
         {
@@ -83,7 +83,7 @@
             "data": 0,
             "id": "arar",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNWendigo.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\ATCWendigo.blp",
             "variation": 0
         },
         {
@@ -132,7 +132,7 @@
             "data": 0,
             "id": "auar",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNWendigo.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\ATCWendigo.blp",
             "variation": 0
         },
         {
