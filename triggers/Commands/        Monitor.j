@@ -21,7 +21,7 @@ library Monitor requires Table, Damage, AIDS, GameTimer {
             integer id = GetUnitIndex(u);
             MonitoredUnit data = 0;
             
-            if (GetUnitTypeId(u) == 'E00O') {
+            if (GetUnitAbilityLevel(u, 'MARK') > 0) {
                 if (!monitoredUnits.has(id)) {
                     BJDebugMsg("Registered " + GetUnitName(u));
                     data = MonitoredUnit.create();
