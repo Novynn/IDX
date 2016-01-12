@@ -172,5 +172,7 @@
     "ReplaceableTextures\\CommandButtonsDisabled\\DISATCWendigo.blp",
     "war3mapImported\\Sun.mdx",
     "war3mapImported\\Cristmastree.mdx",
-    "war3mapImported\\Wisps.mdx"
+    "war3mapImported\\Wisps.mdx",
+    "ReplaceableTextures\\CommandButtons\\PASShockWave.blp",
+    "ReplaceableTextures\\CommandButtonsDisabled\\DISPASShockWave.blp"
 ]
