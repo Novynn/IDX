@@ -34,7 +34,7 @@
             "data": 0,
             "id": "aart",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNShockWave.blp",
+            "value": "ReplaceableTextures\\CommandButtons\\PASShockWave.blp",
             "variation": 0
         },
         {
@@ -69,7 +69,7 @@
             "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "x",
+            "value": "(Wave Tower)",
             "variation": 0
         },
         {
