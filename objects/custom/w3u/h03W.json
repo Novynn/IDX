@@ -290,7 +290,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Provides mana regeneration for the Draenei and his towers.|n|cff808080A movable flying mana void that regenerates nearby units mana over time.|r|n|n|cffff0000Note:|r These can still be attacked although they cannot be nuked. These also has a very small sight range so they are useless at scouting."
+            "value": "Provides mana regeneration for the Draenei's units and structures.|n|cff808080A movable flying mana void that regenerates nearby units mana over time.|r|n|n|cffff0000Note:|r These can still be attacked although they cannot be nuked. These also has a very small sight range so they are useless at scouting."
         },
         {
             "id": "utyp",

@@ -48,7 +48,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Gives additional mana regeneration to nearby structures.",
+            "value": "Gives additional mana regeneration to nearby player units and structures.",
             "variation": 1
         }
     ],
