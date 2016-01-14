@@ -115,7 +115,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the movement speed of the hunter by 60, attack speed by 15%, damage by 20, and allows the hunter to use the Atomic Split ability."
+            "value": "Increases the movement speed of the hunter by 40, attack speed by 15%, damage by 20, and allows the hunter to use the Atomic Split ability."
         }
     ],
     "type": "Unit"
