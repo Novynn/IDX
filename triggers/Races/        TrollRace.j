@@ -31,13 +31,13 @@ library TrollRace requires Races {
         method childItemId() -> integer {
             return 'q040'; // Hunter Research
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o00M', -1);
             SetPlayerTechMaxAllowed(p, 'h00P', -1);
             SetPlayerTechMaxAllowed(p, 'o00L', -1);
-		}
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

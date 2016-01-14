@@ -23,11 +23,11 @@ library TaurenRace requires Races {
         method difficulty() -> real {
             return 2.0;
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o01U', -1);
-		}
+        }
 
         method onSpawn(unit u){
             SelectHeroSkill(u, 'A0AD' );                // Ancestral

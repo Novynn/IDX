@@ -208,24 +208,24 @@ library MetaData requires MMD, GameTimer {
             PlayerData p = thistype.getTriggerPlayerData(GetTriggeringTrigger());
             integer thread = 0; 
             integer flag = 0;
-			if (thistype.isFinalized()) return;
+            if (thistype.isFinalized()) return;
             if (!GameSettings.getBool("MMD_ENABLED")) return;
-			
+            
             thread = thistype.syncBegin();
-			MMD_FlagPlayer(p.player(), Game.mode().playerResult(p));
+            MMD_FlagPlayer(p.player(), Game.mode().playerResult(p));
             thistype.syncEnd(thread);
         } }
-		
-		private static boolean finalized = false;
-		public static method isFinalized() -> boolean {
-			return thistype.finalized;
-		}
+        
+        private static boolean finalized = false;
+        public static method isFinalized() -> boolean {
+            return thistype.finalized;
+        }
         
         public static method finalize() {
             static if (LIBRARY_MMD){
                 PlayerDataArray list = 0;
                 integer i = 0;
-				if (thistype.isFinalized()) return;
+                if (thistype.isFinalized()) return;
                 if (!GameSettings.getBool("MMD_ENABLED")) return;
                 
                 // Now for players that are still here...
@@ -234,12 +234,12 @@ library MetaData requires MMD, GameTimer {
                     thistype.syncPlayerFlag(list[i]);
                 }
                 list.destroy();
-				list = PlayerData.leavers();
+                list = PlayerData.leavers();
                 for (0 <= i < list.size()){
                     thistype.syncPlayerFlag(list[i]);
                 }
                 list.destroy();
-				thistype.finalized = true;
+                thistype.finalized = true;
             }
         }
         

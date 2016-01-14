@@ -27,20 +27,20 @@ library DraeneiRace requires Races {
         method childId() -> integer {
             return 'H040'; // Hunter
         }
-		
-		method isChildId(integer id) -> boolean {
+        
+        method isChildId(integer id) -> boolean {
             return this.childId() == id || id == 'H03Z'; // Hunter
         }
 
         method childItemId() -> integer {
             return 'q135'; // Hunter Research
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o02A', -1);
             SetPlayerTechMaxAllowed(p, 'o02E', -1);
-		}
+        }
         
         method onSpawn(unit u) {
             IssueImmediateOrderById(u, 852589);     // Draenei Mana Shield

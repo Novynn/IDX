@@ -8,7 +8,7 @@ library VoltronMinionNuke requires GenericTitanTargets {
         private static constant integer ABILITY_ID = 'TVNQ';
         private static constant string TARGET_EFFECT = "war3mapImported\\LightningSphere_FX.mdx";
 
-		private boolean useLightning = true;
+        private boolean useLightning = true;
         private method setup(integer level){
             this.damage.dtype = DAMAGE_TYPE_MAGIC;
             this.damage.exception = UNIT_TYPE_STRUCTURE;
@@ -29,10 +29,10 @@ library VoltronMinionNuke requires GenericTitanTargets {
             }
             
             this.delta = 35.0;
-			
-			if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
-				this.useLightning = false;
-			}
+            
+            if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
+                this.useLightning = false;
+            }
         }
         
         private unit caster = null;
@@ -48,10 +48,10 @@ library VoltronMinionNuke requires GenericTitanTargets {
         }
         
         public method hitTarget(unit u){
-			// TODO(rory): wut do?
-			if (this.useLightning) {
-				ReleaseLightningDelayed(CreateLightningBetweenUnits("CHIM", true, this.caster, u), 0.5);
-			}
+            // TODO(rory): wut do?
+            if (this.useLightning) {
+                ReleaseLightningDelayed(CreateLightningBetweenUnits("CHIM", true, this.caster, u), 0.5);
+            }
             this.damage.damageTarget(this.caster, u, this.damageAmount);
         }
         
@@ -104,11 +104,11 @@ library VoltronMinionNuke requires GenericTitanTargets {
             this.damage = xedamage.create();
             
             this.setup(this.level);
-			
-			if (u != null) {
-				x = GetUnitX(u);
-				y = GetUnitY(u);
-			}
+            
+            if (u != null) {
+                x = GetUnitX(u);
+                y = GetUnitY(u);
+            }
             
             this.acquireTargets(u, x, y);
             this.destroy();
@@ -125,9 +125,9 @@ library VoltronMinionNuke requires GenericTitanTargets {
             unit caster = GetSpellAbilityUnit();
             integer level = GetUnitAbilityLevel(caster, thistype.ABILITY_ID);
             unit u = GetSpellTargetUnit();
-			real x = GetSpellTargetX();
-			real y = GetSpellTargetY();
-			
+            real x = GetSpellTargetX();
+            real y = GetSpellTargetY();
+            
             VoltronMinionNuke.begin(caster, u, x, y, level);
         }
         

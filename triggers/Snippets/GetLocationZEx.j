@@ -13,7 +13,7 @@ library GetLocationZEx {
     
     public function LocGetZ(location l) -> real {
         // 0100: Added Round to possibly fix desync issues
-		// 0101: Reverted due to desync still existing...
+        // 0101: Reverted due to desync still existing...
         return GetLocationZ(l); //Round(GetLocationZ(l), METRIC);
     }
     

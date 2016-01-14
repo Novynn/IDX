@@ -259,7 +259,7 @@ library Bubonicus requires GameTimer, GT, Table, Transport {
                 this.diseasedEffect = AddSpecialEffectTarget("units\\undead\\PlagueCloud\\PlagueCloud.mdl", this.main, "origin");
             }
             if (this.exhumeLevel >= 2) {
-				if (GetUnitAbilityLevel(this.main, 'A045') == 0) {
+                if (GetUnitAbilityLevel(this.main, 'A045') == 0) {
                     UnitAddAbility(this.main, 'A045');
                 }
                 SetUnitAbilityLevel(this.main, 'A045', this.count());
@@ -285,27 +285,27 @@ library Bubonicus requires GameTimer, GT, Table, Transport {
         }
         
         public method learnExhume(integer i) {
-			if (i == 1) {
-				this.exhumeLevel = 1;
-				return;
-			}
-			activateExhume2();
-		}
-		public method activateExhume2() {
+            if (i == 1) {
+                this.exhumeLevel = 1;
+                return;
+            }
+            activateExhume2();
+        }
+        public method activateExhume2() {
             group g = CreateGroup();
             unit u = null;
             
-			this.exhumeLevel = 2;
+            this.exhumeLevel = 2;
             this.checkCount();
             SetUnitAbilityLevel(UnitManager.TITAN_SPELL_WELL, 'A044', 2); // Upgrade mound spawn time
-			
-			// Add armor
-			if (this.count() > 0) {
-				if (GetUnitAbilityLevel(this.main, 'A045') == 0) {
+            
+            // Add armor
+            if (this.count() > 0) {
+                if (GetUnitAbilityLevel(this.main, 'A045') == 0) {
                     UnitAddAbility(this.main, 'A045');
                 }
                 SetUnitAbilityLevel(this.main, 'A045', this.count());
-			}
+            }
             
             // All wards
             GroupEnumUnitsInRect(g, GetWorldBounds(), Filter(function() -> boolean {
@@ -441,7 +441,7 @@ library Bubonicus requires GameTimer, GT, Table, Transport {
         GT_RegisterLearnsAbilityEvent(t, 'TBAR');
         TriggerAddCondition(t, Condition(function() -> boolean {
             unit u = GetLearningUnit();
-			integer i = GetLearnedSkillLevel();
+            integer i = GetLearnedSkillLevel();
             if (!Bubonicus.has(u)) return false;
             Bubonicus[u].learnExhume(i);
             u = null;

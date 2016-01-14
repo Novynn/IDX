@@ -11,10 +11,10 @@ library OgreRace requires Races {
         method widgetId() -> integer {
             return 'h037';
         }
-		
-		method isWidgetId(integer id) -> boolean {
-			return id == this.widgetId() || id == 'h01N'; // Enhanced Form
-		}
+        
+        method isWidgetId(integer id) -> boolean {
+            return id == this.widgetId() || id == 'h01N'; // Enhanced Form
+        }
 
         method itemId() -> integer {
             return 'I039';
@@ -35,14 +35,14 @@ library OgreRace requires Races {
         method childItemId() -> integer {
             return 'q126'; // Hunter Research
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o01Y', -1);
             SetPlayerTechMaxAllowed(p, 'o016', -1);
             SetPlayerTechMaxAllowed(p, 'o003', -1);
             SetPlayerTechMaxAllowed(p, 'h00P', -1);
-		}
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

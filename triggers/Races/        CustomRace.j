@@ -2,47 +2,47 @@
 //TESH.alwaysfold=0
 
 //! textmacro GenerateCustomConversionAbilities takes TITANID
-	//! externalblock extension=lua ObjectMerger $FILENAME$
-	//! i function createAbility(titanId)
-	//! i   setobjecttype("abilities")
-	//! i   str = "QWERF"
-	//! i   for i = 1, string.len(str) do
-	//! i     local abilId = string.sub(str, i, i)
-	///! i     local spellbookId = "T" .. titanId .. "V" .. abilId
-	//! i     local converterId = "T" .. titanId .. "U" .. abilId
-	//! i     local baseId = "TCA" .. abilId
-	//! i     local abilityId = "T" .. titanId .. "A" .. abilId
-	//! i     createobject("ANeg", converterId)
-	//! i     if (currentobject() ~= "") then
-	//! i       makechange(current, "alev", 1)
-	//! i       makechange(current, "aart", "")
-	//! i       makechange(current, "Neg3", 1, baseId .. "," .. abilityId)
-	//! i       makechange(current, "Neg4", 1, "_")
-	//! i       makechange(current, "Neg5", 1, "_")
-	//! i       makechange(current, "Neg6", 1, "_")
-	//! i       makechange(current, "Neg2", 1, 0.00)
-	//! i       makechange(current, "Neg1", 1, 0.00)
-	//! i       makechange(current, "aher", 0)
-	//! i       makechange(current, "arac", "undead")
-	//! i       makechange(current, "ansf", "(Customicus)")
-	//! i       makechange(current, "anam", baseId .. " -> " .. abilityId)
-	//! i       makechange(current, "atp1", 1, " ")
-	//! i       makechange(current, "aub1", 1, " ")
-	//! i     end
-	///! i     createobject("Aspb", spellbookId)
-	///! i     if (currentobject() ~= "") then
-	///! i       makechange(current, "spb4", 1, 1)
-	///! i       makechange(current, "spb3", 1, 1)
-	///! i       makechange(current, "spb1", 1, converterId)
-	///! i       makechange(current, "aite", 0)
-	///! i       makechange(current, "arac", "undead")
-	///! i       makechange(current, "ansf", "(Customicus)")
-	///! i       makechange(current, "anam", abilityId .. " Spell Book")
-	///! i     end
-	//! i   end
-	//! i end
+    //! externalblock extension=lua ObjectMerger $FILENAME$
+    //! i function createAbility(titanId)
+    //! i   setobjecttype("abilities")
+    //! i   str = "QWERF"
+    //! i   for i = 1, string.len(str) do
+    //! i     local abilId = string.sub(str, i, i)
+    ///! i     local spellbookId = "T" .. titanId .. "V" .. abilId
+    //! i     local converterId = "T" .. titanId .. "U" .. abilId
+    //! i     local baseId = "TCA" .. abilId
+    //! i     local abilityId = "T" .. titanId .. "A" .. abilId
+    //! i     createobject("ANeg", converterId)
+    //! i     if (currentobject() ~= "") then
+    //! i       makechange(current, "alev", 1)
+    //! i       makechange(current, "aart", "")
+    //! i       makechange(current, "Neg3", 1, baseId .. "," .. abilityId)
+    //! i       makechange(current, "Neg4", 1, "_")
+    //! i       makechange(current, "Neg5", 1, "_")
+    //! i       makechange(current, "Neg6", 1, "_")
+    //! i       makechange(current, "Neg2", 1, 0.00)
+    //! i       makechange(current, "Neg1", 1, 0.00)
+    //! i       makechange(current, "aher", 0)
+    //! i       makechange(current, "arac", "undead")
+    //! i       makechange(current, "ansf", "(Customicus)")
+    //! i       makechange(current, "anam", baseId .. " -> " .. abilityId)
+    //! i       makechange(current, "atp1", 1, " ")
+    //! i       makechange(current, "aub1", 1, " ")
+    //! i     end
+    ///! i     createobject("Aspb", spellbookId)
+    ///! i     if (currentobject() ~= "") then
+    ///! i       makechange(current, "spb4", 1, 1)
+    ///! i       makechange(current, "spb3", 1, 1)
+    ///! i       makechange(current, "spb1", 1, converterId)
+    ///! i       makechange(current, "aite", 0)
+    ///! i       makechange(current, "arac", "undead")
+    ///! i       makechange(current, "ansf", "(Customicus)")
+    ///! i       makechange(current, "anam", abilityId .. " Spell Book")
+    ///! i     end
+    //! i   end
+    //! i end
     //! i createAbility("$TITANID$")
-	//! endexternalblock
+    //! endexternalblock
 //! endtextmacro
 
 /*
@@ -64,11 +64,11 @@ library CustomTitanRace requires Races, Ascii {
         private string mName = "Customicus";
         private integer mWidgetId = 0;
         private string mIcon = "";
-		private TitanRace mMinion = 0;
-		
-		method minionRace() -> TitanRace {
-			return this.mMinion;
-		}
+        private TitanRace mMinion = 0;
+        
+        method minionRace() -> TitanRace {
+            return this.mMinion;
+        }
         
         method setTitanName(string n) {
             this.mName = n;
@@ -116,7 +116,7 @@ library CustomTitanRace requires Races, Ascii {
         }
         
         method setMinion(TitanRace r) {
-			this.mMinion = r;
+            this.mMinion = r;
         }
         
         method toString() -> string {
@@ -143,55 +143,55 @@ library CustomTitanRace requires Races, Ascii {
             return this.mMinion.childIcon();
         }
 
-		static method setBaseAbilities(unit u, string titan) {
+        static method setBaseAbilities(unit u, string titan) {
             string abilities = "QWERSDF";
             integer i = 0;
             string indexS = "";
             integer id = 0;
-			string titanId = "";
-			player p = GetOwningPlayer(u);
-			real y = 0.0;
-			for (0 <= i < StringLength(abilities)) {
-				titanId = SubString(titan, 0, 1);
+            string titanId = "";
+            player p = GetOwningPlayer(u);
+            real y = 0.0;
+            for (0 <= i < StringLength(abilities)) {
+                titanId = SubString(titan, 0, 1);
                 indexS = SubString(abilities, i, 1 + i);
-				id = S2A("T" + titanId + "A" + indexS);
-				if (indexS == "S" ||
-					indexS == "D") {
-					UnitAddAbility(u, id); // Add innate abilities
-				}
-				else {
-					titanId = SubString(A2S(id), 1, 2);
-					id = S2A("T" + titanId + "U" + indexS);
-					SetPlayerAbilityAvailable(p, id, false);
-					UnitAddAbility(u, id);
-				}
+                id = S2A("T" + titanId + "A" + indexS);
+                if (indexS == "S" ||
+                    indexS == "D") {
+                    UnitAddAbility(u, id); // Add innate abilities
+                }
+                else {
+                    titanId = SubString(A2S(id), 1, 2);
+                    id = S2A("T" + titanId + "U" + indexS);
+                    SetPlayerAbilityAvailable(p, id, false);
+                    UnitAddAbility(u, id);
+                }
             }
             
             // Re-trigger enter bounds?
             y = GetUnitY(u);
             SetUnitY(u, 1000000000);
             SetUnitY(u, y);
-		}
-		
-		static method setupAbilities() {
-			string abilities = "QWERSDF0123456789";
+        }
+        
+        static method setupAbilities() {
+            string abilities = "QWERSDF0123456789";
             integer i = 0, j = 0, k = 0;
             integer id = 0;
             string indexS = "";
-			string titanId = "";
+            string titanId = "";
             
             for (0 <= i < StringLength(abilities)) {
                 indexS = SubString(abilities, i, 1 + i);
                 
-				for (0 <= j < TitanRace.count()) {
-					titanId = SubString(TitanRace[j].toString(), 0, 1);
-					id = S2A("T" + titanId + "U" + indexS);
-					for (0 <= k < 12) {
-						SetPlayerAbilityAvailable(Player(k), id, false);
-					}
+                for (0 <= j < TitanRace.count()) {
+                    titanId = SubString(TitanRace[j].toString(), 0, 1);
+                    id = S2A("T" + titanId + "U" + indexS);
+                    for (0 <= k < 12) {
+                        SetPlayerAbilityAvailable(Player(k), id, false);
+                    }
                 }
             }
-		}
+        }
         
         method onSpawn(unit u) {
             // Add abilities to names!
@@ -201,11 +201,11 @@ library CustomTitanRace requires Races, Ascii {
             string indexS = "";
             integer id = 0;
             real y = 0.0;
-			player p = GetOwningPlayer(u);
-			string titanId = "";
+            player p = GetOwningPlayer(u);
+            string titanId = "";
             
             // First remove original abilities
-			// This won't work as Hero abilities cannot be removed...
+            // This won't work as Hero abilities cannot be removed...
             //thistype.clearRaceAbilities(u, TitanRace.fromWidgetId(this.widgetId()));
             
             for (0 <= i < StringLength(abilities)) {
@@ -219,10 +219,10 @@ library CustomTitanRace requires Races, Ascii {
                             UnitAddAbility(u, id); // Add innate abilities
                         }
                         else {
-							titanId = SubString(A2S(id), 1, 2);
-							id = S2A("T" + titanId + "U" + indexS);
-							SetPlayerAbilityAvailable(p, id, false);
-							UnitAddAbility(u, id);
+                            titanId = SubString(A2S(id), 1, 2);
+                            id = S2A("T" + titanId + "U" + indexS);
+                            SetPlayerAbilityAvailable(p, id, false);
+                            UnitAddAbility(u, id);
                         }
                     }
                 }

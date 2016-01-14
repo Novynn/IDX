@@ -36,14 +36,14 @@ library TitanUnit requires Unit, CreateItemEx {
             this.mClass = p.class();
             this.mRace = PlayerData.CLASS_TITAN;
             this.mOwner = p;
-			
+            
             return this;
         }
-		
-		public method spawn(real x, real y, real rotation) -> unit {
+        
+        public method spawn(real x, real y, real rotation) -> unit {
             this.mUnit = CreateUnit(this.mOwner.player(), this.mOwner.race().widgetId(), x, y, rotation);
-			return this.mUnit;
-		}
+            return this.mUnit;
+        }
     }
     
     public struct TitanDeath {

@@ -4,38 +4,38 @@
 
 library TagDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, GT, Upgrades, Damage {
     public module TagDefenderDeath {
-		public method moveAllTitanUnits() {
-			UnitList list = UnitManager.getTitans();
-			Unit u = 0;
-			integer i = 0;
-			real x = GetUnitX(UnitManager.TITAN_SPELL_WELL);
-			real y = GetUnitY(UnitManager.TITAN_SPELL_WELL);
-			
+        public method moveAllTitanUnits() {
+            UnitList list = UnitManager.getTitans();
+            Unit u = 0;
+            integer i = 0;
+            real x = GetUnitX(UnitManager.TITAN_SPELL_WELL);
+            real y = GetUnitY(UnitManager.TITAN_SPELL_WELL);
+            
             list.copy(UnitManager.getMinions());
-			for (0 <= i < list.size()) {
-				u = list[i];
-				// Apply Grace
-				MinionUnit.grace(u);
-				UnitResetCooldown(u.unit());
-				SetUnitState(u.unit(), UNIT_STATE_LIFE, GetUnitState(u.unit(), UNIT_STATE_MAX_LIFE));
-				SetUnitState(u.unit(), UNIT_STATE_MANA, GetUnitState(u.unit(), UNIT_STATE_MAX_MANA));
-				SetUnitPosition(u.unit(), x, y);
-			}
-		}
-		
-		public method onDefenderDeath(DefenderUnit u, unit killer) {
-			PlayerData p = u.owner();
+            for (0 <= i < list.size()) {
+                u = list[i];
+                // Apply Grace
+                MinionUnit.grace(u);
+                UnitResetCooldown(u.unit());
+                SetUnitState(u.unit(), UNIT_STATE_LIFE, GetUnitState(u.unit(), UNIT_STATE_MAX_LIFE));
+                SetUnitState(u.unit(), UNIT_STATE_MANA, GetUnitState(u.unit(), UNIT_STATE_MAX_MANA));
+                SetUnitPosition(u.unit(), x, y);
+            }
+        }
+        
+        public method onDefenderDeath(DefenderUnit u, unit killer) {
+            PlayerData p = u.owner();
             PlayerData k = PlayerData.get(GetOwningPlayer(killer));
             real x=GetUnitX(u.unit());
             real y=GetUnitY(u.unit());
             real q=GetUnitX(killer);
             real r=GetUnitY(killer);
-			integer temp = 0;
-			
-			// Stop unit from dying!
-			Damage_BlockAll();
-			// Re-add
-			UnitManager.defenders.append(u);
+            integer temp = 0;
+            
+            // Stop unit from dying!
+            Damage_BlockAll();
+            // Re-add
+            UnitManager.defenders.append(u);
             
             // First up, ping the minimap to show everyone where the defender died.
             if (PlayerData.get(GetLocalPlayer()).isClass(PlayerData.CLASS_DEFENDER) ||
@@ -76,70 +76,70 @@ library TagDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, GT, U
             // Announce it
             Game.say(p.nameColored() + "|cff00bfff was killed by |r" + k.nameColored());
             PlaySoundBJ(gg_snd_Titan_BuilderKill);
-			
-			if (p.isLeaving()){
+            
+            if (p.isLeaving()){
                 p.left();
             }
-			k.setClassEx(PlayerData.CLASS_DEFENDER, false);
+            k.setClassEx(PlayerData.CLASS_DEFENDER, false);
             if (p.isLeaving() || p.hasLeft()){
-				p.setClassEx(PlayerData.CLASS_NONE, true);
-				return;
+                p.setClassEx(PlayerData.CLASS_NONE, true);
+                return;
             }
-			
-			p.setClassEx(PlayerData.CLASS_TITAN, true);
-			
-			// First, move the Titan and all of his minions to the Mound!
-			this.moveAllTitanUnits();
-			UnitManager.swapPlayerUnits(p, k);
-			Upgrades.swapPlayerUpgradeTables(p.player(), k.player());
             
-			temp = p.gold();
-			p.setGold(k.gold());
-			k.setGold(temp);
-			temp = p.wood();
-			p.setWood(k.wood());
-			k.setWood(temp);
-			temp = p.race();
-			p.setRace(k.race());
-			k.setRace(temp);
-			temp = p.unit();
-			p.setUnit(k.unit());
-			k.setUnit(temp);
-			
+            p.setClassEx(PlayerData.CLASS_TITAN, true);
+            
+            // First, move the Titan and all of his minions to the Mound!
+            this.moveAllTitanUnits();
+            UnitManager.swapPlayerUnits(p, k);
+            Upgrades.swapPlayerUpgradeTables(p.player(), k.player());
+            
+            temp = p.gold();
+            p.setGold(k.gold());
+            k.setGold(temp);
+            temp = p.wood();
+            p.setWood(k.wood());
+            k.setWood(temp);
+            temp = p.race();
+            p.setRace(k.race());
+            k.setRace(temp);
+            temp = p.unit();
+            p.setUnit(k.unit());
+            k.setUnit(temp);
+            
             // W3MMD
             p.setDeaths(p.deaths() + 1);
             k.setKills(k.kills() + 1);
-			
-			
-			// Heal
-			UnitResetCooldown(u.unit());
-			SetUnitState(u.unit(), UNIT_STATE_LIFE, GetUnitState(u.unit(), UNIT_STATE_MAX_LIFE));
-			SetUnitState(u.unit(), UNIT_STATE_MANA, GetUnitState(u.unit(), UNIT_STATE_MAX_MANA));
-			
-			if (GetLocalPlayer() == k.player()) {
-				ClearSelection();
-				PanCameraToTimed(x, y, 0.0);
-				SelectUnit(u.unit(), true);
-			}
-			
-			if (GetLocalPlayer() == p.player()) {
-				ClearSelection();
-				PanCameraToTimed(GetUnitX(UnitManager.TITAN_SPELL_WELL), GetUnitY(UnitManager.TITAN_SPELL_WELL), 0.0);
-				SelectUnit(UnitManager.TITAN_SPELL_WELL, true);
-			}
+            
+            
+            // Heal
+            UnitResetCooldown(u.unit());
+            SetUnitState(u.unit(), UNIT_STATE_LIFE, GetUnitState(u.unit(), UNIT_STATE_MAX_LIFE));
+            SetUnitState(u.unit(), UNIT_STATE_MANA, GetUnitState(u.unit(), UNIT_STATE_MAX_MANA));
+            
+            if (GetLocalPlayer() == k.player()) {
+                ClearSelection();
+                PanCameraToTimed(x, y, 0.0);
+                SelectUnit(u.unit(), true);
+            }
+            
+            if (GetLocalPlayer() == p.player()) {
+                ClearSelection();
+                PanCameraToTimed(GetUnitX(UnitManager.TITAN_SPELL_WELL), GetUnitY(UnitManager.TITAN_SPELL_WELL), 0.0);
+                SelectUnit(UnitManager.TITAN_SPELL_WELL, true);
+            }
             
             // Reveal the map after a very short delay, in order to allow currently running nukes
-			// to choose new targets
-			GameTimer.newNamed(function(GameTimer t){
-				PlayerData k = t.data();
-				RevealMapForPlayer(k.player());
-			}, "DefenderDeathMapReveal").start(0.2).setData(k); 
-			
-			GameTimer.newNamed(function(GameTimer t){
-				PlayerData p = t.data();
-				RevealMapForPlayer(p.player());
-			}, "DefenderDeathMapReveal").start(0.2).setData(p); 
-		}
+            // to choose new targets
+            GameTimer.newNamed(function(GameTimer t){
+                PlayerData k = t.data();
+                RevealMapForPlayer(k.player());
+            }, "DefenderDeathMapReveal").start(0.2).setData(k); 
+            
+            GameTimer.newNamed(function(GameTimer t){
+                PlayerData p = t.data();
+                RevealMapForPlayer(p.player());
+            }, "DefenderDeathMapReveal").start(0.2).setData(p); 
+        }
     }
 }
 

@@ -4,7 +4,7 @@
     GameSettings.setStr ("EDITOR", "Neco");
     
     // Pickmode settings
-	GameSettings.setStr ("GAME_MODE", "ID");
+    GameSettings.setStr ("GAME_MODE", "ID");
     GameSettings.setStr ("PICKMODE_DEFAULT", "UP");         // AP
     GameSettings.setReal("PICKMODE_VOTE_TIME", 15.0); // 15
     GameSettings.setReal("PICKMODE_START_DELAY", 15.0);
@@ -21,14 +21,14 @@
     GameSettings.setStr ("STARTGAME_MESSAGE_FROM", "|cffff4500Neco|r");
     GameSettings.setInt ("STARTGAME_MESSAGE_FROM_ID", 'n020');
     GameSettings.setReal("STARTGAME_MESSAGE_TIME", 3.00);
-	
-	
-	// Leaving Builder Bonus
+    
+    
+    // Leaving Builder Bonus
     GameSettings.setBool("TITAN_BONUS_ON_DEFENDER_LEAVE", true);
     GameSettings.setInt ("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD", 10);
-	
-	// Lightning Effects (Desync Test)
-	GameSettings.setBool("LIGHTNING_EFFECTS_ENABLED", false);
+    
+    // Lightning Effects (Desync Test)
+    GameSettings.setBool("LIGHTNING_EFFECTS_ENABLED", false);
     
     // Camera Bounds test
     GameSettings.setBool("RESTRICT_CAMERA_BOUNDS", true);
@@ -103,8 +103,8 @@
     GameSettings.setBool("UPKEEP_MODE", false);
     
     GameSettings.setBool("TITAN_AUTOATTACK_ON", false);
-	
-	// Gold Stolen
+    
+    // Gold Stolen
     GameSettings.setInt ("TITAN_MOUND_GOLD_STOLEN", 0);
     
     // Debug Overrides

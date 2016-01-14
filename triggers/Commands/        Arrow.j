@@ -4,7 +4,7 @@
 
 library Arrow requires TimerUtils, CameraTweak {
     type OnKeyFunc extends function(PlayerData, string);
-	
+    
     public struct Arrow {
         private static constant integer KEY_NONE = 0;
         private static constant integer KEY_UP_PRESSED = 1;

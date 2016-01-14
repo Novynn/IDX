@@ -31,13 +31,13 @@ library NatureRace requires Races {
         method childItemId() -> integer {
             return 'q050'; // Hunter Research
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o00R', -1);
             SetPlayerTechMaxAllowed(p, 'o00T', -1);
             SetPlayerTechMaxAllowed(p, 'o00S', -1);
-		}
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

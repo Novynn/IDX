@@ -4,7 +4,7 @@
 
 // TLAE
 library LucidiousHealMinion requires GenericTitanTargets {
-	private struct LucidiousHealMinion extends GenericTitanHeal {
+    private struct LucidiousHealMinion extends GenericTitanHeal {
         module GenericTitanBounceHeal;
         
         method abilityId() -> integer {

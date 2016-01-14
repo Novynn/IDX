@@ -175,7 +175,7 @@ library RacePickMode requires RacePicker, optional PerksSystem {
             unit u = p.unit().unit();
             
             SetPlayerState(p.player(), PLAYER_STATE_GIVES_BOUNTY, 1); // Gives Bounty
-			// Setup tech
+            // Setup tech
             DefenderUnit.prepare(p);
             
             if (GetUnitAbilityLevel(u, 'A013') > 0) {
@@ -205,7 +205,7 @@ library RacePickMode requires RacePicker, optional PerksSystem {
                     Game.sayClass(PlayerData.CLASS_DEFENDER, 
                                   p.nameColored() + "|cff00bfff has chosen " + p.race().toString() + ".|r");
                 }
-				p.setWood(p.wood() + 70);
+                p.setWood(p.wood() + 70);
 
                 // Set initial position
                 p.setInitialPosition(GetUnitX(u), GetUnitY(u));

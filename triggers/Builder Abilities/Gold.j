@@ -19,9 +19,9 @@ library GetGold requires GT, UnitManager {
             
             DestroyEffect(AddSpecialEffect("Abilities\\Spells\\Other\\Transmute\\PileofGold.mdl", GetUnitX(v), GetUnitY(v)));
             SetUnitState(v, UNIT_STATE_LIFE, GetUnitState(v, UNIT_STATE_MAX_LIFE) / 4.0);
-			
-			GameSettings.setInt("TITAN_MOUND_GOLD_STOLEN", GameSettings.getInt("TITAN_MOUND_GOLD_STOLEN") + 1);
-			
+            
+            GameSettings.setInt("TITAN_MOUND_GOLD_STOLEN", GameSettings.getInt("TITAN_MOUND_GOLD_STOLEN") + 1);
+            
             u = null;
             p = null;
             v = null;

@@ -36,8 +36,8 @@ library DemonicusRace requires Races, CustomTitanRace {
             else {
                 p.say("|cff00bfffAuto-Attack has been turned |r|cffff0000off|r|cff00bfff. Use \"-aa on\" to turn it on.|r");
             }
-			CustomTitanRace.setBaseAbilities(u, this.toString());
-		}
+            CustomTitanRace.setBaseAbilities(u, this.toString());
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

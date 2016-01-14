@@ -21,10 +21,10 @@ library CurrentTap requires GameTimer, RegisterPlayerUnitEvent, xecast, DestroyE
             rect r = bj_mapInitialPlayableArea; // No need for a selection buffer here?
             real x = GetRandomReal(GetRectMinX(r), GetRectMaxX(r));
             real y = GetRandomReal(GetRectMinY(r), GetRectMaxY(r));
-			PlayerData p = PlayerData.get(GetOwningPlayer(this.caster));
+            PlayerData p = PlayerData.get(GetOwningPlayer(this.caster));
             // Create "Current Tap"
-			this.cast.owningplayer = GetOwningPlayer(this.caster);
-			this.cast.castOnPoint(x, y);
+            this.cast.owningplayer = GetOwningPlayer(this.caster);
+            this.cast.castOnPoint(x, y);
 
             if (GameSettings.getBool("TITAN_GLACIOUS_SHOW_CURRENT_TAP_PINGS")) {
                 if (GetLocalPlayer() == GetOwningPlayer(this.caster)) {
@@ -68,10 +68,10 @@ library CurrentTap requires GameTimer, RegisterPlayerUnitEvent, xecast, DestroyE
         
         
         public static method begin(unit u) -> thistype {
-			integer id = GetUnitIndex(u);
+            integer id = GetUnitIndex(u);
             thistype this = thistype.instances[id];
-			if (this != 0) this.destroy();
-			this = thistype.allocate();
+            if (this != 0) this.destroy();
+            this = thistype.allocate();
             this.caster = u;
             this.index = id;
             

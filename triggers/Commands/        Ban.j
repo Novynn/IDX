@@ -14,7 +14,7 @@ library BanTweak requires TweakManager {
         }
         public method description() -> string {
             return "Bans up to " + I2S(GameSettings.getInt("PICKMODE_RACE_BAN_MAX")) + " Defender races and " + I2S(GameSettings.getInt("PICKMODE_RACE_BAN_MAX_TITANS")) + 
-			" Titans from being randomed.";
+            " Titans from being randomed.";
         }
         public method command() -> string {
             return "-ban,-b,-banrandom";
@@ -33,13 +33,13 @@ library BanTweak requires TweakManager {
                 p.class() != PlayerData.CLASS_DEFENDER) {
                 return;
             }
-			
-			if (p.class() == PlayerData.CLASS_TITAN) {
-				max = GameSettings.getInt("PICKMODE_RACE_BAN_MAX_TITANS");
-			}
+            
+            if (p.class() == PlayerData.CLASS_TITAN) {
+                max = GameSettings.getInt("PICKMODE_RACE_BAN_MAX_TITANS");
+            }
             
             if (PlayerDataPick.initialized() &&
-				RacePicker.state() == RacePicker.STATE_RUNNING &&
+                RacePicker.state() == RacePicker.STATE_RUNNING &&
                 !PlayerDataPick[p].hasPicked()){
                 
                 if (PlayerDataPick[p].hasRandomBans()) {
@@ -87,9 +87,9 @@ library BanTweak requires TweakManager {
                     }
                 }
             }
-			else {
-				p.say("|cffff0000Now is not the right time to be using the |cff00bfff" + this.shortName() + "|r |cffff0000command. Try again another time.|r");
-			}
+            else {
+                p.say("|cffff0000Now is not the right time to be using the |cff00bfff" + this.shortName() + "|r |cffff0000command. Try again another time.|r");
+            }
         }
     }
 }

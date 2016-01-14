@@ -95,10 +95,10 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
             this.destroy();
         }
     }
-	
+    
     public module DefaultDefenderDeath {
-		public method onDefenderDeath(DefenderUnit u, unit killer) {
-			PlayerData p = u.owner();
+        public method onDefenderDeath(DefenderUnit u, unit killer) {
+            PlayerData p = u.owner();
             PlayerData k = PlayerData.get(GetOwningPlayer(killer));
             real x=GetUnitX(u.unit());
             real y=GetUnitY(u.unit());
@@ -148,13 +148,13 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
             
             // Remove all player units apart from the killed unit
             SetUnitOwner(u.unit(), Player(PLAYER_NEUTRAL_PASSIVE), false);
-			
-			// Remove learned upgrades
-			Upgrades.resetAllUpgradesForPlayer(p.player(), false);
-			
+            
+            // Remove learned upgrades
+            Upgrades.resetAllUpgradesForPlayer(p.player(), false);
+            
             UnitManager.removePlayerUnits(p);
             SetUnitOwner(u.unit(), p.player(), true);
-			
+            
             
             // Remove corpse after 3 seconds
             GameTimer.newNamed(function(GameTimer t){
@@ -193,13 +193,13 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
                 if (GameSettings.getBool("MINION_FORCE_OBS")) {
                     p.setClass(PlayerData.CLASS_OBSERVER);
                     p.setRace(NullRace.instance());
-					minion = UnitManager.spawnMinion(k, q, r, UnitManager.minionLevel);
+                    minion = UnitManager.spawnMinion(k, q, r, UnitManager.minionLevel);
                 }
                 else {
                     p.setClass(PlayerData.CLASS_MINION);
                     p.setRace(k.race());
-					// Spawn the minion
-					minion = UnitManager.spawnMinion(p, q, r, UnitManager.minionLevel);
+                    // Spawn the minion
+                    minion = UnitManager.spawnMinion(p, q, r, UnitManager.minionLevel);
                 }
                 
                 if (p.isLeaving() || p.hasLeft() ||
@@ -244,7 +244,7 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
             
             // Check if that was the last defender alive
             Game.checkVictory();
-		}
+        }
     }
 }
 

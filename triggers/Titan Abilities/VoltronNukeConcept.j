@@ -52,17 +52,17 @@ library VoltronNuke requires GameTimer, GT, xebasic, xepreload, xecollider, Gene
             
             if (level == 1){
                 this.damageAmount = 130.0;
-				this.collisionSize = 100;
+                this.collisionSize = 100;
                 this.distance = 600.0;
             }
             else if (level == 2){
                 this.damageAmount = 155.0;
-				this.collisionSize = 125;
+                this.collisionSize = 125;
                 this.distance = 600.0;
             }
             else if (level == 3){
                 this.damageAmount = 180.0;
-				this.collisionSize = 150;
+                this.collisionSize = 150;
                 this.distance = 600.0;
             }
         }

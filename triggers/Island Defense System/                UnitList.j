@@ -8,7 +8,7 @@ library Unit requires PlayerDataPick, Table {
         public method class() -> integer;       // CLASS_DEFENDER
         public method race() -> Race;           // MurlocRace
         public method owner() -> PlayerData;    // CURRENT Owning Player
-		public method spawn(real x, real y, real r) -> unit;
+        public method spawn(real x, real y, real r) -> unit;
     }
     
     public struct UnitList {

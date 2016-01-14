@@ -57,12 +57,12 @@ library HunterUnit requires Unit {
             
             return this;
         }
-		
-		public method spawn(real x, real y, real rotation) -> unit {
+        
+        public method spawn(real x, real y, real rotation) -> unit {
             // We want the child (hunter)
             this.mUnit = CreateUnit(this.mOwner.player(), this.mOwner.race().childId(), x, y, rotation);
-			return this.mUnit;
-		}
+            return this.mUnit;
+        }
     }
     
     public struct HunterDeath {

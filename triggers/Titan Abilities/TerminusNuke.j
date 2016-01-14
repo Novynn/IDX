@@ -33,21 +33,21 @@ library TerminusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTar
             else if (level == 3){
                 this.damageAmount = 180.0;
             }
-			this.damageRange = 245.0; // +50 from actual (0103a)
+            this.damageRange = 245.0; // +50 from actual (0103a)
         }
         private unit caster = null;
         private player castingPlayer = null;
         private integer level = 0;
         
         private real damageAmount = 0.0;
-		private real damageRange = 0.0;
+        private real damageRange = 0.0;
         private xedamage damage = 0;
-		
-		private unit target = null;
-		private real targetX = 0.0;
-		private real targetY = 0.0;
-		
-		private method damageArea(real x, real y){
+        
+        private unit target = null;
+        private real targetX = 0.0;
+        private real targetY = 0.0;
+        
+        private method damageArea(real x, real y){
             group g = CreateGroup();
             unit u = null;
             GroupEnumUnitsInRange(g, x, y, this.damageRange, null);
@@ -68,12 +68,12 @@ library TerminusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTar
         }
         
         public method onHit(real x, real y, real z) {
-			this.damageArea(x, y);
+            this.damageArea(x, y);
             this.destroy();
         }
         
         public method checkTarget(unit u) -> boolean {
-			// Should it check visibility?
+            // Should it check visibility?
             return IsUnitNukable(u, this.caster); // && IsUnitVisible(u, this.castingPlayer);
         }
         
@@ -84,9 +84,9 @@ library TerminusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTar
             TerminusNukeMissile missile = TerminusNukeMissile.create(x, y, z, this.target, 0.0);
             missile.setup(this);
             missile.owner = this.castingPlayer;
-			if (this.target == null) {
-				missile.setTargetPoint(this.targetX, this.targetY, 0.0);
-			}
+            if (this.target == null) {
+                missile.setTargetPoint(this.targetX, this.targetY, 0.0);
+            }
             missile.launch(1000.0, 0.60);
         }
         
@@ -96,23 +96,23 @@ library TerminusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTar
             this.level = level;
             this.castingPlayer = GetOwningPlayer(this.caster);
             this.target = target;
-			this.targetX = targetX;
-			this.targetY = targetY;
-			
+            this.targetX = targetX;
+            this.targetY = targetY;
+            
             this.damage = xedamage.create();
             this.damage.damageEnemies = true;
             this.damage.damageNeutral = true;
             this.damage.damageSelf = false;
             this.damage.damageAllies = false;
             this.setup(this.level);
-			
-			this.fire();
+            
+            this.fire();
             
             return this;
         }
         
         private method onDestroy(){
-			this.target = null;
+            this.target = null;
             this.damage.destroy();
             this.caster = null;
             this.castingPlayer = null;
@@ -121,9 +121,9 @@ library TerminusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTar
         private static method onCast(){
             unit caster = GetSpellAbilityUnit();
             integer level = GetUnitAbilityLevel(caster, thistype.ABILITY_ID);
-			unit target = GetSpellTargetUnit();
-			real targetX = GetSpellTargetX();
-			real targetY = GetSpellTargetY();
+            unit target = GetSpellTargetUnit();
+            real targetX = GetSpellTargetX();
+            real targetY = GetSpellTargetY();
             thistype.begin(caster, level, target, targetX, targetY);
         }
         

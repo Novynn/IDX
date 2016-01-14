@@ -5,97 +5,97 @@
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //
 //  What is GTrigger?
-//		 - GTrigger is an event system that replaces the cumbersome WC3
-//		   event system.
-//		 - GTrigger only launches the necessary threads instead of x threads,
-//		   where x is the number of times the event type occurs in the map.
+//         - GTrigger is an event system that replaces the cumbersome WC3
+//           event system.
+//         - GTrigger only launches the necessary threads instead of x threads,
+//           where x is the number of times the event type occurs in the map.
 //
-//	=Pros=
-//		 - Instead of having 16 events (for "16" players) per use of an,
-//		   event type, you have 0 per use and 16 total for that event type.
-//		 - If you have 100 events of one type in your map, instead of firing
-//		   100 triggers each time any spell is cast, you fire only what's needed.
-//		 - GTrigger is faster to code with, more efficient to execute, and just
-//		   better programming practises and nicer code all round.
+//    =Pros=
+//         - Instead of having 16 events (for "16" players) per use of an,
+//           event type, you have 0 per use and 16 total for that event type.
+//         - If you have 100 events of one type in your map, instead of firing
+//           100 triggers each time any spell is cast, you fire only what's needed.
+//         - GTrigger is faster to code with, more efficient to execute, and just
+//           better programming practises and nicer code all round.
 //
-//	=Cons=
-//		 - If a trigger with a GTrigger event is destroyed, it must have its
-//		   event unregistered first or it will leak an event (slows firing down).
-//		 - Shouldn't use "wait" actions anywhere in the triggers.
+//    =Cons=
+//         - If a trigger with a GTrigger event is destroyed, it must have its
+//           event unregistered first or it will leak an event (slows firing down).
+//         - Shouldn't use "wait" actions anywhere in the triggers.
 //
-//	Functions:
-//		   // General
-//		 - GT_UnregisterTriggeringEvent()
+//    Functions:
+//           // General
+//         - GT_UnregisterTriggeringEvent()
 //
-//		   // Ability events
-//		 - GT_RegisterStartsEffectEvent(trigger, abilityid)       (returns the trigger passed in)
-//		 - GT_RegisterBeginsChannelingEvent(trigger, abilityid)   (returns the trigger passed in)
-//		 - GT_RegisterBeginsCastingEvent(trigger, abilityid)      (returns the trigger passed in)
-//		 - GT_RegisterStopsCastingEvent(trigger, abilityid)       (returns the trigger passed in)
-//		 - GT_RegisterFinishesCastingEvent(trigger, abilityid)    (returns the trigger passed in)
-//		 - GT_RegisterLearnsAbilityEvent(trigger, abilityid)       (returns the trigger passed in)
-//		   // Order events // (can use String2OrderIdBJ("OrderString") for orderid
-//		 - GT_RegisterTargetOrderEvent(trigger, orderid)          (returns the trigger passed in)
-//		 - GT_RegisterPointOrderEvent(trigger, orderid)           (returns the trigger passed in)
-//		 - GT_RegisterNoTargetOrderEvent(trigger, orderid)        (returns the trigger passed in)
-//		   // Item events
-//		 - GT_RegisterItemUsedEvent(trigger, itemtypeid)          (returns the trigger passed in)
-//		 - GT_RegisterItemAcquiredEvent(trigger, itemtypeid)      (returns the trigger passed in)
-//		 - GT_RegisterItemDroppedEvent(trigger, itemtypeid)       (returns the trigger passed in)
-//		   // Unit events
-//		 - GT_RegisterUnitDiesEvent(trigger, unittypeid)          (returns the trigger passed in)
+//           // Ability events
+//         - GT_RegisterStartsEffectEvent(trigger, abilityid)       (returns the trigger passed in)
+//         - GT_RegisterBeginsChannelingEvent(trigger, abilityid)   (returns the trigger passed in)
+//         - GT_RegisterBeginsCastingEvent(trigger, abilityid)      (returns the trigger passed in)
+//         - GT_RegisterStopsCastingEvent(trigger, abilityid)       (returns the trigger passed in)
+//         - GT_RegisterFinishesCastingEvent(trigger, abilityid)    (returns the trigger passed in)
+//         - GT_RegisterLearnsAbilityEvent(trigger, abilityid)       (returns the trigger passed in)
+//           // Order events // (can use String2OrderIdBJ("OrderString") for orderid
+//         - GT_RegisterTargetOrderEvent(trigger, orderid)          (returns the trigger passed in)
+//         - GT_RegisterPointOrderEvent(trigger, orderid)           (returns the trigger passed in)
+//         - GT_RegisterNoTargetOrderEvent(trigger, orderid)        (returns the trigger passed in)
+//           // Item events
+//         - GT_RegisterItemUsedEvent(trigger, itemtypeid)          (returns the trigger passed in)
+//         - GT_RegisterItemAcquiredEvent(trigger, itemtypeid)      (returns the trigger passed in)
+//         - GT_RegisterItemDroppedEvent(trigger, itemtypeid)       (returns the trigger passed in)
+//           // Unit events
+//         - GT_RegisterUnitDiesEvent(trigger, unittypeid)          (returns the trigger passed in)
 //
-//		   // Ability Events
-//		 - GT_UnregisterSpellEffectEvent(trigger, abilityid)      (returns the trigger passed in)
-//		 - GT_UnregisterBeginsChannelingEvent(trigger, abilityid) (returns the trigger passed in)
-//		 - GT_UnregisterBeginsCastingEvent(trigger, abilityid)    (returns the trigger passed in)
-//		 - GT_UnregisterStopsCastingEvent(trigger, abilityid)     (returns the trigger passed in)
-//		 - GT_UnregisterFinishesCastingEvent(trigger, abilityid)  (returns the trigger passed in)
-//		 - GT_UnregisterLearnsAbilityEvent(trigger, abilityid)     (returns the trigger passed in)
-//		   // Order events // (can use String2OrderIdBJ("OrderString") for orderid
-//		 - GT_UnregisterTargetOrderEvent(trigger, orderid)        (returns the trigger passed in)
-//		 - GT_UnregisterPointOrderEvent(trigger, orderid)         (returns the trigger passed in)
-//		 - GT_UnregisterNoTargetOrderEvent(trigger, orderid)      (returns the trigger passed in)
-//		   // Item events
-//		 - GT_UnregisterItemUsedEvent(trigger, itemtypeid)        (returns the trigger passed in)
-//		 - GT_UnregisterItemAcquiredEvent(trigger, itemtypeid)    (returns the trigger passed in)
-//		 - GT_UnregisterItemDroppedEvent(trigger, itemtypeid)     (returns the trigger passed in)
-//		   // Unit events
-//		 - GT_UnregisterUnitDiesEvent(trigger, unittypeid)        (returns the trigger passed in)
+//           // Ability Events
+//         - GT_UnregisterSpellEffectEvent(trigger, abilityid)      (returns the trigger passed in)
+//         - GT_UnregisterBeginsChannelingEvent(trigger, abilityid) (returns the trigger passed in)
+//         - GT_UnregisterBeginsCastingEvent(trigger, abilityid)    (returns the trigger passed in)
+//         - GT_UnregisterStopsCastingEvent(trigger, abilityid)     (returns the trigger passed in)
+//         - GT_UnregisterFinishesCastingEvent(trigger, abilityid)  (returns the trigger passed in)
+//         - GT_UnregisterLearnsAbilityEvent(trigger, abilityid)     (returns the trigger passed in)
+//           // Order events // (can use String2OrderIdBJ("OrderString") for orderid
+//         - GT_UnregisterTargetOrderEvent(trigger, orderid)        (returns the trigger passed in)
+//         - GT_UnregisterPointOrderEvent(trigger, orderid)         (returns the trigger passed in)
+//         - GT_UnregisterNoTargetOrderEvent(trigger, orderid)      (returns the trigger passed in)
+//           // Item events
+//         - GT_UnregisterItemUsedEvent(trigger, itemtypeid)        (returns the trigger passed in)
+//         - GT_UnregisterItemAcquiredEvent(trigger, itemtypeid)    (returns the trigger passed in)
+//         - GT_UnregisterItemDroppedEvent(trigger, itemtypeid)     (returns the trigger passed in)
+//           // Unit events
+//         - GT_UnregisterUnitDiesEvent(trigger, unittypeid)        (returns the trigger passed in)
 //
-//	Alternative interface (not recommended):
-//		If you aren't familiar with how this works, you shouldn't use it.
-//		All funcs must return false. (That is the only reason it isn't recommended.)
-//		   // General
-//		 - GT_RemoveTriggeringAction() // Use this to remove actions.
-//		   // Ability Events
-//		 - GT_AddStartsEffectAction(func, abilityid)
-//		 - GT_AddBeginsChannelingActon(func, abilityid)
-//		 - GT_AddBeginsCastingAction(func, abilityid)
-//		 - GT_AddStopsCastingAction(func, abilityid)
-//		 - GT_AddFinishesCastingAction(func, abilityid)
-//		 - GT_AddLearnsAbilityAction(func, abilityid)
-//		   // Order events // (can use String2OrderIdBJ("OrderString") for orderid
-//		 - GT_AddTargetOrderAction(func, orderid)
-//		 - GT_AddPointOrderAction(func, orderid)
-//		 - GT_AddNoTargetOrderAction(func, orderid)
-//		   // Item events
-//		 - GT_AddItemUsedAction(func, itemtypeid)
-//		 - GT_AddItemAcquiredAction(func, itemtypeid)
-//		 - GT_AddItemDroppedAction(func, itemtypeid)
-//		   // Unit events
-//		 - GT_AddUnitDiesAction(func, unittypeid)
+//    Alternative interface (not recommended):
+//        If you aren't familiar with how this works, you shouldn't use it.
+//        All funcs must return false. (That is the only reason it isn't recommended.)
+//           // General
+//         - GT_RemoveTriggeringAction() // Use this to remove actions.
+//           // Ability Events
+//         - GT_AddStartsEffectAction(func, abilityid)
+//         - GT_AddBeginsChannelingActon(func, abilityid)
+//         - GT_AddBeginsCastingAction(func, abilityid)
+//         - GT_AddStopsCastingAction(func, abilityid)
+//         - GT_AddFinishesCastingAction(func, abilityid)
+//         - GT_AddLearnsAbilityAction(func, abilityid)
+//           // Order events // (can use String2OrderIdBJ("OrderString") for orderid
+//         - GT_AddTargetOrderAction(func, orderid)
+//         - GT_AddPointOrderAction(func, orderid)
+//         - GT_AddNoTargetOrderAction(func, orderid)
+//           // Item events
+//         - GT_AddItemUsedAction(func, itemtypeid)
+//         - GT_AddItemAcquiredAction(func, itemtypeid)
+//         - GT_AddItemDroppedAction(func, itemtypeid)
+//           // Unit events
+//         - GT_AddUnitDiesAction(func, unittypeid)
 //
 //  Details:
-//		 - Due to the storage method, only 8191 GTrigger events are possible at any one time.
+//         - Due to the storage method, only 8191 GTrigger events are possible at any one time.
 //
 //  Thanks:
-//		 - Daxtreme: For voluntarily testing this system and the UnitDies event idea.
-//		 - kenny!: For the Order and Learns Ability event ideas.
+//         - Daxtreme: For voluntarily testing this system and the UnitDies event idea.
+//         - kenny!: For the Order and Learns Ability event ideas.
 //
 //  How to import:
-//		 - Create a trigger named GT.
-//		 - Convert it to custom text and replace the whole trigger text with this.
+//         - Create a trigger named GT.
+//         - Convert it to custom text and replace the whole trigger text with this.
 //
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 library GT initializer Init

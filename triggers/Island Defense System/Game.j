@@ -101,17 +101,17 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
                 Game.say("|cffffcc00[|r|cffff0000GAME INITIALIZING...|r|cffffcc00]|r");
                 // Load HCL settings!
                 HCLSystem.setup();
-				
-				// Set game mode (after HCL! 0103a)
+                
+                // Set game mode (after HCL! 0103a)
                 thistype.setMode(thistype[GameSettings.getStr ("GAME_MODE")]);
-				
-				// Initialize upgrades!
-				Upgrades.initialize();
-				
-				// Ensure ability hidden ness!
-				CustomTitanRace.setupAbilities();
-				
-				// Now gooooo!
+                
+                // Initialize upgrades!
+                Upgrades.initialize();
+                
+                // Ensure ability hidden ness!
+                CustomTitanRace.setupAbilities();
+                
+                // Now gooooo!
                 thistype.mode().setup();
             }).start(0.0);
             
@@ -300,11 +300,11 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
         method checkVictory() -> boolean;
         method playerResult(PlayerData p) -> integer;
         method endGame();
-		
-		method onDefenderDeath(DefenderUnit u, unit killer) = null;
-		method onHunterDeath() = null;
-		method onTitanDeath() = null;
-		method onMinionDeath() = null;
+        
+        method onDefenderDeath(DefenderUnit u, unit killer) = null;
+        method onHunterDeath() = null;
+        method onTitanDeath() = null;
+        method onMinionDeath() = null;
     }
     
     private function onInit(){

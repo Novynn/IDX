@@ -120,18 +120,18 @@ library PunishmentCentre requires UnitSpawner, AIDS, DestroyEffectTimed {
                     //    PlayerData.get(p).say("|cffff0000You are unable to punish summoned units.|r");
                     //}
                     //else {
-						if (GetOwningPlayer(t) != p) {
-							SetUnitOwner(t, p, true);
-						}
+                        if (GetOwningPlayer(t) != p) {
+                            SetUnitOwner(t, p, true);
+                        }
                         
                         UnitRemoveBuffs(t, false, true);
                         UnitRemoveAbility(t, 'B01V'); // Tauren Enfeeble
-						
-						 // Minion Grace Attack Disabler
-						if (GetUnitAbilityLevel(t, '&noa') > 0) {
-							UnitRemoveAbility(t, '&noa');
-							SetUnitInvulnerable(t, false);
-						}
+                        
+                         // Minion Grace Attack Disabler
+                        if (GetUnitAbilityLevel(t, '&noa') > 0) {
+                            UnitRemoveAbility(t, '&noa');
+                            SetUnitInvulnerable(t, false);
+                        }
                     //}
                 }
                 // Unpunish (maybe)

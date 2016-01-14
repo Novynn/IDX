@@ -32,7 +32,7 @@ library CurrentTapTweak requires TweakManager {
             string arg = "";
             
             if (p.class() != PlayerData.CLASS_TITAN) return;
-			
+            
             if (args.size() > 0){
                 arg = StringCase(args[0].getStr(), false);
                 if (arg == "on"){

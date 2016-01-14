@@ -63,7 +63,7 @@ public function UnitMakeHeroic (unit u) -> boolean
     SetUnitAnimation(u, "stand");
     DestroyTrigger(t);
     t = null;
-	UnitMakeAbilityPermanent(u, true, 'AHer');
+    UnitMakeAbilityPermanent(u, true, 'AHer');
     return GetUnitAbilityLevel(u, 'AHer') > 0;
 }
 

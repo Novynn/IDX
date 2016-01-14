@@ -31,11 +31,11 @@ library SatyrRace requires Races {
         method difficulty() -> real {
             return 3.0;
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'e00Y', -1);
-		}
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

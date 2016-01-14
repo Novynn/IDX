@@ -31,21 +31,21 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
         method onSetup(integer level) = null;
         method onCheckTarget(unit u) -> boolean = true;
     }
-	
-	public interface GenericTitanHeal {
-		method damageFactor() -> real = 1.33;
+    
+    public interface GenericTitanHeal {
+        method damageFactor() -> real = 1.33;
         method abilityId() -> integer; // 'TLAE'
         method targetEffect() -> string = "Abilities\\Spells\\Orc\\HealingWave\\HealingWaveTarget.mdl"; 
-		method lightningEffect() -> string = "DRAM";
+        method lightningEffect() -> string = "DRAM";
         method onSetup(integer level) = null;
         method onCheckTarget(unit u) -> boolean = true;
-		method getCaster() -> unit;
-	}
+        method getCaster() -> unit;
+    }
     
     public module GenericTitanBounceNuke {
-		public method getCaster() -> unit {
-			return this.caster;
-		}
+        public method getCaster() -> unit {
+            return this.caster;
+        }
         private method setup(integer level){
             // Load defaults
             this.damage.dtype = DAMAGE_TYPE_MAGIC;
@@ -220,19 +220,19 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
             }));
             XE_PreloadAbility(id);
         }
-		
-		public static method onInit() {
-			thistype.onAbilitySetup.execute();
-		}
+        
+        public static method onInit() {
+            thistype.onAbilitySetup.execute();
+        }
     }
-	
-	type UnitFilter extends function(unit) -> boolean;
-	
-	public module GenericTitanBounceHeal {
-		public method getCaster() -> unit {
-			return this.caster;
-		}
-		private boolean useLightning = true;
+    
+    type UnitFilter extends function(unit) -> boolean;
+    
+    public module GenericTitanBounceHeal {
+        public method getCaster() -> unit {
+            return this.caster;
+        }
+        private boolean useLightning = true;
         private method setup(integer level){
             this.damage.dtype = DAMAGE_TYPE_UNIVERSAL;
             this.damage.exception = UNIT_TYPE_STRUCTURE;
@@ -258,11 +258,11 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
                 this.damageAmount = 900.0;
                 this.bounceCountMax = 3;
             }
-			
-			if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
-				this.useLightning = false;
-			}
-			
+            
+            if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
+                this.useLightning = false;
+            }
+            
             // Run custom setup
             this.onSetup(level);
         }
@@ -281,12 +281,12 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
         public xedamage damage = 0;
         
         public lightning bounceLightnings[4];
-		
-		public method checkTarget(unit u) -> boolean {
+        
+        public method checkTarget(unit u) -> boolean {
             return this.onCheckTarget(u);
         }
-		
-		public method getWeakestTarget(real x, real y, real range) -> unit {
+        
+        public method getWeakestTarget(real x, real y, real range) -> unit {
             group g = CreateGroup();
             unit u = null;
             unit newTarget = null;
@@ -297,14 +297,14 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
             
             u = FirstOfGroup(g);
             while (u != null){
-				if (this.checkTarget(u)) {
-					health = (GetUnitState(u, UNIT_STATE_LIFE) / GetUnitState(u, UNIT_STATE_MAX_LIFE));
-					if (health < weakestHealth || newTarget == null){
-						weakestHealth = health;
-						newTarget = u;
-					}
-				}
-				
+                if (this.checkTarget(u)) {
+                    health = (GetUnitState(u, UNIT_STATE_LIFE) / GetUnitState(u, UNIT_STATE_MAX_LIFE));
+                    if (health < weakestHealth || newTarget == null){
+                        weakestHealth = health;
+                        newTarget = u;
+                    }
+                }
+                
                 GroupRemoveUnit(g, u);
                 u = FirstOfGroup(g);
             }
@@ -314,8 +314,8 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
             g = null;
             u = null;
             
-            return newTarget;			
-		}
+            return newTarget;            
+        }
         
         public method getClosestTarget(real x, real y) -> unit {
             group g = CreateGroup();
@@ -353,20 +353,20 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
         
         public method tick(){
             unit lastTarget = this.target;
-			real x = GetUnitX(this.target);
-			real y = GetUnitY(this.target);
-			if (GameSettings.getBool("TITAN_HEALING_SMART_HEAL")) {
-				this.target = this.getWeakestTarget(x, y, this.bounceRange);
-			}
-			else {
-				this.target = this.getClosestTarget(x, y);
-			}
+            real x = GetUnitX(this.target);
+            real y = GetUnitY(this.target);
+            if (GameSettings.getBool("TITAN_HEALING_SMART_HEAL")) {
+                this.target = this.getWeakestTarget(x, y, this.bounceRange);
+            }
+            else {
+                this.target = this.getClosestTarget(x, y);
+            }
             
             if (this.target != null){
-				if (this.useLightning) {
-					this.bounceLightnings[this.bounceCount] = CreateLightningBetweenUnits(this.lightningEffect(), true,
+                if (this.useLightning) {
+                    this.bounceLightnings[this.bounceCount] = CreateLightningBetweenUnits(this.lightningEffect(), true,
                                                               this.target, lastTarget);
-			    }
+                }
                 this.damage.damageTarget(this.caster, this.target, this.damageAmount * this.damageFactor());
                 GroupAddUnit(this.bouncedUnits, this.target);
                 this.bounceCount = this.bounceCount + 1;
@@ -386,7 +386,7 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
             this.level = level;
             this.bounceCount = 0;
             this.bouncedUnits = CreateGroup();
-			this.bounceTimer = 0;
+            this.bounceTimer = 0;
             this.castingPlayer = GetOwningPlayer(this.caster);
             GroupAddUnit(this.bouncedUnits, target);
             
@@ -399,40 +399,40 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
             this.setup(this.level);
             
             this.damage.damageTarget(this.caster, this.target, this.damageAmount * this.damageFactor());
-			
-			if (this.bounceCountMax > 0) {
-				this.bounceTimer = GameTimer.newPeriodic(function(GameTimer t){
-					thistype this = t.data();
-					this.tick();
-					if (this.bounceCount >= this.bounceCountMax){
-						this.destroy();
-					}
-				}).start(this.bounceTimerDelay);
-				this.bounceTimer.setData(this);
-			}
-			else {
-				this.destroy();
-			}
+            
+            if (this.bounceCountMax > 0) {
+                this.bounceTimer = GameTimer.newPeriodic(function(GameTimer t){
+                    thistype this = t.data();
+                    this.tick();
+                    if (this.bounceCount >= this.bounceCountMax){
+                        this.destroy();
+                    }
+                }).start(this.bounceTimerDelay);
+                this.bounceTimer.setData(this);
+            }
+            else {
+                this.destroy();
+            }
             
             return this;
         }
         
         private method onDestroy(){
             integer i = 0;
-			if (this.useLightning) {
-				for (0 <= i < this.bounceCount){
-					if (this.bounceLightnings[i] != null){
-						ReleaseLightning(this.bounceLightnings[i]);
-						this.bounceLightnings[i] = null;
-					}
-				}
-			}
+            if (this.useLightning) {
+                for (0 <= i < this.bounceCount){
+                    if (this.bounceLightnings[i] != null){
+                        ReleaseLightning(this.bounceLightnings[i]);
+                        this.bounceLightnings[i] = null;
+                    }
+                }
+            }
             GroupClear(this.bouncedUnits);
             DestroyGroup(this.bouncedUnits);
             this.damage.destroy();
-			if (this.bounceTimer != 0) {
-				this.bounceTimer.deleteLater();
-			}
+            if (this.bounceTimer != 0) {
+                this.bounceTimer.deleteLater();
+            }
             this.caster = null;
             this.castingPlayer = null;
             this.target = null;
@@ -456,17 +456,17 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
             }));
             XE_PreloadAbility(id);
         }
-		
-		public static method onInit() {
-			thistype.onAbilitySetup.execute();
-		}
+        
+        public static method onInit() {
+            thistype.onAbilitySetup.execute();
+        }
     }
-	
-	public module GenericTitanAreaHeal {
-		public method getCaster() -> unit {
-			return this.caster;
-		}
-		private boolean useLightning = true;
+    
+    public module GenericTitanAreaHeal {
+        public method getCaster() -> unit {
+            return this.caster;
+        }
+        private boolean useLightning = true;
         private method setup(integer level){
             this.damage.dtype = DAMAGE_TYPE_UNIVERSAL;
             this.damage.exception = UNIT_TYPE_STRUCTURE;
@@ -489,11 +489,11 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
                 this.healAmount = 900.0;
                 this.healRange = 700.0;
             }
-			
-			if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
-				this.useLightning = false;
-			}
-			
+            
+            if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
+                this.useLightning = false;
+            }
+            
             // Run custom setup
             this.onSetup(level);
         }
@@ -506,7 +506,7 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
         public xedamage damage = 0;
         
         public method checkTarget(unit u) -> boolean {
-			return this.onCheckTarget(u);
+            return this.onCheckTarget(u);
         }
         
         private method healArea(){
@@ -520,11 +520,11 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
                 if (this.checkTarget(u)){
                     this.damage.damageTarget(this.caster, u, this.healAmount * this.damageFactor());
                     
-					if (this.useLightning) {
-						l = CreateLightningBetweenUnits(this.lightningEffect(), true, u, this.caster);
-						SetLightningFadeTime(l, 1.0);
-						ReleaseLightning(l);
-					}
+                    if (this.useLightning) {
+                        l = CreateLightningBetweenUnits(this.lightningEffect(), true, u, this.caster);
+                        SetLightningFadeTime(l, 1.0);
+                        ReleaseLightning(l);
+                    }
                 }
                 GroupRemoveUnit(g, u);
                 u = FirstOfGroup(g);
@@ -580,10 +580,10 @@ library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xeprelo
             }));
             XE_PreloadAbility(id);
         }
-		
-		public static method onInit() {
-			thistype.onAbilitySetup.execute();
-		}
+        
+        public static method onInit() {
+            thistype.onAbilitySetup.execute();
+        }
     }
 }
 

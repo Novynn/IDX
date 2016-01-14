@@ -27,10 +27,10 @@ library LucidiousRace requires Races, CustomTitanRace {
         method childIcon() -> string {
             return "ReplaceableTextures\\CommandButtons\\BTNNagaMyrmidonRoyalGuard.blp";
         }
-		
-		method onSpawn(unit u) {
-			CustomTitanRace.setBaseAbilities(u, this.toString());
-		}
+        
+        method onSpawn(unit u) {
+            CustomTitanRace.setBaseAbilities(u, this.toString());
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

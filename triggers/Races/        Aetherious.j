@@ -4,7 +4,7 @@
 
 library AetheriousRace requires Races, StringLib {
     public struct AetheriousRace extends TitanRace {
-		string name = "Aetherious";
+        string name = "Aetherious";
         method toString() -> string {
             return this.name;
         }
@@ -28,15 +28,15 @@ library AetheriousRace requires Races, StringLib {
         method childIcon() -> string {
             return "ReplaceableTextures\\CommandButtons\\BTNNagaMyrmidonRoyalGuard.blp";
         }
-		
-		method onSpawn(unit u) {
-			CustomTitanRace.setBaseAbilities(u, this.toString());
-			
-			// Fancy name switch
-			if (StringIndexOf(GetHeroProperName(u), "Bree", false) != STRING_INDEX_NONE) {
-				this.name = "Breezerious";
-			}
-		}
+        
+        method onSpawn(unit u) {
+            CustomTitanRace.setBaseAbilities(u, this.toString());
+            
+            // Fancy name switch
+            if (StringIndexOf(GetHeroProperName(u), "Bree", false) != STRING_INDEX_NONE) {
+                this.name = "Breezerious";
+            }
+        }
         
         method inRandomPool() -> boolean {
             return false;

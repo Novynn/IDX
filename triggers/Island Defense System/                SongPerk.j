@@ -15,8 +15,8 @@ library SongPerk requires PerksSystem {
             if (name == "neco" ||
                 name == "fossurious" ||
                 name == "shadowzz") {
-				return true;
-			}
+                return true;
+            }
             return false;
         }
         

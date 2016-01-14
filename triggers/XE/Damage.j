@@ -106,8 +106,8 @@ library Damage uses AIDS, Event
     public function RegisterEvent takes trigger whichTrigger returns nothing
         call OnDamageEvent.register(whichTrigger)
     endfunction
-	
-	public function UnregisterEvent takes trigger whichTrigger returns nothing
+    
+    public function UnregisterEvent takes trigger whichTrigger returns nothing
         call OnDamageEvent.unregister(whichTrigger)
     endfunction
     

@@ -12,9 +12,9 @@ library SypheriousUltimate requires GT, xebasic, xepreload, UnitStatus {
         private player castingPlayer = null;
         private static constant real disableRange = 800.0;
         private static constant real disableTime = 10.0;
-		
-		// Workaround for filters
-		private static thistype curr = 0;
+        
+        // Workaround for filters
+        private static thistype curr = 0;
         
         public method checkTarget(unit u) -> boolean {
             return (!IsUnitAlly(u, this.castingPlayer) ||
@@ -26,32 +26,32 @@ library SypheriousUltimate requires GT, xebasic, xepreload, UnitStatus {
         
         private method disableArea(real x, real y){
             group g = CreateGroup();
-			boolexpr b = null;
-			
-			thistype.curr = this;
-			b = Filter(function() -> boolean {
-				// How to pass "this" in?
-				return thistype.curr.checkTarget(GetFilterUnit());
-			});
+            boolexpr b = null;
+            
+            thistype.curr = this;
+            b = Filter(function() -> boolean {
+                // How to pass "this" in?
+                return thistype.curr.checkTarget(GetFilterUnit());
+            });
             GroupEnumUnitsInRange(g, x, y, thistype.disableRange, b);
-			thistype.curr = 0;
-			
-			ForGroup(g, function() {
-				unit u = GetEnumUnit();
-				xecollider xe = 0;
-				xe = xecollider.create(GetUnitX(u), GetUnitY(u), 0.0);
-				xe.expirationTime = thistype.disableTime;
-				xe.fxpath = thistype.TARGET_EFFECT;
-				xe.scale = 1.0;
-				xe.z = 80;
-				DisableUnitTimed(u, thistype.disableTime);
-				u = null;
-			});
-			
+            thistype.curr = 0;
+            
+            ForGroup(g, function() {
+                unit u = GetEnumUnit();
+                xecollider xe = 0;
+                xe = xecollider.create(GetUnitX(u), GetUnitY(u), 0.0);
+                xe.expirationTime = thistype.disableTime;
+                xe.fxpath = thistype.TARGET_EFFECT;
+                xe.scale = 1.0;
+                xe.z = 80;
+                DisableUnitTimed(u, thistype.disableTime);
+                u = null;
+            });
+            
             DestroyBoolExpr(b);
             DestroyGroup(g);
             g = null;
-			b = null;
+            b = null;
         }
         
         private static method begin(unit caster, real x, real y) -> thistype {

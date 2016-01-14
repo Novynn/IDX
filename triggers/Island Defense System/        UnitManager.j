@@ -37,7 +37,7 @@ library UnitManager requires UnitSpawner, RegisterPlayerUnitEvent {
             }
             // We're not interested... bye!
             u = null;
-			v = null;
+            v = null;
             un = 0;
         }
         
@@ -99,33 +99,33 @@ library UnitManager requires UnitSpawner, RegisterPlayerUnitEvent {
             return UnitList.copy(thistype.hunters);
         }
         
-		private static trigger damageTrigger = null;
+        private static trigger damageTrigger = null;
         public static method initialize(){
             titans = UnitList.create();
             minions = UnitList.create();
             defenders = UnitList.create();
             hunters = UnitList.create();
-			
-			if (thistype.damageTrigger == null) {
-				thistype.damageTrigger = CreateTrigger();
-				TriggerAddCondition(thistype.damageTrigger , Condition(function() -> boolean {
-					unit u = GetTriggerUnit();
-					unit a = GetEventDamageSource();
-					real damage = GetEventDamage();
-					if (thistype.isDefender(u)) {
-						if (GetUnitState(u, UNIT_STATE_LIFE) - damage <= 0.125) {
-							// Technically a death :O
-							thistype.onDeath(u, a);
-						}
-					}
-					a = null;
-					u = null;
-					return false;
-				}));
-			}
-			if (Game.isMode("IDT")){	
-				Damage_RegisterEvent(thistype.damageTrigger);
-			}
+            
+            if (thistype.damageTrigger == null) {
+                thistype.damageTrigger = CreateTrigger();
+                TriggerAddCondition(thistype.damageTrigger , Condition(function() -> boolean {
+                    unit u = GetTriggerUnit();
+                    unit a = GetEventDamageSource();
+                    real damage = GetEventDamage();
+                    if (thistype.isDefender(u)) {
+                        if (GetUnitState(u, UNIT_STATE_LIFE) - damage <= 0.125) {
+                            // Technically a death :O
+                            thistype.onDeath(u, a);
+                        }
+                    }
+                    a = null;
+                    u = null;
+                    return false;
+                }));
+            }
+            if (Game.isMode("IDT")){    
+                Damage_RegisterEvent(thistype.damageTrigger);
+            }
         }
         
         public static method givePlayerUnitsTo(PlayerData from, PlayerData new){
@@ -226,23 +226,23 @@ library UnitManager requires UnitSpawner, RegisterPlayerUnitEvent {
                 u = hunters.takeAt(0); if (u != 0) u.destroy();
             }
             hunters.destroy();
-			
-			Damage_UnregisterEvent(thistype.damageTrigger);
+            
+            Damage_UnregisterEvent(thistype.damageTrigger);
             ShopSystem.terminate();
         }
         
         public static method onInit(){
             PunishmentCentre.initialize();
             RegisterPlayerUnitEvent(EVENT_PLAYER_UNIT_DEATH, function(){
-				unit u = GetTriggerUnit();
-				unit v = GetKillingUnit();
-				
-				if (!(thistype.isDefender(u) && Game.isMode("IDT"))) {
-					thistype.onDeath(u, v);
-				}
-				
-				u = null;
-				v = null;
+                unit u = GetTriggerUnit();
+                unit v = GetKillingUnit();
+                
+                if (!(thistype.isDefender(u) && Game.isMode("IDT"))) {
+                    thistype.onDeath(u, v);
+                }
+                
+                u = null;
+                v = null;
             });
         }
     }

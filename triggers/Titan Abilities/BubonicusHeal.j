@@ -9,7 +9,7 @@ library BubonicusHeal requires GT, xebasic, xepreload, LightningUtils, GenericTi
         private static constant string TARGET_EFFECT = "Objects\\Spawnmodels\\Orc\\Orcblood\\OrdBloodWyvernRider.mdl";
         private static constant real DAMAGE_FACTOR = 1.33;
         
-		private boolean useLightning = true;
+        private boolean useLightning = true;
         private method setup(integer level){
             this.damage.dtype = DAMAGE_TYPE_UNIVERSAL;
             this.damage.exception = UNIT_TYPE_STRUCTURE;
@@ -32,10 +32,10 @@ library BubonicusHeal requires GT, xebasic, xepreload, LightningUtils, GenericTi
                 this.healAmount = 800.0;
                 this.healRange = 700.0;
             }
-			
-			if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
-				this.useLightning = false;
-			}
+            
+            if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
+                this.useLightning = false;
+            }
         }
         private unit caster = null;
         private player castingPlayer = null;
@@ -65,13 +65,13 @@ library BubonicusHeal requires GT, xebasic, xepreload, LightningUtils, GenericTi
                         // Cast a buff here!
                         this.cast.castOnTarget(u);
                     }
-					
-					
-					if (this.useLightning) {
-						l = CreateLightningBetweenUnits("AFOD", true, this.caster, u);
-						SetLightningFadeTime(l, 1.0);
-						ReleaseLightning(l);
-					}
+                    
+                    
+                    if (this.useLightning) {
+                        l = CreateLightningBetweenUnits("AFOD", true, this.caster, u);
+                        SetLightningFadeTime(l, 1.0);
+                        ReleaseLightning(l);
+                    }
                 }
                 GroupRemoveUnit(g, u);
                 u = FirstOfGroup(g);

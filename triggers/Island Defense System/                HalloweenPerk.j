@@ -5,8 +5,8 @@
 library HalloweenPerk requires PerksSystem {
     private struct HalloweenPerk extends Perk {
         module PerkModule;
-		
-		public method name() -> string {
+        
+        public method name() -> string {
             return "HalloweenPerk";
         }
         

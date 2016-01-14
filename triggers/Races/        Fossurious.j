@@ -27,10 +27,10 @@ library FossuriousRace requires Races, CurrentTap {
         method childIcon() -> string {
             return "ReplaceableTextures\\CommandButtons\\BTNNagaMyrmidonRoyalGuard.blp";
         }
-		
-		method onSpawn(unit u) {
-			CustomTitanRace.setBaseAbilities(u, this.toString());
-		}
+        
+        method onSpawn(unit u) {
+            CustomTitanRace.setBaseAbilities(u, this.toString());
+        }
         
         method inRandomPool() -> boolean {
             return false;

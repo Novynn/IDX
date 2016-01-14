@@ -212,11 +212,11 @@ private struct MovementBonus extends Bonus
 endstruct
 
 private function OnLeaveMap takes nothing returns boolean
-	local unit u = GetTriggerUnit()
+    local unit u = GetTriggerUnit()
     if BonusValue[u] != 0 then
         call BonusValue[u].destroy()
     endif
-	return false
+    return false
 endfunction
 
 private function OnInit takes nothing returns nothing

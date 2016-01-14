@@ -186,8 +186,8 @@ library TitanFinder requires IslandDefenseSystem, Dialog {
                         PlayerDataPick[thistype.oldPlayer].setRandoming(false);
                         PlayerDataPick[thistype.newPlayer].setRandoming(false);
                         RacePicker.pickMode().setupPlayer(thistype.newPlayer);
-						
-						Upgrades.swapPlayerUpgradeTables(thistype.oldPlayer.player(), thistype.newPlayer.player());
+                        
+                        Upgrades.swapPlayerUpgradeTables(thistype.oldPlayer.player(), thistype.newPlayer.player());
                         
                         PlayerDataPick[thistype.newPlayer].setCanPick(PlayerDataPick[thistype.oldPlayer].canPick());
                     }
@@ -215,17 +215,17 @@ library TitanFinder requires IslandDefenseSystem, Dialog {
                     thistype.newPlayer.setGold(thistype.oldPlayer.gold());
                     thistype.newPlayer.setWood(thistype.oldPlayer.wood());
                     UnitManager.givePlayerUnitsTo(thistype.oldPlayer, thistype.newPlayer);
-					Upgrades.swapPlayerUpgradeTables(thistype.oldPlayer.player(), thistype.newPlayer.player());
+                    Upgrades.swapPlayerUpgradeTables(thistype.oldPlayer.player(), thistype.newPlayer.player());
                     UnitManager.setWellOwner(thistype.newPlayer.player());
                     PunishmentCentre.update();
-					
-					// 0103a MMD Fix
-					// The Titan left, so the Defenders won by default
-					if (Game.isMode("ID")) {
-						Game.say("|cff00bfffSince the original Titan has left, the Defenders have won! Feel free to continue playing the game.|r");
-						IslandDefenseGameMode(Game.mode()).setWinningClass(PlayerData.CLASS_DEFENDER);
-					}
-					
+                    
+                    // 0103a MMD Fix
+                    // The Titan left, so the Defenders won by default
+                    if (Game.isMode("ID")) {
+                        Game.say("|cff00bfffSince the original Titan has left, the Defenders have won! Feel free to continue playing the game.|r");
+                        IslandDefenseGameMode(Game.mode()).setWinningClass(PlayerData.CLASS_DEFENDER);
+                    }
+                    
                     thistype.oldPlayer.left();
                 }
                 thistype.oldPlayer = 0;

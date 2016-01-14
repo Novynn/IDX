@@ -27,10 +27,10 @@ library VoltronRace requires Races, CurrentTap {
         method childIcon() -> string {
             return "ReplaceableTextures\\CommandButtons\\BTNRevenant.blp";
         }
-		
-		method onSpawn(unit u) {
-			CustomTitanRace.setBaseAbilities(u, this.toString());
-		}
+        
+        method onSpawn(unit u) {
+            CustomTitanRace.setBaseAbilities(u, this.toString());
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

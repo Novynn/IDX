@@ -208,7 +208,7 @@ library Linked
             
             set .size = .size + 1
             set .position.prev.next = tmp
-			set .position.prev = tmp
+            set .position.prev = tmp
         endmethod
         
         method insertBehind takes $TYPE$ cont returns nothing
@@ -221,7 +221,7 @@ library Linked
             
             set .size = .size + 1
             set .position.next.prev = tmp
-			set .position.next = tmp
+            set .position.next = tmp
         endmethod
         
         method remove takes nothing returns nothing
@@ -233,9 +233,9 @@ library Linked
             
             set .size = .size - 1
             set .position.next.prev = .position.prev
-			set .position.prev.next = .position.next
+            set .position.prev.next = .position.next
             call .position.destroy()
-			set .position = .position.next
+            set .position = .position.next
         endmethod
         
         method flush takes nothing returns nothing

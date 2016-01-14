@@ -19,9 +19,9 @@
 //            # call d.SetMessage("Some Text")
 //
 //         than add couple of buttons
-//            #	call d.AddButton("First Button",  HK_A)
-//            #	call d.AddButton("Second Button", HK_B)
-//            #	call d.AddButton("Third",         HK_C)
+//            #    call d.AddButton("First Button",  HK_A)
+//            #    call d.AddButton("Second Button", HK_B)
+//            #    call d.AddButton("Third",         HK_C)
 //
 //         HK_X is a hotkey constant for a button,
 //         there are constants for all letters + numbers 0..9

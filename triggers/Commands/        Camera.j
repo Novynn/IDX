@@ -145,10 +145,10 @@ library CameraTweak requires TweakManager, GameTimer {
             PlayerDataCamera p = PlayerDataCamera[PlayerData.get(GetTriggerPlayer())];
             string arg = "";
             integer index = 0;
-			
-			// 0104 - Idea from RipDog to disable tip messages if you use the -cam command!
-			p.playerData.disableTips();
-			
+            
+            // 0104 - Idea from RipDog to disable tip messages if you use the -cam command!
+            p.playerData.disableTips();
+            
             if (args.size() == 0){
                 p.reset();
                 return;

@@ -4,13 +4,13 @@
 
 library IslandDefenseTagGameMode requires IslandDefenseSystem, TagDefenderDeath {
     public struct IslandDefenseTagGameMode extends GameMode  {
-		module TagDefenderDeath;
-		
+        module TagDefenderDeath;
+        
         public static method onInit() {
             thistype this = thistype.allocate();
             Game.register(this);
         }
-		
+        
         public method name() -> string {
             return "Island Defense Tag";
         }
@@ -32,11 +32,11 @@ library IslandDefenseTagGameMode requires IslandDefenseSystem, TagDefenderDeath 
         public method winningClass() -> integer {
             return winnerClass;
         }
-		
-		public static IslandDefenseGameMode IDGame = 0;
+        
+        public static IslandDefenseGameMode IDGame = 0;
         
         public method setup() -> boolean {
-			thistype.IDGame = Game["ID"];
+            thistype.IDGame = Game["ID"];
             return thistype.IDGame.setup();
         }
         public method start() -> boolean {
@@ -47,7 +47,7 @@ library IslandDefenseTagGameMode requires IslandDefenseSystem, TagDefenderDeath 
             PeriodicTips.initialize();
             
             SuspendTimeOfDay(false);
-			
+            
             return true;
         }
         
@@ -80,19 +80,19 @@ library IslandDefenseTagGameMode requires IslandDefenseSystem, TagDefenderDeath 
         }
         
         public method endGame(){
-			thistype.IDGame.endGame();
+            thistype.IDGame.endGame();
         }
         
         public method checkTitanStatus() -> boolean {
-			return thistype.IDGame.checkTitanStatus();
+            return thistype.IDGame.checkTitanStatus();
         }
         
         public method loadFakePlayers() {
-			thistype.IDGame.loadFakePlayers();
+            thistype.IDGame.loadFakePlayers();
         }
         
         public method setupPlayers() -> boolean {
-			return thistype.IDGame.setupPlayers();
+            return thistype.IDGame.setupPlayers();
         }
     }
 }

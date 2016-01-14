@@ -10,8 +10,8 @@ library TerminusMinionNuke requires GenericTitanTargets {
         public method onUnitHit(unit hitTarget){
             this.object.onUnitHit.execute(hitTarget);
         }
-		
-		public method loopControl(){
+        
+        public method loopControl(){
             real dx = (this.homingTargetX - this.x);
             real dy = (this.homingTargetY - this.y);
             real range = SquareRoot(dx * dx + dy * dy);
@@ -47,7 +47,7 @@ library TerminusMinionNuke requires GenericTitanTargets {
             }
             
             this.wave.fxpath = thistype.WAVE_EFFECT;
-			this.wave.collisionSize = 150.0;
+            this.wave.collisionSize = 150.0;
             this.wave.speed = 1100; // How far it travels in 1 second.
         }
         

@@ -33,9 +33,9 @@ library LazyRandomTweak requires TweakManager {
                 PlayerDataPick[p].setRandoming(true);
                 p.say("|cff00bfffLazy Man's Random has been |r|cffff0000enabled|r|cff00bfff. " + 
                       "Sit back and grab a beer while the game clicks the random button for you.|r");
-					
-				// 0104 - Idea from RipDog to disable tip messages if you use the lazy random command!
-				p.disableTips();
+                    
+                // 0104 - Idea from RipDog to disable tip messages if you use the lazy random command!
+                p.disableTips();
                 
                 // Auto pick if possible.
                 if (PlayerDataPick[p].canPick()) {

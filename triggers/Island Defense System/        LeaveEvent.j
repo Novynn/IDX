@@ -17,28 +17,28 @@ library LeaveEvent requires IslandDefenseSystem {
             if (!p.isLeaving() || p.hasLeft()) return;
             Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed.|r");
             GameTimer.new(function(GameTimer t){
-				PlayerDataArray list = 0;
-				integer i = 0;
-				integer bonus = 0;
+                PlayerDataArray list = 0;
+                integer i = 0;
+                integer bonus = 0;
                 PlayerData p = t.data();
-				PlayerData q = 0;
+                PlayerData q = 0;
                 // Exit out if they're already gone
                 if (!p.isLeaving() || p.hasLeft()) return;
                 Game.say(p.nameColored() + "|cff00bfff's units have been removed.|r");
-				// Grant the Titan an extra bonus!
-				if (GameSettings.getBool("TITAN_BONUS_ON_DEFENDER_LEAVE")) {
-					list = PlayerData.withClass(PlayerData.CLASS_TITAN);
-					bonus = GameSettings.getInt ("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD");
-					for (0 <= i < list.size()){
-						q = list[i];
+                // Grant the Titan an extra bonus!
+                if (GameSettings.getBool("TITAN_BONUS_ON_DEFENDER_LEAVE")) {
+                    list = PlayerData.withClass(PlayerData.CLASS_TITAN);
+                    bonus = GameSettings.getInt ("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD");
+                    for (0 <= i < list.size()){
+                        q = list[i];
                         if (q != 0){
                             q.setGold(q.gold() + bonus);
                         }
                     }
-					list.destroy();
-					list = 0;
-				}
-				
+                    list.destroy();
+                    list = 0;
+                }
+                
                 UnitManager.removePlayerUnits(p);
                 p.left();
             }).start(30.00).setData(p);
@@ -140,9 +140,9 @@ library LeaveEvent requires IslandDefenseSystem {
                 list.destroy();
                 if (q != 0){
                     UnitManager.givePlayerUnitsTo(p, q);
-					q.setGold(p.gold() + q.gold());
-					q.setWood(p.wood() + q.wood());
-				}
+                    q.setGold(p.gold() + q.gold());
+                    q.setWood(p.wood() + q.wood());
+                }
                 else {
                     // Error
                     Game.say("|cffff0000No titans left.|r");
@@ -193,7 +193,7 @@ library LeaveEvent requires IslandDefenseSystem {
 
         Command["-frestart"].register(function(Args a){
             PlayerData p = PlayerData.get(GetTriggerPlayer());
-			if (!GameSettings.getBool("DEBUG") && p.name() != GameSettings.getStr("EDITOR")) return;
+            if (!GameSettings.getBool("DEBUG") && p.name() != GameSettings.getStr("EDITOR")) return;
             Game.restart();
         });
         
@@ -219,8 +219,8 @@ library LeaveEvent requires IslandDefenseSystem {
             }
             list.destroy();
         });
-		
-		Command["-fdkick"].register(function(Args a){
+        
+        Command["-fdkick"].register(function(Args a){
             PlayerData p = PlayerData.get(GetTriggerPlayer());
             PlayerDataArray list = 0;
             integer i = 0;

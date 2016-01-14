@@ -200,11 +200,11 @@ endstruct
 //! runtextmacro RegenBonuses_RegenBonusDefine("mana")
 
 private function OnLeaveMap takes nothing returns boolean
-	local unit u = GetTriggerUnit()
+    local unit u = GetTriggerUnit()
     if BonusValues[u] != 0 then
         call BonusValues[u].destroy()
     endif
-	return false
+    return false
 endfunction
 
 private function OnInit takes nothing returns nothing

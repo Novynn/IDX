@@ -31,14 +31,14 @@ library GnollRace requires Races {
         method childItemId() -> integer {
             return 'q037'; // Hunter Research
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'o003', -1);
             SetPlayerTechMaxAllowed(p, 'o006', -1);
             SetPlayerTechMaxAllowed(p, 'o00Q', -1);
             SetPlayerTechMaxAllowed(p, 'o00P', -1);
-		}
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

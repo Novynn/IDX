@@ -11,10 +11,10 @@ library DemonologistRace requires Races {
         method widgetId() -> integer {
             return 'u00I';
         }
-		
-		method isWidgetId(integer id) -> boolean {
-			return id == this.widgetId() || id == 'u00N'; // Enhanced Form
-		}
+        
+        method isWidgetId(integer id) -> boolean {
+            return id == this.widgetId() || id == 'u00N'; // Enhanced Form
+        }
 
         method itemId() -> integer {
             return 'I00S';
@@ -25,18 +25,18 @@ library DemonologistRace requires Races {
         }
         
         method onSpawn(unit u){
-			// Spell Book
-			UnitMakeAbilityPermanent(u, true, 'A05P');
-			UnitMakeAbilityPermanent(u, true, 'A074');
-			UnitMakeAbilityPermanent(u, true, 'A07A');
-			UnitMakeAbilityPermanent(u, true, 'A07D');
-			UnitMakeAbilityPermanent(u, true, 'A07R');
-			UnitMakeAbilityPermanent(u, true, 'A07Q');
-			UnitMakeAbilityPermanent(u, true, 'A07P');
-			UnitMakeAbilityPermanent(u, true, 'A0GT');
-			UnitMakeAbilityPermanent(u, true, 'A07S');
-			UnitMakeAbilityPermanent(u, true, 'A07T');
-			UnitMakeAbilityPermanent(u, true, 'A02N');
+            // Spell Book
+            UnitMakeAbilityPermanent(u, true, 'A05P');
+            UnitMakeAbilityPermanent(u, true, 'A074');
+            UnitMakeAbilityPermanent(u, true, 'A07A');
+            UnitMakeAbilityPermanent(u, true, 'A07D');
+            UnitMakeAbilityPermanent(u, true, 'A07R');
+            UnitMakeAbilityPermanent(u, true, 'A07Q');
+            UnitMakeAbilityPermanent(u, true, 'A07P');
+            UnitMakeAbilityPermanent(u, true, 'A0GT');
+            UnitMakeAbilityPermanent(u, true, 'A07S');
+            UnitMakeAbilityPermanent(u, true, 'A07T');
+            UnitMakeAbilityPermanent(u, true, 'A02N');
         }
 
         method difficulty() -> real {

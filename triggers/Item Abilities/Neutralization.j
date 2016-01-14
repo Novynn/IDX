@@ -8,15 +8,15 @@ library Neutralization requires GameTimer, GT, xebasic, xepreload, LightningUtil
         private static constant string TARGET_EFFECT = "Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl";
         private static constant string LIGHTNING_EFFECT = "CHIM";
         
-		private boolean useLightning = true;
+        private boolean useLightning = true;
         private method setup(){
             this.bounceRange = 600.0;
             this.bounceTimerDelay = 0.12;
             this.bounceCountMax = 5;
-			
-			if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
-				this.useLightning = false;
-			}
+            
+            if (!GameSettings.getBool("LIGHTNING_EFFECTS_ENABLED")) {
+                this.useLightning = false;
+            }
         }
         private unit caster = null;
         private player castingPlayer = null;
@@ -142,14 +142,14 @@ library Neutralization requires GameTimer, GT, xebasic, xepreload, LightningUtil
         
         private method onDestroy(){
             integer i = 0;
-			if (this.useLightning) {
-				for (0 <= i < this.bounceCount + 1){
-					if (this.bounceLightnings[i] != null){
-						ReleaseLightning(this.bounceLightnings[i]);
-						this.bounceLightnings[i] = null;
-					}
-				}
-			}
+            if (this.useLightning) {
+                for (0 <= i < this.bounceCount + 1){
+                    if (this.bounceLightnings[i] != null){
+                        ReleaseLightning(this.bounceLightnings[i]);
+                        this.bounceLightnings[i] = null;
+                    }
+                }
+            }
             GroupClear(this.bouncedUnits);
             DestroyGroup(this.bouncedUnits);
             this.bounceTimer.deleteLater();

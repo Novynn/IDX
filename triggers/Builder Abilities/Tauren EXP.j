@@ -15,20 +15,20 @@ library TaurenEXP requires Damage {
         }));
         TriggerAddAction(t, function(){
             unit u = GetEventDamageSource();
-			unit attacker = GetTriggerUnit();
+            unit attacker = GetTriggerUnit();
             real damage = GetEventDamage();
-			integer level = GetHeroLevel(attacker);
-			integer exp = 2;
-			
-			if (level < 6) exp = 3;
-			else if (level <= 11) exp = 4;
-			else exp = 5;
-			
+            integer level = GetHeroLevel(attacker);
+            integer exp = 2;
+            
+            if (level < 6) exp = 3;
+            else if (level <= 11) exp = 4;
+            else exp = 5;
+            
             // Threshold of 45 so whirlpool, bombard, etc don't damage
             if (damage > 45.0) {
                 ExperienceSystem.giveExperience(u, exp);
             }
-			attacker = null;
+            attacker = null;
             u = null;
         });
         t = null;

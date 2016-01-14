@@ -81,8 +81,8 @@ library Transmute requires CreateItemEx {
         if (i=='o03C') {return('I06D');}
         /* LIGHT ENERGY TOWER*/
         if (i=='o017') {return('I01M');}
-		/* Ultimate Structure */
-		if (i=='o00Z') {return('I04E');}
+        /* Ultimate Structure */
+        if (i=='o00Z') {return('I04E');}
         return 0;
     }
     
@@ -105,10 +105,10 @@ library Transmute requires CreateItemEx {
         TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_CONSTRUCT_CANCEL);
         TriggerAddCondition(t, Condition(function() -> boolean {
             unit u = GetCancelledStructure();
-			integer id = GetUnitTypeId(u);
+            integer id = GetUnitTypeId(u);
             integer i = whichItem(id);
-			
-			// Don't create an item for an Ultimate Structure..
+            
+            // Don't create an item for an Ultimate Structure..
             if (i != 0 && id != 'o00Z'){
                 CreateItem(i,GetUnitX(u),GetUnitY(u));
             }
@@ -116,15 +116,15 @@ library Transmute requires CreateItemEx {
             
             return false;
         }));
-		 t = CreateTrigger();
+         t = CreateTrigger();
         TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_UPGRADE_START);
         TriggerAddCondition(t, Condition(function() -> boolean {
             unit u = GetTriggerUnit();
-			integer id = GetUnitTypeId(u);
+            integer id = GetUnitTypeId(u);
             integer i = whichItem(id);
-			
+            
             if (i != 0){
-				UnitSetUpgradeProgress(u, 80); // Can't be 99 as it messes up scaling
+                UnitSetUpgradeProgress(u, 80); // Can't be 99 as it messes up scaling
             }
             u = null;
             

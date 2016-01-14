@@ -96,11 +96,11 @@ library VoltronNuke requires GameTimer, GT, xebasic, xepreload, xecollider, Gene
             this.damage = xedamage.create();
             
             this.setup(this.level);
-			
-			if (u != null) {
-				x = GetUnitX(u);
-				y = GetUnitY(u);
-			}
+            
+            if (u != null) {
+                x = GetUnitX(u);
+                y = GetUnitY(u);
+            }
             
             this.acquireTargets(u, x, y);
             this.destroy();
@@ -117,9 +117,9 @@ library VoltronNuke requires GameTimer, GT, xebasic, xepreload, xecollider, Gene
             unit caster = GetSpellAbilityUnit();
             integer level = GetUnitAbilityLevel(caster, thistype.ABILITY_ID);
             unit u = GetSpellTargetUnit();
-			real x = GetSpellTargetX();
-			real y = GetSpellTargetY();
-			
+            real x = GetSpellTargetX();
+            real y = GetSpellTargetY();
+            
             VoltronNuke.begin(caster, u, x, y, level);
         }
         

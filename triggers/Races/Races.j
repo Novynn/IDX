@@ -105,9 +105,9 @@ library Races requires StringLib {
             thistype.races[thistype.index] = this;
             index = index + 1;
         }
-		
-		method isWidgetId(integer id) -> boolean {return id == this.widgetId();}
-		method isChildId(integer id) -> boolean {return id == this.childId();}
+        
+        method isWidgetId(integer id) -> boolean {return id == this.widgetId();}
+        method isChildId(integer id) -> boolean {return id == this.childId();}
     }
     
     public struct DefenderRace extends Race {
@@ -134,12 +134,12 @@ library Races requires StringLib {
         private static method create() -> thistype {
             return thistype.allocate();
         }
-		
-		method isWidgetId(integer id) -> boolean {return false;}
-		method isChildId(integer id) -> boolean {return false;}
+        
+        method isWidgetId(integer id) -> boolean {return false;}
+        method isChildId(integer id) -> boolean {return false;}
     }
     
-	// Used with CustomTitanRace
+    // Used with CustomTitanRace
     public module TitanRaceModule {
         public Table abilityTable = 0;
         public method abilities() -> Table {
@@ -168,16 +168,16 @@ library Races requires StringLib {
         // Generic
         method toString() -> string = "_NULL";
         method widgetId() -> integer = 0;
-		method isWidgetId(integer id) -> boolean;
+        method isWidgetId(integer id) -> boolean;
         method itemId() -> integer = 0;
         method itemOrder() -> integer = 0;
         method icon() -> string = "ReplaceableTextures\\CommandButtons\\BTNSelectHeroOn.blp";
 
         method onSpawn(unit u) = null;
-		method setupTech(player p) = null;
+        method setupTech(player p) = null;
         
         method childId() -> integer = 0;
-		method isChildId(integer id) -> boolean;
+        method isChildId(integer id) -> boolean;
         method childIcon() -> string = "ReplaceableTextures\\CommandButtons\\BTNSelectHeroOn.blp";
         method childItemId() -> integer = 0;
         

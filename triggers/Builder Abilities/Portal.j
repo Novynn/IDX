@@ -113,9 +113,9 @@ library VoidGate requires GameTimer, GT, xecast, UnitStatus {
             trigger t = CreateTrigger();
             GT_RegisterStartsEffectEvent(t, thistype.ABILITY_ID);
             TriggerAddCondition(t, Condition(function() -> boolean {
-				unit caster = GetSpellAbilityUnit();
+                unit caster = GetSpellAbilityUnit();
                 thistype.begin(caster);
-				caster = null;
+                caster = null;
                 return false;
             }));
             
@@ -128,7 +128,7 @@ library VoidGate requires GameTimer, GT, xecast, UnitStatus {
                 if (index != 0 && thistype.instances.has(index)) {
                     this = thistype.instances[index];
                     if (this != 0) {
-						Damage_BlockAll();
+                        Damage_BlockAll();
                         this.onDamageBlocked();
                     }
                 }

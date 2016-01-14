@@ -26,13 +26,13 @@ library MorphlingSlam requires GT, xepreload, xecast {
             player p = GetOwningPlayer(u);
             unit v = null;
             group g = CreateGroup();
-			integer level = GetUnitAbilityLevel(u, ABILITY_ID);
+            integer level = GetUnitAbilityLevel(u, ABILITY_ID);
             xecast xe = 0;
             xedamage damage = xedamage.create();
-			real d = L1_DAMAGE_AMOUNT;
-			if (level > 1) {
-				d = L2_DAMAGE_AMOUNT;
-			}
+            real d = L1_DAMAGE_AMOUNT;
+            if (level > 1) {
+                d = L2_DAMAGE_AMOUNT;
+            }
            
             damage.dtype = DAMAGE_TYPE_MAGIC;
             damage.exception = UNIT_TYPE_STRUCTURE;
@@ -44,7 +44,7 @@ library MorphlingSlam requires GT, xepreload, xecast {
                 if (checkTarget(u, v)) {
                     damage.damageTarget(u, v, d);
                     xe = xecast.createBasicA(SLOW_ABILITY_ID, OrderId("slow"), p); 
-					xe.level = level;
+                    xe.level = level;
                     xe.recycledelay = 1.0;
                     xe.setSourcePoint(GetUnitX(u), GetUnitY(u), 0.0);
                     xe.castOnTarget(v);

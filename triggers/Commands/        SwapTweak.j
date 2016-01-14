@@ -44,33 +44,33 @@ library SwapTweak requires TweakManager, GameTimer, Table {
             integer pGold = 0;
             integer pWood = 0;
             Unit pUnit = 0;
-			integer fed = 0;
+            integer fed = 0;
             
             if (p == 0) return; // Can't swap with null
             
             pClass = p.class();
             pRace = p.race();
             pUnit = p.unit();
-			fed = PlayerDataFed[p].fed();
+            fed = PlayerDataFed[p].fed();
             
             p.setClass(this.class());
             p.setRace(this.race());
             p.setUnit(this.unit());
-			
-			PlayerDataFed[p].setFed(PlayerDataFed[this.playerData].fed());
+            
+            PlayerDataFed[p].setFed(PlayerDataFed[this.playerData].fed());
             
             this.setClass(pClass);
             this.setRace(pRace);
             this.setUnit(pUnit);
-			PlayerDataFed[this.playerData].setFed(fed);
+            PlayerDataFed[this.playerData].setFed(fed);
 
             
             UnitManager.swapPlayerUnits(p, this.playerData);
-			Upgrades.swapPlayerUpgradeTables(p.player(), this.player());
-			
-			pGold = p.gold();
+            Upgrades.swapPlayerUpgradeTables(p.player(), this.player());
+            
+            pGold = p.gold();
             pWood = p.wood();
-			p.setGold(this.gold());
+            p.setGold(this.gold());
             p.setWood(this.wood());
             this.setGold(pGold);
             this.setWood(pWood);
@@ -110,15 +110,15 @@ library SwapTweak requires TweakManager, GameTimer, Table {
             this.swapTimer = GameTimer.new(function(GameTimer t){
                 thistype this = t.data();
                 if (this == 0 || this.toSwapWith == 0 ||
-					(this.toSwapWith.class() != PlayerData.CLASS_DEFENDER &&
-					 this.toSwapWith.class() != PlayerData.CLASS_OBSERVER) ||
+                    (this.toSwapWith.class() != PlayerData.CLASS_DEFENDER &&
+                     this.toSwapWith.class() != PlayerData.CLASS_OBSERVER) ||
                     this.swapTimer == 0) return;
                 this.removeRequest();
                 this.swapTimer = 0;
             });
             this.swapTimer.setData(this);
             this.swapTimer.start(30.0);
-			return true;
+            return true;
         }
     }
     
@@ -157,8 +157,8 @@ library SwapTweak requires TweakManager, GameTimer, Table {
             PlayerData p = PlayerData.get(GetTriggerPlayer());
             PlayerData q = 0;
             string arg = "";
-			PlayerDataSwap ps = PlayerDataSwap[p];
-			PlayerDataSwap qs = 0;
+            PlayerDataSwap ps = PlayerDataSwap[p];
+            PlayerDataSwap qs = 0;
             
             if (Game.state() != Game.STATE_STARTED){
                 p.say("|cffff0000Please wait until the game has started before using the |r-swap|cffff0000 command.|r");
@@ -170,13 +170,13 @@ library SwapTweak requires TweakManager, GameTimer, Table {
                 if (args[0].isPlayer()){
                     q = PlayerData.get(args[0].getPlayer());
                     if (q == p) return; // Can't swap with yourself derp.
-					qs = PlayerDataSwap[q];
-					
-					if (ps == 0 || qs == 0) {
-						p.say("Could not get swap data for you or the target.");
-						return;
-					}
-					
+                    qs = PlayerDataSwap[q];
+                    
+                    if (ps == 0 || qs == 0) {
+                        p.say("Could not get swap data for you or the target.");
+                        return;
+                    }
+                    
                     if ((p.class() == PlayerData.CLASS_DEFENDER ||
                          p.class() == PlayerData.CLASS_OBSERVER) &&
                         (q.class() == PlayerData.CLASS_TITAN ||
@@ -206,15 +206,15 @@ library SwapTweak requires TweakManager, GameTimer, Table {
                     }
                     else {
                         if (ps.requestSwapWith(q)) {
-							p.say("|cff00bfffSwap request sent to |r" + q.nameColored());
-						}
-						
-						// Fakeplayers will autoaccept
-						if (q.isFake() && ps.willSwapWith(q)) {
-							ps.doSwap();
-						}
+                            p.say("|cff00bfffSwap request sent to |r" + q.nameColored());
+                        }
+                        
+                        // Fakeplayers will autoaccept
+                        if (q.isFake() && ps.willSwapWith(q)) {
+                            ps.doSwap();
+                        }
                     }
-					
+                    
                 }
                 else {
                     arg = StringCase(args[0].getStr(), false);

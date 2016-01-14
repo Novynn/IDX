@@ -246,7 +246,7 @@ library MultiboardDefender requires MultiboardManager, Board, ExperienceSystem {
                         it = row[thistype.ColumnRate];
                         it.width = thistype.NumberWidth;
                         it.setDisplay(true, false);
-						s = R2SW(rate * 100, 4, 1) + "%";
+                        s = R2SW(rate * 100, 4, 1) + "%";
                         it.text = "|cff2f4f4f" + s + "|r";
                         
                         it = row[thistype.ColumnFed];
@@ -308,7 +308,7 @@ library MultiboardDefender requires MultiboardManager, Board, ExperienceSystem {
                     it = row[thistype.ColumnRate];
                     it.width = thistype.NumberWidth;
                     it.setDisplay(true, false);
-					s = R2SW(rate * 100, 4, 1) + "%";
+                    s = R2SW(rate * 100, 4, 1) + "%";
                     it.text = "|cff2f4f4f" + s + "|r";
                     
                     it = row[thistype.ColumnFed];

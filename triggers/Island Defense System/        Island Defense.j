@@ -4,13 +4,13 @@
 
 library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
     public struct IslandDefenseGameMode extends GameMode  {
-		module DefaultDefenderDeath;
-		
+        module DefaultDefenderDeath;
+        
         public static method onInit() {
             thistype this = thistype.allocate();
             Game.register(this);
         }
-		
+        
         public method name() -> string {
             return "Island Defense";
         }
@@ -26,11 +26,11 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
             // 1v1?
             return true;
         }
-		
-		public method setWinningClass(integer class) {
-			this.winnerClass = class;
-		}
-		
+        
+        public method setWinningClass(integer class) {
+            this.winnerClass = class;
+        }
+        
         private integer winnerClass = PlayerData.CLASS_NONE;
         public method winningClass() -> integer {
             return winnerClass;
@@ -66,11 +66,11 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                     u = null;
                 }, "AntiMH").start(0.5);
             }
-			
-			
-			// Spoopiness
-			// -fog 0 1000 8000 0.5 0.125 0.125 0.75
-			// SetTerrainFogEx(0, 1000, 8000, 0.5, 0.125, 0.125, 0.75);
+            
+            
+            // Spoopiness
+            // -fog 0 1000 8000 0.5 0.125 0.125 0.75
+            // SetTerrainFogEx(0, 1000, 8000, 0.5, 0.125, 0.125, 0.75);
             
             // Start Game
             GameTimer.newNamed(function(GameTimer t){
@@ -93,20 +93,20 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                 UnitManager.spawnSpellWell();
                 UnitManager.spawnShops();
                 //UnitManager.spawnCage();
-				
+                
                 // Show Minimap + Reset all player upgrades!
                 GameTimer.newNamed(function(GameTimer t){
                     PlayerDataArray list = PlayerData.all();
-					player p = null;
+                    player p = null;
                     integer i = 0;
                     for (0 <= i < list.size()){
-						p = list[i].player();
+                        p = list[i].player();
                         SetFogStateRect(p, FOG_OF_WAR_VISIBLE, GetWorldBounds(), false);
-						Upgrades.resetAllUpgradesForPlayer(p, false);
+                        Upgrades.resetAllUpgradesForPlayer(p, false);
                     }
                     list.destroy();
                 }, "FlashMinimapTimer").start(0.0);
-				
+                
                 SetTimeOfDay(bj_TOD_DUSK - 4.0); // 4 hours before dusk
                 SetCreepCampFilterState(false);
                 SuspendTimeOfDay(true);
@@ -140,7 +140,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
             }, "MinionLevelTimer").start(GameSettings.getReal("MINION_SPAWN_LEVEL_TIME")); 
             
             SuspendTimeOfDay(false);
-			
+            
             return true;
         }
         
@@ -286,7 +286,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                     Game.say("|cff00bfffThe game should of ended with the defenders winning, but game victory is disabled.|r");
                 }
                 else {
-					if (this.winningClass() == PlayerData.CLASS_NONE) this.winnerClass = PlayerData.CLASS_DEFENDER;
+                    if (this.winningClass() == PlayerData.CLASS_NONE) this.winnerClass = PlayerData.CLASS_DEFENDER;
                     Game.setState(Game.STATE_FINISHED);
                     Game.say("|cff00bfffThe defenders have slain the titan and his minions, the island is saved!|r" );
                 
@@ -333,7 +333,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                 result = MMD_FLAG_PRACTICING;
             }
             else {
-				if (p.initialClass() == this.winningClass()) {
+                if (p.initialClass() == this.winningClass()) {
                     result = MMD_FLAG_WINNER;
                 }
                 else {
@@ -427,16 +427,16 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
                     Game.say("|cff00bfffForcing fake players.|r");
                     GameSettings.setBool("FORCE_FAKE_PLAYERS", true);
                 }
-				
-				if (GameSettings.getBool("FORCE_FAKE_PLAYERS")) {
-					// Load fakeplayers then reinit TweakManager
+                
+                if (GameSettings.getBool("FORCE_FAKE_PLAYERS")) {
+                    // Load fakeplayers then reinit TweakManager
                     this.loadFakePlayers();
-					TweakManager.terminate();
-					TweakManager.initialize();
-					
-					// This is the culprit!
-					Upgrades.terminate();
-					Upgrades.initialize();
+                    TweakManager.terminate();
+                    TweakManager.initialize();
+                    
+                    // This is the culprit!
+                    Upgrades.terminate();
+                    Upgrades.initialize();
                     
                     Game.clearPlayerClasses();
                 }

@@ -37,16 +37,16 @@ library ItemRecipes requires RecipeSYS {
         AddRecipe('I00C', 'I00C', 'I00C', 'I00E', 'I01U', 0     , 'I01Q'); // Super Regen Spines
         AddRecipe('I00C', 'I00C', 'I00M', 'I036', 'I01W', 0     , 'I01V'); // Life Essence
         AddRecipe('I042', 'I042', 'I042', 'I043', 0     , 0     , 'I041'); // Armor of Fate
-		
+        
         AddRecipe('I00B', 'I00E', 'I045', 0     , 0     , 0     , 'I044'); // Gauntlets of Rage
         AddRecipe('I027', 'I044', 'I054', 0     , 0     , 0     , 'I04Z'); // Gauntlets of Fury
-		
+        
         AddRecipe('I00D', 'I00D', 'I00P', 'I04P', 0     , 0     , 'I04Q'); // Ankh of Power
         AddRecipe('I00B', 'I00E', 'I040', 'I05F', 0     , 0     , 'I030'); // Helm of the Dominator
         AddRecipe('I01Z', 'I053', 0     , 0     , 0     , 0     , 'I052'); // Titanic Wards
         AddRecipe('I00M', 'I00D', 'I06B', 0     , 0     , 0     , 'I069'); // Force Trident of Power
         AddRecipe('I00M', 'I00M', 'I06E', 0     , 0     , 0     , 'I06A'); // Mystical Coral
-		
+        
     }
 
     private function addUltimateTower(integer itemid, real chance) {
@@ -161,18 +161,18 @@ library ItemRecipes requires RecipeSYS {
         AddRecipe('I04S', 0, 0, 0, 0, 0, 0); // Destroy
         AddRecipe('I05G', 'I022', 'I022', 'I005', 0, 0, 'I05X'); // Mystic Stone
         AddRecipe('I05G', 0, 0, 0, 0, 0, 0); // Destroy
-		
-		// Runed Bracers
-		// I04F (25%)
-		// I03W (50%)
-		// I03Z (75%)
-		// I04D (100%)
-		/*
-		AddRecipe('I04F', 'I04F', 0, 0, 0, 0, 'I03W'); 
-		AddRecipe('I04F', 'I03W', 0, 0, 0, 0, 'I03Z');
-		AddRecipe('I04F', 'I03Z', 0, 0, 0, 0, 'I04D');
-		AddRecipe('I03W', 'I03W', 0, 0, 0, 0, 'I04D');
-		*/
+        
+        // Runed Bracers
+        // I04F (25%)
+        // I03W (50%)
+        // I03Z (75%)
+        // I04D (100%)
+        /*
+        AddRecipe('I04F', 'I04F', 0, 0, 0, 0, 'I03W'); 
+        AddRecipe('I04F', 'I03W', 0, 0, 0, 0, 'I03Z');
+        AddRecipe('I04F', 'I03Z', 0, 0, 0, 0, 'I04D');
+        AddRecipe('I03W', 'I03W', 0, 0, 0, 0, 'I04D');
+        */
         
         // Ultimate Towers
         addUltimateTowers();

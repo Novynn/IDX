@@ -50,7 +50,7 @@ library DamageTomeFix requires GT, AIDS, Table, UnitAlive {
             this.u = u;
             this.tomes = tomes;
             this.index = i;
-			
+            
             debug {BJDebugMsg("Create: " + GetUnitName(this.u));}
             
             thistype.collection[i] = this;

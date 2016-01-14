@@ -36,10 +36,10 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
         public method add(integer feed){
             this.mFed = this.mFed + feed;
         }
-		
-		public method setFed(integer i) {
-			this.mFed = i;
-		}
+        
+        public method setFed(integer i) {
+            this.mFed = i;
+        }
         
         public method reset(){
             this.onSetup();
@@ -54,7 +54,7 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
             integer i = 0;
 
             if (GameSettings.getBool("TITAN_EXP_REDUCTION_ENABLED")){
-				// 0103b - removed "+10" skewing the factor
+                // 0103b - removed "+10" skewing the factor
                 rate = (this.factor() * (((-this.fed() * 0.05) / 100) + 1));
                 
                 if (rate <= 0.0) {

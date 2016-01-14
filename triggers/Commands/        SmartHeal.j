@@ -29,7 +29,7 @@ library SmartHealCommand requires TweakManager {
         public method activate(Args args){
             PlayerData p = PlayerData.get(GetTriggerPlayer());
             string arg = "";
-			
+            
             if (p.class() != PlayerData.CLASS_TITAN) return;
             
             if (args.size() > 0){

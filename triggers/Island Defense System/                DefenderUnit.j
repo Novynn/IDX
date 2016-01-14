@@ -40,30 +40,30 @@ library DefenderUnit requires Unit {
             
             return this;
         }
-		
-		public static method prepare(PlayerData p) {
-			player q = p.player();
-			
+        
+        public static method prepare(PlayerData p) {
+            player q = p.player();
+            
             SetPlayerTechMaxAllowed(q, 'HERO', 1); // Max one Hero
-			
-			// All of this Upgrade System shit should be moved somewhere else......................................................
+            
+            // All of this Upgrade System shit should be moved somewhere else......................................................
             SetPlayerTechMaxAllowed(q, 'h03R', 0); // Disable Troll's Workers
             SetPlayerTechMaxAllowed(q, 'h005', 0); // Disable Goblin's Advanced Walls
             SetPlayerTechMaxAllowed(q, 'o027', 0); // Disable Gnolls's Deadly Mega Axe Towers
-			SetPlayerTechMaxAllowed(q, 'o010', 0); // Disable Goblin's Enhanced Factories
-			SetPlayerTechMaxAllowed(q, 'o011', 0); // Disable Faerie's Enhanced Pools
+            SetPlayerTechMaxAllowed(q, 'o010', 0); // Disable Goblin's Enhanced Factories
+            SetPlayerTechMaxAllowed(q, 'o011', 0); // Disable Faerie's Enhanced Pools
             SetPlayerTechMaxAllowed(q, 'R03B', 0); // Disable Additional HP
-			
-			SetPlayerTechMaxAllowed(q, 'o012', 0); // Disable Ogre's Enhanced Catapult
-			SetPlayerTechMaxAllowed(q, 'o019', 0); // Disable Ogre's Super Catapult
-			SetPlayerTechMaxAllowed(q, 'o01E', 0); // Disable Ogre's Mega Catapult
-			
-			SetPlayerTechMaxAllowed(q, 'o01Z', 0); // Disable Murloc's Mega Long Dart Tower
-			
-			
+            
+            SetPlayerTechMaxAllowed(q, 'o012', 0); // Disable Ogre's Enhanced Catapult
+            SetPlayerTechMaxAllowed(q, 'o019', 0); // Disable Ogre's Super Catapult
+            SetPlayerTechMaxAllowed(q, 'o01E', 0); // Disable Ogre's Mega Catapult
+            
+            SetPlayerTechMaxAllowed(q, 'o01Z', 0); // Disable Murloc's Mega Long Dart Tower
+            
+            
             SetPlayerAbilityAvailable(q, 'A00R', false); // Disable Energy Charge spellbook
-			SetPlayerAbilityAvailable(q, 'Aro1', false); // Disable Root
-			SetPlayerAbilityAvailable(q, '&tru', false); // Disable True Strike spellbook
+            SetPlayerAbilityAvailable(q, 'Aro1', false); // Disable Root
+            SetPlayerAbilityAvailable(q, '&tru', false); // Disable True Strike spellbook
             
             // Disable Ultimate Towers
             SetPlayerTechMaxAllowed(q, 'e00Y', 0);
@@ -99,22 +99,22 @@ library DefenderUnit requires Unit {
             SetPlayerTechMaxAllowed(q, 'o02Q', 0);
             SetPlayerTechMaxAllowed(q, 'o02R', 0);
             SetPlayerTechMaxAllowed(q, 'o03C', 0);
-			
-			// Setup Race-specific Tech
-			if (p.race() != 0) {
-				p.race().setupTech(q);
-			}
-		}
-		
-		public method spawn(real x, real y, real rotation) -> unit {
+            
+            // Setup Race-specific Tech
+            if (p.race() != 0) {
+                p.race().setupTech(q);
+            }
+        }
+        
+        public method spawn(real x, real y, real rotation) -> unit {
             this.mUnit = CreateUnit(this.mOwner.player(), this.mOwner.race().widgetId(), x, y, rotation);
-			return this.mUnit;
-		}
+            return this.mUnit;
+        }
     }
     
     public struct DefenderDeath {
         public static method onDeath(DefenderUnit u, unit killer){
-			Game.mode().onDefenderDeath(u, killer);
+            Game.mode().onDefenderDeath(u, killer);
         }
     }
 }

@@ -302,7 +302,7 @@ endglobals
     //! i end
     //! i function CreateAbility(sourceAbility, prefix, field, abilityCount, name, icon, hero)
     //! i     powOf2 = abilityCount - 1
-	//! i     isHero = (hero == "true")
+    //! i     isHero = (hero == "true")
     //! i     lengthOfMax = string.len(tostring(2^abilityCount))
     //! i     for i = 0, powOf2 do
     //! i         padding = ""

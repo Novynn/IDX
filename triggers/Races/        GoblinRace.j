@@ -31,13 +31,13 @@ library GoblinRace requires Races {
         method childItemId() -> integer {
             return 'q058'; // Hunter Research
         }
-		
-		method setupTech(player p) {
-			// Ultimate Towers
+        
+        method setupTech(player p) {
+            // Ultimate Towers
             SetPlayerTechMaxAllowed(p, 'n01K', -1);
             SetPlayerTechMaxAllowed(p, 'n01J', -1);
             SetPlayerTechMaxAllowed(p, 'n01L', -1);
-		}
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

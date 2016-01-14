@@ -39,14 +39,14 @@ library UnitSpawner requires Unit, Players {
         public static method spawnSpellWell(){
             thistype.TITAN_SPELL_WELL = CreateUnit(Player(PLAYER_NEUTRAL_AGGRESSIVE), 'h001', -384, -512, 270.0);
             SetUnitState(thistype.TITAN_SPELL_WELL, UNIT_STATE_LIFE, GetUnitState(thistype.TITAN_SPELL_WELL, UNIT_STATE_LIFE) / 4);
-			
-			// This should remove the health bar
-			// Unfortunately has the side effect of making it almost unclickable (have to drag select)
-			// UnitAddAbility(thistype.TITAN_SPELL_WELL, 'Aloc');
-			// ShowUnit(thistype.TITAN_SPELL_WELL, false);
-			// UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'Aloc');
-			// ShowUnit(thistype.TITAN_SPELL_WELL, true);
-			
+            
+            // This should remove the health bar
+            // Unfortunately has the side effect of making it almost unclickable (have to drag select)
+            // UnitAddAbility(thistype.TITAN_SPELL_WELL, 'Aloc');
+            // ShowUnit(thistype.TITAN_SPELL_WELL, false);
+            // UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'Aloc');
+            // ShowUnit(thistype.TITAN_SPELL_WELL, true);
+            
             UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'ARal'); // Rally
             UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'Afih'); // Fire
             UnitRemoveAbility(thistype.TITAN_SPELL_WELL, 'Afin');
@@ -171,7 +171,7 @@ library UnitSpawner requires Unit, Players {
             defender = DefenderUnit.create(p);
             p.setUnit(defender);
             thistype.defenders.append(defender);
-			defender.spawn(x, y, bj_RADTODEG * Atan2(y - startY, x - startX));
+            defender.spawn(x, y, bj_RADTODEG * Atan2(y - startY, x - startX));
             
             RacePicker.onUnitCreation.execute(p);
             return defender;
@@ -191,11 +191,11 @@ library UnitSpawner requires Unit, Players {
                 Game.say("|cffffd700A Titan hunter has been revived! " + 
                          "Use it to kill the titan and his minions to gain experience and gold.|r");
             }
-			
-			// Balth doesn't want this (OP)
-			// This duplicates some effects (such as HP bonuses)
-			// HUNTERS, AS IT TURNS OUT, ARE STILL TECHNICALLY ON THE MAP. INTERESTERING
-			// Upgrades.applyUpgrades(u);
+            
+            // Balth doesn't want this (OP)
+            // This duplicates some effects (such as HP bonuses)
+            // HUNTERS, AS IT TURNS OUT, ARE STILL TECHNICALLY ON THE MAP. INTERESTERING
+            // Upgrades.applyUpgrades(u);
             
             return hunter;
         }
@@ -204,7 +204,7 @@ library UnitSpawner requires Unit, Players {
             HunterUnit hunter = 0;
             hunter = HunterUnit.create(p);
             thistype.hunters.append(hunter);
-			hunter.spawn(x, y, 270);
+            hunter.spawn(x, y, 270);
             
             if (PlayerData.get(GetLocalPlayer()).isClass(PlayerData.CLASS_TITAN) ||
                 PlayerData.get(GetLocalPlayer()).isClass(PlayerData.CLASS_MINION)){
@@ -238,7 +238,7 @@ library UnitSpawner requires Unit, Players {
             titan = TitanUnit.create(p);
             p.setUnit(titan);
             thistype.titans.append(titan);
-			titan.spawn(x, y, bj_RADTODEG * Atan2(startY - y, startX - x));
+            titan.spawn(x, y, bj_RADTODEG * Atan2(startY - y, startX - x));
             
             SetHeroLevel(titan.unit(), GameSettings.getInt("TITAN_START_LEVEL"), false); // Sets level to default
             UnitManager.setWellOwner(p.player());
@@ -254,10 +254,10 @@ library UnitSpawner requires Unit, Players {
             integer i = 0;
             minion = MinionUnit.create(p);
             thistype.minions.append(minion);
-			if (p.class() == PlayerData.CLASS_MINION){
+            if (p.class() == PlayerData.CLASS_MINION){
                 p.setUnit(minion);
             }
-			minion.spawn(x, y, 270.0);
+            minion.spawn(x, y, 270.0);
             
             SuspendHeroXP(minion.unit(), false);
             SetHeroLevel(minion.unit(), level, false);

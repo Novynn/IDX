@@ -4,7 +4,7 @@
 
 library TerminusRace requires Races, StringLib {
     public struct TerminusRace extends TitanRace {
-		private string name = "Terminus";
+        private string name = "Terminus";
         method toString() -> string {
             return this.name;
         }
@@ -28,15 +28,15 @@ library TerminusRace requires Races, StringLib {
         method childIcon() -> string {
             return "ReplaceableTextures\\CommandButtons\\BTNAncientOfWonders.blp";
         }
-		
-		method onSpawn(unit u) {
-			CustomTitanRace.setBaseAbilities(u, this.toString());
-			
-			// Fancy name switch
-			if (StringIndexOf(GetHeroProperName(u), "Gran", false) != STRING_INDEX_NONE) {
-				this.name = "Granitacles";
-			}
-		}
+        
+        method onSpawn(unit u) {
+            CustomTitanRace.setBaseAbilities(u, this.toString());
+            
+            // Fancy name switch
+            if (StringIndexOf(GetHeroProperName(u), "Gran", false) != STRING_INDEX_NONE) {
+                this.name = "Granitacles";
+            }
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

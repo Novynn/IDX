@@ -211,8 +211,8 @@ library Players requires Races, GetPlayerColored {
 
             list.destroy();
         }
-		
-		public static method findTitanPlayer() -> thistype {
+        
+        public static method findTitanPlayer() -> thistype {
             PlayerDataArray list = thistype.withClass(thistype.CLASS_TITAN);
             thistype p = 0;
             integer i = 0;
@@ -498,20 +498,20 @@ library Players requires Races, GetPlayerColored {
                 Game.onPlayerClassChange.execute(this);
             }
         }
-		
-		method setClassEx(integer class, boolean forceAlliances) {
-			integer oldClass = mClass;
+        
+        method setClassEx(integer class, boolean forceAlliances) {
+            integer oldClass = mClass;
             mClass = class;
-			if (forceAlliances)
-				thistype.forceAlliances();
-				
+            if (forceAlliances)
+                thistype.forceAlliances();
+                
             if (LIBRARY_ClassTweak){
                 PlayerDataName.update(); // Force class update
             }
             if (class != oldClass) {
                 Game.onPlayerClassChange.execute(this);
             }
-		}
+        }
         
         method setClass(integer class){
             this.setClassEx(class, true);
@@ -616,15 +616,15 @@ library Players requires Races, GetPlayerColored {
         method leaving(){
             this.mLeaving = true;
         }
-		
-		private boolean mTips = true;
-		method disableTips() {
-			this.mTips = false;
-		}
-		
-		method tips() -> boolean {
-			return this.mTips;
-		}
+        
+        private boolean mTips = true;
+        method disableTips() {
+            this.mTips = false;
+        }
+        
+        method tips() -> boolean {
+            return this.mTips;
+        }
 
         private integer mLeftGameState = -1;
         private integer mLeftGameId = -1;
@@ -701,21 +701,21 @@ library Players requires Races, GetPlayerColored {
         
         public static method initialize(){
             PlayerDataArray list = 0;
-			PlayerData p = 0;
+            PlayerData p = 0;
             thistype this = 0;
             integer i = 0;
-			
-			if (this.mInitialized) {
-				BJDebugMsg("WARNING - PlayerDataWrappings module was re-initialized without termination.");
-				thistype.terminate();
-			}
-			
+            
+            if (this.mInitialized) {
+                BJDebugMsg("WARNING - PlayerDataWrappings module was re-initialized without termination.");
+                thistype.terminate();
+            }
+            
             for (0 <= i < 12){
                 thistype.players[i] = 0;
             }
             list = PlayerData.all();
             for (0 <= i < list.size()){
-				p = list.at(i);
+                p = list.at(i);
                 this = thistype.create(p);
                 thistype.players[p.id()] = this;
                 this.onSetup();

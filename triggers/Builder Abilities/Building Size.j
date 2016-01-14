@@ -12,8 +12,8 @@ library BuildingSizeFix {
         TriggerAddAction(t, function(){
             unit u = GetTriggerUnit();
 
-			// Use chaos to set unit back to normal size??
-			
+            // Use chaos to set unit back to normal size??
+            
             SetUnitScale(u, 1.0, 1.0, 1.0);
             u = null;
         });

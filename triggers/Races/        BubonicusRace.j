@@ -29,11 +29,11 @@ library BubonicusRace requires Races, CustomTitanRace {
         }
         
         method onSpawn(unit u){
-			CustomTitanRace.setBaseAbilities(u, this.toString());
+            CustomTitanRace.setBaseAbilities(u, this.toString());
             // Add corpse spawning to gold mound
             UnitAddAbility(UnitManager.TITAN_SPELL_WELL, 'A044');
             Bubonicus[u].count(); // Force this Bubonicus struct to be created
-		}
+        }
         
         private static method create() -> thistype {
             return thistype.allocate();

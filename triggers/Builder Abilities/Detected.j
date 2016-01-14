@@ -20,12 +20,12 @@ library Detected requires Table, GameTimer {
             
             return false;
         }
-		
-		private static method hasUpgrade(player p) -> boolean {
-			// todo(neco): replace this with the new upgrade system!
-			
-			return GetPlayerTechResearched(p, 'R02W', true);
-		}
+        
+        private static method hasUpgrade(player p) -> boolean {
+            // todo(neco): replace this with the new upgrade system!
+            
+            return GetPlayerTechResearched(p, 'R02W', true);
+        }
         
         private static method tick() {
             group g = CreateGroup();

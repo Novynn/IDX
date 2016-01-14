@@ -38,10 +38,10 @@ library MinionUnit requires Unit, UnitStatus {
             GameTimer.newNamed(function(GameTimer t){
                 Unit u = t.data();
                 // Check to make sure it hasn't already been removed via punishing
-				if (GetUnitAbilityLevel(u.unit(), '&noa') > 0) {
-					SetUnitInvulnerable(u.unit(), false);
-					UnitRemoveAbility(u.unit(), '&noa');
-				}
+                if (GetUnitAbilityLevel(u.unit(), '&noa') > 0) {
+                    SetUnitInvulnerable(u.unit(), false);
+                    UnitRemoveAbility(u.unit(), '&noa');
+                }
             }, "MinionGrace").start(time).setData(u);
         }
         
@@ -58,18 +58,18 @@ library MinionUnit requires Unit, UnitStatus {
             
             return this;
         }
-		
-		public method spawn(real x, real y, real rotation) -> unit {
+        
+        public method spawn(real x, real y, real rotation) -> unit {
             this.mUnit = CreateUnit(this.mOwner.player(), this.mOwner.race().childId(), x, y, rotation);
-			
-			// Grace time
+            
+            // Grace time
             if (GameSettings.getBool("MINION_ALLOW_GRACE")){
                 GameTimer.newNamed(function(GameTimer t){
                     thistype.grace(t.data());
                 }, "MinionGraceStartDelay").start(0.25).setData(this);
             }
-			return this.mUnit;
-		}
+            return this.mUnit;
+        }
     }
     
     public struct MinionDeath {

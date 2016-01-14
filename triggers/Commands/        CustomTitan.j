@@ -25,53 +25,53 @@ library CustomTitanTweak requires TweakManager {
         private method customRace(PlayerData p, string racestring) -> CustomTitanRace {
             CustomTitanRace cRace = CustomTitanRace.sneakyCreate();
             TitanRace r = TitanRace.fromName("Lucidious");
-			integer i = 0;
-			string abilities = "TMSDQWERF";
-			string indexS = "";
-			string indexA = "";
-			
+            integer i = 0;
+            string abilities = "TMSDQWERF";
+            string indexS = "";
+            string indexA = "";
+            
             cRace.setTitanName("Customicus");
-			
-			for (0 <= i < StringLength(abilities)) {
-				if (StringLength(racestring) > i) {
-					indexS = SubString(racestring, i, i + 1);
-				}
-				else {
-					indexS = "L";
-				}
-				
-				// Bubonicus is banned from Customicus, default to Lucidious
-				if (indexS == "B") {
-					p.say("Unfortunately, Bubonicus' abilities are currently unavailable to be used.");
-					indexS = "L";
-				}
-				
-				// Get race using index
-				r = TitanRace.fromNamePartial(indexS, false);
-				
-				// If getting a race failed, default to Lucidious
-				if (r == 0) r = TitanRace.fromName("Lucidious");
-				
-				
-				
-				// This is the ability index (Q, W, etc.)
-				indexA = SubString(abilities, i, i + 1);
-				
-				// Set TitanBase and Minion to the Slow Poison effect (?)
-				if (indexA == "T") {
-					cRace.setTitanBase(r);
-				}
-				else if (indexA == "M") {
-					cRace.setMinion(r);
-				}
-				else if (indexA == "S") {
-					// Force slow to be the same as the Minion chosen... to prevent slow stacking
-					cRace.addTitanAbility(cRace.minionRace(), indexA);
-				}
-				else {
-					cRace.addTitanAbility(r, indexA);
-				}
-			}
+            
+            for (0 <= i < StringLength(abilities)) {
+                if (StringLength(racestring) > i) {
+                    indexS = SubString(racestring, i, i + 1);
+                }
+                else {
+                    indexS = "L";
+                }
+                
+                // Bubonicus is banned from Customicus, default to Lucidious
+                if (indexS == "B") {
+                    p.say("Unfortunately, Bubonicus' abilities are currently unavailable to be used.");
+                    indexS = "L";
+                }
+                
+                // Get race using index
+                r = TitanRace.fromNamePartial(indexS, false);
+                
+                // If getting a race failed, default to Lucidious
+                if (r == 0) r = TitanRace.fromName("Lucidious");
+                
+                
+                
+                // This is the ability index (Q, W, etc.)
+                indexA = SubString(abilities, i, i + 1);
+                
+                // Set TitanBase and Minion to the Slow Poison effect (?)
+                if (indexA == "T") {
+                    cRace.setTitanBase(r);
+                }
+                else if (indexA == "M") {
+                    cRace.setMinion(r);
+                }
+                else if (indexA == "S") {
+                    // Force slow to be the same as the Minion chosen... to prevent slow stacking
+                    cRace.addTitanAbility(cRace.minionRace(), indexA);
+                }
+                else {
+                    cRace.addTitanAbility(r, indexA);
+                }
+            }
             
             // cRace.printAbilityNames();
             
@@ -82,20 +82,20 @@ library CustomTitanTweak requires TweakManager {
         public method activate(Args args){
             PlayerData p = 0;
             PlayerDataPick pPick = 0;
-			CustomTitanRace r = 0;
-			string str = "";
+            CustomTitanRace r = 0;
+            string str = "";
             if (args.size() != 1) return;
             p = PlayerData.get(GetTriggerPlayer());
-			
-			if (!GameSettings.getBool("DEBUG") && p.name() != GameSettings.getStr("EDITOR")) return;
-			
-			str = args[0].getStr();
+            
+            if (!GameSettings.getBool("DEBUG") && p.name() != GameSettings.getStr("EDITOR")) return;
+            
+            str = args[0].getStr();
 
             if (PlayerDataPick.initialized()) {
                 pPick = PlayerDataPick[p];
                 if (!pPick.isRandoming() &&
                     !pPick.hasPicked()){
-					r = this.customRace(p, str);
+                    r = this.customRace(p, str);
                     pPick.pick(r);
                 }
             }

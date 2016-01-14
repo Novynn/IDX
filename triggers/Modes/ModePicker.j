@@ -313,7 +313,7 @@ library RacePicker requires IslandDefenseSystem, PlayerDataPick, UnitManager {
         TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_SELL_ITEM);
         TriggerAddCondition(t, Condition(function() -> boolean {
             unit c = GetBuyingUnit();
-			unit s = GetSellingUnit();
+            unit s = GetSellingUnit();
             PlayerDataPick p = 0;
             Race r = NullRace.instance();
             item im = GetSoldItem();
@@ -326,29 +326,29 @@ library RacePicker requires IslandDefenseSystem, PlayerDataPick, UnitManager {
             p = PlayerDataPick[PlayerData.get(GetOwningPlayer(c))];
             
             if (p != 0 && c == p.picker() && !p.hasPicked()) {
-				// Seller is an assistant, which means we want their item
-				if (GetUnitTypeId(s) == 'n00G') {
-					im = UnitItemInSlot(s, 0);
-					id = 0;
-					if (im != null) {
-						id = GetItemTypeId(im);
-					}
-				}
-				
-				if (p.class() == PlayerData.CLASS_DEFENDER){
-					r = DefenderRace.fromItemId(id);
-				}
-				else if (p.class() == PlayerData.CLASS_TITAN){
-					r = TitanRace.fromItemId(id);
-				}
+                // Seller is an assistant, which means we want their item
+                if (GetUnitTypeId(s) == 'n00G') {
+                    im = UnitItemInSlot(s, 0);
+                    id = 0;
+                    if (im != null) {
+                        id = GetItemTypeId(im);
+                    }
+                }
+                
+                if (p.class() == PlayerData.CLASS_DEFENDER){
+                    r = DefenderRace.fromItemId(id);
+                }
+                else if (p.class() == PlayerData.CLASS_TITAN){
+                    r = TitanRace.fromItemId(id);
+                }
                 
                 p.pick(r);
                 RemoveItem(im);
             }
-			
-			if (GetUnitTypeId(s) == 'n00G') {
-				RemoveItem(im);
-			}
+            
+            if (GetUnitTypeId(s) == 'n00G') {
+                RemoveItem(im);
+            }
 
             c = null;
             im = null;

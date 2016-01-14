@@ -24,17 +24,17 @@ library FogCommand requires TweakManager {
         
         public method activate(Args args){
             PlayerData p = PlayerData.get(GetTriggerPlayer());
-			integer style = args[0].getInt();
-			real zStart = args[1].getReal();
-			real zEnd = args[2].getReal();
-			real density = args[3].getReal();
-			real red = args[4].getReal();
-			real green = args[5].getReal();
-			real blue = args[6].getReal();
-			
-			if (GetLocalPlayer() == p.player()) {
-				SetTerrainFogEx(style, zStart, zEnd, density, red, green, blue);
-			}
+            integer style = args[0].getInt();
+            real zStart = args[1].getReal();
+            real zEnd = args[2].getReal();
+            real density = args[3].getReal();
+            real red = args[4].getReal();
+            real green = args[5].getReal();
+            real blue = args[6].getReal();
+            
+            if (GetLocalPlayer() == p.player()) {
+                SetTerrainFogEx(style, zStart, zEnd, density, red, green, blue);
+            }
         }
     }
 }

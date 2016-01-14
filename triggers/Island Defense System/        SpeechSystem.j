@@ -3,8 +3,8 @@
 //! zinc
 
 library SpeechSystem requires Table, Players, GameTimer, StringLib, CommandParser {
-	type ClassFilter extends function(integer) -> boolean;
-	
+    type ClassFilter extends function(integer) -> boolean;
+    
     private struct SpeechData {
         public string s = "";
         public sound so = null;
@@ -163,9 +163,9 @@ library SpeechSystem requires Table, Players, GameTimer, StringLib, CommandParse
         }
         
         private static method registerSpeeches(){
-			ClassFilter class = function(integer class) -> boolean {
-				return class == PlayerData.CLASS_DEFENDER || class == PlayerData.CLASS_OBSERVER;
-			};
+            ClassFilter class = function(integer class) -> boolean {
+                return class == PlayerData.CLASS_DEFENDER || class == PlayerData.CLASS_OBSERVER;
+            };
             thistype.registerSpeech("im waiting", 
                                     gg_snd_Builder_ImWaiting, class);
             thistype.registerSpeech("this is too easy", 
@@ -236,7 +236,7 @@ library SpeechSystem requires Table, Players, GameTimer, StringLib, CommandParse
                                     gg_snd_Builder_ImSoTired, class);
             thistype.registerSpeech("i'm so tired", 
                                     gg_snd_Builder_ImSoTired, class);
-			thistype.registerSpeech("demon spawned wretchs", 
+            thistype.registerSpeech("demon spawned wretchs", 
                                     gg_snd_Builder_DemonSpawnedWretchs, class);
             thistype.registerSpeech("demon spawned wretches", 
                                     gg_snd_Builder_DemonSpawnedWretchs, class);
@@ -246,8 +246,8 @@ library SpeechSystem requires Table, Players, GameTimer, StringLib, CommandParse
                                     gg_snd_Builder_Panda, class);
             // Titan Sounds
             class = function(integer class) -> boolean {
-				return class == PlayerData.CLASS_TITAN || class == PlayerData.CLASS_MINION;
-			};
+                return class == PlayerData.CLASS_TITAN || class == PlayerData.CLASS_MINION;
+            };
             thistype.registerSpeech("this one is mine", 
                                     gg_snd_Titan_ThisOneIsMine, class);
             thistype.registerSpeech("vanquish the weak", 
@@ -257,79 +257,79 @@ library SpeechSystem requires Table, Players, GameTimer, StringLib, CommandParse
             thistype.registerSpeech("don't waste my time",
                                     gg_snd_Titan_DontWasteMyTime, class);
             thistype.registerSpeech("right",
-									gg_snd_Titan_Right, class);
+                                    gg_snd_Titan_Right, class);
             thistype.registerSpeech("of course",
-									gg_snd_Titan_OfCourse, class);
+                                    gg_snd_Titan_OfCourse, class);
             thistype.registerSpeech("stay out of my way",
-									gg_snd_Titan_StayOutOfMyWay, class);
+                                    gg_snd_Titan_StayOutOfMyWay, class);
             thistype.registerSpeech("pitiful",
-									gg_snd_Titan_Pitiful, class);
+                                    gg_snd_Titan_Pitiful, class);
             thistype.registerSpeech("i must feed",
-									gg_snd_Titan_IMustFeed, class);
+                                    gg_snd_Titan_IMustFeed, class);
             thistype.registerSpeech("im always on the winning side",
-									gg_snd_Titan_ImAlwaysOnTheWinningSide, class);
+                                    gg_snd_Titan_ImAlwaysOnTheWinningSide, class);
             thistype.registerSpeech("i'm always on the winning side",
-									gg_snd_Titan_ImAlwaysOnTheWinningSide, class);
+                                    gg_snd_Titan_ImAlwaysOnTheWinningSide, class);
             thistype.registerSpeech("die",
-									gg_snd_Titan_Die, class);
+                                    gg_snd_Titan_Die, class);
             thistype.registerSpeech("your soul is mine",
-									gg_snd_Titan_YourSoulIsMine, class);
+                                    gg_snd_Titan_YourSoulIsMine, class);
             thistype.registerSpeech("outstanding",
-									gg_snd_Titan_Outstanding, class);
+                                    gg_snd_Titan_Outstanding, class);
             thistype.registerSpeech("cross over children",
-									gg_snd_Titan_CrossOverChildrenCrossOverIntoTheLight, class);
+                                    gg_snd_Titan_CrossOverChildrenCrossOverIntoTheLight, class);
             thistype.registerSpeech("i come to cleanse",
-									gg_snd_Titan_IComeToCleansThisLand, class);
+                                    gg_snd_Titan_IComeToCleansThisLand, class);
             thistype.registerSpeech("taste this",
-									gg_snd_Titan_TasteThis, class);
+                                    gg_snd_Titan_TasteThis, class);
             thistype.registerSpeech("the dead shall serve",
-									gg_snd_Titan_TheDeadShallServe, class);
+                                    gg_snd_Titan_TheDeadShallServe, class);
             thistype.registerSpeech("let blood drown the weak",
-									gg_snd_Titan_LetBloodDrownedTheWeak, class);
+                                    gg_snd_Titan_LetBloodDrownedTheWeak, class);
             thistype.registerSpeech("now feel my wrath",
-									gg_snd_Titan_NowFeelMyWrath, class);
+                                    gg_snd_Titan_NowFeelMyWrath, class);
             thistype.registerSpeech("never",
-									gg_snd_Titan_Never, class);
+                                    gg_snd_Titan_Never, class);
             thistype.registerSpeech("what the hell",
-									gg_snd_Titan_WhatTheHellIsGoingOnHere, class);
+                                    gg_snd_Titan_WhatTheHellIsGoingOnHere, class);
             thistype.registerSpeech("kill them all",
-									gg_snd_Titan_KillThemAll, class);
+                                    gg_snd_Titan_KillThemAll, class);
             thistype.registerSpeech("youve betrayed us all",
-									gg_snd_Titan_YouveBetrayedUsAll, class);
+                                    gg_snd_Titan_YouveBetrayedUsAll, class);
             thistype.registerSpeech("you've betrayed us all",
-									gg_snd_Titan_YouveBetrayedUsAll, class);
+                                    gg_snd_Titan_YouveBetrayedUsAll, class);
             thistype.registerSpeech("you have betrayed us all",
-									gg_snd_Titan_YouveBetrayedUsAll, class);
+                                    gg_snd_Titan_YouveBetrayedUsAll, class);
             thistype.registerSpeech("you should burn",
-									gg_snd_Titan_YouShouldBurnInHell, class);
+                                    gg_snd_Titan_YouShouldBurnInHell, class);
             thistype.registerSpeech("gladly",
-									gg_snd_Titan_Gladly, class);
+                                    gg_snd_Titan_Gladly, class);
             thistype.registerSpeech("fateless coward",
-									gg_snd_Titan_FatelessCoward, class);
+                                    gg_snd_Titan_FatelessCoward, class);
             thistype.registerSpeech("its a trap",
-									gg_snd_Titan_ItsATrap, class);
+                                    gg_snd_Titan_ItsATrap, class);
             thistype.registerSpeech("it's a trap",
-									gg_snd_Titan_ItsATrap, class);
+                                    gg_snd_Titan_ItsATrap, class);
             thistype.registerSpeech("that doesnt sound too difficult",
-									gg_snd_Titan_ThatDoesntSoundTooDifficult, class);
+                                    gg_snd_Titan_ThatDoesntSoundTooDifficult, class);
             thistype.registerSpeech("that doesn't sound too difficult",
-									gg_snd_Titan_ThatDoesntSoundTooDifficult, class);
+                                    gg_snd_Titan_ThatDoesntSoundTooDifficult, class);
             thistype.registerSpeech("your time has come",
-									gg_snd_Titan_YourTimeHasCome, class);
+                                    gg_snd_Titan_YourTimeHasCome, class);
             thistype.registerSpeech("well see about that",
-									gg_snd_Titan_WellSeeAboutThat, class);
+                                    gg_snd_Titan_WellSeeAboutThat, class);
             thistype.registerSpeech("we'll see about that",
-									gg_snd_Titan_WellSeeAboutThat, class);
+                                    gg_snd_Titan_WellSeeAboutThat, class);
             thistype.registerSpeech("we will see about that",
-									gg_snd_Titan_WellSeeAboutThat, class);
+                                    gg_snd_Titan_WellSeeAboutThat, class);
             thistype.registerSpeech("so youre not upset",
-									gg_snd_Titan_SoYoureNotUpsetAboutMeKillingYouThatOneTime, class);
+                                    gg_snd_Titan_SoYoureNotUpsetAboutMeKillingYouThatOneTime, class);
             thistype.registerSpeech("so you're not upset",
-									gg_snd_Titan_SoYoureNotUpsetAboutMeKillingYouThatOneTime, class);
+                                    gg_snd_Titan_SoYoureNotUpsetAboutMeKillingYouThatOneTime, class);
             thistype.registerSpeech("tremble mortals",
-									gg_snd_Titan_TrembleMortals, class);
+                                    gg_snd_Titan_TrembleMortals, class);
             thistype.registerSpeech("haha",
-									gg_snd_Titan_Haha, class);
+                                    gg_snd_Titan_Haha, class);
         }
     }
 }

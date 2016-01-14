@@ -5,10 +5,10 @@
 // TODO(neco): Fix this in the case that researches effect maximum mana.
 
 library UpgradeManaFix requires UnitMaxState, TableBC {
-	private struct TempUnitData {
-		unit u = null;
-	}
-	
+    private struct TempUnitData {
+        unit u = null;
+    }
+    
     private struct UpgradeManaFix {
         private static Table unitTable = 0;
         
@@ -23,15 +23,15 @@ library UpgradeManaFix requires UnitMaxState, TableBC {
         }
         
         private static method fix(unit u){
-			integer id = GetUnitTypeId(u);
+            integer id = GetUnitTypeId(u);
             real mana = I2R(thistype.unitTable[id]);
-			Upgrades.removeUpgrades(u);
-			SetUnitMaxState(u, UNIT_STATE_MAX_MANA, mana);
-			Upgrades.applyUpgrades(u);
+            Upgrades.removeUpgrades(u);
+            SetUnitMaxState(u, UNIT_STATE_MAX_MANA, mana);
+            Upgrades.applyUpgrades(u);
         }
-		
-		public static method registerAll() {
-			// Draenei Towers
+        
+        public static method registerAll() {
+            // Draenei Towers
             thistype.register('h03V');
             thistype.register('o02B');
             thistype.register('o02D');
@@ -50,37 +50,37 @@ library UpgradeManaFix requires UnitMaxState, TableBC {
             thistype.register('o039');
             thistype.register('o03A');
             thistype.register('o03B');
-		}
+        }
         
         public static method setup(){
             trigger t = CreateTrigger();
-			TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_UPGRADE_CANCEL);
-			TriggerAddAction(t, function(){
-				unit u = GetTriggerUnit();
+            TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_UPGRADE_CANCEL);
+            TriggerAddAction(t, function(){
+                unit u = GetTriggerUnit();
                 integer id = GetUnitTypeId(u);
                 if (thistype.unitTable.has(id)){
                     thistype.fix(u);
                 }
-			});
-			
-			t = CreateTrigger();
-			TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_UPGRADE_FINISH);
-			TriggerAddAction(t, function(){
-				unit u = GetTriggerUnit();
+            });
+            
+            t = CreateTrigger();
+            TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_UPGRADE_FINISH);
+            TriggerAddAction(t, function(){
+                unit u = GetTriggerUnit();
                 integer id = GetUnitTypeId(u);
-				TempUnitData d = TempUnitData.create();
+                TempUnitData d = TempUnitData.create();
                 if (thistype.unitTable.has(id)){
-					d.u = u;
-					// This should run after the Upgrade System deals with it, right?
-					GameTimer.new(function(GameTimer t) {
-						TempUnitData d = TempUnitData(t.data());
-						if (d != 0) {
-							thistype.fix(d.u);
-							d.destroy();
-						}
-					}).start(0.0).setData(d);
+                    d.u = u;
+                    // This should run after the Upgrade System deals with it, right?
+                    GameTimer.new(function(GameTimer t) {
+                        TempUnitData d = TempUnitData(t.data());
+                        if (d != 0) {
+                            thistype.fix(d.u);
+                            d.destroy();
+                        }
+                    }).start(0.0).setData(d);
                 }
-			});
+            });
             
             thistype.unitTable = Table.create();
             thistype.registerAll();
