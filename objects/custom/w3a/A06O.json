@@ -1,0 +1,77 @@
+{
+    "base": "Assk",
+    "id": "A06O",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ssk1",
+            "type": 2,
+            "value": "30",
+            "variation": 1
+        },
+        {
+            "data": 2,
+            "id": "Ssk2",
+            "type": 2,
+            "value": "50",
+            "variation": 1
+        },
+        {
+            "data": 3,
+            "id": "Ssk3",
+            "type": 2,
+            "value": "250",
+            "variation": 1
+        },
+        {
+            "data": 4,
+            "id": "Ssk4",
+            "type": 0,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abpx",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "achd",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "areq",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "enemies",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aub1",
+            "type": 3,
+            "value": "Reduces 30% of attacks on this wall by up to 250 damage. Attacks cannot be reduced below 50 damage.",
+            "variation": 1
+        }
+    ],
+    "type": "Ability"
+}

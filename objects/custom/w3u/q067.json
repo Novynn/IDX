@@ -115,7 +115,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Replaces all of your Fortified Armed Walls into Advanced Walls. These walls evade 20% of attacks and have 20 armor."
+            "value": "Replaces all of your Fortified Armed Walls into Advanced Walls. These walls have a 30% to block up to 250 damage from incoming attacks, as well as having 20 armor."
         }
     ],
     "type": "Unit"

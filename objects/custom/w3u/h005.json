@@ -35,7 +35,7 @@
         {
             "id": "uabi",
             "type": 3,
-            "value": "A03L,A0H9"
+            "value": "A06O,A0H9"
         },
         {
             "id": "ubba",
@@ -160,7 +160,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A strong wall for the Goblin.|n|cff808080These walls have 20% evasion and will attack nearby enemies.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 20 Fortified|n|cffffcc00Attack:|r 10 Chaos|n|cffffcc00Attack Range:|r 105|n|cffffcc00Attack Speed:|r Very Fast"
+            "value": "A strong wall for the Goblin.|n|cff808080These walls have 30% chance to block some damage and will attack nearby enemies.|r|n|n|cffffcc00Health:|r 400|n|cffffcc00Armor:|r 20 Fortified|n|cffffcc00Attack:|r 10 Chaos|n|cffffcc00Attack Range:|r 105|n|cffffcc00Attack Speed:|r Very Fast"
         }
     ],
     "type": "Unit"
