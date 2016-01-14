@@ -32,6 +32,13 @@
         },
         {
             "data": 0,
+            "id": "alsk",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "anam",
             "type": 3,
             "value": "Heal",
