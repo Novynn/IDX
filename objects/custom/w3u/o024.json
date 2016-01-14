@@ -1,6 +1,6 @@
 {
     "base": "otrb",
-    "id": "o01I",
+    "id": "o024",
     "mods": [
         {
             "id": "ua1b",
@@ -35,7 +35,7 @@
         {
             "id": "ubba",
             "type": 0,
-            "value": "2"
+            "value": "4"
         },
         {
             "id": "ubld",
@@ -46,6 +46,21 @@
             "id": "ubpx",
             "type": 0,
             "value": "2"
+        },
+        {
+            "id": "uclb",
+            "type": 0,
+            "value": "180"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "180"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "180"
         },
         {
             "id": "udef",
@@ -60,7 +75,7 @@
         {
             "id": "ufma",
             "type": 0,
-            "value": "25"
+            "value": "50"
         },
         {
             "id": "ugol",
@@ -81,6 +96,16 @@
             "id": "uhpm",
             "type": 0,
             "value": "300"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "4"
+        },
+        {
+            "id": "uhrt",
+            "type": 3,
+            "value": "always"
         },
         {
             "id": "uico",
@@ -110,7 +135,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|cffffff00Fruit Tree|r"
+            "value": "|cffaaaa00Giant Fruit Tree|r"
         },
         {
             "id": "upap",
@@ -138,6 +163,11 @@
             "value": "human"
         },
         {
+            "id": "ureq",
+            "type": 3,
+            "value": "TWN2,q206"
+        },
+        {
             "id": "urtm",
             "type": 0,
             "value": "10"
@@ -155,17 +185,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700F|r) Create a Fruit Tree"
+            "value": "(|cffffd700F|r) Grow into a |cffaaaa00Giant Fruit Tree|r"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Also refered to as a Food Source, this building provides food for towers and harvesters.|n|cff808080Each tree provides 25 food. Protects itself by shooting thorns at nearby enemies.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 20 Pierce|n|cffffcc00Attack Range:|r 700|n|cffffcc00Attack Speed:|r Fast|n|n|cffff0000Note:|r You only need 6 of these. You can also destroy them once your food limit is reached to prevent feeding."
-        },
-        {
-            "id": "uupt",
-            "type": 3,
-            "value": "o024"
+            "value": "Also refered to as a Food Source, this building provides food for towers and harvesters.|n|cff808080Each tree provides 50 food, and has a passive regeneration. Protects itself by shooting thorns at nearby enemies.|r|n|n|cffffcc00Health:|r 300|n|cffffcc00Armor:|r 4 Heavy|n|cffffcc00Attack:|r 20 Pierce|n|cffffcc00Attack Range:|r 700|n|cffffcc00Attack Speed:|r Fast|n|n|cffff0000Note:|r You only need 3 of these. You can also destroy them once your food limit is reached to prevent feeding."
         }
     ],
     "type": "Unit"
