@@ -616,6 +616,15 @@ library Players requires Races, GetPlayerColored {
         method leaving(){
             this.mLeaving = true;
         }
+		
+		private boolean mTips = true;
+		method disableTips() {
+			this.mTips = false;
+		}
+		
+		method tips() -> boolean {
+			return this.mTips;
+		}
 
         private integer mLeftGameState = -1;
         private integer mLeftGameId = -1;

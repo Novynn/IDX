@@ -23,8 +23,18 @@ library PeriodicTips requires GameTimer {
         }
         
         private static method tick(){
+			PlayerDataArray list = 0;
+			integer i = 0;
+			PlayerData p = 0;
             if (GetRandomInt(0, 1) == 0) return;
-            Game.say(thistype.getTip());
+			list = PlayerData.all();
+			for (0 <= i < list.size()) {
+				p = list[i];
+				if (p.tips()) {
+					p.say(thistype.getTip());
+				}
+			}
+			list.destroy();
         }
         
         private static GameTimer tipsTimer = 0;
@@ -32,7 +42,7 @@ library PeriodicTips requires GameTimer {
             thistype.tipsTimer = GameTimer.newPeriodic(function(GameTimer t){
                 thistype.tick();
             });
-            thistype.tipsTimer.start(180.0);
+            thistype.tipsTimer.start(120.0);
         }
         public static method terminate(){
             thistype.tipsTimer.destroy();
