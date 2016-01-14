@@ -44,7 +44,6 @@ library DefenderUnit requires Unit {
 		public static method prepare(PlayerData p) {
 			player q = p.player();
 			
-            SetPlayerState(q, PLAYER_STATE_GIVES_BOUNTY, 1); // Gives Bounty
             SetPlayerTechMaxAllowed(q, 'HERO', 1); // Max one Hero
 			
 			// All of this Upgrade System shit should be moved somewhere else......................................................

@@ -174,6 +174,7 @@ library RacePickMode requires RacePicker, optional PerksSystem {
             integer delta = GetRandomInt(1, 40);
             unit u = p.unit().unit();
             
+            SetPlayerState(p.player(), PLAYER_STATE_GIVES_BOUNTY, 1); // Gives Bounty
 			// Setup tech
             DefenderUnit.prepare(p);
             
