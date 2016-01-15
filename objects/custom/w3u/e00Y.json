@@ -105,7 +105,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|CFF008400Crown of Thieves|R"
+            "value": "|cff008400Crown of Thieves"
         },
         {
             "id": "uocc",
@@ -145,7 +145,7 @@
         {
             "id": "ureq",
             "type": 3,
-            "value": "e00X"
+            "value": "TWN4"
         },
         {
             "id": "ures",
