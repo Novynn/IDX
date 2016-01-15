@@ -2,7 +2,7 @@
 //TESH.alwaysfold=0
 //! zinc
 
-library Detected requires Table, GameTimer {
+library Detected requires Table, GameTimer, Upgrades {
     private struct Detected {
         private static method isUnitVisibleToEnemies(unit u) -> boolean {
             PlayerData p = PlayerData.get(GetOwningPlayer(u));
@@ -22,9 +22,8 @@ library Detected requires Table, GameTimer {
         }
         
         private static method hasUpgrade(player p) -> boolean {
-            // todo(neco): replace this with the new upgrade system!
-            
-            return GetPlayerTechResearched(p, 'R02W', true);
+            return Upgrades.playerHasUpgradeLevel(p, 'q259');
+            //return GetPlayerTechResearched(p, 'R02W', true);
         }
         
         private static method tick() {

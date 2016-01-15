@@ -13,7 +13,7 @@ library SatyrRace requires Races {
         }
         
         method isPickable() -> boolean {
-            return false;
+            return true;
         }
         
         method widgetId() -> integer {

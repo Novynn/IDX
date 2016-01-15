@@ -679,7 +679,7 @@
         },
         {
             "desc": "",
-            "enabled": false,
+            "enabled": true,
             "index": 16,
             "initialState": 0,
             "isCustom": true,
@@ -3419,7 +3419,7 @@
         },
         {
             "desc": "\"1: |cffff0000+\"+I2S(R2I(risk/100))+\"|r\\n|cff0000ff+\"+I2S(risk)+\"|r\"",
-            "enabled": false,
+            "enabled": true,
             "index": 8,
             "initialState": 0,
             "isCustom": true,
@@ -3429,7 +3429,7 @@
         },
         {
             "desc": "",
-            "enabled": false,
+            "enabled": true,
             "index": 8,
             "initialState": 0,
             "isCustom": true,
