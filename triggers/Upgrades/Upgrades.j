@@ -554,7 +554,9 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
             }
         }
         
-        private static UpgradeEffect prevEffect = 0;
+        // Storage for the past 10 effects
+        private static constant integer MAX_EFFECT_HISTORY = 10;
+        private static UpgradeEffect prevEffect[thistype.MAX_EFFECT_HISTORY];
         private static string currentName = "";
         private static string currentForRace = "";
         private static boolean lastIsRecursive = false;
@@ -563,10 +565,11 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
         public static method begin(string name, string forRace) {
             thistype.currentName = name;
             thistype.currentForRace = forRace;
+            thistype.clearEffects();
         }
         
         public static method lastEffect() -> UpgradeEffect {
-            return thistype.prevEffect;
+            return thistype.prevEffect[0];
         }
         
         public static method addRequirement(integer unitId) {
@@ -669,23 +672,47 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
             thistype.addEffect(thistype.lastEffect());
         }
         
-        // Slightly more expensive, but copies all effects
-        public static method continueEffects() {
-            integer lastIndex = thistype.currentUpgradesCount - 2;
+        //public static method continueEffects() {
+        //    integer i = 0;
+        //    for (0 <= i < MAX_EFFECT_HISTORY) {
+        //        // Quit when we find a null effect
+        //        if (thistype.prevEffect[i] == 0) break;
+        //        thistype.addEffect(thistype.prevEffect[i]);
+        //    }
+        //}
+        
+        public static method continueEffects(UpgradeLevel level) {
+            //integer lastIndex = thistype.currentUpgradesCount - 2;
             integer i = 0;
-            UpgradeLevel level = 0;
-            if (lastIndex < 0) return;
-            level = thistype.currentUpgrades[lastIndex];
+            //UpgradeLevel level = 0;
+            //if (lastIndex < 0) return;
+            //level = thistype.currentUpgrades[lastIndex];
             for (0 <= i < level.effectCount) {
                 thistype.addEffect(level[i]);
             }
         }
         
+        //private static method shuffleEffects() {
+        //    integer i = 0;
+        //    for (MAX_EFFECT_HISTORY > i >= 1) {
+        //        thistype.prevEffect[i] = thistype.prevEffect[i-1];
+        //    }
+        //    thistype.prevEffect[0] = 0;
+        //}
+        
+        private static method clearEffects() {
+            integer i = 0;
+            for (0 <= i < MAX_EFFECT_HISTORY) {
+                thistype.prevEffect[i] = 0;
+            }
+        }
+        
         public static method addEffect(UpgradeEffect e) {
-            integer currIndex = thistype.currentUpgradesCount - 1;
-            UpgradeLevel level = thistype.currentUpgrades[currIndex];
+            UpgradeLevel level = thistype.currentUpgrades[thistype.currentUpgradesCount - 1];
             level.addEffect(e);
-            thistype.prevEffect = e;
+            
+            //thistype.shuffleEffects();
+            thistype.prevEffect[0] = e;
         }
         
         public static method setLastAsRecursive() {
@@ -711,6 +738,7 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
             thistype.currentUpgradesCount = 0;
             thistype.lastIsRecursive = false;
             u.setupTech();
+            
             return u;
         }
         
