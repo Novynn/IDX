@@ -55,7 +55,7 @@
         {
             "id": "uico",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNWhirlwind.blp"
+            "value": "ReplaceableTextures\\CommandButtons\\BTNSatyrCombatMastery.blp"
         },
         {
             "id": "ulum",
@@ -130,7 +130,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Completes the Satyr's combat training, allowing him to avoid fatal blows and hit enemy weak points with devastating results. Allows the Satyr to Blur and gives 32% evasion and a 10% chance to deal 4x damage."
+            "value": "Completes the Satyr's combat training, allowing him to avoid fatal blows and hit enemy weak points with devastating results. Gives 32% evasion and a 10% chance to deal 4x damage."
         }
     ],
     "type": "Unit"
