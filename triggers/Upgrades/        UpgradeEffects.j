@@ -1,5 +1,5 @@
 //! zinc
-library UpgradeEffects requires Upgrades, UnitMaxState {
+library UpgradeEffects requires Upgrades, UnitMaxState, BonusMod {
 
     public struct UpgradeHPEffect extends UpgradeEffect {
         private real hp;
@@ -55,6 +55,26 @@ library UpgradeEffects requires Upgrades, UnitMaxState {
             if (GetUnitAbilityLevel(u, this.id) <= 0) return; // Can't go below 0
             if (GetUnitAbilityLevel(u, this.id) == 1) UnitRemoveAbility(u, this.id);
             else DecUnitAbilityLevel(u, this.id);
+        }
+    }
+    
+    public struct UpgradeBonusEffect extends UpgradeEffect {
+        private Bonus bonus;
+        private integer value;
+        
+        public static method create(Bonus mod, integer value) -> thistype {
+            thistype this = thistype.allocate();
+            this.bonus = mod;
+            this.value = value;
+            return this;
+        }
+        
+        public method activate(unit u) {
+            AddUnitBonus(u, bonus, value);
+        }
+        
+        public method deactivate(unit u) {
+            AddUnitBonus(u, bonus, -value);
         }
     }
     
