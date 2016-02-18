@@ -58,10 +58,6 @@ library MurlocUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxS
                 };
             Upgrades.end();
             
-            
-            
-            
-            
             Upgrades.begin("Adept Hunter Training", "all");
                 // Level 1 - Increases the hit points of your titan hunter by 200, attack speed by 20%, and movement speed by 15.
                 Upgrades.add('q243', thistype.isHunter, function(unit u) {
@@ -71,7 +67,7 @@ library MurlocUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxS
                 }, function(unit u) {
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, -200);
                     AddUnitBonus(u, BONUS_ATTACK_SPEED, -20); // 15%
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 15);
+                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -15);
                 });
             Upgrades.end();
         }

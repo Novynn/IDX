@@ -149,7 +149,7 @@ private struct MovementBonus extends Bonus
             debug call ErrorMsg("MovementBonus.setBonus()", "Attempting to set a unit's speed below it's minimum")
             set amount = -actualSpeed + min
         elseif actualSpeed + amount > max then
-            debug call ErrorMsg("MovementBonus.setBonus()", "Ateempting to set a unit's speed above it's maximum")
+            debug call ErrorMsg("MovementBonus.setBonus()", "Attempting to set a unit's speed above it's maximum")
             set amount = max - actualSpeed
         endif
         
