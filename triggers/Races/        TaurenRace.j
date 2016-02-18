@@ -11,6 +11,10 @@ library TaurenRace requires Races {
         method widgetId() -> integer {
             return 'O01Q';
         }
+        
+        method isWidgetId(integer id) -> boolean {
+            return id == this.widgetId() || id == 'O01R'; // Ancestral Form
+        }
 
         method itemId() -> integer {
             return 'I02X';
