@@ -120,7 +120,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the movement speed of catapults by 75."
+            "value": "Increases the movement speed of catapults by 60."
         }
     ],
     "type": "Unit"

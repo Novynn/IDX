@@ -28,6 +28,11 @@
             "value": "2"
         },
         {
+            "id": "ubpy",
+            "type": 0,
+            "value": "2"
+        },
+        {
             "id": "ucol",
             "type": 1,
             "value": "0"
@@ -115,7 +120,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the movement speed of catapults by 75."
+            "value": "Increases the movement speed of catapults by 120."
         }
     ],
     "type": "Unit"

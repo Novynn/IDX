@@ -1763,16 +1763,6 @@
             "index": 11,
             "initialState": 0,
             "isCustom": true,
-            "name": "BonusMod Movespeed",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": true,
-            "index": 11,
-            "initialState": 0,
-            "isCustom": true,
             "name": "Ascii",
             "runOnInit": false,
             "type": 0

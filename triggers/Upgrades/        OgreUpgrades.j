@@ -39,14 +39,6 @@ library OgreUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxSta
             AddUnitBonus(u, BONUS_ARMOR, -1);
         }
         
-        public static method incrSpeedBonus(unit u) {
-            AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 75);
-        }
-        
-        public static method decrSpeedBonus(unit u) {
-            AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -75);
-        }
-        
         private static method setupCatapultUpgrades() {
             UpgradeLevel up = 0;
             
@@ -155,8 +147,24 @@ library OgreUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxSta
             Upgrades.end();
 
             Upgrades.begin("Catapult Speed Boost", "all");
-            Upgrades.add('q127', thistype.isCatapult, thistype.incrSpeedBonus, thistype.decrSpeedBonus);
-            Upgrades.add('q128', thistype.isCatapult, thistype.incrSpeedBonus, thistype.decrSpeedBonus);
+            // WC3 actually takes the highest movement speed effect and ignores all others.
+            // Which comes in handy here as we don't have to care about upgrading the abilities.
+            Upgrades.add('q127', thistype.isCatapult, function(unit u) {
+                // +60 ms
+                UnitAddAbility(u, 'A026');
+                UnitMakeAbilityPermanent(u, true, 'A026');
+            }, function(unit u) {
+                UnitMakeAbilityPermanent(u, false, 'A026');
+                UnitRemoveAbility(u, 'A026');
+            });
+            Upgrades.add('q128', thistype.isCatapult, function(unit u) {
+                // Add +120 ms
+                UnitAddAbility(u, 'A06Q');
+                UnitMakeAbilityPermanent(u, true, 'A06Q');
+            }, function(unit u) {
+                UnitMakeAbilityPermanent(u, false, 'A06Q');
+                UnitRemoveAbility(u, 'A06Q');
+            });
             Upgrades.end();
             
             thistype.setupCatapultUpgrades();
@@ -167,12 +175,14 @@ library OgreUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxSta
                 AddUnitMaxState(u, UNIT_STATE_MAX_MANA, 200);
                 AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, 400);
                 AddUnitBonus(u, BONUS_DAMAGE, 20);
-                AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 60);
+                UnitAddAbility(u, 'A026');
+                UnitMakeAbilityPermanent(u, true, 'A026');
             }, function(unit u) {
                 AddUnitMaxState(u, UNIT_STATE_MAX_MANA, -200);
                 AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, -400);
                 AddUnitBonus(u, BONUS_DAMAGE, -20);
-                AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -60);
+                UnitMakeAbilityPermanent(u, false, 'A026');
+                UnitRemoveAbility(u, 'A026');
             });
             Upgrades.end();
         }

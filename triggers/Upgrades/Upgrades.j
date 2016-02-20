@@ -316,7 +316,6 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
         unit u;
         real mana;
         real maxMana;
-        integer movespeed;
     }
     
     public struct Upgrades {
@@ -628,11 +627,9 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
         private static method applyChaos(unit u, integer oldChaos, integer newChaos) {
             integer id = GetUnitIndex(u);
             // Save some values as they don't transfer with Chaos properly..
-            UnitConversionDelayData[id].movespeed = GetUnitBonus(u, BONUS_MOVEMENT_SPEED);
             UnitConversionDelayData[id].mana = GetUnitState(u, UNIT_STATE_MAX_MANA);
             UnitConversionDelayData[id].maxMana = GetUnitState(u, UNIT_STATE_MAX_MANA);
             UnitConversionDelayData[id].u = u;
-            RemoveUnitBonus(u, BONUS_MOVEMENT_SPEED);
             
             UnitRemoveAbility(u, oldChaos);
             UnitAddChaos(u, newChaos);
@@ -641,7 +638,6 @@ library Upgrades requires Table, Players, GetPlayerActualName, AIDS, Races, Asci
             GameTimer.new(function(GameTimer t) {
                 integer id = t.data();
                 unit u = UnitConversionDelayData[id].u;
-                AddUnitBonus(u, BONUS_MOVEMENT_SPEED, UnitConversionDelayData[id].movespeed);
                 SetUnitMaxState(u, UNIT_STATE_MAX_MANA, UnitConversionDelayData[id].maxMana);
                 SetUnitState(u, UNIT_STATE_MANA, UnitConversionDelayData[id].mana);
                 UnitConversionDelayData[id].u = null;

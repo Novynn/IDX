@@ -21,12 +21,15 @@ library GoblinUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxS
                 AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, 400);
                 AddUnitBonus(u, BONUS_DAMAGE, 20);
                 AddUnitBonus(u, BONUS_ATTACK_SPEED, 25);
-                AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 60);
+                // +40ms
+                UnitAddAbility(u, 'A049');
+                UnitMakeAbilityPermanent(u, true, 'A049');
             }, function(unit u) {
                 AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, -400);
                 AddUnitBonus(u, BONUS_DAMAGE, -20);
                 AddUnitBonus(u, BONUS_ATTACK_SPEED, -25);
-                AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -60);
+                UnitMakeAbilityPermanent(u, false, 'A049');
+                UnitRemoveAbility(u, 'A049');
             });
             Upgrades.end();
             

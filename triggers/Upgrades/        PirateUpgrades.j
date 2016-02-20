@@ -26,13 +26,15 @@ library PirateUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxS
             Upgrades.end();
             
             Upgrades.begin("Adept Hunter Training", "all");
-            // Level 1 - Increases the movement speed of your Titan Hunter by 20, hit points by 300, adds an incendiary effect to your attack, and enables auxiliary cannons.
+            // Level 1 - Increases the movement speed of your Titan Hunter by 40 hit points by 300, adds an incendiary effect to your attack, and enables auxiliary cannons.
                 Upgrades.add('q208', thistype.isHunter, function(unit u) {
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, 300);
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 20);
+                    UnitAddAbility(u, 'A049');
+                    UnitMakeAbilityPermanent(u, true, 'A049');
                 }, function(unit u) {
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, -300);
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -20);
+                    UnitMakeAbilityPermanent(u, false, 'A049');
+                    UnitRemoveAbility(u, 'A049');
                 });
             Upgrades.end();
             

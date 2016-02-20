@@ -63,11 +63,13 @@ library MurlocUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxS
                 Upgrades.add('q243', thistype.isHunter, function(unit u) {
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, 200);
                     AddUnitBonus(u, BONUS_ATTACK_SPEED, 20); // 15%
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 15);
+                    UnitAddAbility(u, 'A06P');
+                    UnitMakeAbilityPermanent(u, true, 'A06P');
                 }, function(unit u) {
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, -200);
                     AddUnitBonus(u, BONUS_ATTACK_SPEED, -20); // 15%
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -15);
+                    UnitMakeAbilityPermanent(u, false, 'A06P');
+                    UnitRemoveAbility(u, 'A06P');
                 });
             Upgrades.end();
         }

@@ -28,8 +28,10 @@ library TrollUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxSt
             Upgrades.begin("Spiked Structures", "all");
                 Upgrades.add('q245', thistype.isTowerOrWall, function(unit u) {
                     UnitAddAbility(u, 'A065');
+                    UnitMakeAbilityPermanent(u, true, 'A065');
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, 50);
                 }, function(unit u) {
+                    UnitMakeAbilityPermanent(u, false, 'A065');
                     UnitRemoveAbility(u, 'A065');
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, -50);
                 });

@@ -13,12 +13,15 @@ library MakruraUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMax
                 Upgrades.add('q249', thistype.isHunter, function(unit u) {
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, 200);
                     AddUnitBonus(u, BONUS_ATTACK_SPEED, 15); // 15%
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 80);
+                    // +60ms
+                    UnitAddAbility(u, 'A026');
+                    UnitMakeAbilityPermanent(u, true, 'A026');
                     AddUnitBonus(u, BONUS_LIFE_REGEN, 2);
                 }, function(unit u) {
                     AddUnitMaxState(u, UNIT_STATE_MAX_LIFE, -200);
                     AddUnitBonus(u, BONUS_ATTACK_SPEED, -15); // 15%
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -80);
+                    UnitMakeAbilityPermanent(u, false, 'A026');
+                    UnitRemoveAbility(u, 'A026');
                     AddUnitBonus(u, BONUS_LIFE_REGEN, -2);
                 });
             Upgrades.end();

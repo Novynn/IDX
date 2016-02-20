@@ -57,10 +57,13 @@ library MagnataurUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitM
             
             Upgrades.begin("Inner Cold", "all");
                 Upgrades.add('q081', thistype.isMagnataur, function(unit u) {
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 15);
+                    // +15ms
+                    UnitAddAbility(u, 'A06P');
+                    UnitMakeAbilityPermanent(u, true, 'A06P');
                     IncUnitAbilityLevel(u, 'A04Z');
                 }, function(unit u) {
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -15);
+                    UnitMakeAbilityPermanent(u, false, 'A06P');
+                    UnitRemoveAbility(u, 'A06P');
                     DecUnitAbilityLevel(u, 'A04Z');
                 });
             Upgrades.end();

@@ -22,14 +22,16 @@ library RadioactiveUpgrades requires DefaultUpgrades {
             Upgrades.end();
             
             Upgrades.begin("Adept Hunter Training", "all");
-                // Level 1 - Increases the movement speed of the hunter by 60, range by 200, and allows the hunter to use the Atomic Split ability. 
+                // Level 1 - Increases the movement speed of the hunter by 40, range by 200, and allows the hunter to use the Atomic Split ability. 
                 Upgrades.add('q097', thistype.isHunter, function(unit u) {
                     AddUnitBonus(u, BONUS_ATTACK_SPEED, 15); // 15%
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, 40);
+                    UnitAddAbility(u, 'A049');
+                    UnitMakeAbilityPermanent(u, true, 'A049');
                     AddUnitBonus(u, BONUS_DAMAGE, 20);
                 }, function(unit u) {
                     AddUnitBonus(u, BONUS_ATTACK_SPEED, -15); // 15%
-                    AddUnitBonus(u, BONUS_MOVEMENT_SPEED, -40);
+                    UnitMakeAbilityPermanent(u, false, 'A049');
+                    UnitRemoveAbility(u, 'A049');
                     AddUnitBonus(u, BONUS_DAMAGE, -20);
                 });
             Upgrades.end();
