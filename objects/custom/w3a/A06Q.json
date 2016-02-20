@@ -1,0 +1,21 @@
+{
+    "base": "AIms",
+    "id": "A06Q",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Imvb",
+            "type": 0,
+            "value": "120",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(+120)",
+            "variation": 0
+        }
+    ],
+    "type": "Ability"
+}
