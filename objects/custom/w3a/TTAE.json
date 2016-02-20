@@ -118,28 +118,28 @@
             "data": 6,
             "id": "Ncl6",
             "type": 3,
-            "value": "healingstone",
+            "value": "healingward",
             "variation": 1
         },
         {
             "data": 6,
             "id": "Ncl6",
             "type": 3,
-            "value": "healingstone",
+            "value": "healingward",
             "variation": 2
         },
         {
             "data": 6,
             "id": "Ncl6",
             "type": 3,
-            "value": "healingstone",
+            "value": "healingward",
             "variation": 3
         },
         {
             "data": 6,
             "id": "Ncl6",
             "type": 3,
-            "value": "healingstone",
+            "value": "healingward",
             "variation": 4
         },
         {
@@ -356,7 +356,7 @@
             "data": 0,
             "id": "aord",
             "type": 3,
-            "value": "healingstone",
+            "value": "healingward",
             "variation": 0
         },
         {
