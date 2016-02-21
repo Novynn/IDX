@@ -2,7 +2,7 @@
 //TESH.alwaysfold=0
 //! zinc
 
-library PunishmentCentreTeleport requires UnitManager, AIDS, DestroyEffectTimed {    
+library PunishmentCentreTeleport requires UnitManager, AIDS, DestroyEffectTimed {
     public struct PunishmentCentreTeleport {
         public static method onInit(){
             // Teleport
@@ -12,10 +12,10 @@ library PunishmentCentreTeleport requires UnitManager, AIDS, DestroyEffectTimed 
                 return GetSpellAbilityId() == '&TEL';
             }));
             TriggerAddAction(t, function(){
-                location g = GetUnitLoc(UnitManager.TITAN_SPELL_WELL);
-                effect e = AddSpecialEffectLoc("Abilities\\Spells\\Human\\MassTeleport\\MassTeleportTo.mdl", g);
+                real x = GetUnitX(UnitManager.TITAN_SPELL_WELL);
+                real y = GetUnitY(UnitManager.TITAN_SPELL_WELL);
+                effect e = AddSpecialEffect("Abilities\\Spells\\Human\\MassTeleport\\MassTeleportTo.mdl", x, y);
                 unit u = GetSpellTargetUnit();
-                integer id = GetUnitIndex(u);
                 integer level = GetUnitAbilityLevel(GetTriggerUnit(), '&TEL');
                 real time = 3.5;
                 
@@ -35,10 +35,7 @@ library PunishmentCentreTeleport requires UnitManager, AIDS, DestroyEffectTimed 
                     time = 2.5;
                 }
                 
-                GameTimer.new(function(GameTimer t){
-                    unit u = GetIndexUnit(t.data());
-                    //SetUnitInvulnerable(u, true);
-                }).start(time - 0.5).setData(id);
+                UnitAddAbility(UnitManager.TITAN_SPELL_WELL, 'A06R');
             
                 GameTimer.new(function(GameTimer t){
                     unit u = GetIndexUnit(t.data());
@@ -46,7 +43,8 @@ library PunishmentCentreTeleport requires UnitManager, AIDS, DestroyEffectTimed 
                     location m = GetUnitLoc(UnitManager.TITAN_SPELL_WELL);
                     location n = PolarProjectionBJ(m, 200, AngleBetweenPoints(m, l));
                     SetUnitPositionLoc(u, n);
-                    //SetUnitInvulnerable(u, false);
+                    UnitRemoveAbility(UnitManager.TITAN_SPELL_WELL, 'A06R');
+                    UnitRemoveAbility(UnitManager.TITAN_SPELL_WELL, 'B02U');
                     RemoveLocation(n);
                     RemoveLocation(m);
                     RemoveLocation(l);
@@ -54,13 +52,12 @@ library PunishmentCentreTeleport requires UnitManager, AIDS, DestroyEffectTimed 
                     m = null;
                     l = null;
                     u = null;
-                }).start(time).setData(id);
+                }).start(time).setData(GetUnitIndex(u));
                 
                 debug {BJDebugMsg("Teleport delay time: " + R2S(time) + "s");}
 
                 DestroyEffectTimed(e, time + 0.5);
-                RemoveLocation(g);
-                g = null;
+                
                 e = null;
                 u = null;
             });

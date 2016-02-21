@@ -1,0 +1,49 @@
+{
+    "base": "Aasl",
+    "id": "A06R",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Slo1",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aare",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B02U",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Teleportation Notification",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Buff Placer)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "self",
+            "variation": 1
+        }
+    ],
+    "type": "Ability"
+}

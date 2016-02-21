@@ -1,0 +1,37 @@
+{
+    "base": "BHds",
+    "id": "B02U",
+    "mods": [
+        {
+            "id": "fart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAbsorbMagic.blp"
+        },
+        {
+            "id": "fnam",
+            "type": 3,
+            "value": "Teleportation Activated"
+        },
+        {
+            "id": "fta0",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftat",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "ftip",
+            "type": 3,
+            "value": "Teleportation Activated"
+        },
+        {
+            "id": "fube",
+            "type": 3,
+            "value": "A mystical energy fills the air around the Mound of Gold..."
+        }
+    ],
+    "type": "Buff"
+}
