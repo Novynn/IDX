@@ -22,6 +22,7 @@ library DemonicusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTa
         private static constant integer ABILITY_ID = 'TDAQ';
         private static constant string TARGET_EFFECT = "Abilities\\Spells\\NightElf\\shadowstrike\\shadowstrike.mdl";
         private static constant integer ARMOR_REDUCTION_ABILITY_ID = 'TDA4';
+        private static constant integer MAX_TARGET_COUNT = 14;
         
         private method setup(integer level){
             this.damage.dtype = DAMAGE_TYPE_MAGIC;
@@ -75,7 +76,6 @@ library DemonicusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTa
             real x = GetUnitX(this.caster);
             real y = GetUnitY(this.caster);
             real z = GetUnitFlyHeight(this.caster);
-            // TODO setup missile and fire at the target
             DemonicusNukeMissile missile = DemonicusNukeMissile.create(x, y, z, u, 0.0);
             missile.setup(this);
             missile.owner = this.castingPlayer;
@@ -86,6 +86,7 @@ library DemonicusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTa
         private method damageArea(){
             group g = CreateGroup();
             unit u = null;
+            integer count = 0;
             
             GroupEnumUnitsInRange(g, GetUnitX(this.caster), GetUnitY(this.caster), this.nukeRange, null);
             
@@ -93,9 +94,11 @@ library DemonicusNuke requires GT, xebasic, xemissile, xepreload, GenericTitanTa
             while (u != null){
                 if (this.checkTarget(u)){
                     this.fireAtTarget(u);
+                    count = count + 1;
                 }
                 GroupRemoveUnit(g, u);
-                u = FirstOfGroup(g);
+                if (count >= thistype.MAX_TARGET_COUNT) u = null;
+                else u = FirstOfGroup(g);
             }
             
             GroupClear(g);
