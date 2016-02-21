@@ -76,7 +76,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Slows the movement speed of any nearby enemy units in an area of 350.|n|cffffcc00Passive.|r",
+            "value": "Slows the movement speed of any nearby enemy units by 15% in an area of 350.|n|cffffcc00Passive.|r",
             "variation": 1
         }
     ],
