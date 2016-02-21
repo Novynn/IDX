@@ -85,7 +85,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00An armored set of highly effective regenerative spines. |r|n|cff1e90ff    +18 Health Regeneration per Second|n    +50% Mana Regeneration per Second|n    +3 Armor|n    +80 Movespeed (Does not stack)|n|nPassive.|r|n|n|cffffd700Requires:|r|n  3x Regenerative Spines|n  1x Webbed Feet|n  1x Super Regenerative Armored Spines Recipe"
+            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00An armored set of highly effective regenerative spines. |r|n|cff1e90ff    +18 Health Regeneration per Second|n    +50% Mana Regeneration per Second|n    +3 Armor|n    +60 Movespeed (Does not stack)|n|nPassive.|r|n|n|cffffd700Requires:|r|n  3x Regenerative Spines|n  1x Webbed Feet|n  1x Super Regenerative Armored Spines Recipe"
         }
     ],
     "type": "Item"
