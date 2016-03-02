@@ -72,7 +72,11 @@ library MetaData requires GameTimer {
         }
         
         public static method onPlayerJoin(PlayerData p) {
-            thistype.syncPlayerClass.execute(p);
+            string id = p.sId();
+            // onPlayerClassChange should handle this!
+            //thistype.syncPlayerClass.execute(p);
+            //   0:00 0x6B: SyncStoredInteger (MMD.Dat, val:5, init pid 4 TUTO021, 51897564)
+            thistype.mmdStoreThenSync.execute("val:0", "init pid " + id + " " + p.name(), 1);
         }
         
         public static method onPlayerLeft(PlayerData p) {
