@@ -88,6 +88,8 @@ library TitanUnit requires Unit, CreateItemEx {
             PlaySoundBJ(gg_snd_Titan_Death);
             Game.say(p.nameColored() + "|cff00bfff (Titan) has been vanquished by |r" + k.nameColored());
             
+            MetaData.onDeath("titan", u.unit());
+            
             // Remove corpse after 3 seconds
             GameTimer.new(function(GameTimer t){
                 Unit u = t.data();

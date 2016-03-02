@@ -45,17 +45,18 @@ library Players requires Races, GetPlayerColored {
         }
 
         public static method countReal() -> integer {
-            PlayerDataArray list = thistype.areReal();
+            PlayerDataArray list = thistype.allReal();
             integer i = list.size();
             list.destroy();
             return i;
         }
-        public static method areReal() -> PlayerDataArray {
+        public static method allReal() -> PlayerDataArray {
             PlayerDataArray list = 0;
             integer i = 0;
             list = PlayerDataArray.create();
             for (0 <= i < 12){
                 if (thistype.has(Player(i)) &&
+                    !thistype.players[i].isLeaving() &&
                     !thistype.players[i].hasLeft() &&
                     !thistype.players[i].isFake()){
                     list.append(thistype.players[i]);
@@ -364,6 +365,14 @@ library Players requires Races, GetPlayerColored {
             return -1;
         }
         
+        public method first() -> PlayerData {
+            return this.at(0);
+        }
+        
+        public method last() -> PlayerData {
+            return this.at(this.size() - 1);
+        }
+        
         public method at(integer i) -> PlayerData {
             if (i >= thistype.MAX_PLAYERS || i < 0){
                 return 0;
@@ -572,6 +581,11 @@ library Players requires Races, GetPlayerColored {
 
         method nameClassColored() -> string {
             return this.nameColored() + "|r|cff00bfff (" + GetPlayerTextColor(this.mPlayer) + this.classString() + "|r|cff00bfff)|r";
+        }
+        
+        method sId() -> string {
+            // Like an ID, only a string!
+            return I2S(this.id());
         }
 
         method id() -> integer {

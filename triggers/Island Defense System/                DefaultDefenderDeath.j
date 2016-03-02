@@ -86,6 +86,8 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
                 minion = UnitManager.spawnMinion(p, x, y, this.level);
                 // Potion
                 UnitAddItem(minion.unit(), CreateItem('I03M', x, y));
+                
+                MetaData.onSpawn("minion", minion.unit());
             }
             else {
                 Game.say("DefenderUnit.MinionGracefulSpawn.spawnMinion could not complete properly. No titan player could be found.\n" +
@@ -166,6 +168,8 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
             p.setDeaths(p.deaths() + 1);
             k.setKills(k.kills() + 1);
             
+            MetaData.onDeath("defender", u.unit());
+            
             // Track amount of Defender deaths for use in the ExperienceSystem.
             GameSettings.setInt("KILLED_DEFENDERS_COUNT", GameSettings.getInt("KILLED_DEFENDERS_COUNT") + 1);
             
@@ -216,6 +220,8 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
                         SelectUnit(minion.unit(), true);
                     }
                 }
+                
+                MetaData.onSpawn("minion", minion.unit());
             
                 // Unpunish
                 PunishmentCentre.update();

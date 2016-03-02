@@ -174,6 +174,8 @@ library RacePickMode requires RacePicker, optional PerksSystem {
             integer delta = GetRandomInt(1, 40);
             unit u = p.unit().unit();
             
+            Game.onPlayerRaceChosen(p.playerData);
+            
             SetPlayerState(p.player(), PLAYER_STATE_GIVES_BOUNTY, 1); // Gives Bounty
             // Setup tech
             DefenderUnit.prepare(p);
@@ -209,6 +211,8 @@ library RacePickMode requires RacePicker, optional PerksSystem {
 
                 // Set initial position
                 p.setInitialPosition(GetUnitX(u), GetUnitY(u));
+                
+                MetaData.onSpawn("defender", u);
             }
             else {
                 // Preload Minion (prevents lag later on?)
@@ -247,6 +251,8 @@ library RacePickMode requires RacePicker, optional PerksSystem {
                     p.setGold(p.gold() + GameSettings.getInt("TITAN_RANDOM_GOLD_BONUS"));
                     p.setWood(p.wood() + GameSettings.getInt("TITAN_RANDOM_WOOD_BONUS"));
                 }
+                
+                MetaData.onSpawn("titan", u);
             }
 
             p.freeCamera();
@@ -261,8 +267,6 @@ library RacePickMode requires RacePicker, optional PerksSystem {
             static if (LIBRARY_PerksSystem){
                 PerksSystem.onSpawn(p.playerData);
             }
-            
-            Game.onPlayerRaceChosen.execute(p.playerData);
             
             u = null;
         }

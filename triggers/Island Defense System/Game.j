@@ -122,6 +122,7 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
             Game.setState(Game.STATE_STARTED);
             Game.say("|cffffcc00[|r|cffff0000GAME STARTED|r|cffffcc00]|r");
             ElapsedGameTime.start();
+            MetaData.onGameStart();
             return thistype.mode().start();
         }
         

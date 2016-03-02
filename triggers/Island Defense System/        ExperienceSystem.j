@@ -261,6 +261,22 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
                 thistype.onDeathForTitan();
             });
             
+            t = CreateTrigger();
+            TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_HERO_LEVEL);
+            TriggerAddCondition(t, Condition(function() -> boolean {
+                unit u = GetLevelingUnit();
+                if (UnitManager.isDefender(u)) {
+                    MetaData.onLevel("defender", u);
+                }
+                else if (UnitManager.isMinion(u)) {
+                    MetaData.onLevel("minion", u);
+                }
+                else if (UnitManager.isTitan(u)) {
+                    MetaData.onLevel("titan", u);
+                }
+                return false;
+            }));
+            
             // Suspend all hero's experience
             t = CreateTrigger();
             TriggerRegisterEnterRectSimple(t, GetWorldBounds());

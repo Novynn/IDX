@@ -76,7 +76,7 @@ library IslandDefenseTagGameMode requires IslandDefenseSystem, TagDefenderDeath 
         }
         
         public method playerResult(PlayerData p) -> integer {
-            return MMD_FLAG_PRACTICING;
+            return -1;
         }
         
         public method endGame(){

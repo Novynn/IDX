@@ -115,6 +115,8 @@ library MinionUnit requires Unit, UnitStatus {
             PlaySoundBJ(gg_snd_Minion_Death);
             Game.say(p.nameColored() + "|cff00bfff (Titanous Minion) has been slain by |r" + k.nameColored());
             
+            MetaData.onDeath("minion", u.unit());
+            
             // Remove corpse after 3 seconds
             GameTimer.new(function(GameTimer t){
                 Unit u = t.data();

@@ -105,6 +105,8 @@ library RacePicker requires IslandDefenseSystem, PlayerDataPick, UnitManager {
                         
             thistype.pickMode().setup();
             
+            MetaData.onPickMode(thistype.pickMode().shortName());
+            
             GameTimer.newNamed(function(GameTimer t){
                 thistype.pickMode().start();
             }, "PickModeStartDelay").start(GameSettings.getReal("PICKMODE_START_DELAY")).showDialog(thistype.pickMode().shortName() + " Mode");

@@ -330,14 +330,14 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
         public method playerResult(PlayerData p) -> integer {
             integer result = 0;
             if (GameSettings.getBool("DEBUG")) {
-                result = MMD_FLAG_PRACTICING;
+                result = -1;
             }
             else {
                 if (p.initialClass() == this.winningClass()) {
-                    result = MMD_FLAG_WINNER;
+                    result = 1;
                 }
                 else {
-                    result = MMD_FLAG_LOSER;
+                    result = 0;
                 }
             }
             

@@ -243,7 +243,7 @@ library UnitSpawner requires Unit, Players {
             SetHeroLevel(titan.unit(), GameSettings.getInt("TITAN_START_LEVEL"), false); // Sets level to default
             UnitManager.setWellOwner(p.player());
             
-            RacePicker.onUnitCreation(p);
+            RacePicker.onUnitCreation.execute(p);
             return titan;
         }
         
