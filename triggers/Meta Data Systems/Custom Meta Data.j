@@ -76,14 +76,14 @@ library MetaData requires GameTimer {
             // onPlayerClassChange should handle this!
             //thistype.syncPlayerClass.execute(p);
             //   0:00 0x6B: SyncStoredInteger (MMD.Dat, val:5, init pid 4 TUTO021, 51897564)
+            thistype.store("start_class", id, p.initialClass());
             thistype.mmdStoreThenSync.execute("val:0", "init pid " + id + " " + p.name(), 1);
         }
         
         public static method onPlayerLeft(PlayerData p) {
-            if (Game.state() == Game.STATE_FINISHED) return;
+            if (thistype.finalized) return;
             thistype.syncPlayerClass.execute(p);
             thistype.syncPlayerFed.execute(p);
-            thistype.syncPlayerFlag.execute(p);
         }
         
         public static method onPlayerClassChange(PlayerData p) {
@@ -111,7 +111,6 @@ library MetaData requires GameTimer {
         
         public static method syncPlayerClass(PlayerData p) {
             string id = p.sId();
-            thistype.store("start_class", id, p.initialClass());
             
             if (p.hasLeft()) {
                 thistype.store("end_class", id, p.leftClass());
@@ -122,7 +121,6 @@ library MetaData requires GameTimer {
             }
             
             if (thistype.lock()) {
-                thistype.syncLocal("start_class", id);
                 if (p.hasLeft()) {
                     thistype.syncLocal("end_class", id);
                     thistype.syncLocal("end_state", id);
@@ -186,6 +184,7 @@ library MetaData requires GameTimer {
             }
             list.destroy();
             thistype.finalized = true;
+            thistype.storeThenSync("game_over", "global", 1);
         }
         
         public static method onInit() {
