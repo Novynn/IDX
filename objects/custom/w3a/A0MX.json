@@ -34,7 +34,7 @@
             "data": 0,
             "id": "atar",
             "type": 3,
-            "value": "air,ground,invulnerable,mechanical,player,structure,vulnerable",
+            "value": "air,ground,invulnerable,mechanical,organic,player,structure,vulnerable",
             "variation": 1
         },
         {
