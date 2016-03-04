@@ -198,10 +198,10 @@ library RacePickMode requires RacePicker, optional PerksSystem {
                     if (delta <= 6){ // 15%  // HP Tome
                         UnitAddItem(u,CreateItem('I04V', 0, 0));
                     }
-                    else if (delta <= 8){ // 5%  // Island's Blessing
-                        UnitAddAbility(u, 'A0P2'); UnitMakeAbilityPermanent(u, true, 'A0P2');
-                        p.say("|cff00bfffYou have been blessed by the Island.|r");
-                    }
+                    //else if (delta <= 8){ // 5%  // Island's Blessing
+                    //    UnitAddAbility(u, 'A0P2'); UnitMakeAbilityPermanent(u, true, 'A0P2');
+                    //    p.say("|cff00bfffYou have been blessed by the Island.|r");
+                    //}
                 }
                 else {
                     Game.sayClass(PlayerData.CLASS_DEFENDER, 
@@ -242,11 +242,11 @@ library RacePickMode requires RacePicker, optional PerksSystem {
                         else if (delta <= 40)   UnitAddItem(u, CreateItem('I068',0,0)); // 2.5% // Ethereal Mirror
                     }
                     
-                    if (GetRandomInt(0, 20) == 13){
-                        UnitAddAbility(u, 'A0P2'); 
-                        UnitMakeAbilityPermanent(u, true, 'A0P2');                      // 5%  // Island's Blessing
-                        p.say("|cff00bfffYou have been blessed by Island.|r");
-                    } 
+                    //if (GetRandomInt(0, 20) == 13){
+                    //    UnitAddAbility(u, 'A0P2'); 
+                    //    UnitMakeAbilityPermanent(u, true, 'A0P2');                      // 5%  // Island's Blessing
+                    //    p.say("|cff00bfffYou have been blessed by Island.|r");
+                    //} 
                     
                     p.setGold(p.gold() + GameSettings.getInt("TITAN_RANDOM_GOLD_BONUS"));
                     p.setWood(p.wood() + GameSettings.getInt("TITAN_RANDOM_WOOD_BONUS"));
