@@ -5,7 +5,7 @@
 library GenericTitanTargets requires IsUnitWard, GameTimer, GT, xebasic, xepreload, UnitAlive, LightningUtils {
     public function IsUnitNukable(unit u, unit caster) -> boolean {
         player p = GetOwningPlayer(caster); // Apparently player handles do not leak, so this is good!
-        return (!IsUnitAlly(u, p) ||
+        return (IsUnitEnemy(u, p) ||
                 GetOwningPlayer(u) == Player(PLAYER_NEUTRAL_PASSIVE)) && // Alliances
                !IsUnitType(u, UNIT_TYPE_MAGIC_IMMUNE) &&                 // Magic
                !IsUnitType(u, UNIT_TYPE_STRUCTURE) &&                    // Organic only
