@@ -120,7 +120,7 @@
         {
             "id": "ulum",
             "type": 0,
-            "value": "20"
+            "value": "50"
         },
         {
             "id": "ulur",
@@ -165,7 +165,7 @@
         {
             "id": "ureq",
             "type": 3,
-            "value": "TWN2,q206"
+            "value": "q206,TWN2"
         },
         {
             "id": "urtm",
