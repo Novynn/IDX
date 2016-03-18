@@ -64,6 +64,7 @@
     
     // Experience Manipulation
     GameSettings.setReal("TITAN_EXP_GLOBAL_FACTOR", 1.0);
+    GameSettings.setReal("TITAN_EXP_SHARE_FACTOR", 0.75);
     GameSettings.setBool("TITAN_EXP_GLOBAL_FACTOR_DOUBLED", false);
     GameSettings.setBool("TITAN_EXP_REDUCTION_ENABLED", true);
     GameSettings.setReal("TITAN_EXP_MISSING_PLAYER_FACTOR", 0.15);

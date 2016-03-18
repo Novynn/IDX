@@ -177,6 +177,8 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
                 if (factor < 0.0) factor = 0.0; // Clamp negative
                 if (factor > 1.0) factor = 1.0; // Clamp positive
                 
+                
+                
                 units[unitsCount] = SharedExperienceUnit.create();
                 units[unitsCount].u = u;
                 units[unitsCount].factor = factor;
@@ -191,7 +193,7 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
             for (0 <= i < unitsCount) {
                 u = units[i].u;
                 factor = units[i].factor;
-                final = R2I(feed * (factor / total));
+                final = R2I((feed * (factor / total)) * GameSettings.getReal("TITAN_EXP_SHARE_FACTOR"));
                 thistype.giveExperienceAsFeed(feeder, u, final);
                 units[i].destroy();
                 units[i] = 0;
