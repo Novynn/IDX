@@ -29,14 +29,19 @@ library Plunder requires Damage, ShowTagFromUnit {
         s = "";
     }
     
+    private function checkUnits(unit attacker, unit attacked) -> boolean {
+        return IsUnitType(attacked, UNIT_TYPE_HERO) &&
+                !IsUnitIllusion(attacker) && !IsUnitIllusion(attacked) &&
+               (UnitManager.isTitan(attacked) || UnitManager.isMinion(attacked));
+    }
+    
     private function setup() {
         trigger t = CreateTrigger();
         TriggerRegisterAnyUnitEventBJ( t, EVENT_PLAYER_UNIT_ATTACKED );
         TriggerAddCondition(t, Condition(function() -> boolean {
             unit a = GetAttacker();
             unit u = GetTriggerUnit();
-            if (GetUnitAbilityLevel(a, 'A0BS') > 1 && IsUnitType(u, UNIT_TYPE_HERO) &&
-                (UnitManager.isTitan(u) || UnitManager.isMinion(u))) {
+            if (GetUnitAbilityLevel(a, 'A0BS') > 1 && checkUnits(a, u)) {
                 plunder(a, u);
             }
             a = null;
@@ -50,8 +55,7 @@ library Plunder requires Damage, ShowTagFromUnit {
             unit u = GetTriggerUnit();
             real damage = GetEventDamage();
             // Threshold of 20 so whirlpool etc don't damage
-            if (GetUnitAbilityLevel(a, 'A0BS') == 1 &&
-                (UnitManager.isTitan(u) || UnitManager.isMinion(u)) &&
+            if (GetUnitAbilityLevel(a, 'A0BS') == 1 && checkUnits(a, u) &&
                 Damage_IsAttack() && damage > 20.0) {
                 plunder(a, u);
             }

@@ -62,14 +62,14 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "The Satyr is a skilled thief, able to loot titans, giving him gold and lumber every time he lands a hit on a titanic hero.|n|cffffcc00Passive.",
+            "value": "The Satyr is a skilled thief able to loot titans. Every time he lands a hit on a titanic hero, he gains gold and lumber based of the target's level.|n|cffffcc00Passive.",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "The Satyr is a skilled thief, able to loot titans, giving him gold and lumber every time he lands a hit on a titanic hero.|n|cffffcc00Passive.",
+            "value": "The Satyr is a skilled thief able to loot titans. Every time he starts to attack a titanic hero, he gains gold and lumber based of the target's level.|n|cffffcc00Passive.",
             "variation": 2
         }
     ],
