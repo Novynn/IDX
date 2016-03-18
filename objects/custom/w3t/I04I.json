@@ -10,7 +10,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Reduces Magic damage to the holder.|n|cffff0000Recipe|r"
+            "value": ""
         },
         {
             "id": "idrp",
@@ -55,7 +55,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Reduces Magic damage dealt to the builder by 25%.|n|cffffd700Requires:|r 1 Titan Egg, 2 Armored Scales"
+            "value": "Reduces Magic damage dealt to the holder by 25%.|n|cffffd700Requires:|r 1 Titan Egg, 1 Armored Scale"
         }
     ],
     "type": "Item"

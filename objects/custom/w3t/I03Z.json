@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Reduces Magic damage to the holder."
+            "value": "Reduces Magic damage dealt to the holder by 75%."
         },
         {
             "id": "idrp",

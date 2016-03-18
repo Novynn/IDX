@@ -10,7 +10,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Reduces Magic damage to the holder."
+            "value": "Reduces Magic damage dealt to the holder by 25%."
         },
         {
             "id": "idrp",
@@ -55,7 +55,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Reduces Magic damage dealt to the builder by 25%."
+            "value": "Reduces Magic damage dealt to the holder by 25%."
         }
     ],
     "type": "Item"

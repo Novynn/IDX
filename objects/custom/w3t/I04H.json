@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Increases armor by +5 and hit points by 250.|n|cffff0000Recipe|r"
+            "value": ""
         },
         {
             "id": "idrp",
@@ -80,7 +80,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A mighty shield that increases the holders armor by +5 and hit points by +250.|n|cffffd700Requires:|r 1 Titan Egg, Shield of Will"
+            "value": "A mighty shield that increases the holders armor by +5, hit points by +250 and provides 25% spell damage reduction.|n|cffffd700Requires:|r 1 Titan Egg, Shield of Will, Runed Bracers"
         }
     ],
     "type": "Item"

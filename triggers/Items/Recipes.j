@@ -149,9 +149,9 @@ library ItemRecipes requires RecipeSYS {
         AddRecipe('I026', 0, 0, 0, 0, 0, 0); // Destroy
         AddRecipe('I022', 'I00A', 'I00A', 'I03S', 0, 0, 'I03P'); // Shield of Will
         AddRecipe('I03S', 0, 0, 0, 0, 0, 0); // Destroy
-        AddRecipe('I022', 'I03P', 'I04H', 0, 0, 0, 'I04G'); // Shield of Might
+        AddRecipe('I022', 'I03P', 'I04F', 'I04H', 0, 0, 'I04G'); // Shield of Might
         AddRecipe('I04H', 0, 0, 0, 0, 0, 0); // Destroy
-        AddRecipe('I022', 'I00A', 'I00A', 'I04I', 0, 0, 'I04F'); // Runed Bracers
+        AddRecipe('I022', 'I00A', 'I04I', 0, 0, 0, 'I04F'); // Runed Bracers
         AddRecipe('I04I', 0, 0, 0, 0, 0, 0); // Destroy
         AddRecipe('I00Q', 'I04W', 'I022', 0, 0, 0, 'I04Y'); // Great Turtle Summons
         AddRecipe('I04W', 0, 0, 0, 0, 0, 0); // Destroy
