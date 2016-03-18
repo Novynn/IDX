@@ -1,0 +1,84 @@
+{
+    "base": "AIil",
+    "id": "A06S",
+    "mods": [
+        {
+            "data": 2,
+            "id": "Iilw",
+            "type": 2,
+            "value": "3",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNAmuletOftheWild.blp",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "abpy",
+            "type": 0,
+            "value": "2",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "Z",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aite",
+            "type": 0,
+            "value": "0",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Summon Illusion",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Moon Crystal)",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "undead",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "aran",
+            "type": 2,
+            "value": "99999",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atar",
+            "type": 3,
+            "value": "notself",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "atp1",
+            "type": 3,
+            "value": "Summon Illusion",
+            "variation": 1
+        }
+    ],
+    "type": "Ability"
+}

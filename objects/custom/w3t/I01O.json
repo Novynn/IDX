@@ -65,7 +65,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Changes the time of day for 60 seconds, and adds +10 to the attack damage of the holder. This item is permanent with a cooldown of 3 minutes."
+            "value": "Changes the time of day for 60 seconds, and adds +10 to the attack damage of the holder. Has a 20% chance to spawn an Illusion of the holder that deals no damage, but lasts for 60 seconds. This item is permanent with a cooldown of 3 minutes."
         }
     ],
     "type": "Item"

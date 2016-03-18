@@ -3483,6 +3483,16 @@
             "index": 12,
             "initialState": 0,
             "isCustom": true,
+            "name": "Moon Crystal",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
+            "enabled": true,
+            "index": 12,
+            "initialState": 0,
+            "isCustom": true,
             "name": "Fiery Claws",
             "runOnInit": false,
             "type": 0
