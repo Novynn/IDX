@@ -3,7 +3,7 @@
 //! zinc
 
 library Detected requires Table, GameTimer, Upgrades {
-    private struct Detected {
+    private struct Detected extends array {
         private static method isUnitVisibleToEnemies(unit u) -> boolean {
             PlayerData p = PlayerData.get(GetOwningPlayer(u));
             PlayerData q = 0;
