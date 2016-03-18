@@ -48,28 +48,28 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "15",
+            "value": "5",
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "15",
+            "value": "5",
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "15",
+            "value": "5",
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "15",
+            "value": "5",
             "variation": 2
         },
         {
@@ -174,14 +174,14 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Turns an allied unit invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts 10 seconds.|n|cffffcc00Unit targeted -- 45 second cooldown.",
+            "value": "Turns an allied unit invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts 5 seconds.|n|cffffcc00Unit targeted -- 45 second cooldown.",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Turns an allied unit or structure invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts 10 seconds.|n|cffffcc00Unit targeted -- 30 second cooldown.",
+            "value": "Turns an allied unit or structure invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts 5 seconds.|n|cffffcc00Unit targeted -- 30 second cooldown.",
             "variation": 2
         }
     ],
