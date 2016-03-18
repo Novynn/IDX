@@ -210,7 +210,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage, and has the ability to turn a titan into a critter for 3 seconds every minute. This tower also has the ability to transmute into an item. |CFFFF0000Once Transmuted this tower can only be used as an item!|R |CFFFFF200While being held as an item, it can still be used to mutate a titan into a critter. It will also give the holder +35 to damage|R."
+            "value": "A powerful tower that deals amazing damage, and has the ability to turn a titan into a critter for 3 seconds every minute. This tower also has the ability to transmute into an item. |cfffff200While being held as an item, it can still be used to mutate a titan into a critter. It will also give the holder +35 to damage.|r"
         }
     ],
     "type": "Unit"

@@ -83,7 +83,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Creates a barrier that stops 150 points of spell damage from affecting a target unit. |nLasts 10 seconds.",
+            "value": "Creates a barrier that stops 150 points of spell damage from affecting a target unit. |nLasts 10 seconds. 60 second cooldown.",
             "variation": 1
         }
     ],

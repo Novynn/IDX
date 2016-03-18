@@ -70,7 +70,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Grants +35 damage to the holder, and can be used to cast Mutate on titans every 60 seconds."
+            "value": "Grants +35 damage to the holder, and can be used to cast Mutate on titans every 60 seconds.|n|n|cffff4500Double-right click on this item to convert it into it's rebuildable form.|r"
         }
     ],
     "type": "Item"

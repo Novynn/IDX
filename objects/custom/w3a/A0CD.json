@@ -41,7 +41,7 @@
             "data": 0,
             "id": "ahky",
             "type": 3,
-            "value": "C",
+            "value": "",
             "variation": 0
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "aret",
             "type": 3,
-            "value": "Learn Soul Burn - (|cffffcc00C|r)",
+            "value": "(|cffffcc00C|r) Learn Soul Burn",
             "variation": 0
         },
         {
@@ -90,7 +90,7 @@
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "Soul Burn - (|cffffcc00C|r)",
+            "value": "Soul Burn",
             "variation": 1
         },
         {
