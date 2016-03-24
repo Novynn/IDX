@@ -7,7 +7,7 @@ library PunishmentCentreTeleport requires UnitManager, AIDS, DestroyEffectTimed 
         public static method onInit(){
             // Teleport
             trigger t = CreateTrigger();
-            TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_SPELL_CHANNEL);
+            TriggerRegisterAnyUnitEventBJ(t, EVENT_PLAYER_UNIT_SPELL_EFFECT);
             TriggerAddCondition(t, Condition(function() -> boolean {
                 return GetSpellAbilityId() == '&TEL';
             }));

@@ -207,41 +207,6 @@
         },
         {
             "data": 0,
-            "id": "acas",
-            "type": 2,
-            "value": "2.5",
-            "variation": 1
-        },
-        {
-            "data": 0,
-            "id": "acas",
-            "type": 2,
-            "value": "2.25",
-            "variation": 2
-        },
-        {
-            "data": 0,
-            "id": "acas",
-            "type": 2,
-            "value": "2",
-            "variation": 3
-        },
-        {
-            "data": 0,
-            "id": "acas",
-            "type": 2,
-            "value": "1.75",
-            "variation": 4
-        },
-        {
-            "data": 0,
-            "id": "acas",
-            "type": 2,
-            "value": "1.5",
-            "variation": 5
-        },
-        {
-            "data": 0,
             "id": "acat",
             "type": 3,
             "value": "Abilities\\Spells\\Human\\MassTeleport\\MassTeleportCaster.mdl",
