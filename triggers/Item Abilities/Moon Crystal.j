@@ -16,7 +16,10 @@ library MoonCrystalItem requires xecast, GT, GameTimer {
                 xe = xecast.createBasicA('A06S', 852274, p); // Illusion order id
                 xe.recycledelay = 5.1;
                 xe.castOnTarget(u);
+                PlaySoundBJ(gg_snd_Titan_MoonCrystal);
             }
+            
+            Game.say("|cff00bfffThe sky grows dark... Distrust your senses...|r");
             
             p = null;
             u = null;
