@@ -15,7 +15,7 @@
         {
             "id": "ua1g",
             "type": 3,
-            "value": "air,ground,item,structure"
+            "value": "air,ground,item,nonancient,structure"
         },
         {
             "id": "ua1m",
