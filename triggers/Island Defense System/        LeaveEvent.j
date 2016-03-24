@@ -93,6 +93,13 @@ library LeaveEvent requires IslandDefenseSystem {
             // Handle leaving players during the game
             if (p.class() == PlayerData.CLASS_TITAN){
                 if (PlayerData.countClass(PlayerData.CLASS_TITAN) == 1){
+                    // MMD - the titan left during the game, so it's technically now over as far as stats recording is concerned
+                    if (Game.isMode("ID")) {
+                        Game.say("|cff00bfffSince the original Titan has left, the Defenders have won! Feel free to continue playing the game.|r");
+                        IslandDefenseGameMode(Game.mode()).setWinningClass(PlayerData.CLASS_DEFENDER);
+                        MetaData.finalize();
+                    }
+                
                     if (PlayerData.countClass(PlayerData.CLASS_MINION) == 0){
                         // He was the last titan, we have to find a new one!
                         //p.left();

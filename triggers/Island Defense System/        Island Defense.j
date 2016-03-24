@@ -315,9 +315,7 @@ library IslandDefenseGameMode requires IslandDefenseSystem, RevealMapForPlayer {
             FogEnable(false);
              
             // Finalize MMD and synchronize.
-            GameTimer.newNamed(function(GameTimer t){
-                MetaData.finalize();
-            }, "FinalizeMMDDelay").start(1.0); // Safe to assume people will stay for th1s?
+            MetaData.finalize();
             
             // Start game over timer, forcing players to leave.
             Game.say("|cff00bfffThe game will end shortly.|r");
