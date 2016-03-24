@@ -4,12 +4,12 @@
 
 library ShadowCatcher {
     private function CanHaveShadow() -> boolean {
-        return IsUnitType(GetFilterUnit(),UNIT_TYPE_HERO)==true;
+        return IsUnitType(GetFilterUnit(), UNIT_TYPE_HERO)==true;
     }
     
     private function tick() {
         group g = CreateGroup();
-        boolexpr b = Condition(function CanHaveShadow);
+        boolexpr b = Filter(function CanHaveShadow);
         unit u = null;
         
         GroupEnumUnitsInRect(g, GetWorldBounds(), b);
@@ -24,7 +24,7 @@ library ShadowCatcher {
                  GetUnitAbilityLevel(u, 'TDA3') == 0)) {
                 UnitAddAbility(u, 'A0BN');
             }
-            else if (GetUnitAbilityLevel(u,'B02^') == 0 &&
+            else if (GetUnitAbilityLevel(u,'B026') == 0 &&
                      GetUnitAbilityLevel(u,'A0BN') > 0) {
                 UnitRemoveAbility(u,'A0BN');
             }
