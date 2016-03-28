@@ -208,6 +208,7 @@ library IslandDefenseSystem requires HCL, Players, GameTimer, CheatPack, Elapsed
                         PlayerData.register(p);
                     }
                 }
+                SetPlayerState(p, PLAYER_STATE_GIVES_BOUNTY, 1); // Gives Bounty
             }
             p = null;
             return true;
