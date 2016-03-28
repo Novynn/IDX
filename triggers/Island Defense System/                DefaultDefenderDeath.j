@@ -157,16 +157,11 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
             UnitManager.removePlayerUnits(p);
             SetUnitOwner(u.unit(), p.player(), true);
             
-            
             // Remove corpse after 3 seconds
             GameTimer.newNamed(function(GameTimer t){
                 Unit u = t.data();
                 RemoveUnit(u.unit());
             }, "DefenderDeathRemoveCorpse").start(3.00).setData(u);
-                        
-            // W3MMD
-            p.setDeaths(p.deaths() + 1);
-            k.setKills(k.kills() + 1);
             
             MetaData.onDeath("defender", u.unit());
             

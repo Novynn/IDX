@@ -106,11 +106,6 @@ library TagDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, GT, U
             p.setUnit(k.unit());
             k.setUnit(temp);
             
-            // W3MMD
-            p.setDeaths(p.deaths() + 1);
-            k.setKills(k.kills() + 1);
-            
-            
             // Heal
             UnitResetCooldown(u.unit());
             SetUnitState(u.unit(), UNIT_STATE_LIFE, GetUnitState(u.unit(), UNIT_STATE_MAX_LIFE));

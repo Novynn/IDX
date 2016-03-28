@@ -13,8 +13,9 @@ library Players requires Races, GetPlayerColored {
      */
      
     public module PlayerFunctions {
-        private static PlayerData players[12];
-        private static PlayerData lastPlayers[12];
+        public static constant integer MaxPlayers = bj_MAX_PLAYER_SLOTS;
+        private static PlayerData players[];
+        private static PlayerData lastPlayers[];
         public static method operator [](integer i) -> thistype {
             return thistype.players[i];
         }
@@ -36,7 +37,7 @@ library Players requires Races, GetPlayerColored {
         public static method count() -> integer {
             integer i = 0;
             integer count = 0;
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.has(Player(i))){
                     count = count + 1;
                 }
@@ -54,7 +55,7 @@ library Players requires Races, GetPlayerColored {
             PlayerDataArray list = 0;
             integer i = 0;
             list = PlayerDataArray.create();
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.has(Player(i)) &&
                     !thistype.players[i].isLeaving() &&
                     !thistype.players[i].hasLeft() &&
@@ -75,7 +76,7 @@ library Players requires Races, GetPlayerColored {
             PlayerDataArray list = 0;
             integer i = 0;
             list = PlayerDataArray.create();
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.has(Player(i)) &&
                     !thistype.players[i].hasLeft() &&
                     thistype.players[i].class() == class){
@@ -93,7 +94,7 @@ library Players requires Races, GetPlayerColored {
         public static method withRace(Race r) -> PlayerDataArray {
             PlayerDataArray list = PlayerDataArray.create();
             integer i = 0;
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.has(Player(i)) &&
                     !thistype.players[i].hasLeft() &&
                     thistype.players[i].race() == r){
@@ -121,7 +122,7 @@ library Players requires Races, GetPlayerColored {
         public static method all() -> PlayerDataArray {
             PlayerDataArray list = PlayerDataArray.create();
             integer i = 0;
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.has(Player(i))){
                     if (!thistype.players[i].hasLeft())
                         list.append(thistype.players[i]);
@@ -140,7 +141,7 @@ library Players requires Races, GetPlayerColored {
         public static method leavers() -> PlayerDataArray {
             PlayerDataArray list = PlayerDataArray.create();
             integer i = 0;
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.has(Player(i))){
                     if (thistype.players[i].hasLeft())
                         list.append(thistype.players[i]);
@@ -240,7 +241,7 @@ library Players requires Races, GetPlayerColored {
 
         public static method clear(){
             integer i = 0;
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.has(Player(i))){
                     thistype.players[i].destroy();
                 }
@@ -249,7 +250,7 @@ library Players requires Races, GetPlayerColored {
         }
         public static method new(){
             integer i = 0;
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.lastPlayers[i] != 0){
                     thistype.lastPlayers[i].destroy();
                 }
@@ -262,7 +263,7 @@ library Players requires Races, GetPlayerColored {
         public static method old() -> PlayerDataArray {
             PlayerDataArray list = PlayerDataArray.create();
             integer i = 0;
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.lastPlayers[i] != 0){
                     list.append(thistype.lastPlayers[i]);
                 }
@@ -288,7 +289,6 @@ library Players requires Races, GetPlayerColored {
         }
     }
     public struct PlayerDataArray {
-        private static constant integer MAX_PLAYERS = 100;
         private PlayerData mPlayers[100];
         private integer mSize;
         
@@ -305,7 +305,7 @@ library Players requires Races, GetPlayerColored {
             PlayerData newPlayers[];
             integer i = 0;
             integer count = 0;
-            for (0 <= i < thistype.MAX_PLAYERS){
+            for (0 <= i < this.mPlayers.size){
                 if (mPlayers[i] != 0){
                     newPlayers[count] = mPlayers[i];
                     count = count + 1;
@@ -336,7 +336,7 @@ library Players requires Races, GetPlayerColored {
         }
         
         public method takeAt(integer i) -> PlayerData {
-            if (i >= thistype.MAX_PLAYERS || i < 0) {
+            if (i >= this.mPlayers.size || i < 0) {
                 return 0;
             }
             return this.take(this.at(i));
@@ -357,7 +357,7 @@ library Players requires Races, GetPlayerColored {
         
         public method indexOf(PlayerData data) -> integer {
             integer i = 0;
-            for (0 <= i < thistype.MAX_PLAYERS){
+            for (0 <= i < this.mPlayers.size){
                 if (data == this.mPlayers[i]){
                     return i;
                 }
@@ -374,7 +374,7 @@ library Players requires Races, GetPlayerColored {
         }
         
         public method at(integer i) -> PlayerData {
-            if (i >= thistype.MAX_PLAYERS || i < 0){
+            if (i >= this.mPlayers.size || i < 0){
                 return 0;
             }
             return this.mPlayers[i];
@@ -382,14 +382,14 @@ library Players requires Races, GetPlayerColored {
         
         public method clear(){
             integer i = 0;
-            for (0 <= i < thistype.MAX_PLAYERS){
+            for (0 <= i < this.mPlayers.size){
                 this.mPlayers[i] = 0;
             }
             this.mSize = 0;
         }
         
         public method removeAt(integer i){
-            if (i >= thistype.MAX_PLAYERS || i < 0){
+            if (i >= this.mPlayers.size || i < 0){
                 return;
             }
             this.mPlayers[i] = 0;
@@ -409,32 +409,6 @@ library Players requires Races, GetPlayerColored {
             return this.at(i);
         }
         
-    }
-
-    public module W3MMDDataModule {
-        private integer mDeaths = 0;
-        public method setDeaths(integer i){
-            this.mDeaths = i;
-        }
-        public method deaths() -> integer {
-            return this.mDeaths;
-        }
-
-        private integer mKills = 0;
-        public method setKills(integer i){
-            this.mKills = i;
-        }
-        public method kills() -> integer {
-            return this.mKills;
-        }
-
-        private boolean mAfk = false;
-        public method setAfk(boolean b){
-            this.mAfk = b;
-        }
-        public method afk() -> boolean {
-            return this.mAfk;
-        }
     }
 
     public struct PlayerData {
@@ -677,9 +651,6 @@ library Players requires Races, GetPlayerColored {
         method classString() -> string {
             return thistype.classToString(this.class());
         }
-
-        // W3MMD
-        module W3MMDDataModule;
         
         // Static Functions
         module PlayerFunctions;
@@ -692,9 +663,11 @@ library Players requires Races, GetPlayerColored {
 
     public module PlayerDataWrappings {
         delegate PlayerData playerData;
+        private static constant integer MaxPlayers = 16;
         
-        private static thistype players[12];
+        private static thistype players[];
         public static method operator [](PlayerData data) -> thistype {
+            if (data == 0) return 0;
             return players[data.id()];
         }
         
@@ -724,7 +697,7 @@ library Players requires Races, GetPlayerColored {
                 thistype.terminate();
             }
             
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 thistype.players[i] = 0;
             }
             list = PlayerData.all();
@@ -745,7 +718,7 @@ library Players requires Races, GetPlayerColored {
 
             thistype.mInitialized = false;
 
-            for (0 <= i < 12){
+            for (0 <= i < thistype.MaxPlayers){
                 if (thistype.players[i] != 0){
                     thistype.players[i].onTerminate();
                     thistype.players[i].destroy();

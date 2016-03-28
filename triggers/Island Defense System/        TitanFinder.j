@@ -176,7 +176,7 @@ library TitanFinder requires IslandDefenseSystem, Dialog {
                 else if (Game.state() == Game.STATE_STARTING){
                     if (RacePicker.state() == RacePicker.STATE_RUNNING){
                         UnitManager.removePlayerUnits(thistype.newPlayer);
-                        thistype.newPlayer.setClass(PlayerData.CLASS_TITAN);
+                        thistype.newPlayer.setInitialClass(PlayerData.CLASS_TITAN);
                         thistype.newPlayer.setRace(NullRace.instance());
                         thistype.newPlayer.setGold(thistype.oldPlayer.gold());
                         thistype.newPlayer.setWood(thistype.oldPlayer.wood());
@@ -187,6 +187,9 @@ library TitanFinder requires IslandDefenseSystem, Dialog {
                         PlayerDataPick[thistype.newPlayer].setRandoming(false);
                         RacePicker.pickMode().setupPlayer(thistype.newPlayer);
                         
+                        // Set old Titan to always lose
+                        thistype.oldPlayer.setInitialClass(PlayerData.CLASS_NONE);
+                        
                         Upgrades.swapPlayerUpgradeTables(thistype.oldPlayer.player(), thistype.newPlayer.player());
                         
                         PlayerDataPick[thistype.newPlayer].setCanPick(PlayerDataPick[thistype.oldPlayer].canPick());
@@ -196,7 +199,9 @@ library TitanFinder requires IslandDefenseSystem, Dialog {
                     }
                     else {
                         // Voting
-                        thistype.newPlayer.setClass(PlayerData.CLASS_TITAN);
+                        thistype.newPlayer.setInitialClass(PlayerData.CLASS_TITAN);
+                        // Set old Titan to always lose
+                        thistype.oldPlayer.setInitialClass(PlayerData.CLASS_NONE);
                         
                         // Fix for 4.0.0.0099 - Randoming persists when using -titan
                         if (PlayerDataPick.initialized()){

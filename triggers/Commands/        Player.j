@@ -57,9 +57,6 @@ library PlayerTweak requires TweakManager, PlayerDataPick {
             s = s + ", class=" + PlayerData.classToString(q.class());
             s = s + ", initialClass=" + PlayerData.classToString(q.initialClass());
             s = s + ", isFake=" + thistype.B2S(q.isFake());
-            s = s + ", deaths=" + I2S(q.deaths());
-            s = s + ", kills=" + I2S(q.kills());
-            s = s + ", afk=" + thistype.B2S(q.afk());
             s = s + "}";
             p.say(s);
             
