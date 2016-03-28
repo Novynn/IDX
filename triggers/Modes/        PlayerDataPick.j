@@ -103,10 +103,14 @@ library PlayerDataPick requires Players, PlayerDataPickRandoming {
             this.bannedCount = 0;
         }
         
+        public method setAsRandomRace() -> Race {
+            this.setRandoming(true);
+            return thistype.setPlayerDataPickRandomRaceUniqueWithBans(this);
+        }
+        
         public method pick(Race r){
             if (r == NullRace.instance() || r == 0){
-                this.setRandoming(true);
-                r = thistype.setPlayerDataPickRandomRaceUniqueWithBans(this);
+                r = this.setAsRandomRace();
             }
             
             this.playerData.setChosenRace(r, this.isRandoming());

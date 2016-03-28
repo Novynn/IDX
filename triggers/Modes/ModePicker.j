@@ -68,6 +68,10 @@ library RacePicker requires IslandDefenseSystem, PlayerDataPick, UnitManager {
             thistype.pickMode().onUnitCreation(PlayerDataPick[p]);
         }
         
+        public static method onPickerItemEvent(PlayerDataPick p, unit seller, item it) {
+            thistype.pickMode().onPickerItemEvent(p, seller, it);
+        }
+        
         public static method finish(){
             if (thistype.state() != thistype.STATE_RUNNING){
                 // Uh oh, we were interrupted 
@@ -109,7 +113,7 @@ library RacePicker requires IslandDefenseSystem, PlayerDataPick, UnitManager {
             
             GameTimer.newNamed(function(GameTimer t){
                 thistype.pickMode().start();
-            }, "PickModeStartDelay").start(GameSettings.getReal("PICKMODE_START_DELAY")).showDialog(thistype.pickMode().shortName() + " Mode");
+            }, "PickModeStartDelay").start(thistype.pickMode().getStartDelay()).showDialog(thistype.pickMode().shortName() + " Mode");
         }
 
         public static method printModes(){
@@ -327,29 +331,8 @@ library RacePicker requires IslandDefenseSystem, PlayerDataPick, UnitManager {
             
             p = PlayerDataPick[PlayerData.get(GetOwningPlayer(c))];
             
-            if (p != 0 && c == p.picker() && !p.hasPicked()) {
-                // Seller is an assistant, which means we want their item
-                if (GetUnitTypeId(s) == 'n00G') {
-                    im = UnitItemInSlot(s, 0);
-                    id = 0;
-                    if (im != null) {
-                        id = GetItemTypeId(im);
-                    }
-                }
-                
-                if (p.class() == PlayerData.CLASS_DEFENDER){
-                    r = DefenderRace.fromItemId(id);
-                }
-                else if (p.class() == PlayerData.CLASS_TITAN){
-                    r = TitanRace.fromItemId(id);
-                }
-                
-                p.pick(r);
-                RemoveItem(im);
-            }
-            
-            if (GetUnitTypeId(s) == 'n00G') {
-                RemoveItem(im);
+            if (p != 0 && c == p.picker()) {
+                RacePicker.onPickerItemEvent(p, s, im);
             }
 
             c = null;

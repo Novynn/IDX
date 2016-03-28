@@ -44,7 +44,7 @@ library PlayerDataPickRandoming {
             }
         }
         
-        public static method setPlayerDataPickRandomRaceUniqueWithBans(PlayerDataPick this) -> Race {
+        public static method getPlayerDataPickRandomRaceUniqueWithBans(PlayerDataPick this) -> Race {
             integer i = 0;
             integer count = 0;
             integer class = this.class();
@@ -82,6 +82,11 @@ library PlayerDataPickRandoming {
                 r = thistype.getRandomRaceUniqueEx(class);
             }
             
+            return r;
+        }
+        
+        public static method setPlayerDataPickRandomRaceUniqueWithBans(PlayerDataPick this) -> Race {
+            Race r = getPlayerDataPickRandomRaceUniqueWithBans(this);
             this.playerData.setRace(r);
             return r;
         }

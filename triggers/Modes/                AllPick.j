@@ -79,6 +79,12 @@ library RacePickModeAllPick requires RacePickMode {
         method onUnitCreation(PlayerDataPick p){
             this.onUnitCreationNormal(p);
         }
+        method onPickerItemEvent(PlayerDataPick p, unit seller, item it){
+            this.onPickerItemEventNormal(p, seller, it);
+        }
+        method getStartDelay() -> real {
+            return this.getStartDelayNormal();
+        }
         method end(){
             this.endNormally();
         }

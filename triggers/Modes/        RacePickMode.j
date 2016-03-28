@@ -4,7 +4,7 @@
 
 // Simply a module that gets implemented by Pick Modes containing the default setup
 
-library RacePickMode requires RacePicker, optional PerksSystem {
+library RacePickMode requires RacePicker, GameSettings, optional PerksSystem {
     public module RacePickModeModule {
         public GameTimer graceDelayTimer = 0;
         
@@ -72,19 +72,16 @@ library RacePickMode requires RacePicker, optional PerksSystem {
             list = PlayerData.withClass(PlayerData.CLASS_DEFENDER);
             for (0 <= i < list.size()){
                 p = PlayerDataPick[list[i]];
-                p.setAfk(false);
                 if (!p.hasMoved() && GameSettings.getBool("PICKMODE_REMOVE_AFK")){
                     // They haven't moved or picked! Now let's make them an observer.
                     Game.say(p.nameColored() + "|cff00bfff has been changed to an observer for not moving in the allocated time.|r");
                     UnitManager.removePlayerUnits(p.playerData);
                     p.setClass(PlayerData.CLASS_OBSERVER);
-                    p.setAfk(true);
                 }
                 else if (!p.hasPicked()){
                     Game.say(p.nameColored() + "|cff00bfff has been changed to an observer for not choosing in the allocated time.|r");
                     UnitManager.removePlayerUnits(p.playerData);
                     p.setClass(PlayerData.CLASS_OBSERVER);
-                    p.setAfk(true);
                 }
             }
             list.destroy();
@@ -170,13 +167,29 @@ library RacePickMode requires RacePicker, optional PerksSystem {
             }
         }
         
+        public method onPickerItemEventNormal(PlayerDataPick p, unit seller, item it) {
+            integer id = GetItemTypeId(it);
+            Race r = 0;
+            if (!p.hasPicked()) {
+                if (p.class() == PlayerData.CLASS_DEFENDER){
+                    r = DefenderRace.fromItemId(id);
+                }
+                else if (p.class() == PlayerData.CLASS_TITAN){
+                    r = TitanRace.fromItemId(id);
+                }
+
+                p.pick(r);
+
+                RemoveItem(it);
+            }
+        }
+        
         public method onUnitCreationNormal(PlayerDataPick p) {
             integer delta = GetRandomInt(1, 40);
             unit u = p.unit().unit();
             
             Game.onPlayerRaceChosen(p.playerData);
             
-            SetPlayerState(p.player(), PLAYER_STATE_GIVES_BOUNTY, 1); // Gives Bounty
             // Setup tech
             DefenderUnit.prepare(p);
             
@@ -271,6 +284,10 @@ library RacePickMode requires RacePicker, optional PerksSystem {
             u = null;
         }
         
+        public method getStartDelayNormal() -> real {
+            return GameSettings.getReal("PICKMODE_DEFAULT_START_DELAY");
+        }
+        
         private static method create() -> thistype {
             // Will this prevent anyone creating one of these objects without onInit?
             return thistype.allocate();
@@ -299,13 +316,17 @@ library RacePickMode requires RacePicker, optional PerksSystem {
         method description() -> string;
         
         method gameMode() -> string = "ID";
+        method getStartDelay() -> real;
         
         method onPlayerSetup(PlayerData p) = null;
         method setup();
         method start();
         method picked(PlayerDataPick p);
         method onUnitCreation(PlayerDataPick p);
+        method onPickerItemEvent(PlayerDataPick p, unit seller, item it);
         method end();
+        
+        method terminate() = null;
         
         method meetsVoteRequirements(RacePickModeVotes mode) -> boolean = true;
         
