@@ -180,7 +180,7 @@
         {
             "id": "umvs",
             "type": 0,
-            "value": "370"
+            "value": "340"
         },
         {
             "id": "unam",
@@ -216,11 +216,6 @@
             "id": "urun",
             "type": 1,
             "value": "300"
-        },
-        {
-            "id": "usca",
-            "type": 1,
-            "value": "0.800000012"
         },
         {
             "id": "usid",
