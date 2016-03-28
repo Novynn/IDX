@@ -90,7 +90,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00An upgrade module for Radon towers which adds an additional 10 damage and grants a slowing attack.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |rSlows enemies' attack and movement speeds by 10% while dealing 5 damage per second for 5 seconds.|n|cffffcc00Super Radon Tower: |rSlows enemies' attack and movement speeds by 20% while dealing 5 damage per second for 5 seconds.|n|cffffcc00Mega Radon Tower: |rSlows enemies' attack and movement speeds by 30% while dealing 5 damage per second for 5 seconds."
+            "value": "|cffffcc00An upgrade module for Radon towers which adds an additional 10 damage and grants a slowing attack.|n|r|cff1e90ffUse this item to deploy it to any Radon tower on the map.|r|n|n|cffffcc00Enhanced Radon Tower: |rSlows enemies' attack and movement speeds by 10% while dealing 5 damage per second for 1.5 seconds.|n|cffffcc00Super Radon Tower: |rSlows enemies' attack and movement speeds by 20% while dealing 5 damage per second for 2 seconds.|n|cffffcc00Mega Radon Tower: |rSlows enemies' attack and movement speeds by 30% while dealing 5 damage per second for 2.5 seconds."
         }
     ],
     "type": "Item"
