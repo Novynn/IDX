@@ -1,0 +1,12 @@
+{
+    "base": "ZTnc",
+    "id": "ZTnc",
+    "mods": [
+        {
+            "id": "bmis",
+            "type": 2,
+            "value": "0.600000024"
+        }
+    ],
+    "type": "Destructable"
+}
