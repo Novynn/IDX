@@ -68,6 +68,7 @@
     GameSettings.setBool("TITAN_EXP_GLOBAL_FACTOR_DOUBLED", false);
     GameSettings.setBool("TITAN_EXP_REDUCTION_ENABLED", true);
     GameSettings.setReal("TITAN_EXP_MISSING_PLAYER_FACTOR", 0.15);
+    GameSettings.setReal("TITAN_EXP_NEUTRAL_FACTOR", 0.75);
     GameSettings.setReal("DEFENDER_EXP_RATE_TIME", 1.0);
     
     // Titan start settings.

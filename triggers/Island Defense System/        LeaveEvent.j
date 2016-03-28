@@ -15,7 +15,7 @@ library LeaveEvent requires IslandDefenseSystem {
             PlayerData p = t.data();
             // Exit out if they're already gone
             if (!p.isLeaving() || p.hasLeft()) return;
-            Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed.|r");
+            Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed. Their structures will remain.|r");
             GameTimer.new(function(GameTimer t){
                 PlayerDataArray list = 0;
                 integer i = 0;
@@ -24,11 +24,11 @@ library LeaveEvent requires IslandDefenseSystem {
                 PlayerData q = 0;
                 // Exit out if they're already gone
                 if (!p.isLeaving() || p.hasLeft()) return;
-                Game.say(p.nameColored() + "|cff00bfff's units have been removed.|r");
+                Game.say(p.nameColored() + "|cff00bfff's units have been removed. Their structures will remain.|r");
                 // Grant the Titan an extra bonus!
                 if (GameSettings.getBool("TITAN_BONUS_ON_DEFENDER_LEAVE")) {
                     list = PlayerData.withClass(PlayerData.CLASS_TITAN);
-                    bonus = GameSettings.getInt ("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD");
+                    bonus = GameSettings.getInt("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD");
                     for (0 <= i < list.size()){
                         q = list[i];
                         if (q != 0){
@@ -39,7 +39,7 @@ library LeaveEvent requires IslandDefenseSystem {
                     list = 0;
                 }
                 
-                UnitManager.removePlayerUnits(p);
+                UnitManager.neutralizePlayerUnits(p);
                 p.left();
             }).start(30.00).setData(p);
         }).start(30.00).setData(p);

@@ -204,9 +204,15 @@ library Players requires Races, GetPlayerColored {
                 if (p.class() == PlayerData.CLASS_DEFENDER ||
                     p.class() == PlayerData.CLASS_OBSERVER){
                     SetPlayerAllianceStateBJ(Player(PLAYER_NEUTRAL_PASSIVE), p.player(), bj_ALLIANCE_ALLIED);
+                    SetPlayerAllianceStateBJ(Player(PLAYER_NEUTRAL_AGGRESSIVE), p.player(), bj_ALLIANCE_NEUTRAL);
+                    SetPlayerAllianceStateBJ(p.player(), Player(PLAYER_NEUTRAL_AGGRESSIVE), bj_ALLIANCE_NEUTRAL);
                 }
                 else {
                     SetPlayerAllianceStateBJ(Player(PLAYER_NEUTRAL_PASSIVE), p.player(), bj_ALLIANCE_NEUTRAL);
+                    SetPlayerAllianceStateBJ(Player(PLAYER_NEUTRAL_AGGRESSIVE), p.player(), bj_ALLIANCE_UNALLIED);
+                    SetPlayerAllianceStateBJ(p.player(), Player(PLAYER_NEUTRAL_AGGRESSIVE), bj_ALLIANCE_UNALLIED);
+                    SetPlayerAlliance(Player(PLAYER_NEUTRAL_AGGRESSIVE), p.player(), ALLIANCE_PASSIVE, false);
+                    SetPlayerAlliance(p.player(), Player(PLAYER_NEUTRAL_AGGRESSIVE), ALLIANCE_PASSIVE, false);
                 }
             }
             PunishmentCentre.update();

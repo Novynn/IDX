@@ -178,14 +178,18 @@ library CheatPack initializer onInit requires GetPlayerActualName
     return Player(6) 
     elseif s2s=="pink"then
     return Player(7) 
-    elseif s2s=="gray"then
+    elseif s2s=="gray" or s2s=="grey"then
     return Player(8) 
-    elseif s2s=="lb"then
+    elseif s2s=="lb" or s2s=="lightblue"then
     return Player(9) 
-    elseif s2s=="dg"then
+    elseif s2s=="dg" or s2s=="darkgreen"then
     return Player(10) 
     elseif s2s=="brown"then
     return Player(11) 
+    elseif s2s=="passive"then
+    return Player(PLAYER_NEUTRAL_PASSIVE)
+    elseif s2s=="aggressive"then
+    return Player(PLAYER_NEUTRAL_AGGRESSIVE)
     endif
     set s2s="" 
     return null

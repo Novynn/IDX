@@ -203,8 +203,33 @@ library UnitManager requires UnitSpawner, RegisterPlayerUnitEvent {
             g = null;
             u = null;
         }
-
         
+        public static method neutralizePlayerUnits(PlayerData p){
+            group g = CreateGroup();
+            unit u = null;
+            
+            GroupEnumUnitsOfPlayer(g, p.player(), null);
+            u = FirstOfGroup(g);
+            while (u != null){
+                if (IsUnitType(u, UNIT_TYPE_STRUCTURE)) {
+                    SetUnitOwner(u, Player(PLAYER_NEUTRAL_AGGRESSIVE), true);
+                    UnitAddAbility(u, 'Abun');
+                    SetUnitVertexColor(u, 0, 0, 0, 160);
+                }
+                else {
+                    thistype.removeUnit(u);
+                    RemoveUnit(u);
+                }
+            
+                GroupRemoveUnit(g, u);
+                u = FirstOfGroup(g);
+            }
+            
+            DestroyGroup(g);
+            g = null;
+            u = null;
+        }
+
         public static method terminate(){
             Unit u = 0;
             while(titans.size() > 0){

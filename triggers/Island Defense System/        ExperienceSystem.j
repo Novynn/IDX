@@ -123,7 +123,12 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
             integer result = GetUnitPointValue(u);
             
             // Feed reduction
-            result = FeedReduction.reduceFeed(p, result);
+            if (p != 0) {
+                result = FeedReduction.reduceFeed(p, result);
+            }
+            else {
+                result = R2I(result * GameSettings.getReal("TITAN_EXP_NEUTRAL_FACTOR"));
+            }
 
             return result;
         }
@@ -207,9 +212,9 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
         public static method onDeathForTitan(){
             unit u = GetKillingUnit();
             unit v = GetDyingUnit();
-            PlayerDataFed owner = PlayerDataFed[PlayerData.get(GetOwningPlayer(v))];
+            PlayerDataFed feeder = PlayerDataFed[PlayerData.get(GetOwningPlayer(v))];
             player k = GetOwningPlayer(u);
-            integer feed = thistype.calculateFeed(owner, v);
+            integer feed = thistype.calculateFeed(feeder, v);
             boolexpr b = Filter(function() -> boolean {
                 unit u = GetFilterUnit();
                 boolean b = !IsUnit(u, thistype.lastKiller) &&
@@ -221,12 +226,12 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
             
             // Add to killing unit if it is a hero
             if (IsUnitType(u, UNIT_TYPE_HERO)){
-                thistype.giveExperienceAsFeed(owner, u, feed);
+                thistype.giveExperienceAsFeed(feeder, u, feed);
             }
             
             // Share bonus experience with others nearby
             thistype.lastKiller = u;
-            thistype.shareExperienceAsFeedFromPoint(owner, GetUnitX(v), GetUnitY(v), feed, b);
+            thistype.shareExperienceAsFeedFromPoint(feeder, GetUnitX(v), GetUnitY(v), feed, b);
             thistype.lastKiller = null;
             
             DestroyBoolExpr(b);
@@ -250,10 +255,15 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
                 p = PlayerData.get(GetOwningPlayer(u));
                 q = PlayerData.get(GetOwningPlayer(v));
                 
+                if (q == 0 && GetOwningPlayer(v) == Player(PLAYER_NEUTRAL_AGGRESSIVE)) {
+                    // Set test to true for q.class()
+                    b = true;
+                }
+                
                 b = !(IsUnitType(v, UNIT_TYPE_SUMMONED) || IsUnitWard(v) || IsUnitIllusion(v)) &&
                     (p.class() == PlayerData.CLASS_TITAN ||
                      p.class() == PlayerData.CLASS_MINION) &&
-                    (q.class() == PlayerData.CLASS_DEFENDER);
+                    (q.class() == PlayerData.CLASS_DEFENDER || b);
                     
                 u = null;
                 v = null;

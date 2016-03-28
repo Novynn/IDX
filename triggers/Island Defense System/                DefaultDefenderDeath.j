@@ -154,7 +154,7 @@ library DefaultDefenderDeath requires IslandDefenseSystem, RevealMapForPlayer, G
             // Remove learned upgrades
             Upgrades.resetAllUpgradesForPlayer(p.player(), false);
             
-            UnitManager.removePlayerUnits(p);
+            UnitManager.neutralizePlayerUnits(p);
             SetUnitOwner(u.unit(), p.player(), true);
             
             // Remove corpse after 3 seconds
