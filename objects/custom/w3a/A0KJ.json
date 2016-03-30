@@ -46,6 +46,13 @@
         },
         {
             "data": 0,
+            "id": "ahky",
+            "type": 3,
+            "value": "F",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "amcs",
             "type": 0,
             "value": "125",
@@ -99,6 +106,13 @@
             "type": 3,
             "value": "Sends a unit into a feral rage increasing their attack speed by 50%.|cffffd700 Last 10 seconds.|r|n|n|cffadd8e6Cooldown: |r60",
             "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "auhk",
+            "type": 3,
+            "value": "F",
+            "variation": 0
         },
         {
             "data": 0,
