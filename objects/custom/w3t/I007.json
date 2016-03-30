@@ -8,6 +8,11 @@
             "value": "A070"
         },
         {
+            "id": "icid",
+            "type": 3,
+            "value": "A070"
+        },
+        {
             "id": "idrp",
             "type": 0,
             "value": "1"
