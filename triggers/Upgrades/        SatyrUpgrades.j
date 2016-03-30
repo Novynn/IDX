@@ -23,10 +23,11 @@ library SatyrUpgrades requires Upgrades, DefaultUpgrades, UnitManager, UnitMaxSt
             Upgrades.end();
             
             Upgrades.begin("Basic Stealth Training", "all");
-            Upgrades.addEx('q115', UnitManager.isDefender);
-                Upgrades.addEffect(UpgradeAbilityEffect.create('A0BQ')); // Ability
+            level = Upgrades.addEx('q115', UnitManager.isDefender);
+                Upgrades.addEffect(UpgradeAbilityEffect.create('A0C4')); // Icon
+                Upgrades.addEffect(UpgradeAbilityEffect.create('A0BO')); // Ability
             Upgrades.addEx('q116', UnitManager.isDefender);
-                Upgrades.continueEffect();
+                Upgrades.continueEffects(level);
             Upgrades.end();
             
             Upgrades.begin("Sapphire Blade", "all");
