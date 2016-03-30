@@ -138,7 +138,7 @@ library VoltronNuke requires GameTimer, GT, xebasic, xepreload, xecollider, Gene
                 this.ball[i+1].setTargetPoint(endX, endY);
                 this.ball[i+1].setStartPoint(castX, castY);
                 this.ball[i+1].scale = 1.0;
-                this.ball[i+1].speed = (this.distance / 0.8); // How far it travels in 1 second.
+                this.ball[i+1].speed = (this.distance / 0.2); // How far it travels in 1 second.
             }
         }
         

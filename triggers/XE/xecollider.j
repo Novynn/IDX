@@ -27,7 +27,7 @@ library xecollider initializer init requires xefx, xebasic
 //================================================================
     globals
         private constant real DEFAULT_COLLISION_SIZE  =   50.0 // These are defaults, on one hand you can change them
-        private constant real DEFAULT_MAX_SPEED       = 1500.0 // on the other hand, if a spell relies on the defaults
+        private constant real DEFAULT_MAX_SPEED       = 4000.0 // on the other hand, if a spell relies on the defaults
         private constant real DEFAULT_EXPIRATION_TIME =    5.0 // changing them would make the behavior vary...
 
         private constant real PI2 = 6.28318 //It might not be wise to change this
