@@ -167,7 +167,7 @@ library RacePickMode requires RacePicker, GameSettings, optional PerksSystem {
             }
         }
         
-        public method onPickerItemEventNormal(PlayerDataPick p, unit seller, item it) {
+        public method onPickerItemEventNormal(PlayerDataPick p, unit seller, item it) -> Race {
             integer id = GetItemTypeId(it);
             Race r = 0;
             if (!p.hasPicked()) {
@@ -182,6 +182,8 @@ library RacePickMode requires RacePicker, GameSettings, optional PerksSystem {
 
                 RemoveItem(it);
             }
+            
+            return r;
         }
         
         public method onUnitCreationNormal(PlayerDataPick p) {

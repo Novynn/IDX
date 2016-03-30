@@ -20,7 +20,7 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "2"
+            "value": "1"
         },
         {
             "id": "ihtp",
@@ -58,14 +58,9 @@
             "value": "0"
         },
         {
-            "id": "isto",
-            "type": 0,
-            "value": "0"
-        },
-        {
             "id": "istr",
             "type": 0,
-            "value": "3600"
+            "value": "0"
         },
         {
             "id": "ubpx",

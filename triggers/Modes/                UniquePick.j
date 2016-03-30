@@ -3,6 +3,7 @@
 //! zinc
 
 library RacePickModeUniquePick requires RacePickMode, UnitManager {
+    /*
     private player PICK_PLAYER = Player(15); // Neutral Passive
     private struct UniquePickData {
         public static UniquePickData data[];
@@ -111,6 +112,7 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             thistype.data[this.index] = 0;
         }
     }
+    */
     
     private struct DefenderRaceUniquePick {
         DefenderRace race = 0;
@@ -171,6 +173,7 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             return p;
         }
     
+        /*
         public static method setupPickUnits() {
             integer i = 0;
             Race r = 0;
@@ -261,6 +264,7 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             
             thistype.checkPickUnits();
         }
+        */
     }
     
     public struct RacePickModeUniquePick extends RacePickMode {
@@ -279,31 +283,12 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
         private boolean spawnStarted = false;
         
         method setup(){
-            this.setupPlayers();
-            this.setupPickShops();
-            DefenderRaceUniquePick.setupPickUnits();
+            this.setupNormally();
             this.spawnStarted = false;
         }
         
         public method onPlayerSetup(PlayerData p){
-            PlayerDataPick q = PlayerDataPick[p];
-            real x = GetUnitX(UnitManager.TITAN_SPELL_WELL);
-            real y = GetUnitY(UnitManager.TITAN_SPELL_WELL);
-            rect r = null;
-            if (p.class() == PlayerData.CLASS_DEFENDER) {
-                r = Rect(x, y, x, y);
-                SetUnitX(q.picker(), x);
-                SetUnitY(q.picker(), y);
-                
-                q.freeCamera();
-                PanCameraToTimed(x, y, 0.0);
-                q.restrictCamera(r);
-                
-                SetPlayerAlliance(PICK_PLAYER, p.player(), ALLIANCE_SHARED_VISION, true);
-                
-                RemoveRect(r);
-                r = null;
-            }
+            p.setGold(p.gold() + 1);
         }
         
         method start(){
@@ -423,30 +408,25 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
                 return;
             }
             this.pickedNormal(p);
-            
-            if (p.class() == PlayerData.CLASS_DEFENDER) {
-                DefenderRaceUniquePick.finish(p);
-            }
         }
         
         method onUnitCreation(PlayerDataPick p){
             this.onUnitCreationNormal(p);
         }
         method onPickerItemEvent(PlayerDataPick p, unit seller, item it){
-            UniquePickData data = 0;
-            DefenderRace r = 0;
-            integer id = 0;
+            Race r = 0;
+            integer id = GetItemTypeId(it);
             integer i = 0;
 
             if (p.class() == PlayerData.CLASS_DEFENDER){
-                data = UniquePickData.fromPicker(seller);
-                r = data.getRace();
-                
                 if (this.spawnStarted) {
-                    p.pick(r);
+                    r = this.onPickerItemEventNormal(p, seller, it);
                 }
                 else {
-                    if (r == 0) {
+                    r = DefenderRace.fromItemId(id);
+                    RemoveItem(it);
+                    
+                    if (r == 0 || r == NullRace.instance()) {
                         p.say("|cff00bfffYour remaining choices will be: |r|cffff0000Random|r");
                         id = 'I006'; // Random Item
                         for (0 <= i < 6) {
@@ -462,10 +442,9 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
                         p.say("|cff00bfffYour #" + I2S(i+1) + " choice is: |r|cffff0000" + r.toString() + "|r");
                         id = r.itemId();
                         UnitAddItemById(p.picker(), id);
+                        p.playerData.setGold(p.playerData.gold() + 1);
                     }
                 }
-                
-                RemoveItem(it);
             }
             else if (p.class() == PlayerData.CLASS_TITAN){
                 this.onPickerItemEventNormal(p, seller, it);
@@ -475,12 +454,7 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             return this.getStartDelayNormal() + 20.0; // Add 20 seconds
         }
         method end(){
-            DefenderRaceUniquePick.removePickUnits();
-            
             this.endNormally();
-        }
-        method terminate() {
-            DefenderRaceUniquePick.removePickUnits();
         }
     }
 }
