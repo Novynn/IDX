@@ -1,0 +1,82 @@
+{
+    "base": "rsps",
+    "id": "I05C",
+    "mods": [
+        {
+            "id": "iabi",
+            "type": 3,
+            "value": "A06U"
+        },
+        {
+            "id": "icid",
+            "type": 3,
+            "value": "A06U"
+        },
+        {
+            "id": "ides",
+            "type": 3,
+            "value": "Cleanses the drinkers ailments, purging their negative effects."
+        },
+        {
+            "id": "igol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "iico",
+            "type": 3,
+            "value": "ReplaceableTextures\\CommandButtons\\BTNLesserInvulneralbility.blp"
+        },
+        {
+            "id": "ilum",
+            "type": 0,
+            "value": "500"
+        },
+        {
+            "id": "ipow",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "isst",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "istr",
+            "type": 0,
+            "value": "30"
+        },
+        {
+            "id": "ubpx",
+            "type": 0,
+            "value": "3"
+        },
+        {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
+            "id": "uhot",
+            "type": 3,
+            "value": "F"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Elixir of Cleansing"
+        },
+        {
+            "id": "utip",
+            "type": 3,
+            "value": "(|cffffcc00F|r) Purchase Elixir of Cleansing"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Cleanses the drinkers ailments, purging their negative effects."
+        }
+    ],
+    "type": "Item"
+}

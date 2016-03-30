@@ -5,7 +5,7 @@
         {
             "id": "uabi",
             "type": 3,
-            "value": "A0BU,Arlm,Asid,ARax"
+            "value": "Arlm,Asid,ARax"
         },
         {
             "id": "ubba",
@@ -40,7 +40,7 @@
         {
             "id": "udaa",
             "type": 3,
-            "value": "A0BU"
+            "value": ""
         },
         {
             "id": "ugol",
@@ -155,7 +155,7 @@
         {
             "id": "usei",
             "type": 3,
-            "value": "I00Q,I034"
+            "value": "I00Q,I034,I05C"
         },
         {
             "id": "usid",

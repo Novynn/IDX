@@ -3429,6 +3429,16 @@
         },
         {
             "desc": "",
+            "enabled": true,
+            "index": 8,
+            "initialState": 0,
+            "isCustom": true,
+            "name": "Satyr Elixirs",
+            "runOnInit": false,
+            "type": 0
+        },
+        {
+            "desc": "",
             "enabled": false,
             "index": 8,
             "initialState": 0,

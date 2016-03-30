@@ -1,0 +1,49 @@
+{
+    "base": "AIsp",
+    "id": "A06U",
+    "mods": [
+        {
+            "data": 1,
+            "id": "Ispi",
+            "type": 2,
+            "value": "0",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "aart",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "adur",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "ahdu",
+            "type": 2,
+            "value": "0.00999999978",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Drink Elixir",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Satyr)",
+            "variation": 0
+        }
+    ],
+    "type": "Ability"
+}
