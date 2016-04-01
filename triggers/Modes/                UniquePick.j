@@ -407,6 +407,13 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
                 p.setPicked(false);
                 return;
             }
+            // Since p.race() will count in the following, we need to check if there are more than 1
+            if (PlayerData.countRace(p.race()) > 1) {
+                p.setPicked(false);
+                p.setGold(p.gold() + 1);
+                p.say("|cff00bfffSomeone else has chosen this Defender, please choose another one.|r");
+                return;
+            }
             this.pickedNormal(p);
         }
         
