@@ -25,7 +25,7 @@ library HeroicAura requires TrollVoodoo {
             group g = null;
             filterfunc f = null;
             real halfDamage = (GetEventDamage() / 2.0);
-            if (GetUnitAbilityLevel(u, BUFF_ID) > 0) {
+            if (GetUnitAbilityLevel(u, BUFF_ID) > 0 && IsUnitEnemy(u, GetOwningPlayer(a))) {
                 // Check for the source of the Aura
                 g = CreateGroup();
                 f = Filter(function() -> boolean {
