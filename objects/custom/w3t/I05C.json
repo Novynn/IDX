@@ -18,6 +18,11 @@
             "value": "Cleanses the drinkers ailments, purging their negative effects."
         },
         {
+            "id": "ifil",
+            "type": 3,
+            "value": "war3mapImported\\PotionOmniscience.mdl"
+        },
+        {
             "id": "igol",
             "type": 0,
             "value": "0"
@@ -36,6 +41,11 @@
             "id": "ipow",
             "type": 0,
             "value": "0"
+        },
+        {
+            "id": "isca",
+            "type": 1,
+            "value": "0.600000024"
         },
         {
             "id": "isst",
