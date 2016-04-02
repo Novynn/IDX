@@ -51,11 +51,16 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
         
         public method updateRate(){
             real rate = this.factor();
+            real time = (Game.currentGameElapsed() / (60.0 * 60.0));
             integer i = 0;
-
+            
             if (GameSettings.getBool("TITAN_EXP_REDUCTION_ENABLED")){
-                // 0103b - removed "+10" skewing the factor
-                rate = (this.factor() * (((-this.fed() * 0.05) / 100) + 1));
+                if (time < 0.0) {
+                    time = 0.0;
+                    GameSettings.setBool("TITAN_EXP_REDUCTION_ENABLED", false);
+                    Game.say("|cff87cefaThe Feed Reduction System has been disabled.|r");
+                }
+                rate = (this.factor() * ((((-this.fed() * 0.05) / 100) * (1.0 - time)) + 1));
                 
                 if (rate <= 0.0) {
                     rate = 0.0;
@@ -67,8 +72,8 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
             
             // Defender player factor.
             // For this we need to calculate the amount of defenders alive + the amount killed.
-            i = PlayerData.countClass(PlayerData.CLASS_DEFENDER) + thistype.getKilledDefendersCount();
-            rate = rate * ( 1 + ((10 - i) * GameSettings.getReal("TITAN_EXP_MISSING_PLAYER_FACTOR")));
+            // i = PlayerData.countClass(PlayerData.CLASS_DEFENDER) + thistype.getKilledDefendersCount();
+            // rate = rate * ( 1 + ((10 - i) * GameSettings.getReal("TITAN_EXP_MISSING_PLAYER_FACTOR")));
             
             if (GameSettings.getBool("TITAN_EXP_GLOBAL_FACTOR_DOUBLED")){
                 rate = rate * 2.0;
@@ -145,7 +150,7 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
             PlayerData p = PlayerData.get(GetOwningPlayer(u));
             if (experience == 0) return;
             
-            if (level >= 16) {
+            if (level >= 20) {
                 p.setWood(p.wood() + experience);
                 ShowTagFromUnit("|ccf01bf4d+" + I2S(experience) + "|r", u);
             }

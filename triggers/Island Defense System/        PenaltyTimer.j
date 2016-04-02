@@ -37,10 +37,10 @@ library PenaltyTimer requires GameTimer {
                     }
                     list.destroy();
                     
-                    if (GameSettings.getBool("TITAN_EXP_REDUCTION_ENABLED")) {
-                        Game.say("|cff87cefaThe Feed Reduction System has also been disabled.|r");
-                        GameSettings.setBool("TITAN_EXP_REDUCTION_ENABLED", false);
-                    }
+                    //if (GameSettings.getBool("TITAN_EXP_REDUCTION_ENABLED")) {
+                    //    Game.say("|cff87cefaThe Feed Reduction System has also been disabled.|r");
+                    //    GameSettings.setBool("TITAN_EXP_REDUCTION_ENABLED", false);
+                    //}
                 }
                 else {
                     Game.say("|cff87cefaThe 10 minute penalty has been enforced.\n" +

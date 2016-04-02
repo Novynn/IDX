@@ -41,6 +41,9 @@ library LeaveEvent requires IslandDefenseSystem {
                 
                 UnitManager.neutralizePlayerUnits(p);
                 p.left();
+                // Fake the fact that the Defender has been "killed" for the sake of the missing players factor
+                GameSettings.setInt("KILLED_DEFENDERS_COUNT", GameSettings.getInt("KILLED_DEFENDERS_COUNT") + 1);
+                
             }).start(30.00).setData(p);
         }).start(30.00).setData(p);
     }

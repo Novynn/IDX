@@ -24,7 +24,7 @@
     
     
     // Leaving Builder Bonus
-    GameSettings.setBool("TITAN_BONUS_ON_DEFENDER_LEAVE", true);
+    GameSettings.setBool("TITAN_BONUS_ON_DEFENDER_LEAVE", false);
     GameSettings.setInt ("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD", 10);
     
     // Lightning Effects (Desync Test)
@@ -67,8 +67,8 @@
     GameSettings.setReal("TITAN_EXP_SHARE_FACTOR", 0.75);
     GameSettings.setBool("TITAN_EXP_GLOBAL_FACTOR_DOUBLED", false);
     GameSettings.setBool("TITAN_EXP_REDUCTION_ENABLED", true);
-    GameSettings.setReal("TITAN_EXP_MISSING_PLAYER_FACTOR", 0.15);
-    GameSettings.setReal("TITAN_EXP_NEUTRAL_FACTOR", 0.75);
+    // GameSettings.setReal("TITAN_EXP_MISSING_PLAYER_FACTOR", 0.15);
+    GameSettings.setReal("TITAN_EXP_NEUTRAL_FACTOR", 0.5);
     GameSettings.setReal("DEFENDER_EXP_RATE_TIME", 1.0);
     
     // Titan start settings.
