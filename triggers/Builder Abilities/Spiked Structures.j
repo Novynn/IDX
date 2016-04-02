@@ -11,11 +11,12 @@ library SpikedStructures requires Damage, xedamage {
         TriggerAddCondition(t , Condition(function() -> boolean {
             unit u = GetTriggerUnit();
             unit a = GetEventDamageSource();
+            player p = GetOwningPlayer(u);
             xedamage damage = 0;
             integer level = GetUnitAbilityLevel(u, ABILITY_ID);
-            if (level > 0) {
+            if (level > 0 && p != Player(PLAYER_NEUTRAL_AGGRESSIVE)) {
                 // Has Spiked
-                if (IsUnitEnemy(a, GetOwningPlayer(u))) {
+                if (IsUnitEnemy(a, p)) {
                     damage = xedamage.create();
                     damage.dtype = DAMAGE_TYPE_NORMAL;
                     damage.damageTarget(u, a, level * 20);
