@@ -43,6 +43,13 @@
             "type": 3,
             "value": "undead",
             "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "arlv",
+            "type": 0,
+            "value": "1",
+            "variation": 0
         }
     ],
     "type": "Ability"
