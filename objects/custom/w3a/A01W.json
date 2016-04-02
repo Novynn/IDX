@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Hbh1",
             "type": 2,
-            "value": "25",
+            "value": "15",
             "variation": 1
         },
         {
@@ -62,7 +62,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Gives a 25% chance that an attack will stun an opponent for 1 second.",
+            "value": "Gives a 15% chance that an attack will stun an opponent for 1 second.",
             "variation": 1
         }
     ],

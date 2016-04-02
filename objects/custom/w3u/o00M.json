@@ -235,7 +235,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower does a good amount of damage, and it has a 25% chance to stun an enemy for 1 second. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cFFFF5D00While being held as an item it causes the holders' attacks to have a 15% chance to stun.|r"
+            "value": "A powerful tower that deals amazing damage. This tower does a good amount of damage, and it has a 15% chance to stun an enemy for 1 second. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff5d00While being held as an item it causes the holders' attacks to have a 15% chance to stun.|r"
         }
     ],
     "type": "Unit"
