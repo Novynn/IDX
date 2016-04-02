@@ -28,11 +28,6 @@
             "value": "1"
         },
         {
-            "id": "ifil",
-            "type": 3,
-            "value": "units\\orc\\catapult\\catapult_V1.mdl"
-        },
-        {
             "id": "igol",
             "type": 0,
             "value": "135"
@@ -46,11 +41,6 @@
             "id": "ilum",
             "type": 0,
             "value": "1500"
-        },
-        {
-            "id": "isca",
-            "type": 1,
-            "value": "0.5"
         },
         {
             "id": "uhot",

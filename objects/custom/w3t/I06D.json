@@ -28,11 +28,6 @@
             "value": "1"
         },
         {
-            "id": "ifil",
-            "type": 3,
-            "value": "Doodads\\Ruins\\Plants\\Ruins_Flower\\Ruins_Flower0.mdl"
-        },
-        {
             "id": "igol",
             "type": 0,
             "value": "90"
@@ -46,11 +41,6 @@
             "id": "ilum",
             "type": 0,
             "value": "1500"
-        },
-        {
-            "id": "isca",
-            "type": 1,
-            "value": "1.20000005"
         },
         {
             "id": "uhot",

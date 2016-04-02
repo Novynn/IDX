@@ -28,11 +28,6 @@
             "value": "1"
         },
         {
-            "id": "ifil",
-            "type": 3,
-            "value": "buildings\\other\\Tavern\\Tavern.mdl"
-        },
-        {
             "id": "igol",
             "type": 0,
             "value": "90"
@@ -46,11 +41,6 @@
             "id": "ilum",
             "type": 0,
             "value": "1500"
-        },
-        {
-            "id": "isca",
-            "type": 1,
-            "value": "0.25"
         },
         {
             "id": "iuse",

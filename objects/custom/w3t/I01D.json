@@ -38,11 +38,6 @@
             "value": "1"
         },
         {
-            "id": "ifil",
-            "type": 3,
-            "value": "Objects\\InventoryItems\\CrystalShard\\CrystalShard.mdl"
-        },
-        {
             "id": "igol",
             "type": 0,
             "value": "0"
@@ -66,11 +61,6 @@
             "id": "ilvo",
             "type": 0,
             "value": "0"
-        },
-        {
-            "id": "isca",
-            "type": 1,
-            "value": "0.449999988"
         },
         {
             "id": "isst",

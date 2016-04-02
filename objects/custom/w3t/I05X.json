@@ -33,11 +33,6 @@
             "value": "1"
         },
         {
-            "id": "ifil",
-            "type": 3,
-            "value": "Objects\\InventoryItems\\Glyph\\Glyph.mdl"
-        },
-        {
             "id": "igol",
             "type": 0,
             "value": "0"
@@ -56,11 +51,6 @@
             "id": "ipaw",
             "type": 0,
             "value": "0"
-        },
-        {
-            "id": "isca",
-            "type": 1,
-            "value": "0.5"
         },
         {
             "id": "istr",

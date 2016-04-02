@@ -28,11 +28,6 @@
             "value": "1"
         },
         {
-            "id": "ifil",
-            "type": 3,
-            "value": "units\\undead\\MeatWagon\\MeatWagon.mdl"
-        },
-        {
             "id": "igol",
             "type": 0,
             "value": "90"
@@ -51,16 +46,6 @@
             "id": "ilum",
             "type": 0,
             "value": "1500"
-        },
-        {
-            "id": "isca",
-            "type": 1,
-            "value": "0.400000006"
-        },
-        {
-            "id": "issc",
-            "type": 1,
-            "value": "50"
         },
         {
             "id": "uhot",
