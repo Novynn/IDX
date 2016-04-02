@@ -2999,26 +2999,6 @@
         },
         {
             "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "InventoryFix",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "AdditonalHealth",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
             "enabled": true,
             "index": 8,
             "initialState": 0,
@@ -3059,16 +3039,6 @@
         },
         {
             "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "Building Size",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
             "enabled": true,
             "index": 8,
             "initialState": 0,
@@ -3104,26 +3074,6 @@
             "initialState": 0,
             "isCustom": true,
             "name": "Radiation",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "Advanced Wall Upgrade",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "Deadly Poisons Upgrade",
             "runOnInit": false,
             "type": 0
         },
@@ -3204,16 +3154,6 @@
             "initialState": 0,
             "isCustom": true,
             "name": "Polar Wrath",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "DemonicResistance",
             "runOnInit": false,
             "type": 0
         },
@@ -3369,16 +3309,6 @@
         },
         {
             "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "Conduit",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
             "enabled": true,
             "index": 8,
             "initialState": 0,
@@ -3434,26 +3364,6 @@
             "initialState": 0,
             "isCustom": true,
             "name": "Satyr Elixirs",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "Dash",
-            "runOnInit": false,
-            "type": 0
-        },
-        {
-            "desc": "",
-            "enabled": false,
-            "index": 8,
-            "initialState": 0,
-            "isCustom": true,
-            "name": "Tranquility",
             "runOnInit": false,
             "type": 0
         },
