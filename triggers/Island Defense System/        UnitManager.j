@@ -214,7 +214,7 @@ library UnitManager requires UnitSpawner, RegisterPlayerUnitEvent {
                 if (IsUnitType(u, UNIT_TYPE_STRUCTURE)) {
                     SetUnitOwner(u, Player(PLAYER_NEUTRAL_AGGRESSIVE), true);
                     UnitAddAbility(u, 'Abun');
-                    SetUnitVertexColor(u, 0, 0, 0, 160);
+                    SetUnitVertexColor(u, 30, 30, 30, 160);
                 }
                 else {
                     thistype.removeUnit(u);
