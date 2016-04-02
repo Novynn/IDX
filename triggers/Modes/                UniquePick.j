@@ -288,7 +288,9 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
         }
         
         public method onPlayerSetup(PlayerData p){
-            p.setGold(p.gold() + 1);
+            if (p.class() == PlayerData.CLASS_DEFENDER) {
+                p.setGold(p.gold() + 1);
+            }
         }
         
         method start(){
