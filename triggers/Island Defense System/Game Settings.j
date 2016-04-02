@@ -7,7 +7,7 @@
     GameSettings.setStr ("GAME_MODE", "ID");
     GameSettings.setStr ("PICKMODE_DEFAULT", "UP");         // AP
     GameSettings.setReal("PICKMODE_VOTE_TIME", 15.0); // 15
-    GameSettings.setReal("PICKMODE_START_DELAY", 15.0);
+    GameSettings.setReal("PICKMODE_DEFAULT_START_DELAY", 15.0);
     GameSettings.setBool("PICKMODE_VOTE_ENABLED", true);
     GameSettings.setBool("PICKMODE_VOTE_REQUIRES_TITAN", true);
     
