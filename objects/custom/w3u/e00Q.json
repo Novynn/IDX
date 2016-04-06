@@ -98,9 +98,9 @@
             "value": "1"
         },
         {
-            "id": "udty",
-            "type": 3,
-            "value": "normal"
+            "id": "udef",
+            "type": 0,
+            "value": "15"
         },
         {
             "id": "ufoo",
@@ -130,7 +130,7 @@
         {
             "id": "uhpm",
             "type": 0,
-            "value": "450"
+            "value": "600"
         },
         {
             "id": "uhpr",
