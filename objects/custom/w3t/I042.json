@@ -60,7 +60,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "An armor that can change the holders fate. Provides +3 armor, and reduces 1/4 of incoming damage up to 5, and gives 1% evasion.|n|n|cffff0000Evasion does not stack|r"
+            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r|n|n|cffffcc00An ancient shield, told to change the fate of the wearer. |r|n|cff1e90ff    +3 Armour|n    +1% Evasion (Does not stack)|n    When attacked: 25% chance to reduce damage taken by 5, capped so that you will always take at least 5 damage.|n|nPassive.|r"
         }
     ],
     "type": "Item"
