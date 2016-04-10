@@ -95,7 +95,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00Demonic Gauntlets wreathed in flames. |r|n|cff1e90ff    +50 Attack Damage|n    +15% Attack Speed|n    +80 Movement Speed|n    On attack: Damages attacked structures for 10 damage per second for 5 seconds.|n|nPassive.|r|n|n|cffffd700Requires:|r|n  1x Fiery Claws|n  1x Gauntlets of Rage|n  1x Gauntlets of Fury Recipe"
+            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00Demonic Gauntlets wreathed in flames. |r|n|cff1e90ff    +40 Attack Damage|n    +10% Attack Speed|n    +80 Movement Speed|n    On attack: Damages attacked structures for 10 damage per second for 5 seconds.|n|nPassive.|r|n|n|cffffd700Requires:|r|n  1x Fiery Claws|n  1x Gauntlets of Rage|n  1x Gauntlets of Fury Recipe"
         }
     ],
     "type": "Item"

@@ -5,7 +5,7 @@
         {
             "id": "iabi",
             "type": 3,
-            "value": "A06X,A049,A0OQ"
+            "value": "A06V,A049,A0OQ"
         },
         {
             "id": "ides",
@@ -60,7 +60,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Titan's movement speed by 80, attack speed by 15%, and damage by 25."
+            "value": "Increases the Titan's movement speed by 80, attack speed by 10%, and damage by 25."
         }
     ],
     "type": "Item"

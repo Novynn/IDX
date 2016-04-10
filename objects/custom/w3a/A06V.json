@@ -1,6 +1,6 @@
 {
     "base": "AIsx",
-    "id": "A004",
+    "id": "A06V",
     "mods": [
         {
             "data": 1,
@@ -11,16 +11,9 @@
         },
         {
             "data": 0,
-            "id": "anam",
-            "type": 3,
-            "value": "Item Attack Speed Bonus 10%",
-            "variation": 0
-        },
-        {
-            "data": 0,
             "id": "ansf",
             "type": 3,
-            "value": "(Use A06V Instead)",
+            "value": "10%",
             "variation": 0
         }
     ],
