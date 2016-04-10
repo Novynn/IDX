@@ -29,7 +29,8 @@ library PirateBarrelOfExplosives requires GT, xedamage {
                     d.dtype = DAMAGE_TYPE_NORMAL;
                     d.abilityFactor('WARD', 0.0); // No damage to wards
                     d.useSpecialEffect(thistype.explosionEffect, "origin");
-                    
+                    d.damageAllies = false;
+                    d.damageNeutral = false;
                     d.exception = UNIT_TYPE_FLYING;
                     
                     // Calculate ability level data
