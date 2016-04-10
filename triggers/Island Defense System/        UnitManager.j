@@ -205,8 +205,17 @@ library UnitManager requires UnitSpawner, RegisterPlayerUnitEvent {
         }
         
         public static method neutralizePlayerUnits(PlayerData p){
-            group g = CreateGroup();
+            group g = null;
             unit u = null;
+            boolean decay = GameSettings.getBool("NEUTRALIZE_STRUCTURES_DECAY");
+            real duration = GameSettings.getReal("NEUTRALIZE_STRUCTURES_DECAY_TIME");
+            
+            if (!GameSettings.getBool("NEUTRALIZE_STRUCTURES")) {
+                thistype.removePlayerUnits(p);
+                return;
+            }
+            
+            g = CreateGroup();
             
             GroupEnumUnitsOfPlayer(g, p.player(), null);
             u = FirstOfGroup(g);
@@ -214,7 +223,10 @@ library UnitManager requires UnitSpawner, RegisterPlayerUnitEvent {
                 if (IsUnitType(u, UNIT_TYPE_STRUCTURE)) {
                     SetUnitOwner(u, Player(PLAYER_NEUTRAL_AGGRESSIVE), true);
                     UnitAddAbility(u, 'Abun');
-                    SetUnitVertexColor(u, 30, 30, 30, 160);
+                    SetUnitVertexColor(u, 50, 50, 50, 130);
+                    if (decay) {
+                        UnitApplyTimedLife(u, 'BTLF', duration);
+                    }
                 }
                 else {
                     thistype.removeUnit(u);

@@ -15,7 +15,18 @@ library LeaveEvent requires IslandDefenseSystem {
             PlayerData p = t.data();
             // Exit out if they're already gone
             if (!p.isLeaving() || p.hasLeft()) return;
-            Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed. Their structures will remain.|r");
+            if (GameSettings.getBool("NEUTRALIZE_STRUCTURES")) {
+                if (GameSettings.getBool("NEUTRALIZE_STRUCTURES_DECAY")) {
+                    Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed.  Their structures will remain for an additional " + 
+                             R2S(GameSettings.getReal("NEUTRALIZE_STRUCTURES_DECAY_TIME")) + " seconds.|r");
+                }
+                else {
+                    Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed.  Their structures will remain until killed.|r");
+                }
+            }
+            else {
+                Game.say("|cff00bfff30 seconds until |r" + p.nameColored() + "|cff00bfff's units are removed.|r");
+            }
             GameTimer.new(function(GameTimer t){
                 PlayerDataArray list = 0;
                 integer i = 0;
@@ -24,7 +35,17 @@ library LeaveEvent requires IslandDefenseSystem {
                 PlayerData q = 0;
                 // Exit out if they're already gone
                 if (!p.isLeaving() || p.hasLeft()) return;
-                Game.say(p.nameColored() + "|cff00bfff's units have been removed. Their structures will remain.|r");
+                if (GameSettings.getBool("NEUTRALIZE_STRUCTURES")) {
+                    if (GameSettings.getBool("NEUTRALIZE_STRUCTURES_DECAY")) {
+                        Game.say(p.nameColored() + "|cff00bfff's units have been removed. Their structures will remain for an additional " + R2S(GameSettings.getReal("NEUTRALIZE_STRUCTURES_DECAY_TIME")) + " seconds.|r");
+                    }
+                    else {
+                        Game.say(p.nameColored() + "|cff00bfff's units have been removed. Their structures will remain until killed.|r");
+                    }
+                }
+                else {
+                    Game.say(p.nameColored() + "|cff00bfff's units have been removed.|r");
+                }
                 // Grant the Titan an extra bonus!
                 if (GameSettings.getBool("TITAN_BONUS_ON_DEFENDER_LEAVE")) {
                     list = PlayerData.withClass(PlayerData.CLASS_TITAN);
