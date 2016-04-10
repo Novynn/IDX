@@ -35,7 +35,7 @@
         {
             "id": "iico",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpThree.blp"
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpTwo.blp"
         },
         {
             "id": "isst",
@@ -80,7 +80,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A mighty shield that increases the holders armor by +5, hit points by +250 and provides 25% spell damage reduction.|n|cffffd700Requires:|r 1 Titan Egg, Shield of Will, Runed Bracers"
+            "value": "A mighty shield that increases the holders armor by +5, hit points by +250.|n|cffffd700Requires:|r 1 Titan Egg, Shield of Will|n|n|cffff0000Note:|r Hold a |caa8888cdShield of Might|r and |caa22aa22Runed Bracers|r to create a |cffff4500Shield of Fortitude|r."
         }
     ],
     "type": "Item"

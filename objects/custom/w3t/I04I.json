@@ -55,7 +55,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Reduces Magic damage dealt to the holder by 25%.|n|cffffd700Requires:|r 1 Titan Egg, 1 Armored Scale"
+            "value": "Reduces Magic damage dealt to the holder by 25%.|n|cffffd700Requires:|r 1 Titan Egg, 1 Armored Scale|n|n|cffff0000Note:|r Hold a |caa8888cdShield of Might|r and |caa22aa22Runed Bracers|r to create a |cffff4500Shield of Fortitude|r."
         }
     ],
     "type": "Item"

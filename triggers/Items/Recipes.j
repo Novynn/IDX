@@ -140,6 +140,7 @@ library ItemRecipes requires RecipeSYS {
         AddRecipe('I00H', 'I04B', 0, 0, 0, 0, 'I048'); // Greater Troll Hands
         AddRecipe('I00G', 'I049', 0, 0, 0, 0, 'I046'); // Greater Summoning Stone
         AddRecipe('I00I', 'I04A', 0, 0, 0, 0, 'I047'); // Greater Gnoll Luck
+        AddRecipe('I04F', 'I04G', 0, 0, 0, 0, 'I05D'); // Shield of Fortitude
 
         AddRecipe('I022', 'I022', 'I022', 'I022', 'I047', 'I023', 'I020'); // Ring of Shadows
         AddRecipe('I023', 0, 0, 0, 0, 0, 0); // Destroy
@@ -149,7 +150,7 @@ library ItemRecipes requires RecipeSYS {
         AddRecipe('I026', 0, 0, 0, 0, 0, 0); // Destroy
         AddRecipe('I022', 'I00A', 'I00A', 'I03S', 0, 0, 'I03P'); // Shield of Will
         AddRecipe('I03S', 0, 0, 0, 0, 0, 0); // Destroy
-        AddRecipe('I022', 'I03P', 'I04F', 'I04H', 0, 0, 'I04G'); // Shield of Might
+        AddRecipe('I022', 'I03P', 'I04H', 0, 0, 0, 'I04G'); // Shield of Might
         AddRecipe('I04H', 0, 0, 0, 0, 0, 0); // Destroy
         AddRecipe('I022', 'I00A', 'I04I', 0, 0, 0, 'I04F'); // Runed Bracers
         AddRecipe('I04I', 0, 0, 0, 0, 0, 0); // Destroy

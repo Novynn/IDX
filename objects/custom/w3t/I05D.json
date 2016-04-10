@@ -1,11 +1,11 @@
 {
     "base": "pnvu",
-    "id": "I03P",
+    "id": "I05D",
     "mods": [
         {
             "id": "iabi",
             "type": 3,
-            "value": "AId2,AIlf"
+            "value": "AId5,AIlz,A0JN"
         },
         {
             "id": "icla",
@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Increases armor by 2 and hit points by 150."
+            "value": "Increases armor by 5, hit points by 250 and provides 25% spell damage reduction."
         },
         {
             "id": "idrp",
@@ -35,7 +35,7 @@
         {
             "id": "iico",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpOne.blp"
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpThree.blp"
         },
         {
             "id": "ipaw",
@@ -65,7 +65,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa7cfc00Shield of Will|r"
+            "value": "|cffff4500Shield of Fortitude|r"
         },
         {
             "id": "utip",
@@ -75,7 +75,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases armor by 2 and hit points by 150."
+            "value": "A mighty shield that increases the holders armor by 5, hit points by 250 and provides 25% spell damage reduction."
         }
     ],
     "type": "Item"

@@ -5,7 +5,7 @@
         {
             "id": "iabi",
             "type": 3,
-            "value": "AId5,AIlz,A0JN"
+            "value": "AId5,AIlz"
         },
         {
             "id": "icla",
@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Increases armor by +5, hit points by 250 and provides 25% spell damage reduction."
+            "value": "Increases armor by 5 and hit points by 250."
         },
         {
             "id": "idrp",
@@ -35,7 +35,7 @@
         {
             "id": "iico",
             "type": 3,
-            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpThree.blp"
+            "value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpTwo.blp"
         },
         {
             "id": "ipaw",
@@ -75,7 +75,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A mighty shield that increases the holders armor by +5, hit points by +250 and provides 25% spell damage reduction."
+            "value": "A mighty shield that increases the holders armor by 5 and hit points by 250.|n|n|cffff0000Note:|r Hold a |caa8888cdShield of Might|r and |caa22aa22Runed Bracers|r to create a |cffff4500Shield of Fortitude|r."
         }
     ],
     "type": "Item"
