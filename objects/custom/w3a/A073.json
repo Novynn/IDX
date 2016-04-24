@@ -1,12 +1,19 @@
 {
     "base": "AHab",
-    "id": "A0MX",
+    "id": "A073",
     "mods": [
         {
             "data": 1,
             "id": "Hab1",
             "type": 2,
             "value": "5",
+            "variation": 1
+        },
+        {
+            "data": 0,
+            "id": "abuf",
+            "type": 3,
+            "value": "B037",
             "variation": 1
         },
         {
@@ -25,6 +32,13 @@
         },
         {
             "data": 0,
+            "id": "anam",
+            "type": 3,
+            "value": "Power Aura",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "ansf",
             "type": 3,
             "value": "(Draenei Void)",
@@ -32,23 +46,30 @@
         },
         {
             "data": 0,
+            "id": "arac",
+            "type": 3,
+            "value": "creeps",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "atar",
             "type": 3,
-            "value": "air,ground,invulnerable,player,vulnerable",
+            "value": "air,ground,invulnerable,player,structure,vulnerable",
             "variation": 1
         },
         {
             "data": 0,
             "id": "atp1",
             "type": 3,
-            "value": "Brilliance Aura",
+            "value": "Power Aura",
             "variation": 1
         },
         {
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Gives additional mana regeneration to nearby player units and structures.",
+            "value": "Gives an additional 5 mana per second regeneration to your nearby units and structures.",
             "variation": 1
         }
     ],

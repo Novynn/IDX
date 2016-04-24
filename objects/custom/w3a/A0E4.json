@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Hab1",
             "type": 2,
-            "value": "20",
+            "value": "10",
             "variation": 1
         },
         {
@@ -25,6 +25,13 @@
         },
         {
             "data": 0,
+            "id": "ansf",
+            "type": 3,
+            "value": "(Well of Power)",
+            "variation": 0
+        },
+        {
+            "data": 0,
             "id": "ata0",
             "type": 3,
             "value": "",
@@ -34,7 +41,7 @@
             "data": 0,
             "id": "atar",
             "type": 3,
-            "value": "air,ground,invulnerable,mechanical,player,structure,vulnerable",
+            "value": "air,ground,invulnerable,player,structure,vulnerable",
             "variation": 1
         },
         {
@@ -55,7 +62,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Gives an additional 10 mana per second regeneration to nearby friendly structures.",
+            "value": "Gives an additional 10 mana per second regeneration to your nearby units and structures.",
             "variation": 1
         }
     ],
