@@ -28,7 +28,7 @@
     GameSettings.setInt ("TITAN_BONUS_ON_DEFENDER_LEAVE_GOLD", 10);
     GameSettings.setBool("NEUTRALIZE_STRUCTURES", true);
     GameSettings.setBool("NEUTRALIZE_STRUCTURES_DECAY", true);
-    GameSettings.setReal("NEUTRALIZE_STRUCTURES_DECAY_TIME", 60.0);
+    GameSettings.setReal("NEUTRALIZE_STRUCTURES_DECAY_TIME", 120.0);
     
     // Lightning Effects (Desync Test)
     GameSettings.setBool("LIGHTNING_EFFECTS_ENABLED", false);
