@@ -261,14 +261,19 @@ library ExperienceSystem requires ShowTagFromUnit, IsUnitWard {
                 q = PlayerData.get(GetOwningPlayer(v));
                 
                 if (q == 0 && GetOwningPlayer(v) == Player(PLAYER_NEUTRAL_AGGRESSIVE)) {
-                    // Set test to true for q.class()
                     b = true;
                 }
                 
-                b = !(IsUnitType(v, UNIT_TYPE_SUMMONED) || IsUnitWard(v) || IsUnitIllusion(v)) &&
-                    (p.class() == PlayerData.CLASS_TITAN ||
+                b = (p.class() == PlayerData.CLASS_TITAN ||
                      p.class() == PlayerData.CLASS_MINION) &&
-                    (q.class() == PlayerData.CLASS_DEFENDER || b);
+                    (b || q.class() == PlayerData.CLASS_DEFENDER);
+                
+                // Only ensure it's not summoned if we have a player (weird wc3 bug)
+                if (q != 0)
+                    b = b && !(IsUnitType(v, UNIT_TYPE_SUMMONED) == true);
+                    
+                b = b && !IsUnitWard(v);
+                b = b && !IsUnitIllusion(v);
                     
                 u = null;
                 v = null;
