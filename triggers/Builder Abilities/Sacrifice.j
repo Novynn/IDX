@@ -16,6 +16,7 @@ library Sacrifice requires GT, UnitManager {
                 
                 UnitRemoveBuffsEx(u, false, false, false, false, true, false, false);
                 UnitApplyTimedLife(u, 'BTLF', 15.0);
+                SetUnitOwner(u, GetOwningPlayer(GetTriggerUnit()), true);
                 
                 DestroyEffect(AddSpecialEffect("Abilities\\Spells\\Undead\\AnimateDead\\AnimateDeadTarget.mdl", x, y));
             }

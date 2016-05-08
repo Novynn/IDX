@@ -97,7 +97,7 @@
             "data": 0,
             "id": "atar",
             "type": 3,
-            "value": "air,ground,neutral,nonhero,notself,organic,player",
+            "value": "air,friend,ground,neutral,nonhero",
             "variation": 1
         },
         {
