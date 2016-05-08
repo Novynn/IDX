@@ -16,11 +16,6 @@
             "id": "unsf",
             "type": 3,
             "value": "Tauren"
-        },
-        {
-            "id": "usin",
-            "type": 0,
-            "value": "240"
         }
     ],
     "type": "Unit"
