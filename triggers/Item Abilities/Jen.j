@@ -65,11 +65,13 @@ library Jen requires ShowTagFromUnit, DestroyEffectTimed {
                     SetUnitX(a, oX);
                     SetUnitY(a, oY);
                     SetUnitFacing(a, oF);
+                    SetUnitPathing(a, true);
                     
                     CreateItem('I055', x, y);
                 }
                 else {
                     IssuePointOrder(a, "smart", GetUnitX(u), GetUnitY(u));
+                    SetUnitPathing(a, false);
                 }
             }
             GroupClear(g);
