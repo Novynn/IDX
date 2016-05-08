@@ -11,7 +11,7 @@ library RacePickMode requires RacePicker, GameSettings, optional PerksSystem {
         public method setupCamera(PlayerData p){
             rect r = null;
             if (p.class() == PlayerData.CLASS_DEFENDER){
-                r = Rect(-2900, 9800, -2900, 9800);
+                r = Rect(-10752, 8704, -10752, 8704);
             }
             else if (p.class() == PlayerData.CLASS_TITAN){
                 r = Rect(-9952, 10304, -9952, 10304);

@@ -50,7 +50,7 @@ library PlayerDataPick requires Players, PlayerDataPickRandoming {
                 mPickerUnit = CreateUnit(playerData.player(), PICKER_UNIT_ID, -9952, 10304, 270);
             }
             else {
-                mPickerUnit = CreateUnit(playerData.player(), PICKER_UNIT_ID, -2900, 9800, 270);
+                mPickerUnit = CreateUnit(playerData.player(), PICKER_UNIT_ID, -10752, 8704, 0);
             }
         }
         

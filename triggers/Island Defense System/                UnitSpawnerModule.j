@@ -86,11 +86,15 @@ library UnitSpawner requires Unit, Players {
             else {
                 thistype.DEFENDER_PICK_EASY_ID = 'n00W';
             }
-            thistype.DEFENDER_PICK_EASY      = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_EASY_ID, -3200, 9800, 270);
-            thistype.DEFENDER_PICK_MEDIUM    = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_MEDIUM_ID, -2900, 9800, 270);
-            thistype.DEFENDER_PICK_HARD      = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_HARD_ID, -2600, 9800, 270);
+            //thistype.DEFENDER_PICK_EASY      = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_EASY_ID, -3200, 9800, 270);
+            //thistype.DEFENDER_PICK_MEDIUM    = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_MEDIUM_ID, -2900, 9800, 270);
+            //thistype.DEFENDER_PICK_HARD      = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_HARD_ID, -2600, 9800, 270);
             //thistype.TITAN_PICK_EASY         = CreateUnit(PASSIVE_PLAYER, TITAN_PICK_EASY_ID, -3392, 3520, 270);
             //thistype.TITAN_PICK_HARD         = CreateUnit(PASSIVE_PLAYER, TITAN_PICK_HARD_ID, -3200, 3392, 270);
+            thistype.DEFENDER_PICK_EASY      = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_EASY_ID, -10752, 8960, 0);
+            thistype.DEFENDER_PICK_MEDIUM    = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_MEDIUM_ID, -10752, 8704, 0);
+            thistype.DEFENDER_PICK_HARD      = CreateUnit(PASSIVE_PLAYER, DEFENDER_PICK_HARD_ID, -10752, 8448, 0);
+            
             thistype.TITAN_PICK_EASY         = CreateUnit(PASSIVE_PLAYER, TITAN_PICK_EASY_ID, -10048, 10304, 270);
             thistype.TITAN_PICK_HARD         = CreateUnit(PASSIVE_PLAYER, TITAN_PICK_HARD_ID, -9856, 10304, 270);
             
