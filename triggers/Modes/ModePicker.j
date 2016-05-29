@@ -254,25 +254,24 @@ library RacePicker requires IslandDefenseSystem, PlayerDataPick, UnitManager {
                 thistype.finalizePickMode();
             }
             
-            thistype.randomCycle = GameTimer.newNamedPeriodic(function(GameTimer t){
-                if (thistype.state() != thistype.STATE_FINISHED){
-                    thistype.cycleRaces();
-                }
-                else {
-                    t.deleteLater();
-                }
-            }, "RacePickerRandomCycle");
-            thistype.randomCycle.start(0.4);
+            thistype.randomCycle = 0;
+            if (thistype.pickMode().cycleRaces()) {
+                thistype.randomCycle = GameTimer.newNamedPeriodic(function(GameTimer t){
+                    if (thistype.state() != thistype.STATE_FINISHED){
+                        thistype.cycleRaces();
+                    }
+                    else {
+                        t.deleteLater();
+                        thistype.randomCycle = 0;
+                    }
+                }, "RacePickerRandomCycle");
+                thistype.randomCycle.start(0.4);
+            }
             
             return true;
         }
 
         public static method initialize() -> boolean {
-            //if (!Game.isState(Game.STATE_STARTING)) {
-            //    Game.say("Game is not state starting...");
-            //Game.printState();
-            //    return false;
-            //}
             if (thistype.state() != thistype.STATE_IDLE) {
                 Game.say("|cffff0000RacePicker is not in an idle state: " + I2S(thistype.state()) + "|r");
                 return false;

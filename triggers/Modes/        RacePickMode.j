@@ -319,6 +319,7 @@ library RacePickMode requires RacePicker, GameSettings, optional PerksSystem {
         
         method gameMode() -> string = "ID";
         method getStartDelay() -> real;
+        method cycleRaces() -> boolean = true;
         
         method onPlayerSetup(PlayerData p) = null;
         method setup();

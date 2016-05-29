@@ -7,7 +7,6 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
         DefenderRace race = 0;
         integer playerCount = 0;
         PlayerDataPick players[100];
-        integer positions[100];
         boolean randomed[100];
     
         public static method create(DefenderRace r) -> thistype {
@@ -17,9 +16,8 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             return this;
         }
         
-        method addPlayer(PlayerDataPick p, integer position, boolean random) {
+        method addPlayer(PlayerDataPick p, boolean random) {
             this.players[this.playerCount] = p;
-            this.positions[this.playerCount] = position;
             this.randomed[this.playerCount] = random;
             this.playerCount = this.playerCount + 1;
         }
@@ -28,36 +26,24 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             PlayerDataPick p = 0;
             boolean r = false;
             integer i = 0;
-            integer j = 0;
             integer indicies[];
             integer indiciesCount = 0;
-            for (0 <= i < 6) {
-                indiciesCount = 0;
-                for (0 <= j < this.playerCount) {
-                    if (this.positions[j] == i && !this.players[j].hasPicked()) {
-                        indicies[indiciesCount] = j;
-                        indiciesCount = indiciesCount + 1;
-                    }
+            
+            for (0 <= i < this.playerCount) {
+                if (this.players[i].race() == NullRace.instance()) {
+                    // Add the player index to the pool (if they have not been resolved to a race yet)
+                    indicies[indiciesCount] = i;
+                    indiciesCount = indiciesCount + 1;
                 }
+            }
                 
-                if (indiciesCount > 0) {
-                    i = indicies[GetRandomInt(0, indiciesCount - 1)];
-                    p = this.players[i];
-                    r = this.randomed[i];
-                    break;
-                }
-            }
-            
-            if (p != 0) {
-                //Game.say("Resolved " + race.toString() + " to: " + p.name() + " (out of " + I2S(indiciesCount) + " players)");
+            if (indiciesCount > 0) {
+                i = indicies[GetRandomInt(0, indiciesCount - 1)];
+                p = this.players[i];
+                r = this.randomed[i];
                 p.setRandoming(r);
-                p.pick(this.race);
+                p.setRace(this.race);
             }
-            else {
-                //Game.say("Could not resolve: " + race.toString());
-            }
-            
-            this.destroy();
             
             return p;
         }
@@ -78,6 +64,10 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
         
         private boolean spawnStarted = false;
         
+        method cycleRaces() -> boolean {
+            return false;
+        }
+        
         method setup(){
             this.setupNormally();
             this.spawnStarted = false;
@@ -89,55 +79,51 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             }
         }
         
-        method start(){
+        private method resolveDefenders() {
             PlayerDataArray list = 0;
             PlayerDataPick p = 0;
             integer i = 0;
             integer j = 0;
-            Table raceUniquePickData = Table.create();
-            DefenderRace pickedRaces[];
-            integer pickedRacesCount = 0;
+            integer index = 0;
             DefenderRace r = 0;
             boolean randomed = false;
             boolean hasRandom = false;
-            boolean preRandom = false;
             item it = null;
+            DefenderRace selections[];
+            boolean selectionRandomMask[];
+            DefenderRaceUniquePick selectionPick[];
+            DefenderRace selectionPickRaces[];
+            integer selectionPickRacesCount = 0;
             
             // Now we want to let all the Defenders choose their race
             list = PlayerData.withClass(PlayerData.CLASS_DEFENDER);
             for (0 <= i < list.size()){
                 p = PlayerDataPick[list[i]];
                 if (!p.isLeaving() && !p.hasLeft() && !p.hasPicked()){
-                    preRandom = p.isRandoming();
+                    hasRandom = p.isRandoming() || (p.isFake() && GameSettings.getBool("FAKE_PLAYERS_AUTOPICK"));
                     p.setRandoming(false);
+                    p.setRace(NullRace.instance());
                     for (0 <= j < 6) {
                         it = UnitItemInSlot(p.picker(), j);
-                        r = 0;
-                        randomed = p.isRandoming() || (p.isFake() && GameSettings.getBool("FAKE_PLAYERS_AUTOPICK"));
-                        if (randomed || it != null) {
-                            if (randomed || GetItemTypeId(it) == 'I006') {
-                                r = PlayerDataPick.getPlayerDataPickRandomRaceUniqueWithBans(p);
+                        index = (p.id() * 6) + j;
+                        if (it != null) {
+                            // Get DefenderRace
+                            if (GetItemTypeId(it) == 'I006') {
+                                // Should use bans, we don't care about unique for now
+                                hasRandom = true;
                                 randomed = true;
-                                if (it != null) {
-                                    RemoveItem(it);
-                                }
+                                r = PlayerDataPick.getPlayerDataPickRandomRaceUniqueWithBans(p);
+                                Game.say(I2S(j) + "> " + p.name() + " randomed " + r.toString());
                             }
                             else {
+                                randomed = false;
                                 r = DefenderRace.fromItemId(GetItemTypeId(it));
-                                RemoveItem(it);
+                                Game.say(I2S(j) + "> " + p.name() + " chose " + r.toString());
                             }
-                        }
-                        it = null;
-                        
-                        hasRandom = hasRandom || randomed;
-                        
-                        if (r != 0) {
-                            if (!raceUniquePickData.has(r)) {
-                                raceUniquePickData[r] = DefenderRaceUniquePick.create(r);
-                                pickedRaces[pickedRacesCount] = r;
-                                pickedRacesCount = pickedRacesCount + 1;
-                            }
-                            DefenderRaceUniquePick(raceUniquePickData[r]).addPlayer(p, j, randomed);
+                            selections[index] = r;
+                            selectionRandomMask[index] = randomed;
+                            RemoveItem(it);
+                            it = null;
                         }
                     }
                     
@@ -145,35 +131,66 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
                     // This will be overridden if a actual race is chosen, see resolve()
                     // preRandom is used for things such as lazy random. This will ensure that a 
                     // race is randomed if no matches are found
-                    if (hasRandom || preRandom) {
+                    if (hasRandom) {
                         p.setRandoming(true);
                     }
                 }
             }
+            
+            // Resolve (sets the correct races, does not pick)
+            for (0 <= j < 6) {
+                selectionPickRacesCount = 0;
+                // Re-use our player list
+                for (0 <= i < list.size()){
+                    p = PlayerDataPick[list[i]];
+                    index = (p.id() * 6) + j;
+                    r = selections[index];
+                    
+                    if (r != 0) {
+                        if (selectionPick[r] == 0) {
+                            selectionPick[r] = DefenderRaceUniquePick.create(r);
+                            selectionPickRaces[selectionPickRacesCount] = r;
+                            selectionPickRacesCount = selectionPickRacesCount + 1;
+                        }
+                        selectionPick[r].addPlayer(p, selectionRandomMask[index]);
+                    }
+                }
+                
+                // Now resolve selections
+                for (0 <= i < selectionPickRacesCount) {
+                    r = selectionPickRaces[i];
+                    selectionPick[r].resolve();
+                    selectionPick[r].destroy();
+                    selectionPick[r] = 0;
+                    selectionPickRaces[i] = 0;
+                }
+            }
             list.destroy();
             list = 0;
+        }
+        
+        method start(){
+            PlayerDataArray list = 0;
+            PlayerDataPick p = 0;
+            integer i = 0;
             
-            // Allow ALL players to spawn
+            this.resolveDefenders();
+            
             this.spawnStarted = true;
             
-            for (0 <= i < pickedRacesCount) {
-                r = pickedRaces[i];
-                // Resolve destroys the data
-                DefenderRaceUniquePick(raceUniquePickData[r]).resolve();
-                raceUniquePickData.remove(r);
-            }
-            raceUniquePickData.destroy();
-            
             list = PlayerData.withClass(PlayerData.CLASS_DEFENDER);
-            // For everyone that we couldn't spawn, give them a chance to pick properly
             for (0 <= i < list.size()){
                 p = PlayerDataPick[list[i]];
                 if (!p.isLeaving() && !p.hasLeft() && !p.hasPicked()){
-                    if (p.isRandoming()) {
-                        p.say("|cff00bfff(Backup) Force-randoming your Defender.|r");
+                    if (p.race() != NullRace.instance()) {
+                        p.pick(p.race());
+                    }
+                    else if (p.isRandoming()) {
+                        p.say("|cff00bfff(Backup) Force-randoming for you.|r");
                         p.pick(p.race());
                     }
                     else {
+                        // For everyone that we couldn't spawn, give them a chance to pick properly
                         p.say("|cff00bfffFailed to assign you to your desired class, please pick from the remaining Defenders.|r");
                         p.setCanPick(true);
                     }
@@ -205,8 +222,6 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             }, "TitanDelayTime");
             graceDelayTimer.showDialog("Grace Period");
             graceDelayTimer.start(GameSettings.getReal("TITAN_SPAWN_GRACE_TIME"));
-            
-            it = null;
         }
         
         method picked(PlayerDataPick p){
