@@ -88,6 +88,7 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             DefenderRace r = 0;
             boolean randomed = false;
             boolean hasRandom = false;
+            boolean preRandom = false;
             item it = null;
             DefenderRace selections[];
             boolean selectionRandomMask[];
@@ -100,12 +101,16 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             for (0 <= i < list.size()){
                 p = PlayerDataPick[list[i]];
                 if (!p.isLeaving() && !p.hasLeft() && !p.hasPicked()){
-                    hasRandom = p.isRandoming() || (p.isFake() && GameSettings.getBool("FAKE_PLAYERS_AUTOPICK"));
+                    preRandom = p.isRandoming();
+                    hasRandom = preRandom || (p.isFake() && GameSettings.getBool("FAKE_PLAYERS_AUTOPICK"));
                     p.setRandoming(false);
                     p.setRace(NullRace.instance());
                     for (0 <= j < 6) {
                         it = UnitItemInSlot(p.picker(), j);
                         index = (p.id() * 6) + j;
+                        if (it == null && preRandom) {
+                            it = UnitAddItemById(p.picker(), 'I006');
+                        }
                         if (it != null) {
                             // Get DefenderRace
                             if (GetItemTypeId(it) == 'I006') {
@@ -113,12 +118,10 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
                                 hasRandom = true;
                                 randomed = true;
                                 r = PlayerDataPick.getPlayerDataPickRandomRaceUniqueWithBans(p);
-                                Game.say(I2S(j) + "> " + p.name() + " randomed " + r.toString());
                             }
                             else {
                                 randomed = false;
                                 r = DefenderRace.fromItemId(GetItemTypeId(it));
-                                Game.say(I2S(j) + "> " + p.name() + " chose " + r.toString());
                             }
                             selections[index] = r;
                             selectionRandomMask[index] = randomed;
@@ -182,11 +185,7 @@ library RacePickModeUniquePick requires RacePickMode, UnitManager {
             for (0 <= i < list.size()){
                 p = PlayerDataPick[list[i]];
                 if (!p.isLeaving() && !p.hasLeft() && !p.hasPicked()){
-                    if (p.race() != NullRace.instance()) {
-                        p.pick(p.race());
-                    }
-                    else if (p.isRandoming()) {
-                        p.say("|cff00bfff(Backup) Force-randoming for you.|r");
+                    if (p.race() != NullRace.instance() || p.isRandoming()) {
                         p.pick(p.race());
                     }
                     else {
