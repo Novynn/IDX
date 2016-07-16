@@ -1,0 +1,12 @@
+{
+    "base": "ohwd",
+    "id": "ohwd",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aoar,WARD"
+        }
+    ],
+    "type": "Unit"
+}
