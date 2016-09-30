@@ -6,14 +6,7 @@
             "data": 1,
             "id": "Hbh1",
             "type": 2,
-            "value": "15",
-            "variation": 1
-        },
-        {
-            "data": 3,
-            "id": "Hbh3",
-            "type": 2,
-            "value": "100",
+            "value": "10",
             "variation": 1
         },
         {
@@ -41,14 +34,14 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1",
+            "value": "0.200000003",
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "1",
+            "value": "0.200000003",
             "variation": 1
         },
         {
@@ -62,7 +55,7 @@
             "data": 0,
             "id": "aub1",
             "type": 3,
-            "value": "Gives a 15% chance that an attack will do 100 bonus damage and stun an opponent for 1 second.|n|cffffcc00Passive",
+            "value": "Gives a 10% chance that an attack will do 50 bonus damage and stun an opponent for 0.2 second.|n|cffffcc00Passive",
             "variation": 1
         }
     ],
