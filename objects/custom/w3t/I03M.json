@@ -18,6 +18,11 @@
             "value": "Artifact"
         },
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nUnique Artifact|r"
+        },
+        {
             "id": "igol",
             "type": 0,
             "value": "0"
@@ -53,6 +58,11 @@
             "value": ""
         },
         {
+            "id": "unam",
+            "type": 3,
+            "value": "|cffffd700Potion of Omniscience|r"
+        },
+        {
             "id": "utip",
             "type": 3,
             "value": "Purchase Potion of Omniscience"
@@ -60,7 +70,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Reveals the entire map for 5 seconds when used. Does not detect invisible units."
+            "value": "|cfff0e68cReveals the entire map for a short duration, revealing all the builders and their structures for you.|n|r|n|cfff0f0f0Items attributes:|r|n|cff3399ffActive - Farseer - [ |r0.00|cff3399ff ] - Instant|n|r|cff99b4d1Reveals the entire map for |r5.00|cff99b4d1 second. Does not reveal invisible units.|r"
         }
     ],
     "type": "Item"

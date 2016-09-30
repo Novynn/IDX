@@ -250,12 +250,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00B|r) Build Methane Machine"
+            "value": "[ |cff3399ffB|r ] Build Methane Machine"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This mechanical stink trap packs more than a punch. Not only does it do incredible splash damage with a distance of 2000, but it also drops a cloud of stench on whoever it attacks.  Any titan that breaths in these fumes will take a minimum of 50 damage a second for 5 seconds. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFF8C6239While being held as an item, the holder will be covered in noxious fumes that deal 50 damage a second to nearby enemy units."
+            "value": "|cfff0e68cA superb tower with whopping range of 2000. Methane Machine's attacks also contaminate its targets, dealing damage overtime.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 133 Chaos|n|cff3399ffAttack Range:|r 2000|n|cff3399ffAttack Speed:|r|cffffcc00 |r3.00|n|cff99b4d1|n|r|cff3399ffPassive - Methane Storage|n|r|cff99b4d1Methane Machine's attacks deal damage to the area of |r150|cff99b4d1, and contaminate the non-allied units in radius of |r300|cff99b4d1, dealing |r50|cff99b4d1 damage per second for |r5.00 |cff99b4d1seconds.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's attack damage by |r25|cff99b4d1 and grants passive that deals |r50|cff99b4d1 damage per second to all non-allied units within the range of |r275|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

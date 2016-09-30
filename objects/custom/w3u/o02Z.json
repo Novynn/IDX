@@ -245,12 +245,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00T|r) Build an |cffffa500Egg Sack|r"
+            "value": "[ |cff3399ffC|r ] Build Egg Sack"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This egg sack allows you to summon spiderlings. These are controllable and can repair nearby allied structures.|nNote: These spiderlings will not block you, they do not give any experience or gold to the enemy."
+            "value": "|cfff0e68cEgg Sack is capable of summoning little spiderlings to repair damaged structures, while shooting at enemies, dealing decent damage.|r|cff808080|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 140 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.35|n|cff99b4d1|n|r|cff3399ffActive - Spiderlings - [ 30.00 ] - Instant|n|r|cff99b4d1Summons 2 uncontrollable spiderlings that repair nearby damaged structures for 60 seconds.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Has no special abilities as an item.|r"
         }
     ],
     "type": "Unit"

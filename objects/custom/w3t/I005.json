@@ -18,6 +18,11 @@
             "value": "Charged"
         },
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nConsumable|r"
+        },
+        {
             "id": "idrp",
             "type": 0,
             "value": "1"
@@ -50,12 +55,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00F|r) Purchase Staff of Teleportation"
+            "value": "[ |cff3399ffF|r ] Purchase Staff of Teleportation"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cff1e90ffTeleports the hero to the targeted allied structure.|r|n|n|cffff5522Note: |rThis item stacks! |cff1e90ffDouble-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
+            "value": "Item attributes:|n|cff1e90ffActive - Teleportation - [ |r120.00|cff1e90ff ] - Unit Target|n|r|cff99b4d1Consumes this item and teleports you to the allied target structure after |r3.00|cff99b4d1 seconds of channeling.|r|n|cff3399ff|n|r|cffff0000Note: This item stacks! Double-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
         }
     ],
     "type": "Item"

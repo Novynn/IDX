@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Increases armor by 5 and hit points by 250."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -65,7 +65,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa8888cdShield of Might|r"
+            "value": "|cff90ee90Shield of Might|r"
         },
         {
             "id": "utip",
@@ -75,7 +75,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A mighty shield that increases the holders armor by 5 and hit points by 250.|n|n|cffff0000Note:|r Hold a |caa8888cdShield of Might|r and |caa22aa22Runed Bracers|r to create a |cffff4500Shield of Fortitude|r."
+            "value": "|cfff0e68cA fey glow is surrounding this shield, empowering it's holder. The glow seems stronger than before, as if to further secure the holder.|n|r|n|cfff0f0f0Item attributes:|r|n|cff99b4d1+ 5 armor|n+ 250 hit points|n|r|n|cffff0000Note: Can be upgraded into Shield of Fortitude by holding Runed Bracers.|r"
         }
     ],
     "type": "Item"

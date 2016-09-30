@@ -5,7 +5,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Permanent +100 hit points."
+            "value": "|cffffa07aBuilder Only|r|cff90ee90|n|r|cffffd700|nConsumable|n|rPermanently increases hit points by 100."
         },
         {
             "id": "idrp",
@@ -40,7 +40,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Permanently increases the hit points of the buyer by 100."
+            "value": "Item attributes:|n|cff99b4d1Permanently increases the reader's hit points by |r100|cff99b4d1.|r|cff3399ff|n|n|r|cffff0000Note: It's recommended to research the Health Upgrade from Research Center first.|r"
         }
     ],
     "type": "Item"

@@ -195,12 +195,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00V|r) Build Sludge Launcher"
+            "value": "[ |cff3399ffV|r ] Build Sludge Launcher"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. The sticky sludge launched from this tower drenches titans causing their attack speed to be reduced. Also deals 5 poison damage per second. This tower also has the ability to transmute into an item so that it may be moved to a different location. |c0000ff40While being held as an item, it causes the hero's attacks to slow the movement speed and attack rate of enemies.|r"
+            "value": "|cfff0e68cSludge Launcher's attacks slow targets' attack and movement speeds and poisons them, dealing damage overtime.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 850|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Sludge Launcher|n|r|cff99b4d1Poisons targets, slowing their movement speed by |r30%|cff99b4d1 and attack speed by |r35%|cff99b4d1. Also deals |r5|cff99b4d1 damage per second for |r5.00|cff99b4d1 seconds.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder the same passive, Sludge Launcher.|r"
         }
     ],
     "type": "Unit"

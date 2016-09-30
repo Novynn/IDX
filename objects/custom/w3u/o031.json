@@ -230,12 +230,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build a |cff3399ffSpiritual Rift|r"
+            "value": "[ |cff3399ffC|r ] Build Spiritual Rift"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage and the ability to cast Tranquility which buffs nearby allies and debuffs enemies. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff00ff00While being held as an item, the holder will turn invisibile when attacked to avoid taking further damage. Invisibility lasts 3 seconds or until the holder casts or attacks. The holder also gains +20 attack damage and increased mana regeneration.|r"
+            "value": "|cfff0e68cSpiritual Rift manipulates visiblity of nearby allied units and deals quite a lot of damage. Also provides bonus mana regeneration.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r0.80|n|cff99b4d1|n|r|cff3399ffPassive - Tranquility|n|r|cff99b4d1Increases mana regeneration of allied units within the range of |r600|cff99b4d1 by |r5|cff99b4d1 per second. Also veils them in invisibility that only breaks on attack, ability cast or constructing.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Increases holder's attack damage by |r20|cff99b4d1 and boosts mana regeneration by |r25%|cff99b4d1. In addition grants the holder Phase Shift ability, causing it to become untargettable for |r3.00 |cff99b4d1seconds upon receiving damage to prevent further damage.|r"
         }
     ],
     "type": "Unit"

@@ -85,12 +85,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00E|r) |cff9C7639Terminus|r"
+            "value": "[ |cff3399ffE|r ] Pick Terminus"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00Difficulty:|r |cffff8000Medium|r|n|n|cffffcc00Nuke:|r|cff00ff00 Hurl Boulder (Small AoE nuke)|n|r|n|cffffd700Pebble Toss:|r|cff00ff00 (Single target spell; stun)|n|n|r|cffffd700Heal:|r |cff00ff00Healing Stone (Equivlent to a greater healing ward lasting 8 seconds.  Weak heal at beginning)|n|r|n|cffffcc00Ultimate:|r|cff00ff00 Earth's Valor (Powerful avatar granting 50 bonus damage, 1200 bonus hp, 5 bonus armor and spell immunity for 60 seconds)|n|r|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Stone.  A difficult titan to get starting with and has poor scouting ability.  Late game, especially with Earth's Valor, Granitacles is arguably the best base sieger in game; dominates hard lvl 13+.|r"
+            "value": "|cff3399ffDifficulty -|r|cff99b4d1 |r|cffffa500Medium|r|cff99b4d1|n|n[ |r|cff3399ffNuke|r|cff99b4d1 ] - |r|cff3399ffHurl Boulder|r|cff99b4d1|nUnit targeted, slow area of effect nuke.|n|n[ |r|cff3399ffHeal|r|cff99b4d1 ] - |r|cff3399ffHealing Stone|r|cff99b4d1|nA visible healing stone, similar to a ward.|n|n[ |r|cff3399ffUnique|r|cff99b4d1 ] - |r|cff3399ffHardened Skin|r|cff99b4d1|nPassive armor bonus and buff in Pebble Toss.|n|n[ |r|cff3399ffUltimate|r|cff99b4d1 ] - |r|cff3399ffEarth's Valor|r|cff99b4d1|nTemporary self-boost granting bonus health, damage and spell immunity.|n|n|r|cffffd700Description:|n|r|cfff0e68cTerminus, the Legendary Titan of Stone, is a master of siege. His healing is extremely strong when used properly, healing him and his minions simultaneously. His unique ability also levels up Pebble Toss, a unit targeted stun, which helps him catch greedy builders. His ultimate prevents all negative effects, making him practically unstoppable for the duration.|r"
         }
     ],
     "type": "Item"

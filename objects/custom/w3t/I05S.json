@@ -8,6 +8,11 @@
             "value": "PowerUp"
         },
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nConsumable|n|rUnlearns all the Hero's abilities."
+        },
+        {
             "id": "ifil",
             "type": 3,
             "value": "Objects\\InventoryItems\\tomeRed\\tomeRed.mdl"
@@ -56,6 +61,11 @@
             "id": "utip",
             "type": 3,
             "value": "(|cffffcc00R|r) Manual of Retraining"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Item attributes:|n|cff99b4d1Unlearns all the Hero's abilities and returns the skill points.|r|cff3399ff|n|n|r|cffff0000Note: Only buy this item if you leveled up wrong abilities.|r"
         }
     ],
     "type": "Item"

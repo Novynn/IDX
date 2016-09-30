@@ -70,17 +70,17 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa7cfc00Shield of Will|r Recipe"
+            "value": "|cff90ee90Shield of Will Recipe|r"
         },
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700R|r) |cff7cfc00Shield of Will|r"
+            "value": "[ |cff3399ffR|r ] Create Shield of Will"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases armor by +2 and hit points by 150.|n|cffffd700Requires:|r 1 Titan Egg, 2 Armored Scales"
+            "value": "|cfff0e68cA fey glow is surrounding this shield, empowering it's holder.|n|r|n|cfff0f0f0Shield of Will attributes:|r|n|cff99b4d1+ 2 armor|n+ 150 hit points|n|r|n|cffffd700Requires:|n|r|cffcd5c5c2 × Armored Scales|n1 × Titan Egg|r"
         }
     ],
     "type": "Item"

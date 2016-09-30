@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Consumable|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nConsumable|r"
         },
         {
             "id": "igol",
@@ -75,12 +75,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Purchase a Chimaera Idol"
+            "value": "[ |cff3399ffQ|r ] Purchase Chimaera Idol"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Consumable|r|cffffcc00]|r|n|n|cffffcc00An idol shaped as a Chimaera. Useful when you want to collect items out of your reach.|r|n|cff1e90ff    On use: summons a Chimera Scout that lasts for 30 seconds. The Scout has 200 health, 6 inventory slots, minimal sight, and a speed of 300.|n|nSelf-Targeted - 300 second cooldown.|r"
+            "value": "Item attributes:|cff1e90ff|nActive - Chimaera Scout - [ |r300.00|cff1e90ff ] - Instant|n|r|cff99b4d1Consumes this item and summons a weak Chimaera Scout for |r30.00|cff99b4d1 seconds. This scout has |r200|cff99b4d1 hit points and can see up to the distance of |r450|cff99b4d1. It also has six inventory slots, allowing it to retrieve items for you.|r"
         }
     ],
     "type": "Item"

@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Provides the holder with an additonal 15% attack speed and 20 damage. Also increases health regeneration."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -90,7 +90,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa8888ffSword of the Magistrate|r"
+            "value": "|cff90ee90Sword of Magistrate|r"
         },
         {
             "id": "utip",
@@ -100,7 +100,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Provides the holder with an additonal 15% attack speed and 20 damage. Also increases health regeneration."
+            "value": "|cfff0e68cSome indistinguishable signature is written on the handle of the sword, most likely some magistrate member.|n|r|n|cfff0f0f0Item attributes:|n|r|cff99b4d1+ 20 attack damage|n+ 15% attack speed|n+ 2/s hit point regeneration|r"
         }
     ],
     "type": "Item"

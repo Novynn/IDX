@@ -5,7 +5,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower has the ability to simultaneously attack all nearby enemy titans within an area of 1000 at the same time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0Any ranged unit that holds this item will be able to simultaneously attack all nearby titans.|r"
+            "value": "|cfff0e68cA support tower, having ability to heal structures alongside with high damage. Also grants huge range of vision, as from flying unit.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 200 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Energy Wave|n|r|cff99b4d1Wave Tower passively attacks all enemy units, within the range of |r1000|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nAllows the holder to attack multiple targets simultaneously.|r"
         },
         {
             "id": "ua1b",
@@ -235,12 +235,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700X|r) Build Wave Tower"
+            "value": "[ |cff3399ffX|r ] Build Wave Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower has the ability to simultaneously attack all nearby enemy titans within an area of 1000 at the same time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0Any ranged unit that holds this item will be able to simultaneously attack all nearby titans.|r"
+            "value": "|cfff0e68cA support tower, having ability to heal structures alongside with high damage. Also grants huge range of vision, as from flying unit.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 200 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Energy Wave|n|r|cff99b4d1Wave Tower passively attacks all enemy units, within the range of |r1000|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nAllows the holder to attack multiple targets simultaneously.|r"
         }
     ],
     "type": "Unit"

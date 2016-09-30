@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Boosts attack damage by 5."
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nPermanent|r"
         },
         {
             "id": "idrp",
@@ -65,12 +65,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700A|r) Purchase Trident"
+            "value": "[ |cff3399ffA|r ] Purchase Trident"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the attack damage of the holder by 5."
+            "value": "Item attributes:|n|cff99b4d1+ 5 attack damage|r"
         }
     ],
     "type": "Item"

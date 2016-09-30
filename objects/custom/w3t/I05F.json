@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00S|r) Purchase Helm of the Dominator Recipe"
+            "value": "[ |cff3399ffS|r ] Purchase Helm of Dominator Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Titan's attack damage by 35, strength by 10 and movement speed by 80. Also grants the holder the Domination aura, which increases the attack damage of nearby units by 15%.|n|cffffd700Requires:|r Gem of Haste, Webbed Feet and a Helm of Command."
+            "value": "|cfff0e68cHelm of Dominator - this item provides raw power: Strenght, attack damage and movement speed alongside with an aura.|n|r|nHelm of Dominator attributes:|cff1e90ff|n|r|cff99b4d1+ 35 attack damage|n+ 40 movement speed|n+ 10 Strenght|n|r|cff3399ffPassive - Domination Aura|n|r|cff99b4d1Increases the attack damage of nearby allied units within the range of |r900|cff99b4d1 by |r15%|cff99b4d1.|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Gem of Haste|n1 × Helm of Command|n1 × Webbed Feet|n1 × Helm of Dominator Recipe|r"
         }
     ],
     "type": "Item"

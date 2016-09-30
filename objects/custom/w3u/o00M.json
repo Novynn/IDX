@@ -230,12 +230,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00V|r) Build Stasis Totem"
+            "value": "[ |cff3399ffV|r ] Build Stasis Totem"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower does a good amount of damage, and it has a 15% chance to stun an enemy for 1 second. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff5d00While being held as an item it causes the holders' attacks to have a 15% chance to stun.|r"
+            "value": "|cfff0e68cStasis Totem's attack damage is strong on its own, but the ability to stun the target makes this tower extremely strong.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 120 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Bash|n|r|cff99b4d1Has |r15% |cff99b4d1chance to stun the target for |r1.00 |cff99b4d1second.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder |r10% |cff99b4d1chance to stun the target for |r0.50|cff99b4d1 seconds.|r"
         }
     ],
     "type": "Unit"

@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00A|r) Purchase Ankh of Power Recipe"
+            "value": "[ |cff3399ffA|r ] Purchase Ankh of Power Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00A more powerful form of your Ankh of Reincarnation. |r|n|cff1e90ff    +50 Attack Damage|n    +20 Strength|n    On death: revives the holder once and once only with 1200 health.|n|nPassive.|r|n|n|cffffd700Requires:|r|n  2x Trident of Power|n  1x Ankh of Reincarnation|n  1x Ankh of Power Recipe"
+            "value": "|cfff0e68cTurns your already powerful ankh into an even more powerful one, Ankh of Power that also provides damage and Strenght.|n|r|nAnkh of Power attributes:|n|cff99b4d1+ 50 Attack Damage|n+ 20 Strength|r|cff1e90ff|nPassive - Undying|n|r|cff99b4d1Upon death, protects the holder, reviving him once with 1200 hit points, removing the Passive - Undying.|r|n|n|cffffd700Requires:|n|r|cffcd5c5c1 × Ankh of Reincarnation|n2 × Trident of Power|n1 × Ankh of Power Recipe|r"
         }
     ],
     "type": "Item"

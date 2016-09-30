@@ -225,12 +225,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "Build Deep Freeze (|cffffd700C|r)"
+            "value": "[ |cff3399ffC|r ] Build Deep Freeze"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Fires shards of ice at enemies. This tower's attack is extremely good at slowing enemies down. |CFF087AFFThis tower can also turn into an item so that it may be moved to a different location. While being held as an item the holders attacks slow the attack and movement speed of enemy units.|R"
+            "value": "|cfff0e68cThis tower's priority isn't the damage, but to slow down enemies attack rate and movement speed. It's recommended to manually guide this tower to priorize the attack.|r|cff808080|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 850|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Deep Freeze|n|r|cff99b4d1Slows the target's movement speed by |r30%|cff99b4d1 and attack speed by |r50%|cff99b4d1 for |r5.00|cff99b4d1 seconds. For the duration, the freezed target takes |r5|cff99b4d1 damage per second.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Grants the holder Freeze, causing its attacks to slow the target's attack rate and movement speed by |r35%|cff99b4d1 for |r5.00|cff99b4d1 seconds, dealing |r5|cff99b4d1 damage per second for the duration.|r"
         }
     ],
     "type": "Unit"

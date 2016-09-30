@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Boosts attack damage by 5."
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nPermanent|r"
         },
         {
             "id": "idrp",
@@ -55,7 +55,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the attack damage of the Hero by 5.|n|cffff4500Collect 3 of these and they will combine to form a Trident of Power.|r"
+            "value": "Item attributes:|n|cff99b4d1+ 5 attack damage|r|cff3399ff|n|n|r|cffff0000Note: Collect 3 of these to combine them and form a Trident of Power.|r"
         }
     ],
     "type": "Item"

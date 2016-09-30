@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -75,12 +75,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00E|r) Purchase Gauntlets of Rage Recipe"
+            "value": "[ |cff3399ffE|r ] Purchase Gaunlets of Rage"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Titan's movement speed by 80, attack speed by 10%, and damage by 25.|n|cffffd700Requires:|r Webbed Feet, Gem of Haste|r"
+            "value": "|cfff0e68cGauntlets of Rage provide you stats to make early game scouting easier, granting more offensive power and movement speed.|n|r|nGauntlets of Fury attributes:|cff1e90ff|n|r|cff99b4d1+ 25 attack damage|n+ 10% attack speed|n+ 40 movement speed|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Gem of Haste|n1 × Webbed Feet|n1 × Gauntlets of Rage Recipe|r"
         }
     ],
     "type": "Item"

@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00R|r) Purchase Armor of Fate Recipe"
+            "value": "[ |cff3399ffR|r ] Purchase Ankh of Power Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00Ancient armor, told to change the fate of the wearer. |r|n|cff1e90ff    +10 Armour|n    +5% Evasion (Does not stack)|n    When attacked: 40% chance to reduce damage taken by 8, capped so that you will always take at least 5 damage.|n|nPassive.|r|n|n|cffffd700Requires:|r|n  3x Shield of Fate|n  1x Armor of Fate Recipe"
+            "value": "|cfff0e68cArmor of Fate reduces the incoming damage greatly, allowing you to breach Builders' defenses more easily.|n|r|nArmor of Fate attributes:|n|cff99b4d1+ 10 armor|n|r|cff3399ffPassive - Hardened Skin|r|n|cff99b4d1Gives you |r40%|cff99b4d1 chance to reduce the damage of incoming attack by |r8|cff99b4d1, but so that they deal minimum of |r5|cff99b4d1 damage.|r|n|cff3399ffPassive - Evasion|n|r|cff99b4d1Gives you |r5% |cff99b4d1chance to evade an incoming attack completely.|r|n|n|cffffd700Requires:|r|n|cffcd5c5c3 × Shield of Fate|n1 × Armor of Fate Recipe|r"
         }
     ],
     "type": "Item"

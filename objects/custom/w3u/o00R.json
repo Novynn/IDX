@@ -205,12 +205,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build Aura Tree"
+            "value": "[ |cff3399ffX|r ] Build Demolisher Totem"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This Tree also gives off 4 auras that increase the defense of nearby friendly units by 5, attack speed by 5%, movement speed by 25%, and attack damage of nearby friendly ranged units by 15%. |cffff8040While being held as an item, the holder will give off the helpful auras.|r"
+            "value": "|cfff0e68cAura Tree excells in aiding nearby units and structures by granting them percentual bonuses.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Fortification|n|r|cff99b4d1Increases armor of units, within the range of|r 500|cff99b4d1, by |r5|cff99b4d1.|n|r|cff3399ffPassive - Tropical Aura|n|r|cff99b4d1Increases attack damage of allied towers and ranged units, within the range of |r500|cff99b4d1, by |r15%|cff99b4d1.|n|r|cff3399ffPassive - Aura of Haste|n|r|cff99b4d1Increases attack speed of allied units, within the range of |r900|cff99b4d1, by |r5%|cff99b4d1 and movement speed by |r25%|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the same passives, Tropical Aura and Aura of Haste as the building form, |r"
         }
     ],
     "type": "Unit"

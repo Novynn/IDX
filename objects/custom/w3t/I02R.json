@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nConsumable|r"
         },
         {
             "id": "idrp",
@@ -70,7 +70,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Creates a floating sentry that can fly and moves slowly. Lasts for 360 seconds."
+            "value": "Item attributes:|n|cff1e90ffActive - Eye of the Sky - [ |r0.00|cff1e90ff ] - Instant|n|r|cff99b4d1Consumes the item and spawns a flying unit, floating eye, for |r5.00 |cff99b4d1minutes. Floating Eye can be used for revealing a base during sieges. Floating Eye is invisible and moves slowly - but dies very easily if seen by the builders.|r"
         }
     ],
     "type": "Item"

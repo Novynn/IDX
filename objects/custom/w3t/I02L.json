@@ -90,12 +90,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00S|r) |cffC4FFFFVoltron|r"
+            "value": "[ |cff3399ffS|r ] Pick Voltron"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00Difficulty:|r |cffff8000Medium|r|n|n|cffffcc00Nuke:|r |cff00ff00Forked Lightning (Standard multi-target spell)|r|n|n|cffffcc00Heal:|r |cff00ff00Static Sphere (Single target heal for x amount after 3 seconds--requires nearby structures to work)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Conduction (1200 range blink with large cooldown--rather easy to prevent)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Energy.  Has a shortened wind walk but has a few handy abilities like Atmospheric Charge (Invisibility detection) and 12% evasion.  Average titan throughout game.|r"
+            "value": "|cff3399ffDifficulty -|r|cff99b4d1 |r|cffffa500Medium|r|cff99b4d1|n|n[ |r|cff3399ffNuke|r|cff99b4d1 ] - |r|cff3399ffBall Lightning|r|cff99b4d1|nCone-shaped short ranged area of effect nuke.|n|n[ |r|cff3399ffHeal|r|cff99b4d1 ] - |r|cff3399ffStatic Sphere|r|cff99b4d1|nSingle target heal with two healing intervals.|n|n[ |r|cff3399ffUnique|r|cff99b4d1 ] - |r|cff3399ffEvasion|r|cff99b4d1|nPermanently grants Voltron evasion chance.|n|n[ |r|cff3399ffUltimate|r|cff99b4d1 ] - |r|cff3399ffConduction|r|cff99b4d1|nA long-ranged Blink, usually countered. Makes Voltron extremely mobile.|n|n|r|cffffd700Description:|n|r|cfff0e68cVoltron, the Legendary Titan of Lightning, is rather weak titan, but if he manages to power-up quickly he soon becomes unstoppable. Voltron's power undeniably lies in the late game - once he gets his Ultimate he becomes practically unstoppable. His shortened, twenty second wind walk restricts his early siege power, meanwhile his scouting ability is a harsh counter against invisibility.|r"
         }
     ],
     "type": "Item"

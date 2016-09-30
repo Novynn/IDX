@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": ""
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -90,12 +90,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Purchase Mystical Coral"
+            "value": "[ |cff3399ffC|r ] Purchase Mystical Coral Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Hero's rate of mana regeneration by 120% and adds 600 mana when worn. |n|cffffd700Requires:|r 2 Magic Corals & Recipe."
+            "value": "|cfff0e68cMystical Coral is improved version of Magic Coral, providing more mana and mana regeneration than its counterpart.|n|r|nMystical Coral attributes:|cff1e90ff|n|r|cff99b4d1+ 600 mana points|n+ 120% bonus mana regeneration|n|r|n|cffffd700Requires:|n|r|cffcd5c5c2 × Magic Coral|n1 × Mystical Coral Recipe|r"
         }
     ],
     "type": "Item"

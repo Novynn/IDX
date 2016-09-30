@@ -5,7 +5,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "The ultimate tower for any base defense. This tower packs quite a punch, It has an attack that deals 130 chaos damage, and also has 2 secondary weapons so it can attack more than 1 unit at a time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0While being held as an item, it causes radioacive waste to shoot from its holder and also grants +10 damage.|r"
+            "value": "|cfff0e68cA strong tower with two secondary weapons, allowing it to deal damage to multiple enemies simultaneously.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 130 Chaos|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffPassive - Radioactive Radon|n|r|cff99b4d1Shoots a secondary missile every |r0.65|cff99b4d1 seconds, dealing |r30 |cff99b4d1damage on hit. Also shoots third kind of missile every |r0.80 |cff99b4d1seconds, dealing |r30|cff99b4d1 damage on hit. Secondary weaponry has the range of |r1000|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the same passive as the building form. In addition increases the holder's attack damage by |r10|cff99b4d1.|r"
         },
         {
             "id": "ua1b",
@@ -255,12 +255,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700C|r) Build Toxic Tower"
+            "value": "[ |cff3399ffC|r ] Build Toxic Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The ultimate tower for any base defense. This tower packs quite a punch, It has an attack that deals 130 chaos damage, and also has 2 secondary weapons so it can attack more than 1 unit at a time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff5f9ea0While being held as an item, it causes radioacive waste to shoot from its holder and also grants +10 damage.|r"
+            "value": "|cfff0e68cA strong tower with two secondary weapons, allowing it to deal damage to multiple enemies simultaneously.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 130 Chaos|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffPassive - Radioactive Radon|n|r|cff99b4d1Shoots a secondary missile every |r0.65|cff99b4d1 seconds, dealing |r30 |cff99b4d1damage on hit. Also shoots third kind of missile every |r0.80 |cff99b4d1seconds, dealing |r30|cff99b4d1 damage on hit. Secondary weaponry has the range of |r1000|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the same passive as the building form. In addition increases the holder's attack damage by |r10|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

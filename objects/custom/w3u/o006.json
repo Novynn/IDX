@@ -200,12 +200,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build |c00ff7040Tropical Glyph|r"
+            "value": "[ |cff3399ffX|r ] Build Trophical Glyph"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower also gives off an aura that increases the attack damage of nearby ranged units, including towers, by 20%. This tower can also be turned into an item so that it may be moved to a different location. |cffff8040While being held it provides the holder with +35 damage while still giving off the aura that increases the attack damage of nearby friendly ranged units.|r"
+            "value": "|cfff0e68cTrophical glyph is a damage-based tower, dealing high damage and also increasing attack damage of nearby towers.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Tropical Aura|n|r|cff99b4d1Increases attack damage of allied towers and ranged units, within the range of |r500|cff99b4d1, by |r20%|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's attack damage by |r35|cff99b4d1 and grants the same passive, Tropical Aura.|r"
         }
     ],
     "type": "Unit"

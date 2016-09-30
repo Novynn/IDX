@@ -180,12 +180,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build |cFF008400Crown of Thieves|r"
+            "value": "[ |cff3399ffX|r ] Build Crown of Thieves"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful icon of the Satyr, this vault contains the vast fortune the Satyr has amassed, which inspires his troops perform greater deeds. Provides a collection of auras that greatly increase the power of all player units. This tower can also be turned into an item so that it may be moved to a different location. |c00ff8040While being held it provides the Satyr with +250 hp and +5 armour.|r"
+            "value": "|cfff0e68cThe legendary icon of Satyr, greaty increases his survival skills, such as movement speed and health regeneration.|n|r|cffffd700\"They crowned him their king, unaware of his unglorious past.\"|r|cfff0e68c|n|r|n|cff3399ffHealth:|r 850|n|cff3399ffArmor:|r 25 Fortified|n|cff99b4d1|n|r|cff3399ffPassive - Crown Made of Stolen Gold|n|r|cff99b4d1Increases player's units' attack damage by |r25%|cff99b4d1, attack speed by |r20%|cff99b4d1, movement speed by|r 10% |cff99b4d1and hit point regeneration by |r2/s|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's armor by |r5|cff99b4d1 and adds |r250|cff99b4d1 additional hit points.|r"
         },
         {
             "id": "uubs",

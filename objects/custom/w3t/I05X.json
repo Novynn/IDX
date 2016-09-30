@@ -25,7 +25,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "A mystical stone that allows the holder to teleport a short distance of 600, allowing it to escape the Titan or its Minions."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -75,7 +75,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa8a2be2Mystic Stone|r"
+            "value": "|cff90ee90Mystic Stone|r"
         },
         {
             "id": "utip",
@@ -85,7 +85,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A mystical stone that allows the holder to teleport a short distance of 600, allowing it to escape the Titan or its Minions."
+            "value": "|cfff0e68cThe teleportation stone is inserted in the stone, providing an infinite teleportation device.|n|r|n|cfff0f0f0Item attributes:|n|r|cff1e90ffActive - Mystic Blink - [ |r180.00|cff1e90ff ] - Point Target|n|r|cff99b4d1After |r0.60|cff99b4d1 second casting time teleports the caster towards the selected target location, up to maximum range of |r600|cff99b4d1.|r"
         }
     ],
     "type": "Item"

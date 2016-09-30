@@ -5,7 +5,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage and has extremely long range. This towers attacks also destroy 50 mana per hit against any unit, causing bonus damage equal to the mana destroyed. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff0080While being held as an item, it causes the hero's attacks to drain mana from the targeted enemy.|r"
+            "value": "|cfff0e68cMediocre tower damage-wise but its basic attacks drain the target's mana, applying bonus damage, making it very strong.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 1100|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.50|n|cff99b4d1|n|r|cff3399ffPassive - Magic Depletion|n|r|cff99b4d1Drains |r50|cff99b4d1 mana points on each attack, dealing bonus damage equal to the mana drained. If the target's has no mana, no bonus damage is dealt.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder Ignorance Aura that degenerates mana of enemy units, within the range of |r500|cff99b4d1, in |r10|cff99b4d1 mana per second ratio.|r"
         },
         {
             "id": "ua1b",
@@ -250,12 +250,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700V|r) Build Magic Pearl"
+            "value": "[ |cff3399ffV|r ] Build Magic Pearl"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage and has extremely long range. This tower's attacks also destroy 50 mana per hit against any unit, causing bonus damage equal to the mana destroyed. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff0080While being held as an item, this tower makes the holder degenerate nearby enemy units mana over time.|r"
+            "value": "|cfff0e68cMediocre tower damage-wise but its basic attacks drain the target's mana, applying bonus damage, making it very strong.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 1100|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.50|n|cff99b4d1|n|r|cff3399ffPassive - Magic Depletion|n|r|cff99b4d1Drains |r50|cff99b4d1 mana points on each attack, dealing bonus damage equal to the mana drained. If the target's has no mana, no bonus damage is dealt.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder Ignorance Aura that degenerates mana of enemy units, within the range of |r500|cff99b4d1, in |r10|cff99b4d1 mana per second ratio.|r"
         }
     ],
     "type": "Unit"

@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -65,12 +65,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00R|r) Purchase Helm of Command"
+            "value": "[ |cff3399ffR|r ] Purchase Helm of Command"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Gives the Titan an aura of command that increases nearby allied units attack damage. Also grants the holder +10 strength."
+            "value": "|cfff0f0f0Item attributes:|n|r|cff99b4d1+ 10 Strenght|n|r|cff3399ffPassive - Aura of Command|n|r|cff99b4d1Increases the attack damage of nearby allies by |r5%|cff99b4d1.|r"
         }
     ],
     "type": "Item"

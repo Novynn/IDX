@@ -10,7 +10,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Reduces Magic damage dealt to the holder by 25%."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -45,7 +45,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa22aa22Runed Bracers|r"
+            "value": "|cff90ee90Runed Bracers|r"
         },
         {
             "id": "utip",
@@ -55,7 +55,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Reduces Magic damage dealt to the holder by 25%.|n|n|cffff0000Note:|r Hold a |caa8888cdShield of Might|r and |caa22aa22Runed Bracers|r to create a |cffff4500Shield of Fortitude|r."
+            "value": "|cfff0e68cSome odd symbols are covering these bracers.|n|r|n|cfff0f0f0Items attributes:|r|n|cff99b4d1+ 25% magic resistance|n|r|n|cffff0000Note: Can be upgraded into Shield of Fortitude by holding Shield of Might. Magic resistance does not stack.|r"
         }
     ],
     "type": "Item"

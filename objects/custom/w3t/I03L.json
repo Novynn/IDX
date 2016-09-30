@@ -18,6 +18,11 @@
             "value": "Artifact"
         },
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
+        },
+        {
             "id": "idrp",
             "type": 0,
             "value": "1"
@@ -65,12 +70,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00D|r) Purchase Wand of Neutralization"
+            "value": "[ |cff3399ffD|r ] Purchase Wand of Neutralization"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Hurls forth a stream of neutralizing magic that bounces up to 5 times, dispelling any unit in its wake.|n|n|cffff5522Note:|r If you target an ally, it will only bounce to allies. If you target an enemy, then it will only bounce to enemies."
+            "value": "Item attributes:|n|cff3399ffActive - Chain Dispel - [ |r80.00|cff3399ff ] - Unit Target|r|cff99b4d1|nConsumes this item and sends out a chain of dispelling magic that neutralizes the target unit and up to 5 additional targets nearby.|r|n|n|cffff0000Note: The bounces are focused on units on the same side as the primary target.|r"
         }
     ],
     "type": "Item"

@@ -205,12 +205,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build High Energy Conduct"
+            "value": "[ |cff3399ffC|r ] Build High Energy Conduct"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower does low basic damage, but when charged, can deal a rapid series of devastating attacks.|n|cff99b4d1When held as an item, it allows the holder to shoot lightning at nearby enemy units. Also grants +20 attack damage.|r"
+            "value": "|cfff0e68cAlbeit having low basic attack damage, this tower is powerful - it is capable of charging its attack, increasing attack damage greatly.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 25 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r0.70|n|cff99b4d1|n|r|cff3399ffPassive - Super Charged|n|r|cff99b4d1Increases damage of a basic attack by |r100|cff99b4d1 for the cost of |r50 |cff99b4d1mana points, allowing the tower to shoot up to |r8|cff99b4d1 of these missiles in a burst.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Allows the holder to passively shoot powerful lightnings at enemies, within the range of |r600|cff99b4d1, dealing |r100|cff99b4d1 damage per second. Also boosts the holder's attack damage by |r20|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

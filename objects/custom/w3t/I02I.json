@@ -85,12 +85,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00R|r) |cffFF1700Moltenious|r"
+            "value": "[ |cff3399ffR|r ] Pick Moltenious"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Nuke:|r |cff00ff00Scepter of Flames (Standard bouncing spell)|n|n|r|cffffcc00Heal:|r |cff00ff00Healing Heat (Strong fast-cast self heal)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Magmide (Summons a powerful 4000 health minion from a range of 1000; minion lasts for 1 minute)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Flames.  Average early game scouting ability with Phoenix Scout (Sees invis) and has an innate 15dmg/sec immolation.  Dominates mid-game and does well late-game if Magmide is used right.|r"
+            "value": "|cff3399ffDifficulty -|r|cff99b4d1 |r|cff00ff00Easy|r|cff99b4d1|n|n[ |r|cff3399ffNuke|r|cff99b4d1 ] - |r|cff3399ffScepter of Flames|r|cff99b4d1|nStandard bouncing nuke.|n|n[ |r|cff3399ffHeal|r|cff99b4d1 ] - |r|cff3399ffHealing Heat|r|cff99b4d1|nStrong self-targeted heal, heals a couple nearby allies.|n|n[ |r|cff3399ffUnique|r|cff99b4d1 ] - |r|cff3399ffPermanent Immolation|r|cff99b4d1|nPermanent immolation that slowly damages nearby structures.|n|n[ |r|cff3399ffUltimate|r|cff99b4d1 ] - |r|cff3399ffMagmide|r|cff99b4d1|nA long-ranged, strong infernal summon.|n|n|r|cffffd700Description:|n|r|cfff0e68cMoltenious, the Legendary Titan of Flames, is a strong titan throughout the game. His strong and fast heal builds up pressure during the game, being extremely strong against mediocre bases. Moltenious' unique ability even further increases his presence, speeding up his destructive power. Once reached his ultimate, he becomes practically unstoppable, undeniably hot.|r"
         }
     ],
     "type": "Item"

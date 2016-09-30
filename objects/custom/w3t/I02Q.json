@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00S|r) Purchase Floating Eye Recipe"
+            "value": "[ |cff3399ffS|r ] Purchase Floatin Eye Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Gives the titan a one use invisible flying sentry that can scout over bases. |cffff0000Does not have truesight. |rSlow moving. |n|cffffd700Requires:|r Eye of the Ocean & Recipe"
+            "value": "|cfff0e68cAllows you to keep an eye on a base for a long time during sieges, beware of Gnoll Trackers.|n|r|nFloating Eye attributes:|n|cff1e90ffActive - Eye of the Sky - [ |r0.00 |cff1e90ff] - Instant|n|r|cff99b4d1Consumes the item and spawns a flying unit, floating eye, for |r5.00 |cff99b4d1minutes. Floating Eye can be used for revealing a base during sieges. Floating Eye is invisible and moves slowly - but dies very easily if seen by the builders.|r|n|n|cffffd700Requires:|n|r|cffcd5c5c1 × Eye of the Ocean|n1 × Floating Eye Recipe|r"
         }
     ],
     "type": "Item"

@@ -60,12 +60,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700F|r) |cffffff00Teleporter Recipe|r"
+            "value": "[ |cff3399ffF|r ] Create Teleporter"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This is a permanent teleportation staff. It works the same as any other teleportation staff, except the casting time on this one is half a second and it can be used over and over. (Long Cooldown).|n|cffffd700Requires:|r 2 Titan Eggs, 1 Staff of Teleportation"
+            "value": "|cfff0e68cEnchanced teleporter device with reduced channeling time and infinite charges.|n|r|n|cfff0f0f0Teleporter attributes:|n|r|cff1e90ffActive - Teleportation - [ |r360.00|cff1e90ff ] - Unit Target|n|r|cff99b4d1Teleports you to the allied target structure after |r0.50|cff99b4d1 seconds of channeling.|r|cffff0000|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Staff of Teleportation|n2 × Titan Egg|r"
         }
     ],
     "type": "Item"

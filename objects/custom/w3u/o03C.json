@@ -220,12 +220,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build |cffff69b4Island Bloom|r"
+            "value": "[ |cff3399ffX|r ] Build Island Bloom"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that can only deal damage during the daytime. This tower has the ability to cast Seed, which creates 3 seedlings at the targeted position that attack nearby enemy units. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff8c6239While being held as an item it gives its carrier a slowing Bloom Aura and also increases the armor of the holder by 5.|r"
+            "value": "|cfff0e68cEgg Sack is capable of summoning seedlings that actively attack the titan and his minions. Island Bloom only attacks during daytime.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 90 Chaos|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r0.80|n|cff99b4d1|n|r|cff3399ffActive - Seedlings - [ |r15.00|cff3399ff ] - Instant|n|r|cff99b4d1Summons |r3|cff99b4d1 immobile seedlings that attack enemy units within the range of |r600|cff99b4d1, each dealing |r20|cff99b4d1 damage per second.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Provides the holder with |r5|cff99b4d1 additional armor and Bloom Aura, which slows movement speed of enemy units, within the range of |r350|cff99b4d1, by |r20%|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

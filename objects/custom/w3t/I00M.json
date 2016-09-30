@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -55,12 +55,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00S|r) Purchase Magic Coral"
+            "value": "[ |cff3399ffS|r ] Purchase Magic Coral"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Hero's rate of mana regeneration by <AIrm,DataA1,%>% and adds 250 mana when worn."
+            "value": "Item attributes:|cfff0f0f0|n|r|cff99b4d1+ 250 mana points|n+ 50% mana regeneration|r"
         }
     ],
     "type": "Item"

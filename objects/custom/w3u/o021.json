@@ -210,12 +210,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build a |cff00ff00Pandarens Box|r"
+            "value": "[ |cff3399ffX|r ] Build Pandarens Box"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This tower by itself can not do anything. You must specialize this box into one of the three elements. Each elemental box has a unique abilities as towers and when held as items."
+            "value": "|cfff0e68cCan be upgraded to an Elemental Box, granting element-specific bonuses and functions.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified"
         },
         {
             "id": "uupt",

@@ -205,12 +205,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build Well of Power"
+            "value": "[ |cff3399ffX|r ] Build Well of Power"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower also gives off an aura that gives bonus mana regeneration to your structures.|nWhen held as an item, it gives off a mana regeneration aura and adds 200 mana to the holder."
+            "value": "|cfff0e68cWhile dealing modest damage this tower greatly boosts mana regeneration of your nearby units and structures.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.50|n|cff99b4d1|n|r|cff3399ffPassive - Infinity|n|r|cff99b4d1Increases mana regeneration of your units and structures, within the range of |r900|cff99b4d1, by |r10|cff99b4d1 per second.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Adds |r200|cff99b4d1 additional mana to the holder's mana pool and also grants the same passive, Infinity, as its structure-counterpart.|r"
         }
     ],
     "type": "Unit"

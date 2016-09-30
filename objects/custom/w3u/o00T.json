@@ -195,12 +195,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build Spiny Protector"
+            "value": "[ |cff3399ffC|r ] Build Spiny Protector"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage with 2 different attacks at the same time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFF00FF00While being held as an item, the holder will shoot streams of damaging thorns at enemy units.|r"
+            "value": "|cfff0e68cSpiny Tower shoots a steady stream of thorns at the target enemy while also using basic attacks to deal high damage.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 120 Pierce|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffPassive - Spine Launcher|n|r|cff99b4d1Shoots a stream of thorns at an enemy unit, within the range of |r850|cff99b4d1, dealing damage.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder the same passive, Spine Launcher.|r"
         }
     ],
     "type": "Unit"

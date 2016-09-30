@@ -10,7 +10,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -60,7 +60,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Titan's movement speed by 80, attack speed by 10%, and damage by 25."
+            "value": "Item attributes:|cff1e90ff|n|r|cff99b4d1+ 25 attack damage|n+ 10% attack speed|n+ 40 movement speed|r|n|n|cffff0000Note: The movement bonus does not stack.|r"
         }
     ],
     "type": "Item"

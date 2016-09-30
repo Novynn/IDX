@@ -5,7 +5,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. The Light Energy Tower has the ability to cast Healing Ray onto nearby friendly structures. This ray will heal up to 3 targets for 200 hit points each. This tower also has the ability to transmute into an item so that it may be moved to a different location.|cff5f9ea0While being held as an item, it gives the holder +50% hit point regeneration and + 10 to armor.|r"
+            "value": "|cfff0e68cA support tower, having ability to heal structures alongside with high damage. Also grants huge range of vision, as from flying unit.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 130 Pierce|n|cff3399ffAttack Range:|r 850|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffActive - Healing Ray - [ 20.00 ] - Unit Target|n|r|cff99b4d1Heals an allied structure for |r200|cff99b4d1 hit points. The healing bounces up to |r2|cff99b4d1 additional structures. Cannot heal units!|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases armor of the holder by |r10|cff99b4d1 and increases health regeneration by |r50%|cff99b4d1.|r"
         },
         {
             "id": "ua1b",
@@ -220,12 +220,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700C|r) Build Light Energy Tower"
+            "value": "[ |cff3399ffC|r ] Build Light Energy Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. The Light Energy Tower has the ability to cast Healing Ray onto nearby friendly structures. This ray will heal up to 3 targets for 200 hit points each. This tower also has the ability to transmute into an item so that it may be moved to a different location.|cff5f9ea0While being held as an item, it gives the holder +50% hit point regeneration and + 10 to armor.|r"
+            "value": "|cfff0e68cA support tower, having ability to heal structures alongside with high damage. Also grants huge range of vision, as from flying unit.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 130 Pierce|n|cff3399ffAttack Range:|r 850|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffActive - Healing Ray - [ 20.00 ] - Unit Target|n|r|cff99b4d1Heals an allied structure for |r200|cff99b4d1 hit points. The healing bounces up to |r2|cff99b4d1 additional structures. Cannot heal units!|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases armor of the holder by |r10|cff99b4d1 and increases health regeneration by |r50%|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

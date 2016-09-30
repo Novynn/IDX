@@ -70,17 +70,17 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa8888cdShield of Might|r Recipe"
+            "value": "|cff90ee90Shield of Might Recipe|r"
         },
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700A|r) |cff8888cdShield of Might|r"
+            "value": "[ |cff3399ffA|r ] Create Shield of Might"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A mighty shield that increases the holders armor by +5, hit points by +250.|n|cffffd700Requires:|r 1 Titan Egg, Shield of Will|n|n|cffff0000Note:|r Hold a |caa8888cdShield of Might|r and |caa22aa22Runed Bracers|r to create a |cffff4500Shield of Fortitude|r."
+            "value": "|cfff0e68cA fey glow is surrounding this shield, empowering it's holder. The glow seems stronger than before, as if to further secure the holder.|n|r|n|cfff0f0f0Shield of Might attributes:|r|n|cff99b4d1+ 5 armor|n+ 250 hit points|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Shield of Will|n1 × Titan Egg|r"
         }
     ],
     "type": "Item"

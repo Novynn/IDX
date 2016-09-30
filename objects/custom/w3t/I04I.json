@@ -50,12 +50,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700W|r) Buy |caa22aa22Runed Bracers|r Recipe"
+            "value": "[ |cff3399ffW|r ] Create Runed Bracers"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Reduces Magic damage dealt to the holder by 25%.|n|cffffd700Requires:|r 1 Titan Egg, 1 Armored Scale|n|n|cffff0000Note:|r Hold a |caa8888cdShield of Might|r and |caa22aa22Runed Bracers|r to create a |cffff4500Shield of Fortitude|r."
+            "value": "|cfff0e68cSome odd symbols are covering these bracers.|n|r|n|cfff0f0f0Runed Bracers attributes:|r|n|cff99b4d1+ 25% magic resistance|r|n|n|cffffd700Requires:|n|r|cffcd5c5c1 × Armored Scales|n1 × Titan Egg|r"
         }
     ],
     "type": "Item"

@@ -205,12 +205,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00D|r) Build Bombard Tower"
+            "value": "[ |cff3399ffD|r ] Build Bombard Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The ultimate tower for any Gnolls' defense. This tower packs quite a punch, It has an attack that deals 130 chaos damage, and also has 2 secondary weapons so it can attack more than 1 unit at a time. This tower also has the ability to transmute into an item so that it may be moved to a different location. |c0000ff40While being held as an item, it causes the hero to shoot deadly projectiles at enemy units and adds +10 to damage.|r"
+            "value": "|cfff0e68cBombard Tower deals strong damage. Also has 2 secondary weapons, allowing to attack multiple targets.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 130 Chaos|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Secondary Cannons|n|r|cff99b4d1Shoots a cannon ball every |r2.20|cff99b4d1 seconds, dealing |r50|cff99b4d1 damage on hit. Also shoots three missiles at nearby enemies every|r 3.00 |cff99b4d1seconds, dealing |r70|cff99b4d1 damage on hit. Secondary cannons have range of |r1000|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases attack damage of the holder by |r10|cff99b4d1. Also grants weakened version of Secondary Cannons.|r"
         }
     ],
     "type": "Unit"

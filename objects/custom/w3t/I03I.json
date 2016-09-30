@@ -10,7 +10,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Permanent +15 damage."
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nConsumable|n|rPermanently increases damage by 15."
         },
         {
             "id": "ifil",
@@ -50,7 +50,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Permanently increases the damage of the Hero by 15."
+            "value": "Item attributes:|n|cff99b4d1Permanently increases the reader's attack damage by |r15|cff99b4d1.|r|cff3399ff|n|n|r|cffff0000Note: It's recommended to buy other items first.|r"
         }
     ],
     "type": "Item"

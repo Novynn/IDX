@@ -85,12 +85,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00W|r) |cff0080ffGlacious|r"
+            "value": "[ |cff3399ffW|r ] Pick Glacious"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Nuke:|r |cff00ff00Frost Explosion (Short cast time, below average damage, aoe, frost spell)|n|r|n|cffffcc00Heal:|r |cff00ff00Glaciate (Area of effect heal healing nearby units depending on how close they are)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Arctic Might (Buffs the target unit adding 50 armor and 25% damage for 16 seconds)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Ice.  An average scouter.  Good sieger titan, decent power leveler.  Mid-late game advantage.|r"
+            "value": "|cff3399ffDifficulty -|r|cff99b4d1 |r|cff00ff00Easy|r|cff99b4d1|n|n[ |r|cff3399ffNuke|r|cff99b4d1 ] - |r|cff3399ffFrost Explosion|r|cff99b4d1|nPoint targeted area of effect frost nova.|n|n[ |r|cff3399ffHeal|r|cff99b4d1 ] - |r|cff3399ffGlaciate|r|cff99b4d1|nArea of effect heal, increasing in power closer to Glacious.|n|n[ |r|cff3399ffUnique|r|cff99b4d1 ] - |r|cff3399ffChill Wind|r|cff99b4d1|nActive area of effect ability that slows towers' attack speed.|n|n[ |r|cff3399ffUltimate|r|cff99b4d1 ] - |r|cff3399ffArctic Might|r|cff99b4d1|nA temporary self boost, increasing armor and attack damage.|n|n|r|cffffd700Description:|n|r|cfff0e68cGlacious, the Legendary Titan of Ice, is an average titan throughout the game. Unlike other titan he focuses on temporarily increasing his power. When used well, he excells in his sustain meanwhile the enemy bases are weakened. His minion's heals only heals one target and thus restricts Glacious' power. Then again, Glacious' and his minions' nuke is stronger than most.|r"
         }
     ],
     "type": "Item"

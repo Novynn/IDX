@@ -215,12 +215,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build Tavern"
+            "value": "[ |cff3399ffC|r ] Build Tavern"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This Building allows you to summon a horde of drunking pirates every 60 seconds.  These pirates are uncontrollable but will run to the nearest enemy and start attacking.|nNote: These pirate will not block you, they do not give any experience or gold to the enemy and they can not be targeted for spells."
+            "value": "|cfff0e68cTavern deals basic damage but has the ability to summon untargettable pirates to greatly increase the damage output.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 140 Chaos|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.45|n|cff99b4d1|n|r|cff3399ffActive - Summon Drunken Pirates - [ 60.00 ] - Instant|n|r|cff99b4d1Summons a group of |r10|cff99b4d1 untargettable, uncontrollable pirates for |r20.00|cff99b4d1 seconds. They attack nearby enemies, each dealing roughly |r25|cff99b4d1 damage per second.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the same active ability, Summon Drunken Pirates.|r"
         }
     ],
     "type": "Unit"

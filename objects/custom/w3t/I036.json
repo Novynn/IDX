@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nConsumable|r"
         },
         {
             "id": "idrp",
@@ -70,7 +70,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "|cff87ceebNon-Combat Consumable|r|nRegenerates up to 3000 hit points and 1500 mana of every allied unit within 600 AoE over 45 seconds."
+            "value": "|cfff0f0f0Item attributes:|n|r|cff3399ffActive - Greater Replenishment - [ |r0.00|cff3399ff ] - Instant|r|cff99b4d1|nConsumes the item, and replenishes |r3000|cff99b4d1 hit points and |r1500|cff99b4d1 mana points over |r45.00|cff99b4d1 seconds to all allied units within the range of |r600|cff99b4d1.|n|n|r|cffff0000Note: Being attacked removes the replenishing effect.|r"
         }
     ],
     "type": "Item"

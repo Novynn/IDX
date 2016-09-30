@@ -230,12 +230,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build Demolisher Totem"
+            "value": "[ |cff3399ffX|r ] Build Demolisher Totem"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A slow but powerful tower that deals amazing damage. The attacks of this tower light the ground on fire, burning enemies. This tower can also be turned into an item so that it may be moved to a different location. |c00ff8040While being held it provides the hero with +25 damage as well as a firey aura that burns nearby titans.|r"
+            "value": "|cfff0e68cDemolisher Totem's attacks light the ground on fire, dealing damage on top of its basic attacks.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 150 Chaos|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r5.00|n|cff99b4d1|n|r|cff3399ffPassive - Demolish|n|r|cff99b4d1Demolisher Totem's attacks deal damage to the area of |r150|cff99b4d1, and light the ground on fire, dealing |r75|cff99b4d1 damage per second to units light on fire.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's attack damage by |r25|cff99b4d1 and grants permanent immolation which damages non-allied units, within the range of |r275|cff99b4d1, by |r50|cff99b4d1 damage per second.|r"
         }
     ],
     "type": "Unit"

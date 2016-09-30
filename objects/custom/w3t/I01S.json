@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00A|r) Purchase Mystic Staff of the Gods Recipe"
+            "value": "[ |cff3399ffA|r ] Purchase Mystic Staff of God Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases mana by 350, grants the holder truesight, and can actively be used to reveal large portions of the map. This item is also passable.|n|cffffd700Requires:|r Two Pearls of Vision, Magic Coral & Recipe"
+            "value": "|cfff0e68cMystic Staff of Gods is the source of ultimate vision, being passable this item's reveal alone is strong, but alongside with other stats it's extremely strong.|n|r|nMystic Staff of Gods attributes:|cff1e90ff|n|r|cff99b4d1+ 350 mana points|n|r|cff3399ffPassive - True Sight|n|r|cff99b4d1Allows the holder to see invisible units within the range of |r1100|cff99b4d1.|n|r|cff3399ffActive - Enhanced Farsight - [ |r30.00 |cff3399ff] - Point Target|r|cff1e90ff|n|r|cff99b4d1Reveals a target area on the map, granting you vision of that area for |r10.00|cff99b4d1 seconds, revealing invisible units. This item is also passable.|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Magic Coral|n2 × Pearl of Vision|n1 × Mystic Staff of Gods Recipe|r"
         }
     ],
     "type": "Item"

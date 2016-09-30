@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "This massive egg is seemingly worthless. Or is it... It's magical consistency would be perfect for making powerful items. If only you had the right help..."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -95,17 +95,17 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|c00888888Titan Egg|r"
+            "value": "|cffff00ffTitan Egg|r"
         },
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700C|r) Buy |c00888888Titan Egg|r"
+            "value": "[ |cff3399ffC|r ] Purchase Titan Egg"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This massive egg is seemingly worthless. Or is it... It's magical consistency would be perfect for making powerful items. If only you had the right help..."
+            "value": "|cfff0e68cThis massive egg seems useless, that is unless you could trade it in for something useful. Some one is surely interested in giving you something in exchange.|r"
         }
     ],
     "type": "Item"

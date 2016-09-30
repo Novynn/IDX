@@ -215,12 +215,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00V|r) Build Spell Well"
+            "value": "[ |cff3399ffV|r ] Build Spell Well"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower also has the ability to cast 4 spells; Bloodlust, Frost Armor, Mana Burn, and heal. |cff0054a6While being held as an item, it causes the hero's attacks to drain mana from enemies. Also provides the holder with +30 damage.|r"
+            "value": "|cfff0e68cSpell Well excels in both: abilities and attack power. Having multiple abilities and high attack power makes it a good option.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 140 Chaos|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.45|n|cff99b4d1|n|r|cff3399ffActive - Frost Armor - [ |r5.00|cff3399ff ] - Unit Target|n|r|cff99b4d1Shields a friendly unit, temporarily boosting its armor.|n|r|cff3399ffActive - Mana Burn - [ |r20.00|cff3399ff ] - Unit Target|r|cff99b4d1|nShocks a non-allied unit, burning a portion of its mana and dealing damage.|n|r|cff3399ffActive - Tower Lust - [ |r00.00|cff3399ff ] - Unit Target|n|r|cff99b4d1Powers up an allied tower, increasing its attack speed temporarily.|n|r|cff3399ffActive - Heal - [ 1.00 ] - Unit Target|n|r|cff99b4d1Heals an allied unit for |r25|cff99b4d1 hit points.|n|r|n|cff3399ffAs an item:|r|cff99b4d1|nIncreases holder's attack damage by thirty and causes attacks to drain target's mana|r."
         }
     ],
     "type": "Unit"

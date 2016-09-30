@@ -230,12 +230,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build Whirlpool"
+            "value": "[ |cff3399ffX|r ] Build Whirlpool"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The ultimate Markura Defense. This watery anomaly drenches titans with freezing water causing their movement speed to be reduced. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFF005AFFWhile being held as an item, it causes the hero to automatically spew damaging waves of water onto enemy units at an incredible rate. It will also provide the holder with +20 damage.|r"
+            "value": "|cfff0e68cWhirlpool has the ability to slow down the movement speed of enemies and also has a secondary cannon to shoot an additional target.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 120 Chaos|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.00|n|cff99b4d1|n|r|cff3399ffActive - Freezing Water - [ 40.00 ] - Unit Target|n|r|cff99b4d1Reduces the movement speed of the target unit, within the range of |r900|cff99b4d1, by |r26%|cff99b4d1 for |r30.00 |cff99b4d1seconds.|n|r|cff3399ffPassive - Heavy Water|n|r|cff99b4d1Shoots a stream of water at an enemy unit within the range of |r900|cff99b4d1, dealing damage.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's attack damage by |r20|cff99b4d1 and grants the same passive, Heavy Water.|r"
         }
     ],
     "type": "Unit"

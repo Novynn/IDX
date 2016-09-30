@@ -200,12 +200,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build an |cffadd8e6Ice Palace|r"
+            "value": "[ |cff3399ffX|r ] Build Ice Palace"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A large palace that has an ability to temporarily increase allied structures armor.|n|cfffa8072Transmuted:|r While being held as an item, it increase damage of carrier by 20 and gives a critical strike ability."
+            "value": "|cfff0e68cIce Palace has unusually high attack power. It is also capable of temporarily boosting nearby allied structure's armor.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 121 Pierce|n|cff3399ffAttack Range:|r 800|n|cff3399ffAttack Speed:|r|cffffcc00 |r0.85|n|cff99b4d1|n|r|cff3399ffActive - Fortify - [ |r60.00|cff3399ff ] - Instant|n|r|cff99b4d1Boosts armor of allied structures' within the range of|r 800 |cff99b4d1by |r20|cff99b4d1 for |r15.00|cff99b4d1 seconds.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Increases the holder's attack damage by |r20|cff99b4d1 and grants |r20%|cff99b4d1 chance to deal three times normal damage.|r"
         },
         {
             "id": "uubs",

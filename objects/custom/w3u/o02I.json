@@ -195,12 +195,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00W|r) Upgrade to a |cFF00FF00Box of Storms|r"
+            "value": "[ |cff3399ffW|r ] Upgrade to Box of Storms"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The Box of Storms increases nearby friendly units attack speed, movement speed and armor."
+            "value": "|cfff0e68cBox of Storms increases nearby allied units' attributes.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff99b4d1|n|r|cff3399ffPassive - Fortification|n|r|cff99b4d1Increases armor of units, within the range of|r 500|cff99b4d1, by |r5|cff99b4d1.|n|r|cff3399ffPassive - Power of the Storm|n|r|cff99b4d1Increases attack damage of allied units, within the range of |r500|cff99b4d1, by |r15%|cff99b4d1.|n|r|cff3399ffPassive - Eye of the Storm|n|r|cff99b4d1Increases attack speed of allied units, within the range of |r900|cff99b4d1, by |r10%|cff99b4d1 and movement speed by |r20%|cff99b4d1.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Grants the same passive, Eye of the Storm. Also boosts holder's attack damage by |r20|cff99b4d1 and increases armor of allied units, within the range of |r500|cff99b4d1, by |r5|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -85,12 +85,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00F|r) Purchase Force Trident Recipe"
+            "value": "[ |cff3399ffF|r ] Purchase Force Trident Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Hero's damage by 25, strength by 10, mana regeneration by 60% and mana points by 350.|n|cffffd700Requires:|r Magic Coral & Trident of Power"
+            "value": "|cfff0e68cForce Trident provides raw power in Strenght and damage, but also aids your magical side, granting mana and mana regeneration.|n|r|nForce Trident attributes:|cff1e90ff|n|r|cff99b4d1+ 25 attack damage|n+ 10 Strenght|n+ 350 mana points|n+ 60% mana regeneration|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Magic Coral|n1 × Trident of Power|n1 × Force Trident Recipe|r"
         }
     ],
     "type": "Item"

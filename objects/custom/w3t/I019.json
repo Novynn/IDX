@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -60,12 +60,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00W|r) Fog Generator"
+            "value": "[ |cff3399ffW|r ] Purchase Fog Generator"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This item gives off an aura that turns nearby titans invisible. If the titans attack or cast a spell, they will become visible for a brief moment.|n|cffed1c24Invisibility does not stack with Shadow Catcher or Shadow walk.|r"
+            "value": "Item attributes:|n|cff1e90ffPassive - Shrouding Fog|n|r|cff99b4d1Turns nearby allied units, other than the holder, invisible. The invisibility breaks when they attack, cast spells or go outside range of |r600|cff99b4d1 of the item's holder.|n|r|n|cffff0000Note: The item's holder musn't be Shadow Walking.|r"
         }
     ],
     "type": "Item"

@@ -8,6 +8,11 @@
             "value": "AIp3"
         },
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nConsumable|r"
+        },
+        {
             "id": "idrp",
             "type": 0,
             "value": "1"
@@ -38,6 +43,11 @@
             "value": "0"
         },
         {
+            "id": "ubpx",
+            "type": 0,
+            "value": "1"
+        },
+        {
             "id": "uhot",
             "type": 3,
             "value": "W"
@@ -45,12 +55,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00W|r) Purchase Replenishment Potion"
+            "value": "[ |cff3399ffW|r ] Purchase Replenishment Potion"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Regenerates 2000 hit points and 1000 mana of the Hero over 30 seconds.|n|cffff4500Collect 2 of these and they will combine to form a Greater Replenishment Potion.|r"
+            "value": "Item attributes:|n|cff3399ffActive - Replenishment - [ |r0.00 |cff3399ff] - Instant|r|cff99b4d1|nConsumes this item, and replenishes |r2000|cff99b4d1 hit points and |r1000|cff99b4d1 mana points over |r30.00|cff99b4d1 seconds. Only works out of combat.|r|n|cff3399ff|n|r|cffff0000Note: Collect 2 of these to combine them and form a Greater Replenishment Flask.|r"
         }
     ],
     "type": "Item"

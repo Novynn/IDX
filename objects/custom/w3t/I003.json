@@ -5,7 +5,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Permanent +100 hit points."
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nConsumable|n|rPermanently increases hit points by 100."
         },
         {
             "id": "idrp",
@@ -40,7 +40,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Purchase Manual of Health"
+            "value": "[ |cff3399ffQ|r ] Purchase Manual of Health"
+        },
+        {
+            "id": "utub",
+            "type": 3,
+            "value": "Item attributes:|n|cff99b4d1Permanently increases the reader's hit points by |r100|cff99b4d1.|r|cff3399ff|n|n|r|cffff0000Note: It's recommended to buy other items first.|r"
         }
     ],
     "type": "Item"

@@ -75,12 +75,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700S|r) |cffb600ffRing of Shadows Recipe|r"
+            "value": "[ |cff3399ffS|r ] Create Ring of Shadows"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Permanently turns the holder invisible. Can also be used actively to enable the holder to walk through units and gain a 25% increase in movement speed for 20 seconds.|n|cffffd700Requires: |r4 eggs and a Greater Gnoll Luck Charm."
+            "value": "|cfff0e68cMakes the holder the Master of Stealth.|n|r|n|cfff0f0f0Ring of Shadows attributes:|n|r|cff1e90ffPassive - Master of Stealth|n|r|cff99b4d1Permanently turns the holder invisible. Becoming briefly visible when attacking, casting spells or constructing.|n|r|cff3399ffActive - Trickster - [ |r180.00|cff3399ff ] - Instant|n|r|cff99b4d1Temporarily increases movement speed by |r25%|cff99b4d1 and allows walking through units.|r|n|n|cffffd700Requires:|n|r|cffcd5c5c1 × Greater Gnoll Tracker|n4 × Titan Egg|r"
         }
     ],
     "type": "Item"

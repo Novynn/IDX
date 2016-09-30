@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -60,12 +60,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Purchase Moon Crystal"
+            "value": "[ |cff3399ffC|r ] Purchase Moon Crystal"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Changes the time of day for 60 seconds, and adds +10 to the attack damage of the holder. Has a 20% chance to spawn an Illusion of the holder that deals no damage, but lasts for 60 seconds. This item is permanent with a cooldown of 3 minutes."
+            "value": "Item attributes:|cfff0f0f0|n|r|cff99b4d1+ 10 attack damage|r|n|cff3399ffActive - Moonlight - [ |r120.00 |cff3399ff] - Instant|r|cff1e90ff|n|r|cff99b4d1Creates a temporary night for one minute. In addition, you have |r20%|cff99b4d1 chance to spawn a mirror image of your Titan for the same duration. This mirror image deals no damage, but can be used as a feint.|r|n|n|cffff0000Note: Builders get a warning of a possible mirror image.|r"
         }
     ],
     "type": "Item"

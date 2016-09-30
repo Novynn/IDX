@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00R|r) Purchase Titanic Trident"
+            "value": "[ |cff3399ffR|r ] Purchase Titanic Trident Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases attack damage by 50 and strength by 20 when held.|n|cffffd700Requires:|r 2 Tridents of Power"
+            "value": "|cfff0e68cTitanic Trident provides raw power, giving you chunk of attack damage and also additional Strenght.|n|r|nTitanic Trident attributes:|cff1e90ff|n|r|cff99b4d1+ 50 attack damage|n+ 20 Strenght|r|n|n|cffffd700Requires:|n|r|cffcd5c5c2 × Trident of Power|n1 × Titanic Trident Recipe|r"
         }
     ],
     "type": "Item"

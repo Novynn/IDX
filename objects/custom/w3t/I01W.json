@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": ""
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Purchase Life Essence"
+            "value": "[ |cff3399ffQ|r ] Purchase Life Essence Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Fills Titans with vitality, replenishing 1000 hp in an 750 AoE over 20 seconds when used. Also provides a regenerative aura for all nearby titans. |n|cffffd700Requires:|r 2 Regenerative Spines, Magic Coral, Greater Replenishment Flask & Recipe"
+            "value": "|cfff0e68cLife Essence is the foundation of regeneration. Granting passive area of effect regenerations and an effective active makes it a strong item.|n|r|nLife Essence attributes:|cff1e90ff|n|r|cff3399ffPassive - Rejuvenation|r|cff99b4d1|nProvides all allied units within range of |r1500|cff99b4d1 with |r12/s|cff99b4d1 hit point regeneration and |r6/s|cff99b4d1 mana point regeneration bonuses.|n|r|cff3399ffActive - Ultimate Rejuvenation - [ |r100.00|cff3399ff ] - Instant|n|r|cff99b4d1Replenishes |r1000|cff99b4d1 hit points to all allied units within |r750|cff99b4d1 range over |r20|cff99b4d1 seconds.|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Greater Replenishment Flask|n1 × Magic Coral|n2 × Regenerative Spines|n1 × Life Essence Recipe|r"
         }
     ],
     "type": "Item"

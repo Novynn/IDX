@@ -60,12 +60,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700Z|r) |cff8888ffSword of the Magistrate|r"
+            "value": "[ |cff3399ffZ|r ] Create Sword of Magistrate"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Provides the holder with an additonal 15% attack speed and 20 damage. Also increases health regeneration.|n|cffffd700Requires:|r 2 Titan Eggs, Trident"
+            "value": "|cfff0e68cSome indistinguishable signature is written on the handle of the sword, most likely some magistrate member.|n|r|n|cfff0f0f0Item attributes:|n|r|cff99b4d1+ 20 attack damage|n+ 15% attack speed|n+ 2/s hit point regeneration|r|n|n|cffffd700Requires:|n|r|cffcd5c5c1 × Trident|n2 × Titan Egg|r"
         }
     ],
     "type": "Item"

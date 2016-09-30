@@ -200,12 +200,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "Build |cff99b4d1Energy Spire|r - (|cffffd700V|r)"
+            "value": "[ |cff3399ffV|r ] Build Energy Spire"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower has the ability to focus energy into beams of lightning to beat down your foes, and comes equiped with the Forked Lightning and Chain Lightning abilities. |cffdaff87This building can also turn into an item so that it may be moved to a different location. While being held as an item the holder is granted +35 to attack damage.|r"
+            "value": "|cfff0e68cEnergy Spire deals strong damage alone but in addition it has 2 abilities to boost its damage output.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r0.70|n|cff99b4d1|n|r|cff3399ffActive - Chain Lightning - [ |r60.00 |cff3399ff] - Unit Target|n|r|cff99b4d1Shocks up to |r2|cff99b4d1 non-allied units, within the range of |r1000|cff99b4d1, dealing |r300|cff99b4d1 damage to each.|n|r|cff3399ffActive - Forked Lightning - [ |r60.00 |cff3399ff] - Unit Target|n|r|cff99b4d1Shoots a cone of lightning, dealing |r200|cff99b4d1 damage to up |r5|cff99b4d1 non-allied units within the range of |r1000|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's attack damage by |r35|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

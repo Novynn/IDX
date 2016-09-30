@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -80,7 +80,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Fills Titans with vitality, replenishing 1000 hp in an 750 AoE over 20 seconds when used. Also provides a 12hp/s regeneration aura, and an 6 mana/s regeneration aura."
+            "value": "Item attributes:|cff1e90ff|n|r|cff3399ffPassive - Rejuvenation|r|cff99b4d1|nProvides all allied units within range of |r1500|cff99b4d1 with |r12/s|cff99b4d1 hit point regeneration and |r6/s|cff99b4d1 mana point regeneration bonuses.|n|r|cff3399ffActive - Ultimate Rejuvenation - [ |r100.00|cff3399ff ] - Instant|n|r|cff99b4d1Replenishes |r1000|cff99b4d1 hit points to all allied units within |r750|cff99b4d1 range over |r20|cff99b4d1 seconds.|r"
         }
     ],
     "type": "Item"

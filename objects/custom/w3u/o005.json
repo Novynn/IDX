@@ -215,12 +215,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build Sacred Seashell"
+            "value": "[ |cff3399ffC|r ] Build Sacred Seashell"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The ultimate tower for any Murlocs' defense. Not only does it do incredible damage, but it also has an ability that can heal allied units, including structures. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cff00ffffWhile being held as an item it provides the hero with +10 to all stats and +20 damage.|r"
+            "value": "|cfff0e68cA superb tower with high damage and the ability to heal both structures and units.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 170 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffActive - Sun Light - [ |r80.00 |cff3399ff] - Unit Target|n|r|cff99b4d1Heals an allied target unit or structure, within the range of |r900|cff99b4d1, for |r600|cff99b4d1 hit points.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's attack damage by |r20|cff99b4d1 and adds |r+10 |cff99b4d1to all attributes.|r"
         }
     ],
     "type": "Unit"

@@ -200,12 +200,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00E|r) Upgrade to |cFF00FF00Box of Pyros|r"
+            "value": "[ |cff3399ffE|r ] Upgrade to Box of Pyros"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The Box of Pyros emits a lethal aura, This Aura weakens nearby enemies armor and burns their health and mana.|nWhen held as an item, it deals damage to nearby enemies. Also provides the holder with +20 attack damage."
+            "value": "|cfff0e68cBox of Pyros damages nearby non-allied units and provides boosts to the allied ones.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff99b4d1|n|r|cff3399ffPassive - Fiery Wrath|n|r|cff99b4d1Passively deals |r15|cff99b4d1 damage per second to non-allied units within the range of |r550|cff99b4d1.|n|r|cff3399ffPassive - Magic Torch|n|r|cff99b4d1Burns |r1%|cff99b4d1 of maximum mana of enemy units, within the range of |r900|cff99b4d1, each second.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Grants the same passive, Fiery Wrath. Also increases attack damage of the holder by |r20|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

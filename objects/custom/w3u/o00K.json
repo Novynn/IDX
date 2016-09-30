@@ -210,12 +210,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build Crab Mutant"
+            "value": "[ |cff3399ffC|r ] Build Crab Mutant"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful stationary unit that deals amazing damage. This unit has the ability to give your enemies Crabs, causing their defense to be reduced by 15 and granting you sight of the targeted unit. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFFFF5D00While being held as an item it grants the holder +10 to defense and +10 to attack damage."
+            "value": "|cfff0e68cA strong tower with the ability to reduce the target's armor by 15 for a short duration, increasing the overall damage of all towers.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.90|n|cff99b4d1|n|r|cff3399ffActive - Crabs - [ |r60.00 |cff3399ff] - Unit Target|n|r|cff99b4d1Reduces armor of the non-allied target unit by |r15|cff99b4d1 for |r7.50 |cff99b4d1seconds.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's armor by |r10|cff99b4d1 and attack damage by |r10|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

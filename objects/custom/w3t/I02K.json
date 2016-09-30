@@ -90,12 +90,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00S|r) |cff696969Demonicus|r"
+            "value": "[ |cff3399ffS|r ] Pick Demonicus"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00Difficulty:|r |cffc02701Hard|r|n|n|cffffcc00Nuke:|r |cff00ff00Concentrated Darkness (600 radius area of effect spell; instant cast)|r|n|n|cffffcc00Heal:|r |cff00ff00Healing Spray (Area of effect heal over 1-2 seconds)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Shadow Walk (Permanent invisibility unless attacking)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of Darkness.  Unlike the other titans, Demonicus has no Wind Walk abilities and has only a land-based scout which lasts but a short while.  Dominates mid-late game if played right.  With good minions, Demonicus becomes considerably better.|r"
+            "value": "|cff3399ffDifficulty -|r|cff99b4d1 |r|cffb22222Hard|r|cff99b4d1|n|n[ |r|cff3399ffNuke|r|cff99b4d1 ] - |r|cff3399ffConcentrated Darkness|r|cff99b4d1|nArea of effect, circle nuke with unlimited power.|n|n[ |r|cff3399ffHeal|r|cff99b4d1 ] - |r|cff3399ffHealing Spray|r|cff99b4d1|nArea of effect heal with multiple healing intervals.|n|n[ |r|cff3399ffUnique|r|cff99b4d1 ] - |r|cff3399ffMark of Darkness|r|cff99b4d1|nAn active curse that turns a unit into a spawn of darkness.|n|n[ |r|cff3399ffUltimate|r|cff99b4d1 ] - |r|cff3399ffShadow Walk|r|cff99b4d1|nA permanent invisibility with no cost.|n|n|r|cffffd700Description:|r|cfff0e68c|nDemonicus, the Legendary Titan of Darkness, is a hard titan to master. Having no wind walk his early power is extremely poor when not played well. His invisible scout, Shade, can be used in various ways in his advantage. During night Demonicus becomes very deadly, destroying weak bases over night. His nuke and unique ability provides him with endless stream of experience from workers.|r"
         }
     ],
     "type": "Item"

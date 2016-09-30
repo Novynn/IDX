@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00Q|r) Purchase Titanic Wards Recipe"
+            "value": "[ |cff3399ffQ|r ] Purchase Titanic Wards Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Gives the titan a permanent healing ward item that has a 90 second cooldown. Each ward lasts 30 seconds. This item is passable. |n|cffffd700Requires:|r 1 Eternal healing wards & Recipe"
+            "value": "|cfff0e68cModified version of Eternal Wards that allows you to pass the item to other units to re-use it quickly.|n|r|nTitanic Wards attributes:|cff1e90ff|nActive - Titanic Wards - [ |r90.00|cff1e90ff ] - Point Target|n|r|cff99b4d1Places a healing ward without consuming this item, and thus being eternal source of healing wards. The healing ward lasts |r30.00|cff99b4d1 seconds, healing all friendly units within the range of |r500|cff99b4d1. Titanic Wards are passable, allowing for quick re-use.|r|n|n|cffffd700Requires:|n|r|cffcd5c5c1 × Eternal Wards|n1 × Titanic Wards Recipe|r"
         }
     ],
     "type": "Item"

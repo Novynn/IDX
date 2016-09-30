@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00W|r) Purchase Shadow Catcher"
+            "value": "[ |cff3399ffW|r ] Purchase Shadow Catcher Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases mana by 350, mana regeneration by 50%, attack by 10, and grants the user the ability to turn invisible at will.|n|cffffd700Requires:|r Wind Catcher, Moon Crystal, Magic Coral & Recipe"
+            "value": "|cfff0e68cShadow Catcher allows you to walk with the winds, but also grant additional bonuses such as attack damage and bonus mana points.|n|r|nShadow Catcher attributes:|cff1e90ff|n|r|cff99b4d1+ 20 attack damage|n+ 350 mana points|n+ 50% bonus mana regeneration|n|r|cff3399ffActive - Wind Walking - [ |r90.00 |cff3399ff] - Instant|r|cff1e90ff|n|r|cff99b4d1Turns you invisible, allowing you to move through units for |r30.00 |cff99b4d1seconds, also increasing your movement speed by |r25%.|cff99b4d1|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Magic Coral|n1 × Moon Crystal|n1 × Wind Catcher|n1 × Shadow Catcher Recipe|r"
         }
     ],
     "type": "Item"

@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Increases armor by 5, hit points by 250 and provides 25% spell damage reduction."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -65,7 +65,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|cffff4500Shield of Fortitude|r"
+            "value": "|cff90ee90Shield of Fortitude|r"
         },
         {
             "id": "utip",
@@ -75,7 +75,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "A mighty shield that increases the holders armor by 5, hit points by 250 and provides 25% spell damage reduction."
+            "value": "|cfff0e68cWith a loud bang the two items combined, forming a figure of unnecessary bravery - Shield of Fortitude.|n|r|n|cfff0f0f0Items attributes:|r|n|cff99b4d1+ 5 armor|n+ 250 hit points|n+ 25% magic resistance|n|r|n|cffff0000Note: Magic resistance does not stack.|r"
         }
     ],
     "type": "Item"

@@ -70,12 +70,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700E|r) |cff00aeefStorm Hammer Recipe|r"
+            "value": "[ |cff3399ffE|r ] Create Storm Hammer"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Allows the holder to throw magical hammers at enemy titans every 2 minutes. It has a range of 800, deals 200 damage, and stuns for 3 seconds.|n|cffffd700Requires:|r 3 Eggs, 1 Trident"
+            "value": "|cfff0e68cThis hammer is imbued with strong offensive magic, giving it extraordinary attributes.|n|r|n|cfff0f0f0Storm Hammer attributes:|r|cff99b4d1|n|r|cff3399ffActive - Storm Hammer - [ |r120.00 |cff3399ff] - Unit Target|n|r|cff99b4d1Throws the hammer at targeted enemy unit within the range of |r800|cff99b4d1, dealing |r200|cff99b4d1 damage on hit and stunning the target for |r3.00 |cff99b4d1seconds.|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Trident|n3 × Titan Egg|r"
         }
     ],
     "type": "Item"

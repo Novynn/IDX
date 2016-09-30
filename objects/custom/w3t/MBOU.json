@@ -25,7 +25,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "The bones of a Titanous Minion.These bones, when held by a Hero, increases the stats of the holder by 5. If held by a normal unit, it will get additonal armor and attack damage. These cannot be destroyed or picked up by the Titan or his minions."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -90,7 +90,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|c00888888Titanous Minion Bones|r"
+            "value": "|cff6495edMinion Bones|r"
         },
         {
             "id": "ureq",
@@ -105,7 +105,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "The bones of a Titanous Minion.These bones, when held by a Hero, increases the stats of the holder by 5. If held by a normal unit, it will get additonal armor and attack damage. These cannot be destroyed or picked up by the Titan or his minions."
+            "value": "|cfff0e68cRemains of the Titan's minion. Some of the minion's power is still stored in these bones, granting powers for the holder.|n|r|n|cfff0f0f0Item attributes:|r|cff3399ff|n|r|cff99b4d1Increases all stats of Hero units by |r5|cff99b4d1. If the unit is not a hero its attack damage is increased by |r10|cff99b4d1 and armor by |r3|cff99b4d1.|r"
         }
     ],
     "type": "Item"

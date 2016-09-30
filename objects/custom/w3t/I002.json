@@ -13,6 +13,11 @@
             "value": "AIp3"
         },
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nConsumable|r"
+        },
+        {
             "id": "idrp",
             "type": 0,
             "value": "1"
@@ -60,12 +65,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700E|r) Purchase Replenishment Potion"
+            "value": "[ |cff3399ffE|r ] Purchase Replenishment Potion"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Consumable|r|cffffcc00]|r|n|n|cffffcc00A refreshing potion to aid you in battle.|r|n|cff1e90ff    On use: Regenerates 400 hit points and 200 mana of the user over 30 seconds.|r|n|n|cffff5522Note: |rThis item stacks! |cff1e90ffDouble-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
+            "value": "Item attributes:|n|cff3399ffActive - Replenishment - [ |r0.00 |cff3399ff] - Instant|r|cff99b4d1|nConsumes this item, and replenishes |r400|cff99b4d1 hit points and |r200|cff99b4d1 mana points over |r30.00|cff99b4d1 seconds. Only works out of combat.|r|n|cff3399ff|n|r|cffff0000Note: This item stacks! Double-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
         }
     ],
     "type": "Item"

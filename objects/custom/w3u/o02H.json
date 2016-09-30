@@ -200,12 +200,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00R|r) Upgrade to |cFF00FF00Box of Gaia|r"
+            "value": "[ |cff3399ffR|r ] Upgrade to Box of Gaia"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The Box of Gaia decreases nearby enemies attack speed, movement speed and armor.|nWhen held as an item, it gives the holder a slow aura and also provides the holder with +10 attack damage."
+            "value": "|cfff0e68cBox of Gaia adds negative buffs to nearby enemy units, decresing their attack power and armor.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff99b4d1|n|r|cff3399ffPassive - Earthbound|n|r|cff99b4d1Decreases the attack speed of non-allied units, within the range of |r650|cff99b4d1, by |r10%|cff99b4d1 and movement speed by |r15%|cff99b4d1.|n|r|cff3399ffPassive - Hard Place|n|r|cff99b4d1Reduces the armor of the non-allied units, within the range of |r900|cff99b4d1, by |r5|cff99b4d1.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Grants the same passive, Earthbound. Also increases attack damage of the holder by |r20|cff99b4d1.|r"
         }
     ],
     "type": "Unit"

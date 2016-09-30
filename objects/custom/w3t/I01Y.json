@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -75,12 +75,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00W|r) Purchase Eternal Wards Recipe"
+            "value": "[ |cff3399ffW|r ] Purchase Eternal Wards Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Gives the titan a permanent healing ward item that has a 90 second cooldown. Each ward lasts 30 seconds: |n|cffffd700Requires:|r 3 healing wards & Recipe"
+            "value": "|cfff0e68cPermanent warding totem, re-charges every 75.00 seconds, not passable, unlike Titanic Wards.|n|r|nEternal Wards attributes:|cff1e90ff|nActive - Eternal Wards - [ |r75.00|cff1e90ff ] - Point Target|n|r|cff99b4d1Places a healing ward without consuming this item, and thus being eternal source of healing wards. The healing ward lasts |r30.00|cff99b4d1 seconds, healing all friendly units within the range of |r500|cff99b4d1.|r|n|n|cffffd700Requires:|n|r|cffcd5c5c3 × Healing Ward|n1 × Eternal Wards Recipe|r"
         }
     ],
     "type": "Item"

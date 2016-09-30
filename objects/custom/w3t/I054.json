@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -90,12 +90,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00D|r) Purchase Gauntlets of Fury Recipe"
+            "value": "[ |cff3399ffD|r ] Purchase Gauntlets of Fury Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r|n|n|cffffcc00Demonic Gauntlets wreathed in flames. |r|n|cff1e90ff    +40 Attack Damage|n    +10% Attack Speed|n    +80 Movement Speed|n    On attack: Damages attacked structures for 10 damage per second for 5 seconds.|n|nPassive.|r|n|n|cffffd700Requires:|r|n  1x Fiery Claws|n  1x Gauntlets of Rage|n  1x Gauntlets of Fury Recipe"
+            "value": "|cfff0e68cGauntlets of Fury increase your offensive power, increasing attack speed and damage and adding a burning effect on hit.|n|r|nGauntlets of Fury attributes:|cff1e90ff|n|r|cff99b4d1+ 50 attack damage|n+ 10% attack speed|n+ 40 movement speed|n|r|cff3399ffPassive - Fiery Touch|r|n|cff99b4d1Your attacks burn enemy structures for |r5.00|cff99b4d1 seconds, dealing |r10|cff99b4d1 damage per second.|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Fiery Claws|n1 × Gauntlets of Rage|n1 × Gauntlets of Fury Recipe|r"
         }
     ],
     "type": "Item"

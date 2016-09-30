@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Increases armor by 2 and hit points by 150."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -65,7 +65,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa7cfc00Shield of Will|r"
+            "value": "|cff90ee90Shield of Will|r"
         },
         {
             "id": "utip",
@@ -75,7 +75,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases armor by 2 and hit points by 150."
+            "value": "|cfff0e68cA fey glow is surrounding this shield, empowering it's holder.|n|r|n|cfff0f0f0Items attributes:|r|n|cff99b4d1+ 2 armor|n+ 150 hit points|n|r|n|cffff0000Note: Can be upgraded into Shield of Might.|r"
         }
     ],
     "type": "Item"

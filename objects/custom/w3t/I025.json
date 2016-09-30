@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "This is a permanent teleportation staff. It works the same as any other teleportation staff, except the casting time on this one is half a second and it can be used over and over. (Long Cooldown)."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -45,7 +45,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caaffff00Teleporter|r"
+            "value": "|cff90ee90Teleporter|r"
         },
         {
             "id": "utip",
@@ -55,7 +55,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "This is a permanent teleportation staff. It works the same as any other teleportation staff, except the casting time on this one is half a second and it can be used over and over. (Long Cooldown)."
+            "value": "|cfff0e68cEnchanced teleporter device with reduced channeling time and infinite charges.|n|r|n|cfff0f0f0Item attributes:|n|r|cff1e90ffActive - Teleportation - [ |r360.00|cff1e90ff ] - Unit Target|n|r|cff99b4d1Teleports you to the allied target structure after |r0.50|cff99b4d1 seconds of channeling.|r"
         }
     ],
     "type": "Item"

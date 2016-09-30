@@ -55,7 +55,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa22aa22Greater Turtle Scales|r"
+            "value": "|cff90ee90Greater Turtle Scales|r"
         },
         {
             "id": "utip",
@@ -65,7 +65,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Allows you to summon a Greater Turtle, that has additional health and can grow to a large size and act as a temporary wall."
+            "value": "|cfff0e68cThe bigger turtle the better - quite logical. These scales hold the power of summoning a greater turtle.|n|r|n|cfff0f0f0Item attributes:|r|cff99b4d1|n|r|cff3399ffActive - Greater Turtle - [ |r180.00 |cff3399ff] - Instant|n|r|cff99b4d1Summons a Greater Speed Turtle for five minutes. This turtle has more health than regular speed turtles and can even become a temporary wall.|r"
         }
     ],
     "type": "Item"

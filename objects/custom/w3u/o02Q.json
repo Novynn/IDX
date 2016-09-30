@@ -195,12 +195,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build Fireworks Launcher"
+            "value": "[ |cff3399ffX|r ] Build Fireworks Launcher"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals lets out a fireworks display.  These fireworks actually damage all enemies in an area of 900 around this launcher. |cff00ff40While being held as an item, it shoots random fireworks at nearby enemies.|r"
+            "value": "|cfff0e68cFireworks Launcher is capable of shooting out a fireworks display, damaging all enemy units within the range of 1100 simultaneously.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 100 Pierce|n|cff3399ffAttack Range:|r 850|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffActive - Questionable Explosives - [ |r30.00|cff3399ff ] - Instant|n|r|cff99b4d1For |r10.00|cff99b4d1 seconds the launcher stops manually shooting and puts up a fireworks show, simultaneously attacking all enemy units within the range of |r900|cff99b4d1, dealing |r150|cff99b4d1 magic damage on each hit.|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Allows the holder to put up a minor fireworks show for |r5.00 |cff99b4d1seconds, shooting waves of fireworks at enemy units within the range of |r450|cff99b4d1, dealing |r150|cff99b4d1 damage per second for the duration.|r"
         }
     ],
     "type": "Unit"

@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -80,7 +80,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Covers the titan in shadows for 30 seconds, hiding him from sight, as well as increasing his speed by 25%. If he attacks or uses an ability he will be revealed briefly. Also grants an added 350 mana, mana regeneration, and 20 damage. |N|CFFED1C24Invisibility does not stack with Fog Generator or Shadow walk."
+            "value": "Item attributes:|cff1e90ff|n|r|cff99b4d1+ 20 attack damage|n+ 350 mana points|n+ 50% bonus mana regeneration|n|r|cff3399ffActive - Wind Walking - [ |r90.00 |cff3399ff] - Instant|r|cff1e90ff|n|r|cff99b4d1Turns you invisible, allowing you to move through units for |r30.00 |cff99b4d1seconds, also increasing your movement speed by |r25%."
         }
     ],
     "type": "Item"

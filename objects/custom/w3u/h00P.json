@@ -225,12 +225,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build Heavy Cannon Tower"
+            "value": "[ |cff3399ffX|r ] Build Heavy Cannon Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Heavy defensive structure. This structure does massive damage and provides an aura that gives +15 armor to nearby friendly units and structures. This unit has the ability to transform into an item so that it can be moved to a different location. |CFFFF6308While being held as an item, it gives the holder an aura that increases the defense of nearby units and structures by 15, and increases the attack damage of the holder by 20."
+            "value": "|cfff0e68cHeavy Cannon Tower deals massive damage and also increases armor of nearby allied forces.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 200 Pierce|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.60|n|cff99b4d1|n|r|cff3399ffPassive - Fortification|n|r|cff99b4d1Increases armor of units and structures, within the range of|r 500|cff99b4d1, by |r15|cff99b4d1.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases armor of allied units and structures, within the range of |r450|cff99b4d1, by |r15|cff99b4d1.|r"
         },
         {
             "id": "uubs",

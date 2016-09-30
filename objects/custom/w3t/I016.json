@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -55,12 +55,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00F|r) Purchase Pearl of Vision"
+            "value": "[ |cff3399ffF|r ] Purchase Pearl of Vision"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Reveals a targeted area. Invisible units are also revealed by the Pearl's effect. Lasts 10 seconds."
+            "value": "Item attributes:|n|cff3399ffActive - Farsight - [ |r30.00 |cff3399ff] - Point Target|r|cff1e90ff|n|r|cff99b4d1Reveals a target area on the map, granting you vision of that area for |r10.00|cff99b4d1 seconds and also revealing invisible units.|r"
         }
     ],
     "type": "Item"

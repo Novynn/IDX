@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -80,7 +80,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Drops a ward that heals nearby friendly units for <Ahwd,Dur1> seconds. Unlike Eternal Wards,  this item is passable."
+            "value": "Item attributes:|cff1e90ff|nActive - Titanic Wards - [ |r90.00|cff1e90ff ]|n|r|cff99b4d1Places a healing ward without consuming this item, and thus being eternal source of healing wards. The healing ward lasts |r30.00|cff99b4d1 seconds, healing all friendly units within the range of |r500|cff99b4d1. This item is also passable.|r"
         }
     ],
     "type": "Item"

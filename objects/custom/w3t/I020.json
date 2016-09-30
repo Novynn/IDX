@@ -20,7 +20,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "Permanently turns the holder invisible. Can also be used actively to enable the holder to walk through units and gain a 25% increase in movement speed for 20 seconds."
+            "value": "|cffffa07aBuilder Only|n|r|cffffd700|nRelic|r"
         },
         {
             "id": "idrp",
@@ -60,7 +60,7 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caab600ffRing of Shadows|r"
+            "value": "|cff9400d3Ring of Shadows|r"
         },
         {
             "id": "utip",
@@ -70,7 +70,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Permanently turns the holder invisible. This item can also be used actively to enable the holder to  walk through units and gain a 25% increase in movement speed for 20 seconds."
+            "value": "|cfff0e68cMakes the holder the Master of Stealth.|n|r|n|cfff0f0f0Item attributes:|n|r|cff1e90ffPassive - Master of Stealth|n|r|cff99b4d1Permanently turns the holder invisible. Becoming briefly visible when attacking, casting spells or constructing.|n|r|cff3399ffActive - Trickster - [ |r180.00|cff3399ff ] - Instant|n|r|cff99b4d1Temporarily increases movement speed by |r25%|cff99b4d1 and allows walking through units.|r"
         }
     ],
     "type": "Item"

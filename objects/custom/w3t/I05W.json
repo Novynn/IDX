@@ -60,17 +60,17 @@
         {
             "id": "unam",
             "type": 3,
-            "value": "|caa6666dbCloak of Shadows|r Recipe"
+            "value": "|cff6666dbCloak of the Unseen|r Recipe"
         },
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700D|r) |cff6666dbCloak of Shadows|r"
+            "value": "[ |cff3399ffD|r ] Create Cloak of the Unseen"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Allows the holder to blend into the background and become invisible. Also provides the holder with additional health and mana regeneration.|n|cffffd700Requires:|r 1 Titan Egg, 1 Eye of the Ocean"
+            "value": "|cfff0e68cThis lightweight cloak is shimmers in sunlight but is barely visible in the shadows.|n|r|n|cfff0f0f0Cloak of the Unseen attributes:|r|n|cff99b4d1+ 2/s hit point regeneration|n+ 50% bonus mana regeneration|n|r|cff3399ffPassive - Unseen|n|r|cff99b4d1During night the wearer is able to become invisible when not moving.|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Eye of the Ocean|n1 × Titan Egg|r"
         }
     ],
     "type": "Item"

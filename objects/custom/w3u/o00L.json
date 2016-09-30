@@ -215,12 +215,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build Catapult"
+            "value": "[ |cff3399ffC|r ] Build Catapult"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The ultimate tower for any Trolls' defense. Not only does it do incredible damage with a distance of 2000, but it also has critical strike. This tower also has the ability to transmute into an item so that it may be moved to a different location. |CFF8C6239While being held as an item, it gives the holder a 15% chance to do 3 times normal damage."
+            "value": "|cfff0e68cA superb tower with a whopping range of 2000. A true anti-siege tower thanks to its super long range and high damage.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 135 Chaos|n|cff3399ffAttack Range:|r 2000|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.50|n|cff99b4d1|n|r|cff3399ffPassive - Critical Strike|n|r|cff99b4d1Has |r35% |cff99b4d1chance to deal |r3|cff99b4d1 times the normal damage.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder |r20%|cff99b4d1 chance to deal three times the normal damage.|r"
         }
     ],
     "type": "Unit"

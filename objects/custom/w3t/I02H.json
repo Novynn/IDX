@@ -85,12 +85,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00A|r) |cff00EE00Sypherious|r"
+            "value": "[ |cff3399ffA|r ] Pick Sypherious"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cffffcc00Difficulty:|r |cff00ff00Easy|r|n|n|cffffcc00Nuke:|r |cff00ff00Crushing Wave (Very long range, area of effect nuke requiring no vision)|n|n|r|cffffcc00Heal:|r |cff00ff00Regenerative Water (Large instant-cast area of effect heal)|r|n|n|cffffcc00Ultimate:|r|cff00ff00 Disable (Prevents structures from attacking in a medium sized area for 10 seconds)|r|n|n|cffffcc00Description:|r |cff1e90ffLegendary Titan of the Depth.  Below average scouting ability early game but makes up for it by being able to power level with Crushing Wave and casting Eye of the Ocean on targets.  Early game domination but begins lacking late game.|r"
+            "value": "|cff3399ffDifficulty -|r|cff99b4d1 |r|cff00ff00Easy|r|cff99b4d1|n|n[ |r|cff3399ffNuke|r|cff99b4d1 ] - |r|cff3399ffCrushing Wave|r|cff99b4d1|nCone-shaped short ranged area of effect nuke.|n|n[ |r|cff3399ffHeal|r|cff99b4d1 ] - |r|cff3399ffRegenerative Water|r|cff99b4d1|nLarge, area of effect, instant heal.|n|n[ |r|cff3399ffUnique|r|cff99b4d1 ] - |r|cff3399ffOceanic Minions|r|cff99b4d1|nActive water elemental summoning ability.|n|n[ |r|cff3399ffUltimate|r|cff99b4d1 ] - |r|cff3399ffDisable|r|cff99b4d1|nActive area of effect ability that prevents enemy towers from attacking.|n|n|r|cffffd700Description:|n|r|cfff0e68cSypherious, the Legendary Titan of the Ocean is a weak titan in the beginning, but quickly ramps up to power spike in the mid game. His water elementals can be used for scouting alongside his Eye of Ocean scouting ability, which, when used correctly, is extremely strong throughout the game. His superior heal is also very handy, being capable of healing multiple minions easily.|r"
         }
     ],
     "type": "Item"

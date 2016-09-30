@@ -50,12 +50,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700Q|r) Buy |caa22aa22Greater Turtle Scale|r Recipe"
+            "value": "[ |cff3399ffQ|r ] Create Greater Turtle Scales"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Allows you to summon a Greater Turtle that has additional health, and can grow to a large size and act as a temporary wall.|n|cffffd700Requires:|r 1 Titan Egg, 1 Turtle Scales"
+            "value": "|cfff0e68cThe bigger turtle the better - quite logical. These scales hold the power of summoning a greater turtle.|n|r|n|cfff0f0f0Greater Turtle Scales attributes:|r|cff99b4d1|n|r|cff3399ffActive - Greater Turtle - [ |r180.00 |cff3399ff] - Instant|n|r|cff99b4d1Summons a Greater Speed Turtle for five minutes. This turtle has more health than regular speed turtles and can even become a temporary wall.|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Turtle Scales|n1 × Titan Egg|r"
         }
     ],
     "type": "Item"

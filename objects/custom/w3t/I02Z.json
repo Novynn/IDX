@@ -90,12 +90,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700C|r) |cff90ee90Randomize Ultimate Tower|r"
+            "value": "[ |cff3399ffC|r ] Randomize Ultimate Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Randomly transmutes an Ultimate Tower into a new one.|n|cffffd700Requires: |rAny Ultimate Tower (in item form), 1 Titan Egg"
+            "value": "|cfff0f0f0Item attributes:|n|r|cff99b4d1Transmutes one of the ultimate towers you carry into another, random ultimate tower. Make sure you don't carry any ultimate tower you'd like to keep when randomizing.|r|cfff0f0f0|n|r|n|cffffd700Requires:|n|r|cffcd5c5c1 × Any Ultimate Tower|n1 × Titan Egg|r"
         }
     ],
     "type": "Item"

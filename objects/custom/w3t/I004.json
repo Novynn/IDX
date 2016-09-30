@@ -3,6 +3,11 @@
     "id": "I004",
     "mods": [
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nConsumable|r"
+        },
+        {
             "id": "idrp",
             "type": 0,
             "value": "1"
@@ -43,14 +48,19 @@
             "value": "R"
         },
         {
+            "id": "unam",
+            "type": 3,
+            "value": "Beast Scroll"
+        },
+        {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffd700R|r) Purchase Scroll of the Beast"
+            "value": "[ |cff3399ffR|r ] Purchase Beast Scroll"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "|cff1e90ffGives friendly nearby units a 25% bonus to damage for 20 seconds.|r|n|n|cffff5522Note: |rThis item stacks! |cff1e90ffDouble-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
+            "value": "Item attributes:|n|cff1e90ffActive - Unleashed Beast - [ |r0.00|cff1e90ff ] - Instant|n|r|cff99b4d1Consumes this item and increases attack damage of allied units' within the range of |r500|cff99b4d1 by |r25% |cff99b4d1for |r20.00 |cff99b4d1seconds.|r|n|cff3399ff|n|r|cffff0000Note: This item stacks! Double-right click on this item to split its stacks in half. Right click this stack onto another stack to combine them.|r"
         }
     ],
     "type": "Item"

@@ -8,6 +8,11 @@
             "value": "Charged"
         },
         {
+            "id": "ides",
+            "type": 3,
+            "value": "|cff90ee90Neutral Item|n|r|cffffd700|nPermanent|r"
+        },
+        {
             "id": "idrp",
             "type": 0,
             "value": "1"
@@ -33,6 +38,11 @@
             "value": "0"
         },
         {
+            "id": "ubpy",
+            "type": 0,
+            "value": "1"
+        },
+        {
             "id": "uhot",
             "type": 3,
             "value": "A"
@@ -45,12 +55,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "Purchase |cffffd700A|rrmored Scales"
+            "value": "[ |cff3399ffA|r ] Purchase Armored Scales"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the armor of the Hero by 1.|n|cffff4500Collect 3 of these and they will combine to form a Shield of Fate.|r"
+            "value": "Item attributes:|n|cff99b4d1+ 1 armor|r|n|cff3399ff|n|r|cffff0000Note: Collect 3 of these to combine them and form a Shield of Fate.|r"
         }
     ],
     "type": "Item"

@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nArtifact|r"
         },
         {
             "id": "idrp",
@@ -60,7 +60,7 @@
         {
             "id": "utub",
             "type": 3,
-            "value": "Increases the Hero's rate of mana regeneration by 120% and adds 600 mana when worn."
+            "value": "Item attributes:|cff1e90ff|n|r|cff99b4d1+ 600 mana points|n+ 120% bonus mana regeneration|r"
         }
     ],
     "type": "Item"

@@ -210,12 +210,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00V|r) Build Giant Hermit"
+            "value": "[ |cff3399ffV|r ] Build Giant Hermit"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower has the ability to cast Curse, which causes the targeted enemy to miss 25% of its attacks. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cFF8C6239While being held as an item it gives its carrier evasion, which causes its attackers to miss 15% of the time.|r"
+            "value": "|cfff0e68cA tower capable of cursing enemies, making them miss some of their attacks, thus fortifying your base.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 120 Pierce|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffActive - Curse - [ |r45.00 |cff3399ff] - Unit Target|n|r|cff99b4d1Makes the target non-allied unit. within the range of |r700|cff99b4d1, to miss |r25% |cff99b4d1of its attacks for the next |r5.00|cff99b4d1 seconds.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder evasion, making attackers miss |r15% |cff99b4d1of their attacks.|r"
         }
     ],
     "type": "Unit"

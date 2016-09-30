@@ -15,7 +15,7 @@
         {
             "id": "ides",
             "type": 3,
-            "value": "|cffffcc00[|r|cffff8c00Artifact Recipe|r|cffffcc00]|r"
+            "value": "|cffdc143cTitan Only|r|cffffd700|n|nRecipe|r"
         },
         {
             "id": "idrp",
@@ -80,12 +80,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00D|r) Purchase Berserker Gem Recipe"
+            "value": "[ |cff3399ffD|r ] Purchase Berserker Gem Recipe"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "The Berserker Gem increases attack speed by 25%, damage by 20, and grants the Berserk ability, giving all nearby units +30% attack for 25 seconds.|n|cffffd700Requires:|r 2 Gems of Haste and 2 Beast Scrolls"
+            "value": "|cfff0e68cBerserker Gem passively helps you by adding attack boosts, and its active ability can further boost that into a burst of power.|n|r|nBerserker Gem attributes:|n|cff99b4d1+ 20 attack damage|n+ 25% attack speed|r|cff1e90ff|nActive - Unleashed Rage - [ |r120.00|cff1e90ff ] - Instant|n|r|cff99b4d1Unleashes the gem's power, increasing nearby allied units' attack damage by |r30% |cff99b4d1for |r25.00 |cff99b4d1seconds. Berserker Gem is also passable, allowing for a quick re-use.|r|n|n|cffffd700Requires:|n|r|cffcd5c5c2 × Gem of Haste|n2 × Beast Scroll|n1 × Berserker Gem Recipe|r"
         }
     ],
     "type": "Item"

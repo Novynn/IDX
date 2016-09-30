@@ -230,12 +230,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "Build Rapid Fire Tower (|cffffd700X|r)"
+            "value": "[ |cff3399ffX|r ] Build Rapid Fire Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "This Tower rapidly shoots streams of rockets at enemy units at a distance of 1100. Don't let its low attack damage fool you, this tower deals quite a bit of pain. |cffff4c00This tower can also be turned into an item so that it may be moved to a different location. While being held as an item it enables its carrier to spew rockets onto nearby enemies.|r"
+            "value": "|cfff0e68cThis tower increases your base's attack power greatly. Albeit having no special features or abilities Rapid Fire Tower provides you with steady stream of extra damage.|r|cff808080|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 50 Pierce|n|cff3399ffAttack Range:|r 1100|n|cff3399ffAttack Speed:|r|cffffcc00 |r0.50|cff99b4d1|n|r|n|cff3399ffAs an item:|r|cffffd700|n|r|cff99b4d1Rapid Fire Cannon shoots up to |r10|cff99b4d1 rockets at enemy units within the range of |r600|cff99b4d1, dealing |r20 |cff99b4d1damage per rocket.|r"
         }
     ],
     "type": "Unit"

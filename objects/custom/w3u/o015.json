@@ -205,12 +205,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00V|r) Build Mutation Tower"
+            "value": "[ |cff3399ffV|r ] Build Mutation Tower"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage, and has the ability to turn a titan into a critter for 3 seconds every minute. This tower also has the ability to transmute into an item. |cfffff200While being held as an item, it can still be used to mutate a titan into a critter. It will also give the holder +35 to damage.|r"
+            "value": "|cfff0e68cTower that has the ability to transform enemy units into little harmless critters, preventing them from attacking.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 120 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.30|n|cff99b4d1|n|r|cff3399ffActive - Counter Morph - [ |r60.00 |cff3399ff] - Unit Target|n|r|cff99b4d1Transforms the target non-allied unit, within the range of |r1000|cff99b4d1, into a harmless critter for |r3.00 |cff99b4d1seconds.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nIncreases the holder's attack damage by |r35|cff99b4d1 and grants the same ability, Counter Morph.|r"
         }
     ],
     "type": "Unit"

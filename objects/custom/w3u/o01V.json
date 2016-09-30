@@ -250,12 +250,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Build Replicator"
+            "value": "[ |cff3399ffX|r ] Build Replicator"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage. This tower has the ability to morph energy into duplicates of friendly units that can attack. This tower also has the ability to transmute into an item. |c00ff0080While being held as an item, it provides the holder with +25 damage and the ability to use the towers energy to create a duplicate of the holder.|r|n|n|cffff5522Note:|r When used on Morphling's Beast form, it will show a Morphling Warrior. This is a known issue with no current work-around."
+            "value": "|cfff0e68cA strong tower damage-wise and has the ability to create mirror images of allied units.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 125 Pierce|n|cff3399ffAttack Range:|r 1000|n|cff3399ffAttack Speed:|r|cffffcc00 |r1.00|n|cff99b4d1|n|r|cff3399ffActive - Replicator - [ |r14.00|cff3399ff ] - Unit Target|n|r|cff99b4d1Creates two mirror images of the targeted allied unit for |r15.00 |cff99b4d1seconds. The mirror images deal half the normal damage and take three times the normal damage.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nHas improved version of cloning and increases the holder's attack damage by |r15|cff99b4d1.|n|r|n|cffff0000Note: Using cloning in Beast Form creates wrong clones, this is a known issue with no work-around.|r"
         }
     ],
     "type": "Unit"

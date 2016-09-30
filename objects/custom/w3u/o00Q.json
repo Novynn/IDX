@@ -210,12 +210,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00C|r) Build |c000054a6Magic Mushroom|r"
+            "value": "[ |cff3399ffC|r ] Build Magic Mushroom"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "A powerful tower that deals amazing damage, burns 50 mana on attack and has the ability to cast mana burn for 350 mana every 20 seconds. This tower also has the ability to transmute into an item so that it may be moved to a different location. |cffff0080While being held as an item, this tower makes the holder degenerate nearby enemy units mana over time.|r"
+            "value": "|cfff0e68cBombard Tower deals strong damage. Also has 2 secondary weapons, allowing to attack multiple targets.|n|r|n|cff3399ffHealth:|r 750|n|cff3399ffArmor:|r 20 Fortified|n|cff3399ffAttack:|r 120 Pierce|n|cff3399ffAttack Range:|r 900|n|cff3399ffAttack Speed:|r|cffffcc00 |r2.00|n|cff99b4d1|n|r|cff3399ffPassive - Magic Depletion|n|r|cff99b4d1Drains |r50|cff99b4d1 mana points on each attack, dealing bonus damage equal to the mana drained. If the target's has no mana, no bonus damage is dealt.|n|r|cff3399ffActive - Mana Burn - [ |r20.00|cff3399ff ] - Unit Target|r|cff99b4d1|nShocks a non-allied unit, burning a portion of its mana and dealing damage.|n|r|cff3399ff|nAs an item:|r|cff99b4d1|nGrants the holder Ignorance Aura that degenerates mana of enemy units, within the range of |r500|cff99b4d1, in |r10|cff99b4d1 mana per second ratio.|r"
         }
     ],
     "type": "Unit"

@@ -55,12 +55,12 @@
         {
             "id": "utip",
             "type": 3,
-            "value": "(|cffffcc00X|r) Next Page"
+            "value": "[|cff3399ff X|r ] Next Page"
         },
         {
             "id": "utub",
             "type": 3,
-            "value": "Switch to the next page of the shop."
+            "value": "|cff99b4d1Switch to the next page of the shop.|r"
         }
     ],
     "type": "Item"
