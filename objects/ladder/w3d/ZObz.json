@@ -1,0 +1,14 @@
+{
+    "base": "ZObz",
+    "id": "ZObz",
+    "mods": [
+        {
+            "data": 0,
+            "id": "dptx",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        }
+    ],
+    "type": "Doodad"
+}

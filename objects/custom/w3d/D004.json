@@ -1,0 +1,28 @@
+{
+    "base": "DOas",
+    "id": "D004",
+    "mods": [
+        {
+            "data": 0,
+            "id": "dmap",
+            "type": 2,
+            "value": "-0.400000006",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dnam",
+            "type": 3,
+            "value": "Statue of Azshara Falling",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dtil",
+            "type": 3,
+            "value": "D,*",
+            "variation": 0
+        }
+    ],
+    "type": "Doodad"
+}

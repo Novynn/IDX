@@ -1,0 +1,28 @@
+{
+    "base": "ZObz",
+    "id": "D005",
+    "mods": [
+        {
+            "data": 0,
+            "id": "dmap",
+            "type": 2,
+            "value": "-1.55999994",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dnam",
+            "type": 3,
+            "value": "Ruins Brazier Fallen",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dptx",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        }
+    ],
+    "type": "Doodad"
+}

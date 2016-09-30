@@ -1,0 +1,22 @@
+{
+    "base": "YTpc",
+    "id": "B00H",
+    "mods": [
+        {
+            "id": "bfxr",
+            "type": 2,
+            "value": "-1"
+        },
+        {
+            "id": "bnam",
+            "type": 3,
+            "value": "Pathing Blocker (Ground) (Edgig)"
+        },
+        {
+            "id": "bptx",
+            "type": 3,
+            "value": "PathTextures\\ForceWall.tga"
+        }
+    ],
+    "type": "Destructable"
+}

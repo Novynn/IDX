@@ -1,0 +1,137 @@
+{
+    "base": "nscb",
+    "id": "n015",
+    "mods": [
+        {
+            "id": "uabi",
+            "type": 3,
+            "value": "Aloc"
+        },
+        {
+            "id": "uaen",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubba",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubdi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ubsi",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uclg",
+            "type": 0,
+            "value": "255"
+        },
+        {
+            "id": "uclr",
+            "type": 0,
+            "value": "255"
+        },
+        {
+            "id": "udty",
+            "type": 3,
+            "value": "divine"
+        },
+        {
+            "id": "ufle",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ufoo",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "50"
+        },
+        {
+            "id": "uhpr",
+            "type": 2,
+            "value": "0"
+        },
+        {
+            "id": "uico",
+            "type": 3,
+            "value": "ReplaceableTextures\\WorldEditUI\\Editor-Ally-HighPriority.blp"
+        },
+        {
+            "id": "umdl",
+            "type": 3,
+            "value": "Doodads\\Terrain\\InvisiblePlatformSmall\\InvisiblePlatformSmall.mdl"
+        },
+        {
+            "id": "umvs",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "unam",
+            "type": 3,
+            "value": "Seed Marker"
+        },
+        {
+            "id": "usca",
+            "type": 1,
+            "value": "1.60000002"
+        },
+        {
+            "id": "ushh",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "ushw",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "ushx",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "ushy",
+            "type": 1,
+            "value": "0"
+        },
+        {
+            "id": "usid",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "usin",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "utar",
+            "type": 3,
+            "value": ""
+        },
+        {
+            "id": "uuch",
+            "type": 0,
+            "value": "1"
+        }
+    ],
+    "type": "Unit"
+}

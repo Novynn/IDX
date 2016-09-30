@@ -1,0 +1,28 @@
+{
+    "base": "ZOob",
+    "id": "D002",
+    "mods": [
+        {
+            "data": 0,
+            "id": "dmar",
+            "type": 2,
+            "value": "-1.45000005",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dnam",
+            "type": 3,
+            "value": "Ruins Obelisk Fallen",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dptx",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        }
+    ],
+    "type": "Doodad"
+}

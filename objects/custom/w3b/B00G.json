@@ -1,0 +1,17 @@
+{
+    "base": "YTpc",
+    "id": "B00G",
+    "mods": [
+        {
+            "id": "bnam",
+            "type": 3,
+            "value": "Pathing Blocker (Ground) (Gigantic)"
+        },
+        {
+            "id": "bptx",
+            "type": 3,
+            "value": "PathTextures\\12x12Default.tga"
+        }
+    ],
+    "type": "Destructable"
+}

@@ -1,0 +1,42 @@
+{
+    "base": "ZSab",
+    "id": "D001",
+    "mods": [
+        {
+            "data": 0,
+            "id": "dfil",
+            "type": 3,
+            "value": "Doodads\\Ruins\\Structures\\RuinsArchway0_\\RuinsArchway0_0.mdl",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dmas",
+            "type": 2,
+            "value": "3",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dmis",
+            "type": 2,
+            "value": "0.200000003",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dnam",
+            "type": 3,
+            "value": "Archway C",
+            "variation": 0
+        },
+        {
+            "data": 0,
+            "id": "dptx",
+            "type": 3,
+            "value": "",
+            "variation": 0
+        }
+    ],
+    "type": "Doodad"
+}
