@@ -73,6 +73,16 @@
             "value": "0"
         },
         {
+            "id": "ugol",
+            "type": 0,
+            "value": "0"
+        },
+        {
+            "id": "uhpm",
+            "type": 0,
+            "value": "800"
+        },
+        {
             "id": "uhpr",
             "type": 2,
             "value": "4"
