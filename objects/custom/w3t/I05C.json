@@ -13,6 +13,11 @@
             "value": "A06U"
         },
         {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
             "id": "ides",
             "type": 3,
             "value": "Cleanses the drinkers ailments, purging their negative effects."

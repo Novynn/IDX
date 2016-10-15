@@ -13,6 +13,11 @@
             "value": "A06U"
         },
         {
+            "id": "icla",
+            "type": 3,
+            "value": "Campaign"
+        },
+        {
             "id": "ifil",
             "type": 3,
             "value": "war3mapImported\\PotionOmniscience.mdl"
