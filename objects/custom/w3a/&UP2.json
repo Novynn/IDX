@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "9",
+            "value": 9,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -62,7 +62,7 @@
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -90,7 +90,7 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -118,7 +118,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {

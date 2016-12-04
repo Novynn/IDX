@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Poi1",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Poi4",
             "type": 0,
-            "value": "8",
+            "value": 8,
             "variation": 1
         },
         {
@@ -34,14 +34,14 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.600000024",
+            "value": 0.6,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.600000024",
+            "value": 0.6,
             "variation": 1
         },
         {

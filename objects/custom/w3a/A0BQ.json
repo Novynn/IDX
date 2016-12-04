@@ -6,77 +6,77 @@
             "data": 2,
             "id": "Iarp",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Iarp",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Iarp",
             "type": 0,
-            "value": "4",
+            "value": 4,
             "variation": 3
         },
         {
             "data": 2,
             "id": "Iarp",
             "type": 0,
-            "value": "6",
+            "value": 6,
             "variation": 4
         },
         {
             "data": 2,
             "id": "Iarp",
             "type": 0,
-            "value": "8",
+            "value": 8,
             "variation": 5
         },
         {
             "data": 1,
             "id": "Idic",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Idic",
             "type": 0,
-            "value": "25",
+            "value": 25,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Idic",
             "type": 0,
-            "value": "50",
+            "value": 50,
             "variation": 3
         },
         {
             "data": 1,
             "id": "Idic",
             "type": 0,
-            "value": "75",
+            "value": 75,
             "variation": 4
         },
         {
             "data": 1,
             "id": "Idic",
             "type": 0,
-            "value": "100",
+            "value": 100,
             "variation": 5
         },
         {
             "data": 5,
             "id": "Iob5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -125,84 +125,84 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 4
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 5
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 3
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 4
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 5
         },
         {
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {

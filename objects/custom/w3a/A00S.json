@@ -13,14 +13,14 @@
             "data": 3,
             "id": "Eme3",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Eme4",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
@@ -41,7 +41,7 @@
             "data": 0,
             "id": "acas",
             "type": 2,
-            "value": "1.04999995",
+            "value": 1.05,
             "variation": 1
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
@@ -125,7 +125,7 @@
             "data": 5,
             "id": "ave5",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         }
     ],

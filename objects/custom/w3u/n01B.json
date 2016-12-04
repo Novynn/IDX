@@ -10,12 +10,12 @@
         {
             "id": "ucol",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhom",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "umdl",
@@ -30,12 +30,12 @@
         {
             "id": "umvf",
             "type": 2,
-            "value": "20"
+            "value": 20
         },
         {
             "id": "umvh",
             "type": 2,
-            "value": "20"
+            "value": 20
         },
         {
             "id": "unam",
@@ -45,12 +45,12 @@
         {
             "id": "unbm",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "unbr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "unsf",
@@ -60,7 +60,7 @@
         {
             "id": "uocc",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "upat",
@@ -70,7 +70,7 @@
         {
             "id": "usca",
             "type": 1,
-            "value": "0.100000001"
+            "value": 0.1
         },
         {
             "id": "usei",
@@ -80,7 +80,7 @@
         {
             "id": "ussc",
             "type": 1,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "uubs",

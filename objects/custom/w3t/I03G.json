@@ -15,12 +15,12 @@
         {
             "id": "iclg",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iclr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ides",
@@ -30,7 +30,7 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "5"
+            "value": 5
         },
         {
             "id": "iico",
@@ -40,32 +40,32 @@
         {
             "id": "isst",
             "type": 0,
-            "value": "30"
+            "value": 30
         },
         {
             "id": "isto",
             "type": 0,
-            "value": "5"
+            "value": 5
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "iusa",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubpx",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubpy",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uhot",

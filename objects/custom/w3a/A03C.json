@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Sta1",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Sta4",
             "type": 2,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
@@ -34,28 +34,28 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "150",
+            "value": 150,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 1
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
@@ -90,7 +90,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -104,7 +104,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {

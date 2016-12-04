@@ -6,21 +6,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {

@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Nbr1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Nbr1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Nbr1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 3
         },
         {
             "data": 1,
             "id": "Nbr1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 4
         },
         {
@@ -41,28 +41,28 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 3
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 4
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
@@ -111,7 +111,7 @@
             "data": 0,
             "id": "acas",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
@@ -125,70 +125,70 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 4
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 3
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 4
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -202,35 +202,35 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 2
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 3
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 4
         },
         {

@@ -6,105 +6,105 @@
             "data": 1,
             "id": "Owk1",
             "type": 2,
-            "value": "1.04999995",
+            "value": 1.05,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Owk1",
             "type": 2,
-            "value": "0.550000012",
+            "value": 0.55,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Owk1",
             "type": 2,
-            "value": "0.25",
+            "value": 0.25,
             "variation": 3
         },
         {
             "data": 1,
             "id": "Owk1",
             "type": 2,
-            "value": "0.25",
+            "value": 0.25,
             "variation": 4
         },
         {
             "data": 2,
             "id": "Owk2",
             "type": 2,
-            "value": "100000",
+            "value": 100000,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Owk2",
             "type": 2,
-            "value": "100000",
+            "value": 100000,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Owk2",
             "type": 2,
-            "value": "100000",
+            "value": 100000,
             "variation": 3
         },
         {
             "data": 2,
             "id": "Owk2",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 4
         },
         {
             "data": 3,
             "id": "Owk3",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Owk3",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Owk3",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 3
         },
         {
             "data": 3,
             "id": "Owk3",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 4
         },
         {
             "data": 4,
             "id": "Owk4",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 2
         },
         {
             "data": 4,
             "id": "Owk4",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 3
         },
         {
             "data": 4,
             "id": "Owk4",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 4
         },
         {
@@ -139,63 +139,63 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "55",
+            "value": 55,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 2
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "45",
+            "value": 45,
             "variation": 3
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "40",
+            "value": 40,
             "variation": 4
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "3.0999999",
+            "value": 3.1,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "4.0999999",
+            "value": 4.1,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5.0999999",
+            "value": 5.1,
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5.0999999",
+            "value": 5.1,
             "variation": 4
         },
         {
@@ -209,70 +209,70 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "3.0999999",
+            "value": 3.1,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "4.0999999",
+            "value": 4.1,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5.0999999",
+            "value": 5.1,
             "variation": 3
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5.0999999",
+            "value": 5.1,
             "variation": 4
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "4",
+            "value": 4,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "25",
+            "value": 25,
             "variation": 2
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "20",
+            "value": 20,
             "variation": 3
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 4
         },
         {

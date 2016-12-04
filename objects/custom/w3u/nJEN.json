@@ -15,32 +15,32 @@
         {
             "id": "ubba",
             "type": 0,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "ubdi",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubsi",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "uclb",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uclg",
             "type": 0,
-            "value": "220"
+            "value": 220
         },
         {
             "id": "udty",
@@ -50,12 +50,12 @@
         {
             "id": "ufle",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhpr",
             "type": 2,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "uico",
@@ -65,7 +65,7 @@
         {
             "id": "umas",
             "type": 0,
-            "value": "522"
+            "value": 522
         },
         {
             "id": "umdl",
@@ -75,17 +75,17 @@
         {
             "id": "umis",
             "type": 0,
-            "value": "150"
+            "value": 150
         },
         {
             "id": "umvf",
             "type": 2,
-            "value": "90"
+            "value": 90
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "150"
+            "value": 150
         },
         {
             "id": "umvt",
@@ -100,12 +100,12 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "0.800000012"
+            "value": 0.8
         },
         {
             "id": "ushu",
@@ -115,12 +115,12 @@
         {
             "id": "usid",
             "type": 0,
-            "value": "700"
+            "value": 700
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "700"
+            "value": 700
         },
         {
             "id": "usnd",

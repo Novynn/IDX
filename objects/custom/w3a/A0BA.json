@@ -20,7 +20,7 @@
             "data": 0,
             "id": "acac",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -41,14 +41,14 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "90",
+            "value": 90,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
@@ -62,14 +62,14 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
@@ -83,21 +83,21 @@
             "data": 1,
             "id": "bsk1",
             "type": 2,
-            "value": "0.25",
+            "value": 0.25,
             "variation": 1
         },
         {
             "data": 2,
             "id": "bsk2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 3,
             "id": "bsk3",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         }
     ],

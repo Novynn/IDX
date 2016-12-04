@@ -6,63 +6,63 @@
             "data": 1,
             "id": "Oae1",
             "type": 2,
-            "value": "-0.200000003",
+            "value": -0.2,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Oae1",
             "type": 2,
-            "value": "-0.300000012",
+            "value": -0.3,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Oae1",
             "type": 2,
-            "value": "-0.400000006",
+            "value": -0.4,
             "variation": 3
         },
         {
             "data": 2,
             "id": "Oae2",
             "type": 2,
-            "value": "-0.200000003",
+            "value": -0.2,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Oae2",
             "type": 2,
-            "value": "-0.300000012",
+            "value": -0.3,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Oae2",
             "type": 2,
-            "value": "-0.400000006",
+            "value": -0.4,
             "variation": 3
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "350",
+            "value": 350,
             "variation": 3
         },
         {
@@ -97,7 +97,7 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {

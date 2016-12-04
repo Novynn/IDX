@@ -20,12 +20,12 @@
         {
             "id": "idro",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ifil",
@@ -35,12 +35,12 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iicd",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "iico",
@@ -50,22 +50,22 @@
         {
             "id": "ipaw",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iprn",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "isel",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhot",

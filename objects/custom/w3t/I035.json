@@ -25,12 +25,12 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "igol",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "iico",
@@ -40,32 +40,32 @@
         {
             "id": "ilum",
             "type": 0,
-            "value": "300"
+            "value": 300
         },
         {
             "id": "ilvo",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "isst",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "isto",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "30"
+            "value": 30
         },
         {
             "id": "ubpx",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uhot",

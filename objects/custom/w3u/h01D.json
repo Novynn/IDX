@@ -10,22 +10,22 @@
         {
             "id": "uacq",
             "type": 2,
-            "value": "800"
+            "value": 800
         },
         {
             "id": "ubba",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubld",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubpy",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "udty",
@@ -35,12 +35,12 @@
         {
             "id": "ugol",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ugor",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhot",
@@ -50,7 +50,7 @@
         {
             "id": "uhpm",
             "type": 0,
-            "value": "150"
+            "value": 150
         },
         {
             "id": "uico",
@@ -60,12 +60,12 @@
         {
             "id": "ulum",
             "type": 0,
-            "value": "50"
+            "value": 50
         },
         {
             "id": "ulur",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umdl",
@@ -95,12 +95,12 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "upri",
             "type": 0,
-            "value": "20"
+            "value": 20
         },
         {
             "id": "urac",
@@ -110,17 +110,17 @@
         {
             "id": "urtm",
             "type": 0,
-            "value": "15"
+            "value": 15
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "0.449999988"
+            "value": 0.45
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "1280"
+            "value": 1280
         },
         {
             "id": "utip",

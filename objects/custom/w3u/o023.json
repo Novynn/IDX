@@ -10,27 +10,27 @@
         {
             "id": "uclb",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uclr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ucol",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uerd",
             "type": 1,
-            "value": "25"
+            "value": 25
         },
         {
             "id": "uhpm",
             "type": 0,
-            "value": "20"
+            "value": 20
         },
         {
             "id": "uico",
@@ -60,7 +60,7 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "urac",

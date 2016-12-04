@@ -27,7 +27,7 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
@@ -48,42 +48,42 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 2
         },
         {
@@ -97,28 +97,28 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alsk",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "200",
+            "value": 200,
             "variation": 2
         },
         {
@@ -146,14 +146,14 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 2
         },
         {
@@ -181,21 +181,21 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -251,14 +251,14 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "auby",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         }
     ],

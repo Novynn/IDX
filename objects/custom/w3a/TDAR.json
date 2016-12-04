@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Ndo1",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Ndo1",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Ndo2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Ndo3",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 2
         },
         {
@@ -62,14 +62,14 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 2
         },
         {
@@ -83,21 +83,21 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alsk",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "200",
+            "value": 200,
             "variation": 1
         },
         {
@@ -125,14 +125,14 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 2
         },
         {
@@ -153,14 +153,14 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {

@@ -10,7 +10,7 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ifil",
@@ -20,7 +20,7 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "30"
+            "value": 30
         },
         {
             "id": "iico",
@@ -30,7 +30,7 @@
         {
             "id": "istr",
             "type": 0,
-            "value": "60"
+            "value": 60
         },
         {
             "id": "unam",

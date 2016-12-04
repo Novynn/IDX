@@ -6,28 +6,28 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 2
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -41,7 +41,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 2
         },
         {
@@ -62,14 +62,14 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "900",
+            "value": 900,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "900",
+            "value": 900,
             "variation": 2
         },
         {
@@ -125,7 +125,7 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -146,56 +146,56 @@
             "data": 1,
             "id": "fak1",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
             "data": 1,
             "id": "fak1",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 2
         },
         {
             "data": 2,
             "id": "fak2",
             "type": 2,
-            "value": "0.450000018",
+            "value": 0.45,
             "variation": 2
         },
         {
             "data": 3,
             "id": "fak3",
             "type": 2,
-            "value": "0.25",
+            "value": 0.25,
             "variation": 2
         },
         {
             "data": 4,
             "id": "fak4",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 4,
             "id": "fak4",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 2
         },
         {
             "data": 5,
             "id": "fak5",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 5,
             "id": "fak5",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 2
         }
     ],

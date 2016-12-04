@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Uhf1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Uhf2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -34,28 +34,28 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {
@@ -69,7 +69,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {

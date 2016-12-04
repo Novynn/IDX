@@ -15,22 +15,22 @@
         {
             "id": "ubba",
             "type": 0,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "ubdi",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubsi",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "udty",
@@ -40,12 +40,12 @@
         {
             "id": "ufle",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhpr",
             "type": 2,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "uico",
@@ -60,17 +60,17 @@
         {
             "id": "umvf",
             "type": 2,
-            "value": "100"
+            "value": 100
         },
         {
             "id": "umvh",
             "type": 2,
-            "value": "100"
+            "value": 100
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umvt",
@@ -85,22 +85,22 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "8"
+            "value": 8
         },
         {
             "id": "usid",
             "type": 0,
-            "value": "700"
+            "value": 700
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "700"
+            "value": 700
         },
         {
             "id": "usnd",
@@ -115,7 +115,7 @@
         {
             "id": "ussc",
             "type": 1,
-            "value": "20"
+            "value": 20
         },
         {
             "id": "util",

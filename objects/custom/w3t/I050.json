@@ -20,7 +20,7 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iico",
@@ -30,17 +30,17 @@
         {
             "id": "iprn",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubpy",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "uhot",

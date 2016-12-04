@@ -5,27 +5,27 @@
         {
             "id": "bcpr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "bgse",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "breg",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "brel",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "bret",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "btil",
@@ -40,7 +40,7 @@
         {
             "id": "buch",
             "type": 0,
-            "value": "1"
+            "value": 1
         }
     ],
     "type": "Destructable"

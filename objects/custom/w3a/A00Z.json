@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Hav1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Hav2",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Hav3",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
@@ -34,28 +34,28 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {

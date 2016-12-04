@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Arm1",
             "type": 2,
-            "value": "-999",
+            "value": -999,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Arm2",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "350",
+            "value": 350,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {

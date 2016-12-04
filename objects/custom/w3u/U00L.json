@@ -5,17 +5,17 @@
         {
             "id": "ua1b",
             "type": 0,
-            "value": "59"
+            "value": 59
         },
         {
             "id": "ua1c",
             "type": 2,
-            "value": "1.5"
+            "value": 1.5
         },
         {
             "id": "ua1d",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ua1g",
@@ -25,12 +25,12 @@
         {
             "id": "ua1r",
             "type": 0,
-            "value": "90"
+            "value": 90
         },
         {
             "id": "ua1s",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uabi",
@@ -40,12 +40,12 @@
         {
             "id": "uagi",
             "type": 0,
-            "value": "35"
+            "value": 35
         },
         {
             "id": "uagp",
             "type": 2,
-            "value": "3.5999999"
+            "value": 3.6
         },
         {
             "id": "uawt",
@@ -55,42 +55,42 @@
         {
             "id": "ubba",
             "type": 0,
-            "value": "45"
+            "value": 45
         },
         {
             "id": "ubdi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubs1",
             "type": 2,
-            "value": "0.50999999"
+            "value": 0.51
         },
         {
             "id": "ubsi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "ucbs",
             "type": 2,
-            "value": "0.50999999"
+            "value": 0.51
         },
         {
             "id": "uclg",
             "type": 0,
-            "value": "200"
+            "value": 200
         },
         {
             "id": "uclr",
             "type": 0,
-            "value": "80"
+            "value": 80
         },
         {
             "id": "ucs1",
@@ -105,22 +105,22 @@
         {
             "id": "udef",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "udp1",
             "type": 2,
-            "value": "0.560000002"
+            "value": 0.56
         },
         {
             "id": "ufle",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ufoo",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhab",
@@ -130,7 +130,7 @@
         {
             "id": "uhhd",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uhot",
@@ -140,12 +140,12 @@
         {
             "id": "uhpm",
             "type": 0,
-            "value": "800"
+            "value": 800
         },
         {
             "id": "uhpr",
             "type": 2,
-            "value": "6"
+            "value": 6
         },
         {
             "id": "uhrt",
@@ -160,22 +160,22 @@
         {
             "id": "uinp",
             "type": 2,
-            "value": "6"
+            "value": 6
         },
         {
             "id": "uint",
             "type": 0,
-            "value": "35"
+            "value": 35
         },
         {
             "id": "ulev",
             "type": 0,
-            "value": "7"
+            "value": 7
         },
         {
             "id": "umas",
             "type": 0,
-            "value": "522"
+            "value": 522
         },
         {
             "id": "umdl",
@@ -185,17 +185,17 @@
         {
             "id": "umpi",
             "type": 0,
-            "value": "300"
+            "value": 300
         },
         {
             "id": "umpr",
             "type": 2,
-            "value": "3"
+            "value": 3
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "350"
+            "value": 350
         },
         {
             "id": "unam",
@@ -210,12 +210,12 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "201"
+            "value": 201
         },
         {
             "id": "upri",
             "type": 0,
-            "value": "20"
+            "value": 20
         },
         {
             "id": "upro",
@@ -225,7 +225,7 @@
         {
             "id": "upru",
             "type": 0,
-            "value": "11"
+            "value": 11
         },
         {
             "id": "urq1",
@@ -240,22 +240,22 @@
         {
             "id": "urqc",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "urun",
             "type": 1,
-            "value": "200"
+            "value": 200
         },
         {
             "id": "usid",
             "type": 0,
-            "value": "1500"
+            "value": 1500
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "1500"
+            "value": 1500
         },
         {
             "id": "usnd",
@@ -270,12 +270,12 @@
         {
             "id": "ustp",
             "type": 2,
-            "value": "7"
+            "value": 7
         },
         {
             "id": "ustr",
             "type": 0,
-            "value": "35"
+            "value": 35
         },
         {
             "id": "utip",
@@ -295,7 +295,7 @@
         {
             "id": "uwal",
             "type": 1,
-            "value": "200"
+            "value": 200
         }
     ],
     "type": "Unit"

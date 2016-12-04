@@ -6,140 +6,140 @@
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 3
         },
         {
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 4
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 4
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 3
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 4
         },
         {
             "data": 4,
             "id": "Ncl4",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Ncl4",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 4,
             "id": "Ncl4",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
             "data": 4,
             "id": "Ncl4",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 4
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 2
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 3
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 4
         },
         {
@@ -181,28 +181,28 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 3
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 4
         },
         {
@@ -216,7 +216,7 @@
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -237,56 +237,56 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 2
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 3
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 4
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 4
         },
         {
@@ -300,28 +300,28 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 4
         },
         {
@@ -335,35 +335,35 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "4",
+            "value": 4,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "275",
+            "value": 275,
             "variation": 2
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 3
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 4
         },
         {
@@ -398,28 +398,28 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 3
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 4
         },
         {
@@ -447,14 +447,14 @@
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {

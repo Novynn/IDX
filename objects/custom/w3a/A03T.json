@@ -6,21 +6,21 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 1
         },
         {

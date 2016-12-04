@@ -6,7 +6,7 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 1
         },
         {
@@ -27,28 +27,28 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "1.60000002",
+            "value": 1.6,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {
@@ -62,7 +62,7 @@
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "1000",
+            "value": 1000,
             "variation": 0
         },
         {
@@ -104,14 +104,14 @@
             "data": 1,
             "id": "pxf1",
             "type": 2,
-            "value": "80",
+            "value": 80,
             "variation": 1
         },
         {
             "data": 2,
             "id": "pxf2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         }
     ],

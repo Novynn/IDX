@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Ebl1",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ebl2",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
@@ -41,14 +41,14 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {

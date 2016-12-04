@@ -6,35 +6,35 @@
             "data": 1,
             "id": "Idef",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alsk",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -62,7 +62,7 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         }
     ],

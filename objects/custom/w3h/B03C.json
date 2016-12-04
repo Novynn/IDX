@@ -10,7 +10,7 @@
         {
             "id": "fspd",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "fta0",
@@ -40,7 +40,7 @@
         {
             "id": "ftac",
             "type": 0,
-            "value": "5"
+            "value": 5
         },
         {
             "id": "ftat",

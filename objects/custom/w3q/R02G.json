@@ -34,14 +34,14 @@
             "data": 0,
             "id": "gba1",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gba2",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {
@@ -69,14 +69,14 @@
             "data": 0,
             "id": "gglb",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gglm",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
@@ -111,35 +111,35 @@
             "data": 0,
             "id": "glmb",
             "type": 0,
-            "value": "500",
+            "value": 500,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glmm",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glvl",
             "type": 0,
-            "value": "4",
+            "value": 4,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo1",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo2",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {
@@ -195,14 +195,14 @@
             "data": 0,
             "id": "gtib",
             "type": 0,
-            "value": "10",
+            "value": 10,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gtim",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {

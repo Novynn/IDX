@@ -10,7 +10,7 @@
         {
             "id": "uble",
             "type": 1,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubui",
@@ -20,17 +20,17 @@
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "ucbs",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ucol",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "udty",
@@ -40,12 +40,12 @@
         {
             "id": "ufoo",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhom",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uico",
@@ -55,12 +55,12 @@
         {
             "id": "uimz",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ulpz",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umdl",
@@ -70,32 +70,32 @@
         {
             "id": "umpi",
             "type": 0,
-            "value": "1000"
+            "value": 1000
         },
         {
             "id": "umpm",
             "type": 0,
-            "value": "1000"
+            "value": 1000
         },
         {
             "id": "umpr",
             "type": 2,
-            "value": "0.100000001"
+            "value": 0.1
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "522"
+            "value": 522
         },
         {
             "id": "umxp",
             "type": 1,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umxr",
             "type": 1,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "unam",
@@ -115,7 +115,7 @@
         {
             "id": "uprw",
             "type": 2,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "urac",
@@ -125,12 +125,12 @@
         {
             "id": "usid",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uspa",
@@ -140,7 +140,7 @@
         {
             "id": "ussc",
             "type": 1,
-            "value": "0.00999999978"
+            "value": 0.01
         },
         {
             "id": "utip",

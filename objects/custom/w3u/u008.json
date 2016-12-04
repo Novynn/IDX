@@ -10,47 +10,47 @@
         {
             "id": "uaen",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubba",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubdi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubsi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ucol",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uerd",
             "type": 1,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhom",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uhpm",
             "type": 0,
-            "value": "75"
+            "value": 75
         },
         {
             "id": "uhpr",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhrt",
@@ -70,22 +70,22 @@
         {
             "id": "umvf",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umvh",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umvr",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umvt",
@@ -95,12 +95,12 @@
         {
             "id": "umxp",
             "type": 1,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "umxr",
             "type": 1,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "unam",
@@ -120,12 +120,12 @@
         {
             "id": "usid",
             "type": 0,
-            "value": "400"
+            "value": 400
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "400"
+            "value": 400
         },
         {
             "id": "uspa",

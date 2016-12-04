@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Omi1",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Omi3",
             "type": 2,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Omi4",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
@@ -41,35 +41,35 @@
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -83,14 +83,14 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.5",
+            "value": 0.5,
             "variation": 0
         },
         {
@@ -104,14 +104,14 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "200",
+            "value": 200,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "500",
+            "value": 500,
             "variation": 0
         },
         {
@@ -125,7 +125,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {

@@ -20,21 +20,21 @@
             "data": 1,
             "id": "irl1",
             "type": 2,
-            "value": "3000",
+            "value": 3000,
             "variation": 1
         },
         {
             "data": 2,
             "id": "irl2",
             "type": 2,
-            "value": "1500",
+            "value": 1500,
             "variation": 1
         },
         {
             "data": 3,
             "id": "irl3",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         }
     ],

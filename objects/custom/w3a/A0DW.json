@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Nms1",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Nms1",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Nms2",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 2
         },
         {
@@ -34,7 +34,7 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -48,14 +48,14 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -69,7 +69,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "128",
+            "value": 128,
             "variation": 2
         },
         {

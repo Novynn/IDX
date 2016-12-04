@@ -6,35 +6,35 @@
             "data": 1,
             "id": "Eim1",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Eim1",
             "type": 2,
-            "value": "25",
+            "value": 25,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "150",
+            "value": 150,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "150",
+            "value": 150,
             "variation": 2
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
@@ -55,35 +55,35 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alsk",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -125,21 +125,21 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -160,7 +160,7 @@
             "data": 0,
             "id": "atac",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -216,14 +216,14 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "auby",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         }
     ],

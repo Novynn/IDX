@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Ebl1",
             "type": 2,
-            "value": "3000",
+            "value": 3000,
             "variation": 1
         },
         {
@@ -20,35 +20,35 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 1
         },
         {
@@ -62,14 +62,14 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "350",
+            "value": 350,
             "variation": 1
         },
         {
@@ -111,21 +111,21 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "12",
+            "value": 12,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

@@ -20,21 +20,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "atac",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

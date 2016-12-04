@@ -6,70 +6,70 @@
             "data": 1,
             "id": "Gho1",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2.54999995",
+            "value": 2.55,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1.70000005",
+            "value": 1.7,
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1.52999997",
+            "value": 1.53,
             "variation": 4
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2.54999995",
+            "value": 2.55,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "1.70000005",
+            "value": 1.7,
             "variation": 3
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "1.52999997",
+            "value": 1.53,
             "variation": 4
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "4",
+            "value": 4,
             "variation": 0
         },
         {

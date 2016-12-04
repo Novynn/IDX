@@ -6,77 +6,77 @@
             "data": 1,
             "id": "Spo1",
             "type": 2,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Spo1",
             "type": 2,
-            "value": "4",
+            "value": 4,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Spo2",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Spo2",
             "type": 2,
-            "value": "0.0199999996",
+            "value": 0.02,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Spo3",
             "type": 2,
-            "value": "0.0500000007",
+            "value": 0.05,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Spo3",
             "type": 2,
-            "value": "0.0199999996",
+            "value": 0.02,
             "variation": 2
         },
         {
             "data": 4,
             "id": "Spo4",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 2
         },
         {

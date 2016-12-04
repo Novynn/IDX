@@ -13,14 +13,14 @@
             "data": 0,
             "id": "dmas",
             "type": 2,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "dmis",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {

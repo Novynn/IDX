@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Eah1",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -62,14 +62,14 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "auby",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         }
     ],

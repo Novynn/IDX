@@ -10,17 +10,17 @@
         {
             "id": "bgsc",
             "type": 1,
-            "value": "100"
+            "value": 100
         },
         {
             "id": "bgse",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "bhps",
             "type": 2,
-            "value": "99999"
+            "value": 99999
         },
         {
             "id": "bnam",
@@ -35,12 +35,12 @@
         {
             "id": "bvcb",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "bvcg",
             "type": 0,
-            "value": "0"
+            "value": 0
         }
     ],
     "type": "Destructable"

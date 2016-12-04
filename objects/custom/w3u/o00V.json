@@ -25,12 +25,12 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "1.20000005"
+            "value": 1.2
         },
         {
             "id": "usnd",

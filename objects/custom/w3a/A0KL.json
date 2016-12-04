@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Rej1",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "6",
+            "value": 6,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "6",
+            "value": 6,
             "variation": 1
         },
         {
@@ -48,7 +48,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {

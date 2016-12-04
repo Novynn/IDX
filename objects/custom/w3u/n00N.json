@@ -5,17 +5,17 @@
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "ucol",
             "type": 2,
-            "value": "32"
+            "value": 32
         },
         {
             "id": "uhpm",
             "type": 0,
-            "value": "4000"
+            "value": 4000
         },
         {
             "id": "unsf",
@@ -25,17 +25,17 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "202"
+            "value": 202
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "ussc",
             "type": 1,
-            "value": "1.50000012"
+            "value": 1.5
         }
     ],
     "type": "Unit"

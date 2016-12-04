@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Neg1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Neg2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -55,14 +55,14 @@
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

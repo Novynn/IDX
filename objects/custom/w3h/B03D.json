@@ -10,7 +10,7 @@
         {
             "id": "feff",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "fnam",
@@ -25,7 +25,7 @@
         {
             "id": "fspd",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "ftat",

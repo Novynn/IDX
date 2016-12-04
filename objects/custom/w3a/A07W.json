@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Ocr1",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ocr2",
             "type": 2,
-            "value": "4",
+            "value": 4,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Ocr5",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

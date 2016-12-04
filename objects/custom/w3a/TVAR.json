@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Eev1",
             "type": 2,
-            "value": "0.0599999987",
+            "value": 0.06,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Eev1",
             "type": 2,
-            "value": "0.119999997",
+            "value": 0.12,
             "variation": 2
         },
         {
@@ -27,21 +27,21 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alsk",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -90,21 +90,21 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -146,14 +146,14 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "auby",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         }
     ],

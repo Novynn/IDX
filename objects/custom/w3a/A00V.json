@@ -6,49 +6,49 @@
             "data": 1,
             "id": "Ebl1",
             "type": 2,
-            "value": "850",
+            "value": 850,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ebl2",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "20",
+            "value": 20,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "275",
+            "value": 275,
             "variation": 1
         },
         {
@@ -69,7 +69,7 @@
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -97,7 +97,7 @@
             "data": 0,
             "id": "auby",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         }
     ],

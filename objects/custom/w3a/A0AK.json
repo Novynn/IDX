@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Blo1",
             "type": 2,
-            "value": "-0.300000012",
+            "value": -0.3,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Blo2",
             "type": 2,
-            "value": "-0.300000012",
+            "value": -0.3,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Blo3",
             "type": 2,
-            "value": "-0.540000021",
+            "value": -0.54,
             "variation": 1
         },
         {
@@ -34,14 +34,14 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -55,21 +55,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "80",
+            "value": 80,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "6",
+            "value": 6,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "6",
+            "value": 6,
             "variation": 1
         },
         {
@@ -83,7 +83,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {

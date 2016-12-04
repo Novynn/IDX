@@ -6,84 +6,84 @@
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Ncl1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 3
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Ncl2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Ncl3",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 3
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 2
         },
         {
             "data": 5,
             "id": "Ncl5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 3
         },
         {
@@ -118,7 +118,7 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "800",
+            "value": 800,
             "variation": 1
         },
         {
@@ -132,14 +132,14 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -160,42 +160,42 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 2
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
@@ -216,21 +216,21 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
@@ -244,28 +244,28 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "350",
+            "value": 350,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "275",
+            "value": 275,
             "variation": 2
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 3
         },
         {
@@ -300,14 +300,14 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "900",
+            "value": 900,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "450",
+            "value": 450,
             "variation": 2
         },
         {
@@ -335,21 +335,21 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "12",
+            "value": 12,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

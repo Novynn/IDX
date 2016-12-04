@@ -5,7 +5,7 @@
         {
             "id": "uine",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "umdl",
@@ -20,7 +20,7 @@
         {
             "id": "usca",
             "type": 1,
-            "value": "0.5"
+            "value": 0.5
         }
     ],
     "type": "Unit"

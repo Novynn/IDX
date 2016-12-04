@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Nms1",
             "type": 2,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Nms2",
             "type": 2,
-            "value": "0.899999976",
+            "value": 0.9,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -34,7 +34,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {

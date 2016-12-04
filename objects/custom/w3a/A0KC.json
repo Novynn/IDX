@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Rep1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Rep2",
             "type": 2,
-            "value": "1.95000005",
+            "value": 1.95,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {

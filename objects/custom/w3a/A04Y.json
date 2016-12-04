@@ -6,70 +6,70 @@
             "data": 2,
             "id": "Hbz2",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Hbz3",
             "type": 0,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Hbz4",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 6,
             "id": "Hbz6",
             "type": 2,
-            "value": "450",
+            "value": 450,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acas",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -83,14 +83,14 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {

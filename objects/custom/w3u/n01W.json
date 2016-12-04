@@ -10,12 +10,12 @@
         {
             "id": "ucol",
             "type": 2,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "uhom",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "umdl",
@@ -35,12 +35,12 @@
         {
             "id": "unbm",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "unbr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "unsf",
@@ -50,12 +50,12 @@
         {
             "id": "uocc",
             "type": 2,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "1.20000005"
+            "value": 1.2
         },
         {
             "id": "usei",

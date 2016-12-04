@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Slo1",
             "type": 2,
-            "value": "-0.25",
+            "value": -0.25,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Slo2",
             "type": 2,
-            "value": "-0.400000006",
+            "value": -0.4,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {

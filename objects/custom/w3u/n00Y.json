@@ -10,12 +10,12 @@
         {
             "id": "ucol",
             "type": 2,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "uhom",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "umdl",
@@ -60,7 +60,7 @@
         {
             "id": "ussc",
             "type": 1,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uubs",

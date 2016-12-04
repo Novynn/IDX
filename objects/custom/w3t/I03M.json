@@ -25,32 +25,32 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ihtp",
             "type": 0,
-            "value": "500000"
+            "value": 500000
         },
         {
             "id": "iprn",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "isst",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "isto",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhot",

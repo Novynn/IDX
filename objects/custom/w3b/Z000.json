@@ -10,27 +10,27 @@
         {
             "id": "bhps",
             "type": 2,
-            "value": "99999"
+            "value": 99999
         },
         {
             "id": "bmap",
             "type": 2,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "bmar",
             "type": 2,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "bmmb",
             "type": 0,
-            "value": "150"
+            "value": 150
         },
         {
             "id": "bmmg",
             "type": 0,
-            "value": "100"
+            "value": 100
         },
         {
             "id": "bnam",
@@ -40,7 +40,7 @@
         {
             "id": "bonc",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "bptx",
@@ -55,12 +55,12 @@
         {
             "id": "bumm",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "bvar",
             "type": 0,
-            "value": "2"
+            "value": 2
         }
     ],
     "type": "Destructable"

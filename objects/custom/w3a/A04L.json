@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Roa1",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "700",
+            "value": 700,
             "variation": 1
         },
         {
@@ -27,14 +27,14 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -48,21 +48,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 1
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {
@@ -125,7 +125,7 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         }
     ],

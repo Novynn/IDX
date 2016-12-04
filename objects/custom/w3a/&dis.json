@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Ctb1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -20,7 +20,7 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "205",
+            "value": 205,
             "variation": 1
         },
         {
@@ -41,28 +41,28 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -76,14 +76,14 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -104,14 +104,14 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "6",
+            "value": 6,
             "variation": 0
         },
         {

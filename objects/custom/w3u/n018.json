@@ -10,57 +10,57 @@
         {
             "id": "ubba",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "ucol",
             "type": 2,
-            "value": "32"
+            "value": 32
         },
         {
             "id": "uhpm",
             "type": 0,
-            "value": "2700"
+            "value": 2700
         },
         {
             "id": "umpi",
             "type": 0,
-            "value": "300"
+            "value": 300
         },
         {
             "id": "umpm",
             "type": 0,
-            "value": "300"
+            "value": 300
         },
         {
             "id": "umpr",
             "type": 2,
-            "value": "3"
+            "value": 3
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "390"
+            "value": 390
         },
         {
             "id": "upoi",
             "type": 0,
-            "value": "200"
+            "value": 200
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "ussc",
             "type": 1,
-            "value": "1.50000012"
+            "value": 1.5
         }
     ],
     "type": "Unit"

@@ -13,7 +13,7 @@
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {
@@ -27,7 +27,7 @@
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "900",
+            "value": 900,
             "variation": 0
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "atac",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

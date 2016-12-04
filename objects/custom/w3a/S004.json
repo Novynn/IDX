@@ -6,14 +6,14 @@
             "data": 2,
             "id": "Oae2",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {

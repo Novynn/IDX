@@ -6,21 +6,21 @@
             "data": 2,
             "id": "War2",
             "type": 2,
-            "value": "200",
+            "value": 200,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -34,7 +34,7 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.5",
+            "value": 0.5,
             "variation": 1
         },
         {
@@ -48,7 +48,7 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.5",
+            "value": 0.5,
             "variation": 1
         },
         {
@@ -90,7 +90,7 @@
             "data": 0,
             "id": "atac",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

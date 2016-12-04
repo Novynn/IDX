@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Oar1",
             "type": 2,
-            "value": "12",
+            "value": 12,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Oar2",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "1500",
+            "value": 1500,
             "variation": 1
         },
         {

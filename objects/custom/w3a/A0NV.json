@@ -13,7 +13,7 @@
             "data": 2,
             "id": "Eme2",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
@@ -41,14 +41,14 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acac",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "45",
+            "value": 45,
             "variation": 1
         },
         {
@@ -132,14 +132,14 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 5,
             "id": "ave5",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         }
     ],

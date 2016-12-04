@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Arm1",
             "type": 2,
-            "value": "4",
+            "value": 4,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Arm2",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 1
         },
         {

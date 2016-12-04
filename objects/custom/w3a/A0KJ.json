@@ -6,42 +6,42 @@
             "data": 1,
             "id": "Blo1",
             "type": 2,
-            "value": "0.5",
+            "value": 0.5,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Blo2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Blo3",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "125",
+            "value": 125,
             "variation": 1
         },
         {

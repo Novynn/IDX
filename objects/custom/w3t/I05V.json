@@ -25,7 +25,7 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ifil",
@@ -35,12 +35,12 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ihtp",
             "type": 0,
-            "value": "50000"
+            "value": 50000
         },
         {
             "id": "iico",
@@ -50,42 +50,42 @@
         {
             "id": "ilev",
             "type": 0,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "ilvo",
             "type": 0,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "ipaw",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ipow",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iusa",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iuse",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubpx",
             "type": 0,
-            "value": "3"
+            "value": 3
         },
         {
             "id": "unam",

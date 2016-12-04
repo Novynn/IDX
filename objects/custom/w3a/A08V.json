@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Dda1",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Dda2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Dda3",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Dda4",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {

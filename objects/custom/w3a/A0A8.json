@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Efk1",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Efk2",
             "type": 2,
-            "value": "3000",
+            "value": 3000,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Efk3",
             "type": 0,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 1
         },
         {
@@ -41,7 +41,7 @@
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "1800",
+            "value": 1800,
             "variation": 0
         },
         {

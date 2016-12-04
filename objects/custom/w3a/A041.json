@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Rep1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Rep2",
             "type": 2,
-            "value": "0.100000001",
+            "value": 0.1,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Rep5",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
@@ -41,28 +41,28 @@
             "data": 0,
             "id": "acas",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "1.39999998",
+            "value": 1.4,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {

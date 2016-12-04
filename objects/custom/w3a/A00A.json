@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Poi1",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Poi2",
             "type": 2,
-            "value": "0.349999994",
+            "value": 0.35,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Poi3",
             "type": 2,
-            "value": "0.300000012",
+            "value": 0.3,
             "variation": 1
         },
         {
@@ -41,14 +41,14 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {

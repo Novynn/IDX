@@ -34,28 +34,28 @@
             "data": 2,
             "id": "Eme2",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Eme2",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Eme3",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Eme4",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -90,7 +90,7 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -104,35 +104,35 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "acas",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -146,14 +146,14 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "25",
+            "value": 25,
             "variation": 2
         },
         {
@@ -209,7 +209,7 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {

@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Udp1",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "400",
+            "value": 400,
             "variation": 1
         },
         {

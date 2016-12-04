@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Roo1",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Roo3",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
@@ -27,21 +27,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {

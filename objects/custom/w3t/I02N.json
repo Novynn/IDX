@@ -30,17 +30,17 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ihtp",
             "type": 0,
-            "value": "500000"
+            "value": 500000
         },
         {
             "id": "iicd",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "iico",
@@ -50,42 +50,42 @@
         {
             "id": "ipaw",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ipri",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iprn",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "isca",
             "type": 1,
-            "value": "0.5"
+            "value": 0.5
         },
         {
             "id": "isel",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "isto",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iusa",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "unam",

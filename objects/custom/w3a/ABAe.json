@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Idef",
             "type": 0,
-            "value": "16",
+            "value": 16,
             "variation": 1
         },
         {
@@ -20,7 +20,7 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {

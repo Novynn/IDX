@@ -13,7 +13,7 @@
             "data": 1,
             "id": "Hwe2",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
@@ -34,21 +34,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "200",
+            "value": 200,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 1
         },
         {

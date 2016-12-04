@@ -13,28 +13,28 @@
             "data": 0,
             "id": "gba1",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gbpx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gbpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gglb",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -48,14 +48,14 @@
             "data": 0,
             "id": "glmb",
             "type": 0,
-            "value": "2000",
+            "value": 2000,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo1",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 0
         },
         {

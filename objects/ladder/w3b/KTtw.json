@@ -5,7 +5,7 @@
         {
             "id": "bhps",
             "type": 2,
-            "value": "99999"
+            "value": 99999
         }
     ],
     "type": "Destructable"

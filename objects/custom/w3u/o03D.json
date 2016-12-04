@@ -5,12 +5,12 @@
         {
             "id": "ua1b",
             "type": 0,
-            "value": "29"
+            "value": 29
         },
         {
             "id": "ua1s",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uabi",
@@ -20,17 +20,17 @@
         {
             "id": "ubba",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubdi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubsi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uico",
@@ -60,17 +60,17 @@
         {
             "id": "usca",
             "type": 1,
-            "value": "1.39999998"
+            "value": 1.4
         },
         {
             "id": "usid",
             "type": 0,
-            "value": "600"
+            "value": 600
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "600"
+            "value": 600
         }
     ],
     "type": "Unit"

@@ -6,7 +6,7 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "8000",
+            "value": 8000,
             "variation": 1
         },
         {
@@ -27,21 +27,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "16",
+            "value": 16,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "16",
+            "value": 16,
             "variation": 1
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {

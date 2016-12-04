@@ -6,42 +6,42 @@
             "data": 1,
             "id": "Idam",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Iob5",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 0
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "1800",
+            "value": 1800,
             "variation": 0
         },
         {

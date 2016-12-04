@@ -5,7 +5,7 @@
         {
             "id": "bcpr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "bdsn",
@@ -20,7 +20,7 @@
         {
             "id": "bfvi",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "bgpm",
@@ -30,17 +30,17 @@
         {
             "id": "bhps",
             "type": 2,
-            "value": "1e+09"
+            "value": 1e+09
         },
         {
             "id": "bmas",
             "type": 2,
-            "value": "1.5"
+            "value": 1.5
         },
         {
             "id": "bmis",
             "type": 2,
-            "value": "1.5"
+            "value": 1.5
         },
         {
             "id": "bnam",
@@ -55,7 +55,7 @@
         {
             "id": "bsmm",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "btar",
@@ -65,12 +65,12 @@
         {
             "id": "buch",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "bvar",
             "type": 0,
-            "value": "1"
+            "value": 1
         }
     ],
     "type": "Destructable"

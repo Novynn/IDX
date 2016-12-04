@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Ilif",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Ilif",
             "type": 0,
-            "value": "8",
+            "value": 8,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Ilif",
             "type": 0,
-            "value": "16",
+            "value": 16,
             "variation": 3
         },
         {
             "data": 1,
             "id": "Ilif",
             "type": 0,
-            "value": "32",
+            "value": 32,
             "variation": 4
         },
         {
@@ -41,14 +41,14 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "4",
+            "value": 4,
             "variation": 0
         },
         {

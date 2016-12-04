@@ -20,17 +20,17 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "30"
+            "value": 30
         },
         {
             "id": "ihtp",
             "type": 0,
-            "value": "500000"
+            "value": 500000
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "uhot",

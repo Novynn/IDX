@@ -20,7 +20,7 @@
         {
             "id": "igol",
             "type": 0,
-            "value": "20"
+            "value": 20
         },
         {
             "id": "iico",
@@ -30,12 +30,12 @@
         {
             "id": "isca",
             "type": 1,
-            "value": "0.00999999978"
+            "value": 0.01
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "unam",

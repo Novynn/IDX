@@ -15,42 +15,42 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "igol",
             "type": 0,
-            "value": "5"
+            "value": 5
         },
         {
             "id": "ilev",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ilvo",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iuse",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubpx",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubpy",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uhot",

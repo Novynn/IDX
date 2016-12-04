@@ -10,27 +10,27 @@
         {
             "id": "ubba",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "ucol",
             "type": 2,
-            "value": "22"
+            "value": 22
         },
         {
             "id": "uhpm",
             "type": 0,
-            "value": "1800"
+            "value": 1800
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "300"
+            "value": 300
         },
         {
             "id": "unam",
@@ -40,17 +40,17 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "200"
+            "value": 200
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "1.5"
+            "value": 1.5
         },
         {
             "id": "ussc",
             "type": 1,
-            "value": "1.50000012"
+            "value": 1.5
         }
     ],
     "type": "Unit"

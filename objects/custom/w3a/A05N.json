@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Wha1",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Wha2",
             "type": 0,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "13.5",
+            "value": 13.5,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "13.5",
+            "value": 13.5,
             "variation": 1
         },
         {

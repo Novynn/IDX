@@ -13,14 +13,14 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -34,7 +34,7 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
@@ -48,7 +48,7 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 1
         },
         {
@@ -132,14 +132,14 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "auby",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         }
     ],

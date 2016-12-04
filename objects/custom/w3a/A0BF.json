@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Icfd",
             "type": 0,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "350",
+            "value": 350,
             "variation": 1
         },
         {
@@ -34,7 +34,7 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {

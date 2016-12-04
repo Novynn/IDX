@@ -6,49 +6,49 @@
             "data": 2,
             "id": "Owk2",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Owk2",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Owk2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 3
         },
         {
             "data": 3,
             "id": "Owk3",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Owk3",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Owk3",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 3
         },
         {
             "data": 4,
             "id": "Owk4",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -62,7 +62,7 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -76,35 +76,35 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 1
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "135",
+            "value": 135,
             "variation": 2
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 3
         },
         {
@@ -146,14 +146,14 @@
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "arpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -223,14 +223,14 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "auby",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         }
     ],

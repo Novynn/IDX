@@ -10,12 +10,12 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "igol",
             "type": 0,
-            "value": "45"
+            "value": 45
         },
         {
             "id": "iico",
@@ -25,12 +25,12 @@
         {
             "id": "ilum",
             "type": 0,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "60"
+            "value": 60
         },
         {
             "id": "unam",

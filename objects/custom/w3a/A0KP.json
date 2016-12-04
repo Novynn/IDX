@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Iagi",
             "type": 0,
-            "value": "8",
+            "value": 8,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Iint",
             "type": 0,
-            "value": "8",
+            "value": 8,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Istr",
             "type": 0,
-            "value": "8",
+            "value": 8,
             "variation": 1
         },
         {

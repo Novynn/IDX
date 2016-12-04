@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Har1",
             "type": 0,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Har2",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {

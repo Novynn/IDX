@@ -6,63 +6,63 @@
             "data": 1,
             "id": "Hfs1",
             "type": 2,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Hfs2",
             "type": 2,
-            "value": "0.330000013",
+            "value": 0.33,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Hfs3",
             "type": 2,
-            "value": "25",
+            "value": 25,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Hfs4",
             "type": 2,
-            "value": "0.330000013",
+            "value": 0.33,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "250",
+            "value": 250,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5.01000023",
+            "value": 5.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 0
         },
         {
@@ -76,14 +76,14 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "1800",
+            "value": 1800,
             "variation": 0
         },
         {
@@ -97,7 +97,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "1200",
+            "value": 1200,
             "variation": 1
         },
         {

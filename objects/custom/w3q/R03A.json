@@ -41,21 +41,21 @@
             "data": 0,
             "id": "gbpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gglb",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gglm",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -97,28 +97,28 @@
             "data": 0,
             "id": "ginh",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glmb",
             "type": 0,
-            "value": "250",
+            "value": 250,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glmm",
             "type": 0,
-            "value": "150",
+            "value": 150,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glvl",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
@@ -181,14 +181,14 @@
             "data": 0,
             "id": "gtib",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gtim",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {

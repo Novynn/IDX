@@ -6,21 +6,21 @@
             "data": 0,
             "id": "dvb1",
             "type": 0,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 0,
             "id": "dvg1",
             "type": 0,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 0,
             "id": "dwlk",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         }
     ],

@@ -15,12 +15,12 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "igol",
             "type": 0,
-            "value": "4"
+            "value": 4
         },
         {
             "id": "iico",
@@ -30,22 +30,22 @@
         {
             "id": "ilev",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "isto",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubpx",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uhot",

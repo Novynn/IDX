@@ -6,35 +6,35 @@
             "data": 1,
             "id": "Hav1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Hav2",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Hav2",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Hav3",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Hav3",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 2
         },
         {
@@ -48,7 +48,7 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -69,49 +69,49 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "240",
+            "value": 240,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "240",
+            "value": 240,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "80",
+            "value": 80,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 2
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "80",
+            "value": 80,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "120",
+            "value": 120,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -125,21 +125,21 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "100",
+            "value": 100,
             "variation": 2
         },
         {
@@ -195,7 +195,7 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {

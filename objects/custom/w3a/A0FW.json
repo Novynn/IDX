@@ -6,42 +6,42 @@
             "data": 1,
             "id": "Nab1",
             "type": 2,
-            "value": "-0.899999976",
+            "value": -0.9,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Nab2",
             "type": 2,
-            "value": "-0.449999988",
+            "value": -0.45,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Nab3",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Nab4",
             "type": 2,
-            "value": "200",
+            "value": 200,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Nab5",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 6,
             "id": "Nab6",
             "type": 2,
-            "value": "1.50999999",
+            "value": 1.51,
             "variation": 1
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "600",
+            "value": 600,
             "variation": 1
         },
         {
@@ -69,14 +69,14 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -90,35 +90,35 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1.5",
+            "value": 1.5,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "1.5",
+            "value": 1.5,
             "variation": 1
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 0
         },
         {
@@ -132,14 +132,14 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "80",
+            "value": 80,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "10000",
+            "value": 10000,
             "variation": 0
         },
         {

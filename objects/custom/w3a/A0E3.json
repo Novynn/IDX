@@ -6,28 +6,28 @@
             "data": 1,
             "id": "Idam",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Iob2",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Iob3",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
             "data": 4,
             "id": "Iob4",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
@@ -41,7 +41,7 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {

@@ -6,77 +6,77 @@
             "data": 1,
             "id": "Ocl1",
             "type": 2,
-            "value": "85",
+            "value": 85,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Ocl1",
             "type": 2,
-            "value": "115",
+            "value": 115,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Ocl2",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Ocl2",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 2
         },
         {
             "data": 3,
             "id": "Ocl3",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "500",
+            "value": 500,
             "variation": 2
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "40",
+            "value": 40,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "40",
+            "value": 40,
             "variation": 2
         },
         {
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 2
         },
         {
@@ -90,7 +90,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "700",
+            "value": 700,
             "variation": 2
         },
         {

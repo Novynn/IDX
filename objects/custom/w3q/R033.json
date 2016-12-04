@@ -48,21 +48,21 @@
             "data": 0,
             "id": "gba1",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gba2",
             "type": 2,
-            "value": "35",
+            "value": 35,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gbpy",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -97,7 +97,7 @@
             "data": 0,
             "id": "gglb",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -146,42 +146,42 @@
             "data": 0,
             "id": "glmb",
             "type": 0,
-            "value": "400",
+            "value": 400,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glmm",
             "type": 0,
-            "value": "50",
+            "value": 50,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glvl",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo1",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo2",
             "type": 2,
-            "value": "35",
+            "value": 35,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo3",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -244,7 +244,7 @@
             "data": 0,
             "id": "gtib",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 0
         },
         {

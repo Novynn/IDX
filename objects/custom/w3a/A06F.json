@@ -6,35 +6,35 @@
             "data": 1,
             "id": "Ocl1",
             "type": 2,
-            "value": "200",
+            "value": 200,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Ocl3",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -48,14 +48,14 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 1
         },
         {

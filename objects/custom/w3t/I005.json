@@ -25,27 +25,27 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "igol",
             "type": 0,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "ilev",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iper",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "iuse",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "uhot",

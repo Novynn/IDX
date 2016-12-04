@@ -10,7 +10,7 @@
         {
             "id": "uhhb",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "unsf",
@@ -20,7 +20,7 @@
         {
             "id": "ustr",
             "type": 0,
-            "value": "1"
+            "value": 1
         }
     ],
     "type": "Unit"

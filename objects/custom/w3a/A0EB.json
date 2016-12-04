@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Uts1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Uts2",
             "type": 2,
-            "value": "0.00999999978",
+            "value": 0.01,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Uts3",
             "type": 2,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {

@@ -6,7 +6,7 @@
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {
@@ -27,21 +27,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "90",
+            "value": 90,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "30",
+            "value": 30,
             "variation": 1
         },
         {

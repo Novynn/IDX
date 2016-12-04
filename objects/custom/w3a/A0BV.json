@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Cac1",
             "type": 2,
-            "value": "0.25",
+            "value": 0.25,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {

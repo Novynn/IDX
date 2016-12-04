@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Spo1",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Spo2",
             "type": 2,
-            "value": "0.100000001",
+            "value": 0.1,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Spo3",
             "type": 2,
-            "value": "0.100000001",
+            "value": 0.1,
             "variation": 1
         },
         {
@@ -34,14 +34,14 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1.00999999",
+            "value": 1.01,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "1.00999999",
+            "value": 1.01,
             "variation": 1
         },
         {

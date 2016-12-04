@@ -13,7 +13,7 @@
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.150000006",
+            "value": 0.15,
             "variation": 0
         },
         {
@@ -27,7 +27,7 @@
             "data": 0,
             "id": "amsp",
             "type": 0,
-            "value": "1800",
+            "value": 1800,
             "variation": 0
         },
         {
@@ -62,21 +62,21 @@
             "data": 1,
             "id": "fbk1",
             "type": 2,
-            "value": "6",
+            "value": 6,
             "variation": 1
         },
         {
             "data": 3,
             "id": "fbk3",
             "type": 2,
-            "value": "6",
+            "value": 6,
             "variation": 1
         },
         {
             "data": 5,
             "id": "fbk5",
             "type": 2,
-            "value": "10",
+            "value": 10,
             "variation": 1
         }
     ],

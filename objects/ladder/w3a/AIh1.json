@@ -6,14 +6,14 @@
             "data": 1,
             "id": "Ihpg",
             "type": 0,
-            "value": "125",
+            "value": 125,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "80",
+            "value": 80,
             "variation": 1
         }
     ],

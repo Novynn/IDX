@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Fae1",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
@@ -27,14 +27,14 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "7.5",
+            "value": 7.5,
             "variation": 1
         },
         {
@@ -48,7 +48,7 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "7.5",
+            "value": 7.5,
             "variation": 1
         },
         {
@@ -62,7 +62,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -83,7 +83,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "1000",
+            "value": 1000,
             "variation": 1
         },
         {

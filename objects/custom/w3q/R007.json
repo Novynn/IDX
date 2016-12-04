@@ -13,35 +13,35 @@
             "data": 0,
             "id": "gba1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gba2",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gba3",
             "type": 2,
-            "value": "200",
+            "value": 200,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gba4",
             "type": 2,
-            "value": "20",
+            "value": 20,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gbpy",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -76,7 +76,7 @@
             "data": 0,
             "id": "gglb",
             "type": 0,
-            "value": "45",
+            "value": 45,
             "variation": 0
         },
         {
@@ -90,49 +90,49 @@
             "data": 0,
             "id": "glmb",
             "type": 0,
-            "value": "2000",
+            "value": 2000,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glmm",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "glvl",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo1",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo2",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo3",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
             "data": 0,
             "id": "gmo4",
             "type": 2,
-            "value": "20",
+            "value": 20,
             "variation": 0
         },
         {

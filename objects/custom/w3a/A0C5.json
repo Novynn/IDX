@@ -6,21 +6,21 @@
             "data": 1,
             "id": "Uau1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Uau2",
             "type": 2,
-            "value": "2",
+            "value": 2,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "99999",
+            "value": 99999,
             "variation": 1
         },
         {

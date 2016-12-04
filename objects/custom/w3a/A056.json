@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Det1",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -34,7 +34,7 @@
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
@@ -55,7 +55,7 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {

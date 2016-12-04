@@ -6,35 +6,35 @@
             "data": 1,
             "id": "Hfs1",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Hfs2",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Hfs3",
             "type": 2,
-            "value": "50",
+            "value": 50,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Hfs5",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "300",
+            "value": 300,
             "variation": 1
         },
         {
@@ -55,14 +55,14 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {
@@ -76,14 +76,14 @@
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "5",
+            "value": 5,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amac",
             "type": 2,
-            "value": "0.200000003",
+            "value": 0.2,
             "variation": 0
         },
         {
@@ -97,7 +97,7 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
@@ -111,7 +111,7 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "2000",
+            "value": 2000,
             "variation": 1
         },
         {

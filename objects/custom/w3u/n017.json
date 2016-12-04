@@ -10,57 +10,57 @@
         {
             "id": "uaen",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "ubba",
             "type": 0,
-            "value": "5"
+            "value": 5
         },
         {
             "id": "ucar",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "uclb",
             "type": 0,
-            "value": "100"
+            "value": 100
         },
         {
             "id": "uclg",
             "type": 0,
-            "value": "255"
+            "value": 255
         },
         {
             "id": "uclr",
             "type": 0,
-            "value": "255"
+            "value": 255
         },
         {
             "id": "uhpm",
             "type": 0,
-            "value": "400"
+            "value": 400
         },
         {
             "id": "umpi",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "umpm",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "umpr",
             "type": 2,
-            "value": "0.100000001"
+            "value": 0.1
         },
         {
             "id": "umvs",
             "type": 0,
-            "value": "520"
+            "value": 520
         },
         {
             "id": "unam",
@@ -75,7 +75,7 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "15"
+            "value": 15
         },
         {
             "id": "urac",
@@ -85,32 +85,32 @@
         {
             "id": "urun",
             "type": 1,
-            "value": "175"
+            "value": 175
         },
         {
             "id": "usca",
             "type": 1,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "usid",
             "type": 0,
-            "value": "900"
+            "value": 900
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "360"
+            "value": 360
         },
         {
             "id": "uspe",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "utco",
             "type": 0,
-            "value": "12"
+            "value": 12
         },
         {
             "id": "utip",
@@ -125,7 +125,7 @@
         {
             "id": "uwal",
             "type": 1,
-            "value": "175"
+            "value": 175
         }
     ],
     "type": "Unit"

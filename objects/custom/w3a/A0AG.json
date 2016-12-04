@@ -20,14 +20,14 @@
             "data": 2,
             "id": "Osf2",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Osf2",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 2
         },
         {
@@ -41,14 +41,14 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -69,21 +69,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 1
         },
         {
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "180",
+            "value": 180,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -97,7 +97,7 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -118,14 +118,14 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "200",
+            "value": 200,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "200",
+            "value": 200,
             "variation": 2
         },
         {
@@ -160,7 +160,7 @@
             "data": 0,
             "id": "arlv",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {

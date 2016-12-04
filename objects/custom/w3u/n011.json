@@ -15,7 +15,7 @@
         {
             "id": "ubdg",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "udty",
@@ -25,7 +25,7 @@
         {
             "id": "uhpr",
             "type": 2,
-            "value": "15"
+            "value": 15
         },
         {
             "id": "uico",
@@ -50,27 +50,27 @@
         {
             "id": "upoi",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "urun",
             "type": 1,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "usid",
             "type": 0,
-            "value": "700"
+            "value": 700
         },
         {
             "id": "usin",
             "type": 0,
-            "value": "700"
+            "value": 700
         },
         {
             "id": "uwal",
             "type": 1,
-            "value": "0"
+            "value": 0
         }
     ],
     "type": "Unit"

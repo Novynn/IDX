@@ -6,7 +6,7 @@
             "data": 1,
             "id": "Idef",
             "type": 0,
-            "value": "20",
+            "value": 20,
             "variation": 1
         },
         {
@@ -20,7 +20,7 @@
             "data": 0,
             "id": "abpy",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 0
         },
         {
@@ -34,21 +34,21 @@
             "data": 0,
             "id": "acdn",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
             "data": 0,
             "id": "ahdu",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
@@ -62,7 +62,7 @@
             "data": 0,
             "id": "aite",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {

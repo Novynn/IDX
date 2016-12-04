@@ -6,49 +6,49 @@
             "data": 1,
             "id": "Def1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 3,
             "id": "Def3",
             "type": 2,
-            "value": "-0.300000012",
+            "value": -0.3,
             "variation": 1
         },
         {
             "data": 5,
             "id": "Def5",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 6,
             "id": "Def6",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 8,
             "id": "Def8",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
             "data": 0,
             "id": "achd",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -83,7 +83,7 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {

@@ -6,35 +6,35 @@
             "data": 1,
             "id": "Nba1",
             "type": 2,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Nba1",
             "type": 2,
-            "value": "15",
+            "value": 15,
             "variation": 3
         },
         {
             "data": 2,
             "id": "Nba2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Nba2",
             "type": 0,
-            "value": "2",
+            "value": 2,
             "variation": 3
         },
         {
             "data": 3,
             "id": "Nba3",
             "type": 2,
-            "value": "60",
+            "value": 60,
             "variation": 1
         },
         {
@@ -69,7 +69,7 @@
             "data": 0,
             "id": "abpx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {
@@ -83,7 +83,7 @@
             "data": 0,
             "id": "aher",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -97,7 +97,7 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "1",
+            "value": 1,
             "variation": 0
         },
         {
@@ -111,14 +111,14 @@
             "data": 0,
             "id": "amcs",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "amho",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -146,21 +146,21 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "100",
+            "value": 100,
             "variation": 3
         },
         {
@@ -188,7 +188,7 @@
             "data": 0,
             "id": "arpx",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 0
         },
         {
@@ -258,7 +258,7 @@
             "data": 0,
             "id": "aubx",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 0
         },
         {

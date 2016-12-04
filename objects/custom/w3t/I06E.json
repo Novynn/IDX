@@ -20,17 +20,17 @@
         {
             "id": "idrp",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "igol",
             "type": 0,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "ihtp",
             "type": 0,
-            "value": "500000"
+            "value": 500000
         },
         {
             "id": "iico",
@@ -40,42 +40,42 @@
         {
             "id": "ilev",
             "type": 0,
-            "value": "10"
+            "value": 10
         },
         {
             "id": "iper",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ipow",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "istr",
             "type": 0,
-            "value": "0"
+            "value": 0
         },
         {
             "id": "iusa",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "iuse",
             "type": 0,
-            "value": "1"
+            "value": 1
         },
         {
             "id": "ubpx",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "ubpy",
             "type": 0,
-            "value": "2"
+            "value": 2
         },
         {
             "id": "uhot",

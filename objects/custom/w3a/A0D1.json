@@ -6,140 +6,140 @@
             "data": 1,
             "id": "Har1",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 1
         },
         {
             "data": 1,
             "id": "Har1",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 2
         },
         {
             "data": 1,
             "id": "Har1",
             "type": 0,
-            "value": "3",
+            "value": 3,
             "variation": 3
         },
         {
             "data": 1,
             "id": "Har1",
             "type": 0,
-            "value": "6",
+            "value": 6,
             "variation": 4
         },
         {
             "data": 1,
             "id": "Har1",
             "type": 0,
-            "value": "6",
+            "value": 6,
             "variation": 5
         },
         {
             "data": 2,
             "id": "Har2",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 1
         },
         {
             "data": 2,
             "id": "Har2",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 2
         },
         {
             "data": 2,
             "id": "Har2",
             "type": 0,
-            "value": "15",
+            "value": 15,
             "variation": 3
         },
         {
             "data": 2,
             "id": "Har2",
             "type": 0,
-            "value": "18",
+            "value": 18,
             "variation": 4
         },
         {
             "data": 2,
             "id": "Har2",
             "type": 0,
-            "value": "18",
+            "value": 18,
             "variation": 5
         },
         {
             "data": 3,
             "id": "Har3",
             "type": 0,
-            "value": "0",
+            "value": 0,
             "variation": 1
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "900",
+            "value": 900,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "900",
+            "value": 900,
             "variation": 3
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "900",
+            "value": 900,
             "variation": 4
         },
         {
             "data": 0,
             "id": "aare",
             "type": 2,
-            "value": "900",
+            "value": 900,
             "variation": 5
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1.20000005",
+            "value": 1.2,
             "variation": 1
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1.10000002",
+            "value": 1.1,
             "variation": 2
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "1",
+            "value": 1,
             "variation": 3
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.899999976",
+            "value": 0.9,
             "variation": 4
         },
         {
             "data": 0,
             "id": "adur",
             "type": 2,
-            "value": "0.800000012",
+            "value": 0.8,
             "variation": 5
         },
         {
@@ -153,7 +153,7 @@
             "data": 0,
             "id": "alev",
             "type": 0,
-            "value": "5",
+            "value": 5,
             "variation": 0
         },
         {
@@ -167,28 +167,28 @@
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "116",
+            "value": 116,
             "variation": 2
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "116",
+            "value": 116,
             "variation": 3
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "116",
+            "value": 116,
             "variation": 4
         },
         {
             "data": 0,
             "id": "aran",
             "type": 2,
-            "value": "116",
+            "value": 116,
             "variation": 5
         },
         {
